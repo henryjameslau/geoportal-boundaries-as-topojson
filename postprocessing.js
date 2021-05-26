@@ -13,15 +13,17 @@ const json = await readJSON(filename)
 
 // get a list of areas
 const areas = json.services
+console.log(areas[0])
 
 //just pick the first area
 const firstarea=areas[0].url+"/0/query?where=1%3D1&outFields=*&outSR=4326&f=json"
+console.log(firstarea)
 
 //get the first area as geojson
 const firstGeojson = await readJSON(firstarea)
-
+console.log(firstGeojson)
 //convert it to topojson
-const firstTopo = topojson.topology(firstGeojson)
+// const firstTopo = topojson.topology(firstGeojson)
 
 //write file
-await writeJSON('firstTopo.json',firstTopo)
+// await writeJSON('firstTopo.json',firstTopo)
