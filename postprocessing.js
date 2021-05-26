@@ -4,7 +4,7 @@
 // Has helper functions for manipulating csv, txt, json, excel, zip, and image files
 import { readJSON,writeJSON } from 'https://deno.land/x/flat@0.0.10/mod.ts'
 // import mapshaper from 'https://cdn.skypack.dev/mapshaper';
-import {topojson} from 'https://cdn.skypack.dev/topojson';
+import {topojson} from 'https://cdn.skypack.dev/topojson?dts';
 
 
 // Step 1: Read the downloaded_filename JSON
