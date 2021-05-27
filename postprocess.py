@@ -15,7 +15,5 @@ if __name__ == "__main__":
     # loop through areas
     for i in areas['services'][0:1]:
         geojson=gpd.read_file(i['url']+"/0/query?where=1%3D1&outFields=*&outSR=4326&f=json")
-        tp.Topology(geojson).to_json('topojson.json')
-
-    # close file
-    file.close()
+        topo=tp.Topology(geojson)
+        topo.to_json('topojson.json')
