@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np
 import geopandas as gpd
 import json
+import requests
 
 # Simple script to show the parameters sent to the script, and generate a dummy file
 
@@ -14,10 +15,11 @@ if __name__ == "__main__":
     areas=json.load(file)
 
 
-    print(areas)
+    # print(areas)
     # loop through areas
-    for i in areas['services']:
-        print(i)
-
+    for i in areas['services'][0:5]:
+        print(i.url)
+        geojson=requests.get(i.url+"/FeatureServer/0/query?where=1%3D1&outFields=*&outSR=4326&f=json")
+        print(geojson)
     # close file
     file.close()
