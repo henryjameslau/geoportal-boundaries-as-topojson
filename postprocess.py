@@ -16,7 +16,7 @@ if __name__ == "__main__":
 
     print(areas)
     # loop through areas
-    for i in areas['services']
+    for i in areas['services']:
         print(i)
 
     # close file
