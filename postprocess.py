@@ -20,6 +20,6 @@ if __name__ == "__main__":
     for i in areas['services'][0:5]:
         print(i)
         geojson=requests.get(i['url']+"/0/query?where=1%3D1&outFields=*&outSR=4326&f=json")
-        print(geojson)
+        print(geojson.text)
     # close file
     file.close()
