@@ -13,6 +13,8 @@ if __name__ == "__main__":
     file = open(sys.argv[1])
     areas=json.load(file)
 
+
+    print(areas)
     # loop through areas
     for i in areas['services']
         print(i)
