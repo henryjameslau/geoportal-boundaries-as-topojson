@@ -8,14 +8,28 @@ import json
 if __name__ == "__main__":
 
     print("argv :", sys.argv)
-    # open file
+    # open list of boundaries from the geoportal
     file = open(sys.argv[1])
     areas=json.load(file)
 
+    # find only areas with BUC, BGC, BFE
+
     # loop through areas
     for i in areas['services'][0:1]:
+
+        # name of boundary
+        name=i['name']
+
+        # read the file as a geojson
         geojson=gpd.read_file(i['url']+"/0/query?where=1%3D1&outFields=*&outSR=4326&f=json")
-        tp.Topology(geojson).to_json('topojson.json')
+
+        # drop unnecessary fields
+        # geojson=geojson.drop(columns=[''])
+        # change projection
+        # geojson = geojson.to_crs('EPSG:4326')
+
+        # convert to topojson and save
+        tp.Topology(geojson).to_json('outputs/'+name+'.json')
 
     # close file
     file.close()
