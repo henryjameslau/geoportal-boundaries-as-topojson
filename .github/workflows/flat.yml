@@ -26,4 +26,4 @@ jobs:
         with:
           http_url: https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services?f=pjson
           downloaded_filename: geoportal.json
-          postprocess: ./postprocessing.js
+          postprocess: ./postprocess.ts
