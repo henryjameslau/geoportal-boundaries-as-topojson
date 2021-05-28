@@ -392,6 +392,26 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Community_Safety_Partnerships_December_2019_EW_BUC/FeatureServer"
     }, 
     {
+      "name" : "Community_Safety_Partnerships_December_2020_EW_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Community_Safety_Partnerships_December_2020_EW_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "Community_Safety_Partnerships_December_2020_EW_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Community_Safety_Partnerships_December_2020_EW_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "Community_Safety_Partnerships_December_2020_EW_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Community_Safety_Partnerships_December_2020_EW_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "Community_Safety_Partnerships_December_2020_EW_BUC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Community_Safety_Partnerships_December_2020_EW_BUC/FeatureServer"
+    }, 
+    {
       "name" : "Counties_21_April_1991_Names_and_Codes_in_England_and_Wales", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_21_April_1991_Names_and_Codes_in_England_and_Wales/FeatureServer"
