@@ -49,7 +49,7 @@ if __name__ == "__main__":
         # change projection
         geojson = geojson.to_crs('EPSG:4326')
 
-        pathtosave='./outputs/'+i[0]+'.json'
+        pathtosave=i[0]+'.json'
         # convert to topojson and save
         tp.Topology(geojson).to_json(pathtosave)
 
