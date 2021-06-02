@@ -31,7 +31,7 @@ if __name__ == "__main__":
         print(i[0])
 
         # read the file as a geojson
-        geojson=gpd.read_file(i['1']+"/0/query?where=1%3D1&outFields=*&outSR=4326&f=json")
+        geojson=gpd.read_file(i[1]+"/0/query?where=1%3D1&outFields=*&outSR=4326&f=json")
 
         # drop unnecessary fields
         geojson=geojson.drop(columns=['OBJECTID', 'BNG_E','BNG_N','LONG','LAT','Shape__Area', 'Shape__Length'])
