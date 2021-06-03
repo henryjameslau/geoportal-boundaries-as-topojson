@@ -17,8 +17,7 @@ if __name__ == "__main__":
 
     # find only areas with BUC, BGC, BFE
     # https://stackoverflow.com/questions/9012008/pythons-re-return-true-if-string-contains-regex-pattern
-    # regexp=re.compile(r'BUC|BFC|BGC')
-    regexp=re.compile(r'BUC')
+    regexp=re.compile(r'BUC|BFC|BGC')
 
     filtered=[]
 
@@ -27,7 +26,7 @@ if __name__ == "__main__":
             filtered.append([s['name'],s['url']])
 
     # loop through areas
-    for i in filtered[0:5]:
+    for i in filtered:
 
         # name of boundary
         print(i[0])
@@ -35,22 +34,28 @@ if __name__ == "__main__":
         # read the file as a geojson
         geojson=gpd.read_file(i[1]+"/0/query?where=1%3D1&outFields=*&outSR=4326&f=json")
 
-        # drop unnecessary fields
-        geojson=geojson.drop(columns=['OBJECTID', 'BNG_E','BNG_N','LONG','LAT','Shape__Area', 'Shape__Length'])
-
-        # find the names of the columns that have CD in or NM
+        # Keep and rename the columns we want and drop any others
         for j in geojson.columns:
-            if re.search(r'CD',j):
-                areacode=j
-            if re.search(r'(NM)(?!NMW)',j):#look for NM but not NMW
-                namecode=j
+            if re.search(r'(NMW)',j):#drop any NMW
+                geojson=geojson.drop(columns=[j])
+            if re.search(r'CD',j):#look for fields with CD and rename it
+                geojson=geojson.rename(columns={j:'AREACD'})
+            if re.search(r'(NM)(?!NMW)',j):#look for NM but not NMW and rename it AREANM
+                geojson=geojson.rename(columns={j:'AREANM'})
+            if re.search(r'BNG',j):#drop any with BNG
+                geojson=geojson.drop(columns=[j])
+            if re.search(r'LAB',j):
+                geojson=geojson.drop(columns=[j])
+            if re.search(r'Shape__',j):#drop any with Shape__
+                geojson=geojson.drop(columns=[j])
+            if j=='LONG' or j=='LAT' or j=='OBJECTID':#drop any with long, lat, objectid
+                geojson=geojson.drop(columns=[j])
 
-        #     Rename columns
-        geojson=geojson.rename(columns={areacode:'AREACD',namecode:'AREANM'})
+
         # change projection
         geojson = geojson.to_crs('EPSG:4326')
 
-        #     make a folder
+        #     make a folder if one doesn't exist
         os.makedirs('./outputs',exist_ok=True)
 
         pathtosave='./outputs/'+i[0]+'.json'
