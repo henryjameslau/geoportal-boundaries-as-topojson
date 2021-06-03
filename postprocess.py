@@ -46,9 +46,9 @@ if __name__ == "__main__":
                 geojson=geojson.drop(columns=[j])
             if re.search(r'LAB',j):
                 geojson=geojson.drop(columns=[j])
-            if re.search(r'Shape__',j):#drop any with Shape__
+            if re.search(r'Shape_',j):#drop any with Shape__
                 geojson=geojson.drop(columns=[j])
-            if j=='LONG' or j=='LAT' or j=='OBJECTID':#drop any with long, lat, objectid
+            if j=='LONG' or j=='LAT' or j=='OBJECTID' or j=='FID' or j=='Role' or j=='LEP':#drop any with long, lat, objectid
                 geojson=geojson.drop(columns=[j])
 
 
