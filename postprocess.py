@@ -3,6 +3,7 @@ import geopandas as gpd
 import topojson as tp
 import json
 import re
+import os
 
 # Simple script to show the parameters sent to the script, and generate a dummy file
 
@@ -49,7 +50,10 @@ if __name__ == "__main__":
         # change projection
         geojson = geojson.to_crs('EPSG:4326')
 
-        pathtosave=i[0]+'.json'
+        #     make a folder
+        os.makedirs('./outputs',exist_ok=True)
+
+        pathtosave='./outputs/'+i[0]+'.json'
         # convert to topojson and save
         tp.Topology(geojson).to_json(pathtosave)
 
