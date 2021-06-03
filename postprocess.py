@@ -15,9 +15,9 @@ if __name__ == "__main__":
     areas=json.load(file)
     areas=areas['services']
 
-    # find only areas with BUC, BGC, BFE
+    # find only areas with BUC, BGC
     # https://stackoverflow.com/questions/9012008/pythons-re-return-true-if-string-contains-regex-pattern
-    regexp=re.compile(r'BUC|BFC|BGC')
+    regexp=re.compile(r'BUC|BGC|BSC')
 
     filtered=[]
 
