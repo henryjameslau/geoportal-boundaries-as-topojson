@@ -55,7 +55,7 @@ if __name__ == "__main__":
 
         pathtosave='./outputs/'+i[0]+'.json'
         # convert to topojson and save
-        tp.Topology(geojson).to_json(pathtosave)
+        tp.Topology(geojson).to_json(fp=pathtosave)
 
     # close file
     file.close()
