@@ -1852,6 +1852,26 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Resilience_Forums_December_2019_EW_BUC/FeatureServer"
     }, 
     {
+      "name" : "Local_Resilience_Forums_December_2020_EW_BFC_v2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Resilience_Forums_December_2020_EW_BFC_v2/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Resilience_Forums_December_2020_EW_BFE_v2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Resilience_Forums_December_2020_EW_BFE_v2/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Resilience_Forums_December_2020_EW_BGC_v2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Resilience_Forums_December_2020_EW_BGC_v2/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Resilience_Forums_December_2020_EW_BUC_v2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Resilience_Forums_December_2020_EW_BUC_v2/FeatureServer"
+    }, 
+    {
       "name" : "Low_TTWA", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Low_TTWA/FeatureServer"
@@ -4245,11 +4265,6 @@
       "name" : "WD20_PCON20_LAD20_UK_LU_v2", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD20_PCON20_LAD20_UK_LU_v2/FeatureServer"
-    }, 
-    {
-      "name" : "WD20_PCON20_LAD20_UTLA20_UK_LU", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD20_PCON20_LAD20_UTLA20_UK_LU/FeatureServer"
     }, 
     {
       "name" : "WD20_PCON20_LAD20_UTLA20_UK_LU_v2", 
