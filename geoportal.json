@@ -1802,11 +1802,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2020_Boundaries_UK_BFE/FeatureServer"
     }, 
     {
-      "name" : "Local_Authority_Districts_May_2021_UK_BUC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2021_UK_BUC/FeatureServer"
-    }, 
-    {
       "name" : "Local_Health_Boards_names_and_codes_WA_as_at_06_06", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Health_Boards_names_and_codes_WA_as_at_06_06/FeatureServer"
