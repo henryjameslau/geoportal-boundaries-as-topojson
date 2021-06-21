@@ -3492,11 +3492,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Police_Force_Areas_December_2019_EW_BUC/FeatureServer"
     }, 
     {
-      "name" : "Police_Force_Areas_December_2020_EW_BGC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Police_Force_Areas_December_2020_EW_BGC/FeatureServer"
-    }, 
-    {
       "name" : "psha", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/psha/FeatureServer"
