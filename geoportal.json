@@ -3492,6 +3492,26 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Police_Force_Areas_December_2019_EW_BUC/FeatureServer"
     }, 
     {
+      "name" : "Police_Force_Areas_December_2020_EW_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Police_Force_Areas_December_2020_EW_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "Police_Force_Areas_December_2020_EW_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Police_Force_Areas_December_2020_EW_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "Police_Force_Areas_December_2020_EW_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Police_Force_Areas_December_2020_EW_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "Police_Force_Areas_December_2020_EW_BUC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Police_Force_Areas_December_2020_EW_BUC/FeatureServer"
+    }, 
+    {
       "name" : "psha", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/psha/FeatureServer"
@@ -3555,6 +3575,26 @@
       "name" : "Regions_December_2020_EN_BUC_V2", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Regions_December_2020_EN_BUC_V2/FeatureServer"
+    }, 
+    {
+      "name" : "Registration_Districts_December_2020_EW_BFC_v2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Registration_Districts_December_2020_EW_BFC_v2/FeatureServer"
+    }, 
+    {
+      "name" : "Registration_Districts_December_2020_EW_BFE_v2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Registration_Districts_December_2020_EW_BFE_v2/FeatureServer"
+    }, 
+    {
+      "name" : "Registration_Districts_December_2020_EW_BGC_v2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Registration_Districts_December_2020_EW_BGC_v2/FeatureServer"
+    }, 
+    {
+      "name" : "Registration_Districts_December_2020_EW_BUC_v2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Registration_Districts_December_2020_EW_BUC_v2/FeatureServer"
     }, 
     {
       "name" : "RGN_DEC_2016_EN_NC", 
