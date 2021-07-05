@@ -1407,11 +1407,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD20_FRA20_EW_LU/FeatureServer"
     }, 
     {
-      "name" : "LAD20_LAU121_ITL321_ITL221_ITL121_UK_LU", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD20_LAU121_ITL321_ITL221_ITL121_UK_LU/FeatureServer"
-    }, 
-    {
       "name" : "LAD20_LPA20_UK_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD20_LPA20_UK_LU/FeatureServer"
