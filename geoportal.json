@@ -842,6 +842,26 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Fire_and_Rescue_Authorities_December_2019_EW_BUC/FeatureServer"
     }, 
     {
+      "name" : "Fire_and_Rescue_Authorities_May_2021_EW_BFC_v2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Fire_and_Rescue_Authorities_May_2021_EW_BFC_v2/FeatureServer"
+    }, 
+    {
+      "name" : "Fire_and_Rescue_Authorities_May_2021_EW_BFE_v2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Fire_and_Rescue_Authorities_May_2021_EW_BFE_v2/FeatureServer"
+    }, 
+    {
+      "name" : "Fire_and_Rescue_Authorities_May_2021_EW_BGC_v2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Fire_and_Rescue_Authorities_May_2021_EW_BGC_v2/FeatureServer"
+    }, 
+    {
+      "name" : "Fire_and_Rescue_Authorities_May_2021_EW_BUC_v2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Fire_and_Rescue_Authorities_May_2021_EW_BUC_v2/FeatureServer"
+    }, 
+    {
       "name" : "FRA_APR_2021_UK_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/FRA_APR_2021_UK_NC/FeatureServer"
