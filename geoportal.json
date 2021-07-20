@@ -1832,11 +1832,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2021_UK_BGC/FeatureServer"
     }, 
     {
-      "name" : "Local_Authority_Districts_May_2021_UK_BUC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2021_UK_BUC/FeatureServer"
-    }, 
-    {
       "name" : "Local_Health_Boards_names_and_codes_WA_as_at_06_06", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Health_Boards_names_and_codes_WA_as_at_06_06/FeatureServer"
@@ -1900,6 +1895,11 @@
       "name" : "Local_Resilience_Forums_December_2020_EW_BUC_v2", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Resilience_Forums_December_2020_EW_BUC_v2/FeatureServer"
+    }, 
+    {
+      "name" : "LocalAuthorityDistrictsMay2021UKBUC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LocalAuthorityDistrictsMay2021UKBUC/FeatureServer"
     }, 
     {
       "name" : "Low_TTWA", 
