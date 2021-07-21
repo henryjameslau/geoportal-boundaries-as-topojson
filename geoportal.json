@@ -1142,6 +1142,21 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD_DEC_2020_UK_NC/FeatureServer"
     }, 
     {
+      "name" : "LAD_MAY_2021_UK_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD_MAY_2021_UK_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "LAD_MAY_2021_UK_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD_MAY_2021_UK_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "LAD_MAY_2021_UK_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD_MAY_2021_UK_BGC/FeatureServer"
+    }, 
+    {
       "name" : "LAD13_NUTS315_NUTS215_NUTS115_UK_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD13_NUTS315_NUTS215_NUTS115_UK_LU/FeatureServer"
@@ -1815,21 +1830,6 @@
       "name" : "Local_Authority_Districts_May_2020_Boundaries_UK_BFE", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2020_Boundaries_UK_BFE/FeatureServer"
-    }, 
-    {
-      "name" : "Local_Authority_Districts_May_2021_UK_BFC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2021_UK_BFC/FeatureServer"
-    }, 
-    {
-      "name" : "Local_Authority_Districts_May_2021_UK_BFE", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2021_UK_BFE/FeatureServer"
-    }, 
-    {
-      "name" : "Local_Authority_Districts_May_2021_UK_BGC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2021_UK_BGC/FeatureServer"
     }, 
     {
       "name" : "Local_Health_Boards_names_and_codes_WA_as_at_06_06", 
@@ -4415,6 +4415,11 @@
       "name" : "Westminster_Parliamentary_Constituencies_December_2019_Boundaries_UK_BFE", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Westminster_Parliamentary_Constituencies_December_2019_Boundaries_UK_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "Westminster_Parliamentary_Constituencies_December_2019_UK_BFC_V2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Westminster_Parliamentary_Constituencies_December_2019_UK_BFC_V2/FeatureServer"
     }, 
     {
       "name" : "WZ", 
