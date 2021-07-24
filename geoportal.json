@@ -4322,19 +4322,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD20_LAD20_CTY20_CED20_EN_LU/FeatureServer"
     }, 
     {
-      "name" : "WD20_LAD20_CTY20_OTH_UK_LU", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD20_LAD20_CTY20_OTH_UK_LU/FeatureServer"
-    }, 
-    {
       "name" : "WD20_LAD20_CTY20_OTH_UK_LU_v2", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD20_LAD20_CTY20_OTH_UK_LU_v2/FeatureServer"
-    }, 
-    {
-      "name" : "WD20_LAD20_UK_LU", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD20_LAD20_UK_LU/FeatureServer"
     }, 
     {
       "name" : "WD20_LAD20_UK_LU_v2", 
