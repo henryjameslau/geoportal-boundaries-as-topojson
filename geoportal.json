@@ -2737,11 +2737,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSER_APR_2020_EN_NC/FeatureServer"
     }, 
     {
-      "name" : "NHSPD_LATEST_UK_CENTROIDS", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSPD_LATEST_UK_CENTROIDS/FeatureServer"
-    }, 
-    {
       "name" : "NHSRG_2015_EW_BSC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSRG_2015_EW_BSC/FeatureServer"
