@@ -502,6 +502,26 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_December_2020_EN_BUC_V2/FeatureServer"
     }, 
     {
+      "name" : "Counties_May_2021_EN_BFC_v2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_May_2021_EN_BFC_v2/FeatureServer"
+    }, 
+    {
+      "name" : "Counties_May_2021_EN_BFE_v2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_May_2021_EN_BFE_v2/FeatureServer"
+    }, 
+    {
+      "name" : "Counties_May_2021_EN_BGC_v2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_May_2021_EN_BGC_v2/FeatureServer"
+    }, 
+    {
+      "name" : "Counties_May_2021_EN_BUC_v2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_May_2021_EN_BUC_v2/FeatureServer"
+    }, 
+    {
       "name" : "Countries_December_1961_England_and_Wales_BFC_Boundaries", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_1961_England_and_Wales_BFC_Boundaries/FeatureServer"
@@ -1025,11 +1045,6 @@
       "name" : "ITL2_JAN_2021_UK_NC1", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ITL2_JAN_2021_UK_NC1/FeatureServer"
-    }, 
-    {
-      "name" : "ITL3_JAN_2021_UK_NC1", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ITL3_JAN_2021_UK_NC1/FeatureServer"
     }, 
     {
       "name" : "IZ_(2001)_names_and_codes_SC_as_at_11_11", 
