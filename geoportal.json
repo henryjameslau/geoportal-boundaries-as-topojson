@@ -3172,11 +3172,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA11_WD20_LAD20_EW_LU_v2/FeatureServer"
     }, 
     {
-      "name" : "OA11_WD20_LAD20_EW_LUv1", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA11_WD20_LAD20_EW_LUv1/FeatureServer"
-    }, 
-    {
       "name" : "OA11_WZ11_LAD11_EW_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA11_WZ11_LAD11_EW_LU/FeatureServer"
