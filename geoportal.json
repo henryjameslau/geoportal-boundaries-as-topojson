@@ -1732,6 +1732,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LMCTYUA_2013_EW_BSC/FeatureServer"
     }, 
     {
+      "name" : "Local Authority Districts (December 2019) Boundaries UK BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local Authority Districts (December 2019) Boundaries UK BFC/FeatureServer"
+    }, 
+    {
       "name" : "Local_Administrative_Units_Level_1_(January_2018)_Names_and_Codes_in_the_UK", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Administrative_Units_Level_1_(January_2018)_Names_and_Codes_in_the_UK/FeatureServer"
