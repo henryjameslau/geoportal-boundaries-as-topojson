@@ -1932,6 +1932,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LocalAuthorityDistrictsMay2021UKBUC/FeatureServer"
     }, 
     {
+      "name" : "London Assembly Constituencies (December 2018) Boundaries EN BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/London Assembly Constituencies (December 2018) Boundaries EN BFE/FeatureServer"
+    }, 
+    {
       "name" : "Low_TTWA", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Low_TTWA/FeatureServer"
@@ -3612,6 +3617,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/regions/FeatureServer"
     }, 
     {
+      "name" : "Regions (December 2019) Boundaries EN BUC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Regions (December 2019) Boundaries EN BUC/FeatureServer"
+    }, 
+    {
       "name" : "Regions_December_2020_EN_BFC_V2", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Regions_December_2020_EN_BFC_V2/FeatureServer"
@@ -4395,6 +4405,11 @@
       "name" : "WDSTB_JAN_2003_EW_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WDSTB_JAN_2003_EW_NC/FeatureServer"
+    }, 
+    {
+      "name" : "Westminster Parliamentary Constituencies (December 2018) UK BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Westminster Parliamentary Constituencies (December 2018) UK BFE/FeatureServer"
     }, 
     {
       "name" : "Westminster_Parliamentary_Constituencies_2015_Full_Extent_Boundaries", 
