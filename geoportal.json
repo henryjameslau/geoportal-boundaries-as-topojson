@@ -1852,11 +1852,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2020_Boundaries_UK_BFE/FeatureServer"
     }, 
     {
-      "name" : "Local_Authority_Districts_May_2021_UK_BFC_V3", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2021_UK_BFC_V3/FeatureServer"
-    }, 
-    {
       "name" : "Local_Authority_Districts_May_2021_UK_BFE_V3", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2021_UK_BFE_V3/FeatureServer"
