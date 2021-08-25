@@ -1917,6 +1917,26 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2021_UK_BFE_V3/FeatureServer"
     }, 
     {
+      "name" : "Local_Enterprise_Partnerships_May_2021_EN_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Enterprise_Partnerships_May_2021_EN_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Enterprise_Partnerships_May_2021_EN_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Enterprise_Partnerships_May_2021_EN_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Enterprise_Partnerships_May_2021_EN_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Enterprise_Partnerships_May_2021_EN_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Enterprise_Partnerships_May_2021_EN_BUC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Enterprise_Partnerships_May_2021_EN_BUC/FeatureServer"
+    }, 
+    {
       "name" : "Local_Health_Boards_names_and_codes_WA_as_at_06_06", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Health_Boards_names_and_codes_WA_as_at_06_06/FeatureServer"
