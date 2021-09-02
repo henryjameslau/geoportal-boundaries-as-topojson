@@ -1097,6 +1097,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/IPN_GB_2016/FeatureServer"
     }, 
     {
+      "name" : "IPN_GB_2019", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/IPN_GB_2019/FeatureServer"
+    }, 
+    {
       "name" : "ITL1_JAN_2021_UK_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ITL1_JAN_2021_UK_NC/FeatureServer"
@@ -4545,6 +4550,26 @@
       "name" : "Westminster_Parliamentary_Constituencies_December_2019_UK_BFC_V2", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Westminster_Parliamentary_Constituencies_December_2019_UK_BFC_V2/FeatureServer"
+    }, 
+    {
+      "name" : "Westminster_Parliamentary_Constituencies_December_2020_UK_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Westminster_Parliamentary_Constituencies_December_2020_UK_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "Westminster_Parliamentary_Constituencies_December_2020_UK_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Westminster_Parliamentary_Constituencies_December_2020_UK_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "Westminster_Parliamentary_Constituencies_December_2020_UK_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Westminster_Parliamentary_Constituencies_December_2020_UK_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "Westminster_Parliamentary_Constituencies_December_2020_UK_BUC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Westminster_Parliamentary_Constituencies_December_2020_UK_BUC/FeatureServer"
     }, 
     {
       "name" : "WZ", 
