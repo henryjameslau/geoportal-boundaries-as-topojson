@@ -1947,6 +1947,26 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Enterprise_Partnership_Non_Overlapping_Parts_May_2021_EN_BUC_v2/FeatureServer"
     }, 
     {
+      "name" : "Local_Enterprise_Partnership_Overlapping_Parts_May_2021_EN_BFC_v2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Enterprise_Partnership_Overlapping_Parts_May_2021_EN_BFC_v2/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Enterprise_Partnership_Overlapping_Parts_May_2021_EN_BFE_v2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Enterprise_Partnership_Overlapping_Parts_May_2021_EN_BFE_v2/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Enterprise_Partnership_Overlapping_Parts_May_2021_EN_BGC_v2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Enterprise_Partnership_Overlapping_Parts_May_2021_EN_BGC_v2/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Enterprise_Partnership_Overlapping_Parts_May_2021_EN_BUC_v2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Enterprise_Partnership_Overlapping_Parts_May_2021_EN_BUC_v2/FeatureServer"
+    }, 
+    {
       "name" : "Local_Enterprise_Partnerships_May_2021_EN_BFC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Enterprise_Partnerships_May_2021_EN_BFC/FeatureServer"
