@@ -1227,11 +1227,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD_MAY_2021_UK_BFC/FeatureServer"
     }, 
     {
-      "name" : "LAD_MAY_2021_UK_BFE", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD_MAY_2021_UK_BFE/FeatureServer"
-    }, 
-    {
       "name" : "LAD_MAY_2021_UK_BGC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD_MAY_2021_UK_BGC/FeatureServer"
