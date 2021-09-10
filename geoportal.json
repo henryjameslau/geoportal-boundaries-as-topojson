@@ -1947,11 +1947,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Enterprise_Partnership_Overlapping_Parts_May_2021_EN_BFC_v2/FeatureServer"
     }, 
     {
-      "name" : "Local_Enterprise_Partnership_Overlapping_Parts_May_2021_EN_BFE_v2", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Enterprise_Partnership_Overlapping_Parts_May_2021_EN_BFE_v2/FeatureServer"
-    }, 
-    {
       "name" : "Local_Enterprise_Partnership_Overlapping_Parts_May_2021_EN_BGC_v2", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Enterprise_Partnership_Overlapping_Parts_May_2021_EN_BGC_v2/FeatureServer"
@@ -1980,6 +1975,11 @@
       "name" : "Local_Enterprise_Partnerships_May_2021_EN_BUC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Enterprise_Partnerships_May_2021_EN_BUC/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Enterprise_Partnerships_Overlapping_Parts_May_2021_EN_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Enterprise_Partnerships_Overlapping_Parts_May_2021_EN_BFE/FeatureServer"
     }, 
     {
       "name" : "Local_Health_Boards_names_and_codes_WA_as_at_06_06", 
