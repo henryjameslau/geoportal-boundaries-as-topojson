@@ -1687,11 +1687,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEP_APR_2020_NC_EN/FeatureServer"
     }, 
     {
-      "name" : "LEP_APR_2021_NC_EN", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEP_APR_2021_NC_EN/FeatureServer"
-    }, 
-    {
       "name" : "LEP_DEC_2015_WMCA_BGC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEP_DEC_2015_WMCA_BGC/FeatureServer"
@@ -3157,11 +3152,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA11_LAD20_LSOA11_MSOA11_LEPOP20_EN_LU/FeatureServer"
     }, 
     {
-      "name" : "OA11_LAD21_LSOA11_MSOA11_LEP21_EN", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA11_LAD21_LSOA11_MSOA11_LEP21_EN/FeatureServer"
-    }, 
-    {
       "name" : "OA11_LAD21_LSOA11_MSOA11_LEPNOP21_EN_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA11_LAD21_LSOA11_MSOA11_LEPNOP21_EN_LU/FeatureServer"
@@ -3997,24 +3987,24 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/survey123_e39fd1f872454eb8b052fff90702b85f_fieldworker/FeatureServer"
     }, 
     {
-      "name" : "Sustainability_and_Transformation_Partnerships_April_2021_EN_BFC", 
+      "name" : "Sustainability_and_Transformation_Partnerships_April_2021_EN_BFC_v2", 
       "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Sustainability_and_Transformation_Partnerships_April_2021_EN_BFC/FeatureServer"
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Sustainability_and_Transformation_Partnerships_April_2021_EN_BFC_v2/FeatureServer"
     }, 
     {
-      "name" : "Sustainability_and_Transformation_Partnerships_April_2021_EN_BFE", 
+      "name" : "Sustainability_and_Transformation_Partnerships_April_2021_EN_BFE_v2", 
       "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Sustainability_and_Transformation_Partnerships_April_2021_EN_BFE/FeatureServer"
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Sustainability_and_Transformation_Partnerships_April_2021_EN_BFE_v2/FeatureServer"
     }, 
     {
-      "name" : "Sustainability_and_Transformation_Partnerships_April_2021_EN_BGC", 
+      "name" : "Sustainability_and_Transformation_Partnerships_April_2021_EN_BGC_v2", 
       "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Sustainability_and_Transformation_Partnerships_April_2021_EN_BGC/FeatureServer"
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Sustainability_and_Transformation_Partnerships_April_2021_EN_BGC_v2/FeatureServer"
     }, 
     {
-      "name" : "Sustainability_and_Transformation_Partnerships_April_2021_EN_BUC", 
+      "name" : "Sustainability_and_Transformation_Partnerships_April_2021_EN_BUC_v2", 
       "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Sustainability_and_Transformation_Partnerships_April_2021_EN_BUC/FeatureServer"
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Sustainability_and_Transformation_Partnerships_April_2021_EN_BUC_v2/FeatureServer"
     }, 
     {
       "name" : "TCITY_2015_EW_BGG", 
