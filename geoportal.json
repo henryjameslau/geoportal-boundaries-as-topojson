@@ -2027,6 +2027,26 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Planning_Authorities_April_2020_UK_BUC/FeatureServer"
     }, 
     {
+      "name" : "Local_Planning_Authorities_May_2021_UK_BFC_v2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Planning_Authorities_May_2021_UK_BFC_v2/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Planning_Authorities_May_2021_UK_BFE_v2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Planning_Authorities_May_2021_UK_BFE_v2/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Planning_Authorities_May_2021_UK_BGC_v2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Planning_Authorities_May_2021_UK_BGC_v2/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Planning_Authorities_May_2021_UK_BUC_v2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Planning_Authorities_May_2021_UK_BUC_v2/FeatureServer"
+    }, 
+    {
       "name" : "Local_Resilience_Forums_December_2019_EW_BFC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Resilience_Forums_December_2019_EW_BFC/FeatureServer"
