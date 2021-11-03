@@ -1942,9 +1942,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_December_2020_UK_BGC/FeatureServer"
     }, 
     {
-      "name" : "Local_Authority_Districts_December_2020_UK_BUC", 
+      "name" : "Local_Authority_Districts_December_2020_UK_BUC_V2", 
       "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_December_2020_UK_BUC/FeatureServer"
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_December_2020_UK_BUC_V2/FeatureServer"
     }, 
     {
       "name" : "Local_Authority_Districts_May_2020_Boundaries_UK_BFE", 
