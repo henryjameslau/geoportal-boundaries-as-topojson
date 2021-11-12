@@ -1092,24 +1092,24 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/International_Territorial_Level_2_January_2021_UK_BUC_V3/FeatureServer"
     }, 
     {
-      "name" : "International_Territorial_Level_3_January_2021_UK_BFC_V3", 
+      "name" : "International_Territorial_Level_3_January_2021_UK_BFC_V4", 
       "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/International_Territorial_Level_3_January_2021_UK_BFC_V3/FeatureServer"
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/International_Territorial_Level_3_January_2021_UK_BFC_V4/FeatureServer"
     }, 
     {
-      "name" : "International_Territorial_Level_3_January_2021_UK_BFE_V2", 
+      "name" : "International_Territorial_Level_3_January_2021_UK_BFE_V4", 
       "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/International_Territorial_Level_3_January_2021_UK_BFE_V2/FeatureServer"
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/International_Territorial_Level_3_January_2021_UK_BFE_V4/FeatureServer"
     }, 
     {
-      "name" : "International_Territorial_Level_3_January_2021_UK_BGC_V2", 
+      "name" : "International_Territorial_Level_3_January_2021_UK_BGC_V4", 
       "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/International_Territorial_Level_3_January_2021_UK_BGC_V2/FeatureServer"
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/International_Territorial_Level_3_January_2021_UK_BGC_V4/FeatureServer"
     }, 
     {
-      "name" : "International_Territorial_Level_3_January_2021_UK_BUC_V2", 
+      "name" : "International_Territorial_Level_3_January_2021_UK_BUC_V4", 
       "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/International_Territorial_Level_3_January_2021_UK_BUC_V2/FeatureServer"
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/International_Territorial_Level_3_January_2021_UK_BUC_V4/FeatureServer"
     }, 
     {
       "name" : "IPN_GB_2016", 
