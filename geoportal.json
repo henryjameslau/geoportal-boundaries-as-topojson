@@ -1837,6 +1837,31 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Administrative_Units_Level_1_(January_2018)_Names_and_Codes_in_the_UK/FeatureServer"
     }, 
     {
+      "name" : "Local_Administrative_Units_Level_1_January_2018_UK_BFC_v2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Administrative_Units_Level_1_January_2018_UK_BFC_v2/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Administrative_Units_Level_1_January_2018_UK_BFE_v2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Administrative_Units_Level_1_January_2018_UK_BFE_v2/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Administrative_Units_Level_1_January_2018_UK_BGC_v2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Administrative_Units_Level_1_January_2018_UK_BGC_v2/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Administrative_Units_Level_1_January_2018_UK_BSC_v2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Administrative_Units_Level_1_January_2018_UK_BSC_v2/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Administrative_Units_Level_1_January_2018_UK_BUC_v2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Administrative_Units_Level_1_January_2018_UK_BUC_v2/FeatureServer"
+    }, 
+    {
       "name" : "Local_Authority_Districts_(December_2020)_UK_BGC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_(December_2020)_UK_BGC/FeatureServer"
