@@ -2157,6 +2157,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Lower_Layer_Super_Output_Areas_December_2011_Boundaries_EW_BFC_V2/FeatureServer"
     }, 
     {
+      "name" : "Lower_Layer_Super_Output_Areas_December_2011_Boundaries_EW_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Lower_Layer_Super_Output_Areas_December_2011_Boundaries_EW_BFE/FeatureServer"
+    }, 
+    {
       "name" : "Lower_Layer_Super_Output_Areas_December_2011_Boundaries_EW_BFE_V2", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Lower_Layer_Super_Output_Areas_December_2011_Boundaries_EW_BFE_V2/FeatureServer"
@@ -2600,6 +2605,11 @@
       "name" : "Middle_Layer_Super_Output_Areas_December_2001_Boundaries_EW_BGC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Middle_Layer_Super_Output_Areas_December_2001_Boundaries_EW_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "Middle_Layer_Super_Output_Areas_December_2011_Boundaries_EW_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Middle_Layer_Super_Output_Areas_December_2011_Boundaries_EW_BFE/FeatureServer"
     }, 
     {
       "name" : "Middle_Layer_Super_Output_Areas_December_2011_EW_BFC_V2", 
