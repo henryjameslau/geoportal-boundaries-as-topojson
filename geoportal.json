@@ -4222,6 +4222,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/wards/FeatureServer"
     }, 
     {
+      "name" : "Wards_DEC_2021_UK_BFC_V2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_DEC_2021_UK_BFC_V2/FeatureServer"
+    }, 
+    {
       "name" : "Wards_December_2016_Boundaries_UK_BFC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_December_2016_Boundaries_UK_BFC/FeatureServer"
@@ -4275,11 +4280,6 @@
       "name" : "Wards_December_2020_UK_BSC_V3", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_December_2020_UK_BSC_V3/FeatureServer"
-    }, 
-    {
-      "name" : "Wards_December_2021_UK_BFC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_December_2021_UK_BFC/FeatureServer"
     }, 
     {
       "name" : "Wards_December_2021_UK_BFE", 
