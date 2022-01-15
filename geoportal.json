@@ -1167,11 +1167,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD_2013_GB_BSC/FeatureServer"
     }, 
     {
-      "name" : "lad_2018_charity_data", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/lad_2018_charity_data/FeatureServer"
-    }, 
-    {
       "name" : "LAD_APR_2015_UK_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD_APR_2015_UK_NC/FeatureServer"
@@ -2500,11 +2495,6 @@
       "name" : "Major_Towns_and_Cities_December_2015_Boundaries", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Major_Towns_and_Cities_December_2015_Boundaries/FeatureServer"
-    }, 
-    {
-      "name" : "MAP_OUTPUT", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MAP_OUTPUT/FeatureServer"
     }, 
     {
       "name" : "MCTY_DEC_2016_EN_NC", 
