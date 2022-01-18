@@ -4007,11 +4007,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/survey123_c441aff11612451792dfdd6b016ecac7_fieldworker/FeatureServer"
     }, 
     {
-      "name" : "survey123_e39fd1f872454eb8b052fff90702b85f_fieldworker", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/survey123_e39fd1f872454eb8b052fff90702b85f_fieldworker/FeatureServer"
-    }, 
-    {
       "name" : "Sustainability_and_Transformation_Partnerships_April_2021_EN_BFC_v2", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Sustainability_and_Transformation_Partnerships_April_2021_EN_BFC_v2/FeatureServer"
