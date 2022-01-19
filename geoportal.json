@@ -162,6 +162,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CCG_APR_2020_EN_NC/FeatureServer"
     }, 
     {
+      "name" : "CCG_APR_2021_EN_BSC_100M", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CCG_APR_2021_EN_BSC_100M/FeatureServer"
+    }, 
+    {
       "name" : "CCG_APR_2021_EN_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CCG_APR_2021_EN_NC/FeatureServer"
