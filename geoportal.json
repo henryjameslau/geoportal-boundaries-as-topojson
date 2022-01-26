@@ -2002,6 +2002,26 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Enterprise_Partnerships_Overlapping_Parts_May_2021_EN_BFE/FeatureServer"
     }, 
     {
+      "name" : "Local_Health_Boards_April_2020_WA_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Health_Boards_April_2020_WA_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Health_Boards_April_2020_WA_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Health_Boards_April_2020_WA_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Health_Boards_April_2020_WA_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Health_Boards_April_2020_WA_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Health_Boards_April_2020_WA_BUC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Health_Boards_April_2020_WA_BUC/FeatureServer"
+    }, 
+    {
       "name" : "Local_Health_Boards_names_and_codes_WA_as_at_06_06", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Health_Boards_names_and_codes_WA_as_at_06_06/FeatureServer"
