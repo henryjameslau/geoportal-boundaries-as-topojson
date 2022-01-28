@@ -1792,6 +1792,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LMCTYUA_2013_EW_BSC/FeatureServer"
     }, 
     {
+      "name" : "Local Authority Districts (December 2019) Boundaries UK BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local Authority Districts (December 2019) Boundaries UK BFC/FeatureServer"
+    }, 
+    {
       "name" : "Local_Administrative_Units_Level_1_(January_2018)_Names_and_Codes_in_the_UK", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Administrative_Units_Level_1_(January_2018)_Names_and_Codes_in_the_UK/FeatureServer"
@@ -1905,6 +1910,11 @@
       "name" : "Local_Authority_Districts_December_2018_Boundaries_GB_BFC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_December_2018_Boundaries_GB_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_December_2019_Boundaries_UK_BFE_v2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_December_2019_Boundaries_UK_BFE_v2/FeatureServer"
     }, 
     {
       "name" : "Local_Authority_Districts_December_2020_UK_BFC", 
@@ -3520,6 +3530,26 @@
       "name" : "Parishes_December_2019_EW_BFE_v2", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_December_2019_EW_BFE_v2/FeatureServer"
+    }, 
+    {
+      "name" : "Parishes_December_2020_EW_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_December_2020_EW_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "Parishes_December_2020_EW_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_December_2020_EW_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "Parishes_December_2020_EW_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_December_2020_EW_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "Parishes_December_2020_EW_BUC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_December_2020_EW_BUC/FeatureServer"
     }, 
     {
       "name" : "PARNCP_2011_EW_BGC", 
