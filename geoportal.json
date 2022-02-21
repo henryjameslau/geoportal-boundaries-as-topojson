@@ -1937,6 +1937,26 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_December_2020_UK_BUC_V2/FeatureServer"
     }, 
     {
+      "name" : "Local_Authority_Districts_December_2021_GB_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_December_2021_GB_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_December_2021_GB_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_December_2021_GB_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_December_2021_GB_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_December_2021_GB_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_December_2021_GB_BUC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_December_2021_GB_BUC/FeatureServer"
+    }, 
+    {
       "name" : "Local_Authority_Districts_December_2021_UK_BFC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_December_2021_UK_BFC/FeatureServer"
