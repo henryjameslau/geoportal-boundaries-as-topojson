@@ -4332,6 +4332,26 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_December_2020_UK_BSC_V3/FeatureServer"
     }, 
     {
+      "name" : "Wards_December_2021_GB_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_December_2021_GB_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "Wards_December_2021_GB_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_December_2021_GB_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "Wards_December_2021_GB_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_December_2021_GB_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "Wards_December_2021_GB_BSC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_December_2021_GB_BSC/FeatureServer"
+    }, 
+    {
       "name" : "Wards_December_2021_UK_BFE", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_December_2021_UK_BFE/FeatureServer"
