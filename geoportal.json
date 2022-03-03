@@ -377,6 +377,26 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_December_2020_EN_BUC_V2/FeatureServer"
     }, 
     {
+      "name" : "Combined_Authorities_December_2021_EN_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_December_2021_EN_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "Combined_Authorities_December_2021_EN_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_December_2021_EN_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "Combined_Authorities_December_2021_EN_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_December_2021_EN_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "Combined_Authorities_December_2021_EN_BUC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_December_2021_EN_BUC/FeatureServer"
+    }, 
+    {
       "name" : "Community_Safety_Partnerships_December_2019_EW_BFC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Community_Safety_Partnerships_December_2019_EW_BFC/FeatureServer"
