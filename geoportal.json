@@ -567,6 +567,26 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_December_2020_EN_BUC_V2/FeatureServer"
     }, 
     {
+      "name" : "Counties_December_2021_EN_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_December_2021_EN_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "Counties_December_2021_EN_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_December_2021_EN_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "Counties_December_2021_EN_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_December_2021_EN_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "Counties_December_2021_EN_BUC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_December_2021_EN_BUC/FeatureServer"
+    }, 
+    {
       "name" : "Counties_May_2021_EN_BFC_v2", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_May_2021_EN_BFC_v2/FeatureServer"
@@ -630,6 +650,26 @@
       "name" : "Countries_December_2020_UK_BUC_V3", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2020_UK_BUC_V3/FeatureServer"
+    }, 
+    {
+      "name" : "Countries_December_2021_UK_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2021_UK_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "Countries_December_2021_UK_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2021_UK_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "Countries_December_2021_UK_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2021_UK_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "Countries_December_2021_UK_BUC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2021_UK_BUC/FeatureServer"
     }, 
     {
       "name" : "Country", 
@@ -2990,6 +3030,26 @@
       "name" : "NHS_England_Regions_(April_2021)_in_England", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHS_England_Regions_(April_2021)_in_England/FeatureServer"
+    }, 
+    {
+      "name" : "NHS_England_Regions_APR_2021_EN_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHS_England_Regions_APR_2021_EN_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "NHS_England_Regions_APR_2021_EN_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHS_England_Regions_APR_2021_EN_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "NHS_England_Regions_APR_2021_EN_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHS_England_Regions_APR_2021_EN_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "NHS_England_Regions_APR_2021_EN_BUC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHS_England_Regions_APR_2021_EN_BUC/FeatureServer"
     }, 
     {
       "name" : "NHSAT_2013_EN_BSC", 
