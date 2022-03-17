@@ -652,6 +652,26 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2020_UK_BUC_V3/FeatureServer"
     }, 
     {
+      "name" : "Countries_December_2021_GB_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2021_GB_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "Countries_December_2021_GB_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2021_GB_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "Countries_December_2021_GB_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2021_GB_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "Countries_December_2021_GB_BUC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2021_GB_BUC/FeatureServer"
+    }, 
+    {
       "name" : "Countries_December_2021_UK_BFC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2021_UK_BFC/FeatureServer"
@@ -3960,6 +3980,26 @@
       "name" : "Regions_December_2020_EN_BUC_V2", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Regions_December_2020_EN_BUC_V2/FeatureServer"
+    }, 
+    {
+      "name" : "Regions_December_2021_EN_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Regions_December_2021_EN_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "Regions_December_2021_EN_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Regions_December_2021_EN_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "Regions_December_2021_EN_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Regions_December_2021_EN_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "Regions_December_2021_EN_BUC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Regions_December_2021_EN_BUC/FeatureServer"
     }, 
     {
       "name" : "Registration_Districts_December_2020_EW_BFC_v2", 
