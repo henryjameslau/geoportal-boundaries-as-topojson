@@ -4352,11 +4352,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/UA20_LHB20_WA_LU/FeatureServer"
     }, 
     {
-      "name" : "UA20_NAER20_WA_LU", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/UA20_NAER20_WA_LU/FeatureServer"
-    }, 
-    {
       "name" : "UACC_DEC_2016_UK_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/UACC_DEC_2016_UK_NC/FeatureServer"
