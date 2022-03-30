@@ -72,6 +72,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/BUASD11_RGN11_EW_LU/FeatureServer"
     }, 
     {
+      "name" : "Built_up_Areas_December_2011_Boundaries_V2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Built_up_Areas_December_2011_Boundaries_V2/FeatureServer"
+    }, 
+    {
       "name" : "Builtup_Area_Sub_Divisions_December_2011_Boundaries_BGG", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Builtup_Area_Sub_Divisions_December_2011_Boundaries_BGG/FeatureServer"
@@ -1225,6 +1230,11 @@
       "name" : "IPN_GB_2019", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/IPN_GB_2019/FeatureServer"
+    }, 
+    {
+      "name" : "IPN_GB_2020", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/IPN_GB_2020/FeatureServer"
     }, 
     {
       "name" : "ITL1_JAN_2021_UK_NC", 
