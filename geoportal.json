@@ -3677,6 +3677,26 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_and_Non_Civil_Parished_Areas_December_2020_EW_BSC_V2/FeatureServer"
     }, 
     {
+      "name" : "Parishes_and_Non_Civil_Parished_Areas_December_2021_EW_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_and_Non_Civil_Parished_Areas_December_2021_EW_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "Parishes_and_Non_Civil_Parished_Areas_December_2021_EW_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_and_Non_Civil_Parished_Areas_December_2021_EW_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "Parishes_and_Non_Civil_Parished_Areas_December_2021_EW_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_and_Non_Civil_Parished_Areas_December_2021_EW_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "Parishes_and_Non_Civil_Parished_Areas_December_2021_EW_BSC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_and_Non_Civil_Parished_Areas_December_2021_EW_BSC/FeatureServer"
+    }, 
+    {
       "name" : "Parishes_December_2019_EW_BFE_v2", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_December_2019_EW_BFE_v2/FeatureServer"
