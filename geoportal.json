@@ -1302,11 +1302,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD_DEC_2013_UK_BSC/FeatureServer"
     }, 
     {
-      "name" : "LAD_DEC_2015_WMCA_BGC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD_DEC_2015_WMCA_BGC/FeatureServer"
-    }, 
-    {
       "name" : "LAD_DEC_2016_UK_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD_DEC_2016_UK_NC/FeatureServer"
@@ -1760,11 +1755,6 @@
       "name" : "LEP_APR_2020_NC_EN", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEP_APR_2020_NC_EN/FeatureServer"
-    }, 
-    {
-      "name" : "LEP_DEC_2015_WMCA_BGC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEP_DEC_2015_WMCA_BGC/FeatureServer"
     }, 
     {
       "name" : "LEP_MAY_2021_EN_BFC_V2", 
@@ -2722,11 +2712,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Method_train_TTWA/FeatureServer"
     }, 
     {
-      "name" : "Metropols", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Metropols/FeatureServer"
-    }, 
-    {
       "name" : "Middle_Layer_Super_Output_Areas_DEC_2011_EW_BGC_V3", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Middle_Layer_Super_Output_Areas_DEC_2011_EW_BGC_V3/FeatureServer"
@@ -2775,11 +2760,6 @@
       "name" : "MSOA_(2001)_names_and_codes_EW_as_at_08_04", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_(2001)_names_and_codes_EW_as_at_08_04/FeatureServer"
-    }, 
-    {
-      "name" : "MSOA_2011_EW_BSC_HH_Income_ExtendedJoin", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_2011_EW_BSC_HH_Income_ExtendedJoin/FeatureServer"
     }, 
     {
       "name" : "MSOA_2011_EW_NC", 
