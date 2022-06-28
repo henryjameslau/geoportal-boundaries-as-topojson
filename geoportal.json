@@ -2257,6 +2257,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LocalAuthorityDistrictsMay2021UKBUC/FeatureServer"
     }, 
     {
+      "name" : "Locations_July_2022_EN_BSC_V2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Locations_July_2022_EN_BSC_V2/FeatureServer"
+    }, 
+    {
       "name" : "London Assembly Constituencies (December 2018) Boundaries EN BFE", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/London Assembly Constituencies (December 2018) Boundaries EN BFE/FeatureServer"
