@@ -1127,6 +1127,26 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/HLTH_2015_EW_BSC/FeatureServer"
     }, 
     {
+      "name" : "ICB_JUL_2022_EN_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ICB_JUL_2022_EN_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "ICB_JUL_2022_EN_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ICB_JUL_2022_EN_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "ICB_JUL_2022_EN_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ICB_JUL_2022_EN_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "ICB_JUL_2022_EN_BUC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ICB_JUL_2022_EN_BUC/FeatureServer"
+    }, 
+    {
       "name" : "ICS_DEC_2019_EN_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ICS_DEC_2019_EN_NC/FeatureServer"
@@ -2262,6 +2282,26 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Locations_July_2022_EN_BSC_V2/FeatureServer"
     }, 
     {
+      "name" : "Locations_July_2022_England_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Locations_July_2022_England_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "Locations_July_2022_England_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Locations_July_2022_England_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "Locations_July_2022_England_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Locations_July_2022_England_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "Locations_July_2022_England_BUC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Locations_July_2022_England_BUC/FeatureServer"
+    }, 
+    {
       "name" : "London Assembly Constituencies (December 2018) Boundaries EN BFE", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/London Assembly Constituencies (December 2018) Boundaries EN BFE/FeatureServer"
@@ -3080,6 +3120,26 @@
       "name" : "NHS_England_Regions_APR_2021_EN_BUC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHS_England_Regions_APR_2021_EN_BUC/FeatureServer"
+    }, 
+    {
+      "name" : "NHS_England_Regions_July_2022_EN_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHS_England_Regions_July_2022_EN_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "NHS_England_Regions_July_2022_EN_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHS_England_Regions_July_2022_EN_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "NHS_England_Regions_July_2022_EN_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHS_England_Regions_July_2022_EN_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "NHS_England_Regions_July_2022_EN_BUC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHS_England_Regions_July_2022_EN_BUC/FeatureServer"
     }, 
     {
       "name" : "NHSAT_2013_EN_BSC", 
