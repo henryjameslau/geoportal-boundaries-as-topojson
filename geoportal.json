@@ -1127,26 +1127,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/HLTH_2015_EW_BSC/FeatureServer"
     }, 
     {
-      "name" : "ICB_JUL_2022_EN_BFC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ICB_JUL_2022_EN_BFC/FeatureServer"
-    }, 
-    {
-      "name" : "ICB_JUL_2022_EN_BFE", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ICB_JUL_2022_EN_BFE/FeatureServer"
-    }, 
-    {
-      "name" : "ICB_JUL_2022_EN_BGC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ICB_JUL_2022_EN_BGC/FeatureServer"
-    }, 
-    {
-      "name" : "ICB_JUL_2022_EN_BUC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ICB_JUL_2022_EN_BUC/FeatureServer"
-    }, 
-    {
       "name" : "ICS_DEC_2019_EN_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ICS_DEC_2019_EN_NC/FeatureServer"
@@ -1180,6 +1160,26 @@
       "name" : "Index_of_Place_Names_July_2016", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Index_of_Place_Names_July_2016/FeatureServer"
+    }, 
+    {
+      "name" : "Integrated_Care_Boards_July_2022_EN_BFC_v2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Integrated_Care_Boards_July_2022_EN_BFC_v2/FeatureServer"
+    }, 
+    {
+      "name" : "Integrated_Care_Boards_July_2022_EN_BFE_v2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Integrated_Care_Boards_July_2022_EN_BFE_v2/FeatureServer"
+    }, 
+    {
+      "name" : "Integrated_Care_Boards_July_2022_EN_BGC_v2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Integrated_Care_Boards_July_2022_EN_BGC_v2/FeatureServer"
+    }, 
+    {
+      "name" : "Integrated_Care_Boards_July_2022_EN_BUC_v2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Integrated_Care_Boards_July_2022_EN_BUC_v2/FeatureServer"
     }, 
     {
       "name" : "International_Territorial_Level_1_May_2021_UK_BFC", 
