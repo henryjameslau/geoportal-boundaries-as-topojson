@@ -1947,6 +1947,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Administrative_Units_Level_1_January_2018_UK_BUC_v2/FeatureServer"
     }, 
     {
+      "name" : "Local_Authority_Districts_(December_2016)_Full_Clipped_Boundaries_in_Great_Britain", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_(December_2016)_Full_Clipped_Boundaries_in_Great_Britain/MapServer"
+    }, 
+    {
       "name" : "Local_Authority_Districts_(December_2020)_UK_BGC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_(December_2020)_UK_BGC/FeatureServer"
@@ -1975,6 +1980,16 @@
       "name" : "Local_Authority_Districts_December_1961_England_and_Wales_BFC_Boundaries", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_December_1961_England_and_Wales_BFC_Boundaries/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_December_2016_Full_Clipped_Boundaries_in_Great_Britain", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_December_2016_Full_Clipped_Boundaries_in_Great_Britain/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_December_2016_Full_Clipped_Boundaries_in_Great_Britain", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_December_2016_Full_Clipped_Boundaries_in_Great_Britain/WFSServer"
     }, 
     {
       "name" : "Local_Authority_Districts_December_2016_GB_BFC_v2", 
@@ -4522,9 +4537,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/wards/FeatureServer"
     }, 
     {
-      "name" : "Wards (December 2019) Boundaries UK BGC", 
+      "name" : "Wards (December 2019) Boundaries UK BFE", 
       "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards (December 2019) Boundaries UK BGC/MapServer"
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards (December 2019) Boundaries UK BFE/MapServer"
     }, 
     {
       "name" : "Wards_DEC_2021_UK_BFC_V2", 
@@ -4557,14 +4572,14 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_December_2019_Boundaries_UK_BFC_v2/FeatureServer"
     }, 
     {
+      "name" : "Wards_December_2019_Boundaries_UK_BFE", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_December_2019_Boundaries_UK_BFE/WFSServer"
+    }, 
+    {
       "name" : "Wards_December_2019_Boundaries_UK_BFE_v2", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_December_2019_Boundaries_UK_BFE_v2/FeatureServer"
-    }, 
-    {
-      "name" : "Wards_December_2019_Boundaries_UK_BGC", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_December_2019_Boundaries_UK_BGC/WFSServer"
     }, 
     {
       "name" : "Wards_December_2019_Boundaries_UK_BGC_v2", 
