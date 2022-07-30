@@ -207,6 +207,36 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CA_2011_SC_BGC/FeatureServer"
     }, 
     {
+      "name" : "CAL_and_NCV_(Feb_2017)_Full_Clipped_Boundaries_in_England", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CAL_and_NCV_(Feb_2017)_Full_Clipped_Boundaries_in_England/MapServer"
+    }, 
+    {
+      "name" : "CAL_and_NCV_(Feb_2017)_Full_Extent_Boundaries_in_England", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CAL_and_NCV_(Feb_2017)_Full_Extent_Boundaries_in_England/MapServer"
+    }, 
+    {
+      "name" : "CAL_and_NCV_Feb_2017_Full_Clipped_Boundaries_in_England", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CAL_and_NCV_Feb_2017_Full_Clipped_Boundaries_in_England/FeatureServer"
+    }, 
+    {
+      "name" : "CAL_and_NCV_Feb_2017_Full_Clipped_Boundaries_in_England", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CAL_and_NCV_Feb_2017_Full_Clipped_Boundaries_in_England/WFSServer"
+    }, 
+    {
+      "name" : "CAL_and_NCV_Feb_2017_Full_Extent_Boundaries_in_England", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CAL_and_NCV_Feb_2017_Full_Extent_Boundaries_in_England/FeatureServer"
+    }, 
+    {
+      "name" : "CAL_and_NCV_Feb_2017_Full_Extent_Boundaries_in_England", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CAL_and_NCV_Feb_2017_Full_Extent_Boundaries_in_England/WFSServer"
+    }, 
+    {
       "name" : "CAL_APR_2020_EN_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CAL_APR_2020_EN_NC/FeatureServer"
@@ -532,9 +562,34 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CAUTH_MAR_2017_EN_NC_0eb61a9e39dc43e0b3f646ee3af2a914/FeatureServer"
     }, 
     {
+      "name" : "CCG_(Apr_2017)_Generalised_Clipped_Boundaries_in_England_V4", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CCG_(Apr_2017)_Generalised_Clipped_Boundaries_in_England_V4/MapServer"
+    }, 
+    {
       "name" : "CCG_2013_EN_BSC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CCG_2013_EN_BSC/FeatureServer"
+    }, 
+    {
+      "name" : "CCG_Apr_2016_Super_Generalised_Clipped_Boundaries_in_England", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CCG_Apr_2016_Super_Generalised_Clipped_Boundaries_in_England/FeatureServer"
+    }, 
+    {
+      "name" : "CCG_Apr_2016_Super_Generalised_Clipped_Boundaries_in_England", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CCG_Apr_2016_Super_Generalised_Clipped_Boundaries_in_England/WFSServer"
+    }, 
+    {
+      "name" : "CCG_Apr_2016_Ultra_Generalised_Clipped_Boundaries_in_England", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CCG_Apr_2016_Ultra_Generalised_Clipped_Boundaries_in_England/FeatureServer"
+    }, 
+    {
+      "name" : "CCG_Apr_2016_Ultra_Generalised_Clipped_Boundaries_in_England", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CCG_Apr_2016_Ultra_Generalised_Clipped_Boundaries_in_England/WFSServer"
     }, 
     {
       "name" : "CCG_APR_2017_EN_NCv3", 
@@ -547,6 +602,36 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CCG_APR_2017_EN_NCv3_170e5067264e44858f1b6001abab1dab/FeatureServer"
     }, 
     {
+      "name" : "CCG_Apr_2017_Generalised_Clipped_Boundaries_in_England_V4", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CCG_Apr_2017_Generalised_Clipped_Boundaries_in_England_V4/FeatureServer"
+    }, 
+    {
+      "name" : "CCG_Apr_2017_Generalised_Clipped_Boundaries_in_England_V4", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CCG_Apr_2017_Generalised_Clipped_Boundaries_in_England_V4/WFSServer"
+    }, 
+    {
+      "name" : "CCG_Apr_2017_Super_Generalised_Clipped_Boundaries_in_England_V4", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CCG_Apr_2017_Super_Generalised_Clipped_Boundaries_in_England_V4/FeatureServer"
+    }, 
+    {
+      "name" : "CCG_Apr_2017_Super_Generalised_Clipped_Boundaries_in_England_V4", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CCG_Apr_2017_Super_Generalised_Clipped_Boundaries_in_England_V4/WFSServer"
+    }, 
+    {
+      "name" : "CCG_Apr_2017_Ultra_Generalised_Clipped_Boundaries_in_England_V4", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CCG_Apr_2017_Ultra_Generalised_Clipped_Boundaries_in_England_V4/FeatureServer"
+    }, 
+    {
+      "name" : "CCG_Apr_2017_Ultra_Generalised_Clipped_Boundaries_in_England_V4", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CCG_Apr_2017_Ultra_Generalised_Clipped_Boundaries_in_England_V4/WFSServer"
+    }, 
+    {
       "name" : "CCG_APR_2018_EN_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CCG_APR_2018_EN_NC/FeatureServer"
@@ -555,6 +640,26 @@
       "name" : "CCG_APR_2018_EN_NC_44dd3229a6e0414fbe398dad9917161b", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CCG_APR_2018_EN_NC_44dd3229a6e0414fbe398dad9917161b/FeatureServer"
+    }, 
+    {
+      "name" : "CCG_Apr_2018_Super_Generalised_Clipped_Boundaries_in_England", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CCG_Apr_2018_Super_Generalised_Clipped_Boundaries_in_England/FeatureServer"
+    }, 
+    {
+      "name" : "CCG_Apr_2018_Super_Generalised_Clipped_Boundaries_in_England", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CCG_Apr_2018_Super_Generalised_Clipped_Boundaries_in_England/WFSServer"
+    }, 
+    {
+      "name" : "CCG_Apr_2018_Ultra_Generalised_Clipped_Boundaries_in_England", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CCG_Apr_2018_Ultra_Generalised_Clipped_Boundaries_in_England/FeatureServer"
+    }, 
+    {
+      "name" : "CCG_Apr_2018_Ultra_Generalised_Clipped_Boundaries_in_England", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CCG_Apr_2018_Ultra_Generalised_Clipped_Boundaries_in_England/WFSServer"
     }, 
     {
       "name" : "CCG_APR_2019_EN_NC", 
@@ -605,6 +710,26 @@
       "name" : "CCG_DEC_2016_EN_NC_5e48701a474e40d987c6c4bfe1d35fee", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CCG_DEC_2016_EN_NC_5e48701a474e40d987c6c4bfe1d35fee/FeatureServer"
+    }, 
+    {
+      "name" : "CCG_July_2015_Super_Generalised_Clipped_Boundaries_in_England", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CCG_July_2015_Super_Generalised_Clipped_Boundaries_in_England/FeatureServer"
+    }, 
+    {
+      "name" : "CCG_July_2015_Super_Generalised_Clipped_Boundaries_in_England", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CCG_July_2015_Super_Generalised_Clipped_Boundaries_in_England/WFSServer"
+    }, 
+    {
+      "name" : "CCG_July_2015_Ultra_Generalised_Clipped_Boundaries_in_England", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CCG_July_2015_Ultra_Generalised_Clipped_Boundaries_in_England/FeatureServer"
+    }, 
+    {
+      "name" : "CCG_July_2015_Ultra_Generalised_Clipped_Boundaries_in_England", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CCG_July_2015_Ultra_Generalised_Clipped_Boundaries_in_England/WFSServer"
     }, 
     {
       "name" : "CCG17_NHSRLO17_NHSER17_EN_LU_v3", 
@@ -702,9 +827,19 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CCG20_STP20_CAL20_EN_LU/FeatureServer"
     }, 
     {
+      "name" : "CCG20_STP20_CAL20_EN_LU_f7e1451c09b342a58366e6320e36cae9", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CCG20_STP20_CAL20_EN_LU_f7e1451c09b342a58366e6320e36cae9/FeatureServer"
+    }, 
+    {
       "name" : "CCG20_STP20_EN_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CCG20_STP20_EN_LU/FeatureServer"
+    }, 
+    {
+      "name" : "CCG20_STP20_EN_LU_23f15570782b4e388a885fe8842d0858", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CCG20_STP20_EN_LU_23f15570782b4e388a885fe8842d0858/FeatureServer"
     }, 
     {
       "name" : "CCG20_STP20_NHSER20_EN_LU", 
@@ -712,9 +847,19 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CCG20_STP20_NHSER20_EN_LU/FeatureServer"
     }, 
     {
+      "name" : "CCG20_STP20_NHSER20_EN_LU_acd8286a0ce74bc8a5b1d66e7b90b425", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CCG20_STP20_NHSER20_EN_LU_acd8286a0ce74bc8a5b1d66e7b90b425/FeatureServer"
+    }, 
+    {
       "name" : "CCG21_STP21_CAL21_EN_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CCG21_STP21_CAL21_EN_LU/FeatureServer"
+    }, 
+    {
+      "name" : "CCG21_STP21_CAL21_EN_LU_4d1428f28ddd4392bf86126a8023db8b", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CCG21_STP21_CAL21_EN_LU_4d1428f28ddd4392bf86126a8023db8b/FeatureServer"
     }, 
     {
       "name" : "CCG21_STP21_EN_LU", 
@@ -722,9 +867,19 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CCG21_STP21_EN_LU/FeatureServer"
     }, 
     {
+      "name" : "CCG21_STP21_EN_LU_1ce1f924d3dd44eca0797b516db80280", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CCG21_STP21_EN_LU_1ce1f924d3dd44eca0797b516db80280/FeatureServer"
+    }, 
+    {
       "name" : "CCG21_STP21_NHSER21_EN_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CCG21_STP21_NHSER21_EN_LU/FeatureServer"
+    }, 
+    {
+      "name" : "CCG21_STP21_NHSER21_EN_LU_90cfdfd508a04c2e9a40afdf0147ed51", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CCG21_STP21_NHSER21_EN_LU_90cfdfd508a04c2e9a40afdf0147ed51/FeatureServer"
     }, 
     {
       "name" : "CED_DEC_2019_EN_NC", 
@@ -867,6 +1022,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CIS20_RGN20_EN_LU/FeatureServer"
     }, 
     {
+      "name" : "CIS20_to_RGN19_Lookup_b5eba17b771a43d7a6b956376b274c8f", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CIS20_to_RGN19_Lookup_b5eba17b771a43d7a6b956376b274c8f/FeatureServer"
+    }, 
+    {
       "name" : "Clinical Commissioning Groups (April 2019) Boundaries EN BFC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Clinical Commissioning Groups (April 2019) Boundaries EN BFC/MapServer"
@@ -912,6 +1072,16 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Clinical Commissioning Groups (April 2021) EN BUC/MapServer"
     }, 
     {
+      "name" : "Clinical_Commissioning_Group_to_STP_and_NHS_England_Region_April_2020_Lookup_in_England", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Clinical_Commissioning_Group_to_STP_and_NHS_England_Region_April_2020_Lookup_in_England/WFSServer"
+    }, 
+    {
+      "name" : "Clinical_Commissioning_Group_to_STP_and_NHS_England_Region_April_2021_Lookup_in_England", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Clinical_Commissioning_Group_to_STP_and_NHS_England_Region_April_2021_Lookup_in_England/WFSServer"
+    }, 
+    {
       "name" : "Clinical_Commissioning_Group_to_STPs_April_2017_Lookup_in_England_Version_3_", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Clinical_Commissioning_Group_to_STPs_April_2017_Lookup_in_England_Version_3_/WFSServer"
@@ -925,6 +1095,26 @@
       "name" : "Clinical_Commissioning_Group_to_STPs_April_2019_Lookup_in_England", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Clinical_Commissioning_Group_to_STPs_April_2019_Lookup_in_England/WFSServer"
+    }, 
+    {
+      "name" : "Clinical_Commissioning_Group_to_STPs_April_2020_Lookup_in_England", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Clinical_Commissioning_Group_to_STPs_April_2020_Lookup_in_England/WFSServer"
+    }, 
+    {
+      "name" : "Clinical_Commissioning_Group_to_STPs_April_2021_Lookup_in_England", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Clinical_Commissioning_Group_to_STPs_April_2021_Lookup_in_England/WFSServer"
+    }, 
+    {
+      "name" : "Clinical_Commissioning_Group_to_STPs_to_Cancer_Alliances_April_2020_Lookup_in_England", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Clinical_Commissioning_Group_to_STPs_to_Cancer_Alliances_April_2020_Lookup_in_England/WFSServer"
+    }, 
+    {
+      "name" : "Clinical_Commissioning_Group_to_STPs_to_Cancer_Alliances_April_2021_Lookup_in_England", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Clinical_Commissioning_Group_to_STPs_to_Cancer_Alliances_April_2021_Lookup_in_England/WFSServer"
     }, 
     {
       "name" : "Clinical_Commissioning_Group_to_STPs_to_Cancer_Alliances_July_2019_Lookup_in_England", 
@@ -4597,6 +4787,16 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey_(October_2020)_to_Region_Lookup_in_England/FeatureServer"
     }, 
     {
+      "name" : "Covid_Infection_Survey__October_2020__to_Country_Lookup_for_the_United_Kingdom", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey__October_2020__to_Country_Lookup_for_the_United_Kingdom/FeatureServer"
+    }, 
+    {
+      "name" : "Covid_Infection_Survey__October_2020__to_Region_Lookup_in_England", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey__October_2020__to_Region_Lookup_in_England/FeatureServer"
+    }, 
+    {
       "name" : "Covid_Infection_Survey_December_2020_UK_BFC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey_December_2020_UK_BFC/FeatureServer"
@@ -4635,6 +4835,11 @@
       "name" : "Covid_Infection_Survey_December_2020_UK_BUC_fc8f859d413a4cd1b403cebb37423888", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey_December_2020_UK_BUC_fc8f859d413a4cd1b403cebb37423888/FeatureServer"
+    }, 
+    {
+      "name" : "Covid_Infection_Survey_Geography_2020_to_the_Regions_2019_Lookup_for_the_United_Kingdom", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey_Geography_2020_to_the_Regions_2019_Lookup_for_the_United_Kingdom/WFSServer"
     }, 
     {
       "name" : "Covid_Infection_Survey_Geography_October_2020_UK_BGC", 
@@ -4705,6 +4910,16 @@
       "name" : "Covid_Infection_Survey_October_2020_EN_BUC", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey_October_2020_EN_BUC/WFSServer"
+    }, 
+    {
+      "name" : "Covid_Infection_Survey_October_2020_to_Country_Lookup_for_the_United_Kingdom", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey_October_2020_to_Country_Lookup_for_the_United_Kingdom/WFSServer"
+    }, 
+    {
+      "name" : "Covid_Infection_Survey_October_2020_to_Region_Lookup_in_England", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey_October_2020_to_Region_Lookup_in_England/WFSServer"
     }, 
     {
       "name" : "CSP_DEC_2016_EN_NC", 
@@ -5150,6 +5365,11 @@
       "name" : "European_Electoral_Regions_December_2017_GB_BFC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/European_Electoral_Regions_December_2017_GB_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "European_Electoral_Regions_December_2017_GB_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/European_Electoral_Regions_December_2017_GB_BFE/FeatureServer"
     }, 
     {
       "name" : "European_Electoral_Regions_December_2017_GB_BUC", 
@@ -6418,13 +6638,13 @@
     }, 
     {
       "name" : "IPN_GB_2020", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/IPN_GB_2020/MapServer"
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/IPN_GB_2020/WFSServer"
     }, 
     {
       "name" : "IPN_GB_2020", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/IPN_GB_2020/WFSServer"
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/IPN_GB_2020/MapServer"
     }, 
     {
       "name" : "IPN_GB_2020_437c203558714167ae36fcbfd329ab5e", 
@@ -6867,9 +7087,19 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD18_CIS20_EN_LU_v1/FeatureServer"
     }, 
     {
+      "name" : "LAD18_CIS20_EN_LU_v1_5fbc82fc73e6407facd67a1c5e4cc043", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD18_CIS20_EN_LU_v1_5fbc82fc73e6407facd67a1c5e4cc043/FeatureServer"
+    }, 
+    {
       "name" : "LAD18_CIS20_GB_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD18_CIS20_GB_LU/FeatureServer"
+    }, 
+    {
+      "name" : "LAD18_CIS20_GB_LU_1de3fb723e594e379468decf62be9e58", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD18_CIS20_GB_LU_1de3fb723e594e379468decf62be9e58/FeatureServer"
     }, 
     {
       "name" : "LAD18_CSP18_PFA18_EW_LU", 
@@ -6977,9 +7207,19 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD19_CIS20_EN_LU/FeatureServer"
     }, 
     {
+      "name" : "LAD19_CIS20_EN_LU_f408cfe25ebb4ac59e733aeb2fcb28a5", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD19_CIS20_EN_LU_f408cfe25ebb4ac59e733aeb2fcb28a5/FeatureServer"
+    }, 
+    {
       "name" : "LAD19_CIS20_GB_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD19_CIS20_GB_LU/FeatureServer"
+    }, 
+    {
+      "name" : "LAD19_CIS20_GB_LU_ed5b75bc28e24b5d81b393cba28c48d3", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD19_CIS20_GB_LU_ed5b75bc28e24b5d81b393cba28c48d3/FeatureServer"
     }, 
     {
       "name" : "LAD19_CSP19_PFA19_EW_LU", 
@@ -7057,6 +7297,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD19_PHEC19_PHEREG19_EN_LU/FeatureServer"
     }, 
     {
+      "name" : "LAD19_PHEC19_PHEREG19_EN_LU_38a702459dca46bd83d9f925ba32ef73", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD19_PHEC19_PHEREG19_EN_LU_38a702459dca46bd83d9f925ba32ef73/FeatureServer"
+    }, 
+    {
       "name" : "LAD19_RGN19_EN_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD19_RGN19_EN_LU/FeatureServer"
@@ -7100,6 +7345,11 @@
       "name" : "LAD20_CIS20_EN_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD20_CIS20_EN_LU/FeatureServer"
+    }, 
+    {
+      "name" : "LAD20_CIS20_EN_LU_74a7328e2663450184425b3e9012a565", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD20_CIS20_EN_LU_74a7328e2663450184425b3e9012a565/FeatureServer"
     }, 
     {
       "name" : "LAD20_CSP20_PFA20_EW_LU", 
@@ -7167,6 +7417,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD20_PHEC20_PHEREG20_EN_LU/FeatureServer"
     }, 
     {
+      "name" : "LAD20_PHEC20_PHEREG20_EN_LU_0a7f294c467540c29c2c1fe96b8f752c", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD20_PHEC20_PHEREG20_EN_LU_0a7f294c467540c29c2c1fe96b8f752c/FeatureServer"
+    }, 
+    {
       "name" : "LAD20_RGN20_EN_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD20_RGN20_EN_LU/FeatureServer"
@@ -7180,6 +7435,11 @@
       "name" : "LAD20_SCN20_EN_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD20_SCN20_EN_LU/FeatureServer"
+    }, 
+    {
+      "name" : "LAD20_SCN20_EN_LU_3897901423a448adaae73fe2886a3b4c", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD20_SCN20_EN_LU_3897901423a448adaae73fe2886a3b4c/FeatureServer"
     }, 
     {
       "name" : "LAD21_CTRY21_UK_LU", 
@@ -7242,6 +7502,21 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/lau1/FeatureServer"
     }, 
     {
+      "name" : "LAU1_(Jan_2018)_Full_Clipped_Boundaries_in_the_UK", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAU1_(Jan_2018)_Full_Clipped_Boundaries_in_the_UK/MapServer"
+    }, 
+    {
+      "name" : "LAU1_(Jan_2018)_Full_Extent_Boundaries_in_the_UK", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAU1_(Jan_2018)_Full_Extent_Boundaries_in_the_UK/MapServer"
+    }, 
+    {
+      "name" : "LAU1_(Jan_2018)_Generalised_Clipped_Boundaries_in_the_UK", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAU1_(Jan_2018)_Generalised_Clipped_Boundaries_in_the_UK/MapServer"
+    }, 
+    {
       "name" : "LAU1_2012_GB_BGC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAU1_2012_GB_BGC/FeatureServer"
@@ -7255,6 +7530,36 @@
       "name" : "LAU1_JAN_2012_UK_NC_d4abc39cb59a48858b38be0baf2a097f", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAU1_JAN_2012_UK_NC_d4abc39cb59a48858b38be0baf2a097f/FeatureServer"
+    }, 
+    {
+      "name" : "LAU1_Jan_2018_Full_Clipped_Boundaries_in_the_UK", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAU1_Jan_2018_Full_Clipped_Boundaries_in_the_UK/FeatureServer"
+    }, 
+    {
+      "name" : "LAU1_Jan_2018_Full_Clipped_Boundaries_in_the_UK", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAU1_Jan_2018_Full_Clipped_Boundaries_in_the_UK/WFSServer"
+    }, 
+    {
+      "name" : "LAU1_Jan_2018_Full_Extent_Boundaries_in_the_UK", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAU1_Jan_2018_Full_Extent_Boundaries_in_the_UK/FeatureServer"
+    }, 
+    {
+      "name" : "LAU1_Jan_2018_Full_Extent_Boundaries_in_the_UK", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAU1_Jan_2018_Full_Extent_Boundaries_in_the_UK/WFSServer"
+    }, 
+    {
+      "name" : "LAU1_Jan_2018_Generalised_Clipped_Boundaries_in_the_UK", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAU1_Jan_2018_Generalised_Clipped_Boundaries_in_the_UK/FeatureServer"
+    }, 
+    {
+      "name" : "LAU1_Jan_2018_Generalised_Clipped_Boundaries_in_the_UK", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAU1_Jan_2018_Generalised_Clipped_Boundaries_in_the_UK/WFSServer"
     }, 
     {
       "name" : "LAU1_JAN_2021_UK_NC", 
@@ -7382,6 +7687,16 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEP_APR_2017_EN_NC_V2_af0b7b66a3f14444b58d18976c7c2b46/FeatureServer"
     }, 
     {
+      "name" : "LEP_Apr_2017_Super_Generalised_Clipped_Boundaries_in_England", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEP_Apr_2017_Super_Generalised_Clipped_Boundaries_in_England/WFSServer"
+    }, 
+    {
+      "name" : "LEP_Apr_2017_Ultra_Generalised_Clipped_Boundaries_in_England", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEP_Apr_2017_Ultra_Generalised_Clipped_Boundaries_in_England/WFSServer"
+    }, 
+    {
       "name" : "LEP_APR_2020_NC_EN", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEP_APR_2020_NC_EN/FeatureServer"
@@ -7432,6 +7747,31 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEP_MAY_2021_EN_BUC_V2_febd51bd685a4ebcb5c89b89143c5040/FeatureServer"
     }, 
     {
+      "name" : "LEPNOP_(Apr_2017)_Full_Clipped_Boundaries_in_England", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPNOP_(Apr_2017)_Full_Clipped_Boundaries_in_England/MapServer"
+    }, 
+    {
+      "name" : "LEPNOP_(Apr_2017)_Full_Extent_Boundaries_in_England", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPNOP_(Apr_2017)_Full_Extent_Boundaries_in_England/MapServer"
+    }, 
+    {
+      "name" : "LEPNOP_(Apr_2020)_Full_Clipped_Boundaries_in_England", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPNOP_(Apr_2020)_Full_Clipped_Boundaries_in_England/MapServer"
+    }, 
+    {
+      "name" : "LEPNOP_(Apr_2020)_Full_Extent_Boundaries_in_England", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPNOP_(Apr_2020)_Full_Extent_Boundaries_in_England/MapServer"
+    }, 
+    {
+      "name" : "LEPNOP_(Apr_2020)_Generalised_Clipped_Boundaries_in_England", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPNOP_(Apr_2020)_Generalised_Clipped_Boundaries_in_England/MapServer"
+    }, 
+    {
       "name" : "LEPNOP_APR_2017_EN_NC_V2", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPNOP_APR_2017_EN_NC_V2/FeatureServer"
@@ -7440,6 +7780,26 @@
       "name" : "LEPNOP_APR_2017_EN_NC_V2_837f82f0e9504aa9809d3b92789fc342", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPNOP_APR_2017_EN_NC_V2_837f82f0e9504aa9809d3b92789fc342/FeatureServer"
+    }, 
+    {
+      "name" : "LEPNOP_Apr_2017_Full_Clipped_Boundaries_in_England", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPNOP_Apr_2017_Full_Clipped_Boundaries_in_England/FeatureServer"
+    }, 
+    {
+      "name" : "LEPNOP_Apr_2017_Full_Clipped_Boundaries_in_England", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPNOP_Apr_2017_Full_Clipped_Boundaries_in_England/WFSServer"
+    }, 
+    {
+      "name" : "LEPNOP_Apr_2017_Full_Extent_Boundaries_in_England", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPNOP_Apr_2017_Full_Extent_Boundaries_in_England/FeatureServer"
+    }, 
+    {
+      "name" : "LEPNOP_Apr_2017_Full_Extent_Boundaries_in_England", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPNOP_Apr_2017_Full_Extent_Boundaries_in_England/WFSServer"
     }, 
     {
       "name" : "LEPNOP_APR_2020_EN_NC", 
@@ -7452,6 +7812,36 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPNOP_APR_2020_EN_NC_e92ab458706743c0a8f4eca2805fe342/FeatureServer"
     }, 
     {
+      "name" : "LEPNOP_Apr_2020_Full_Clipped_Boundaries_in_England", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPNOP_Apr_2020_Full_Clipped_Boundaries_in_England/FeatureServer"
+    }, 
+    {
+      "name" : "LEPNOP_Apr_2020_Full_Clipped_Boundaries_in_England", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPNOP_Apr_2020_Full_Clipped_Boundaries_in_England/WFSServer"
+    }, 
+    {
+      "name" : "LEPNOP_Apr_2020_Full_Extent_Boundaries_in_England", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPNOP_Apr_2020_Full_Extent_Boundaries_in_England/FeatureServer"
+    }, 
+    {
+      "name" : "LEPNOP_Apr_2020_Full_Extent_Boundaries_in_England", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPNOP_Apr_2020_Full_Extent_Boundaries_in_England/WFSServer"
+    }, 
+    {
+      "name" : "LEPNOP_Apr_2020_Generalised_Clipped_Boundaries_in_England", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPNOP_Apr_2020_Generalised_Clipped_Boundaries_in_England/FeatureServer"
+    }, 
+    {
+      "name" : "LEPNOP_Apr_2020_Generalised_Clipped_Boundaries_in_England", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPNOP_Apr_2020_Generalised_Clipped_Boundaries_in_England/WFSServer"
+    }, 
+    {
       "name" : "LEPNOP_APR_2021_EN_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPNOP_APR_2021_EN_NC/FeatureServer"
@@ -7460,6 +7850,31 @@
       "name" : "LEPNOP_APR_2021_EN_NC_be8d74a99f9245aeb0bf6e7eaa35480b", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPNOP_APR_2021_EN_NC_be8d74a99f9245aeb0bf6e7eaa35480b/FeatureServer"
+    }, 
+    {
+      "name" : "LEPOP_(Apr_2017)_Full_Clipped_Boundaries_in_England", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPOP_(Apr_2017)_Full_Clipped_Boundaries_in_England/MapServer"
+    }, 
+    {
+      "name" : "LEPOP_(Apr_2017)_Full_Extent_Boundaries_in_England", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPOP_(Apr_2017)_Full_Extent_Boundaries_in_England/MapServer"
+    }, 
+    {
+      "name" : "LEPOP_(Apr_2020)_Full_Clipped_Boundaries_in_England", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPOP_(Apr_2020)_Full_Clipped_Boundaries_in_England/MapServer"
+    }, 
+    {
+      "name" : "LEPOP_(Apr_2020)_Full_Extent_Boundaries_in_England", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPOP_(Apr_2020)_Full_Extent_Boundaries_in_England/MapServer"
+    }, 
+    {
+      "name" : "LEPOP_(Apr_2020)_Generalised_Clipped_Boundaries_in_England", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPOP_(Apr_2020)_Generalised_Clipped_Boundaries_in_England/MapServer"
     }, 
     {
       "name" : "LEPOP_APR_2017_EN_NC_V2", 
@@ -7472,6 +7887,26 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPOP_APR_2017_EN_NC_V2_ea3cc2a426fe45299f06e54683b2ffeb/FeatureServer"
     }, 
     {
+      "name" : "LEPOP_Apr_2017_Full_Clipped_Boundaries_in_England", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPOP_Apr_2017_Full_Clipped_Boundaries_in_England/FeatureServer"
+    }, 
+    {
+      "name" : "LEPOP_Apr_2017_Full_Clipped_Boundaries_in_England", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPOP_Apr_2017_Full_Clipped_Boundaries_in_England/WFSServer"
+    }, 
+    {
+      "name" : "LEPOP_Apr_2017_Full_Extent_Boundaries_in_England", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPOP_Apr_2017_Full_Extent_Boundaries_in_England/FeatureServer"
+    }, 
+    {
+      "name" : "LEPOP_Apr_2017_Full_Extent_Boundaries_in_England", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPOP_Apr_2017_Full_Extent_Boundaries_in_England/WFSServer"
+    }, 
+    {
       "name" : "LEPOP_APR_2020_EN_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPOP_APR_2020_EN_NC/FeatureServer"
@@ -7480,6 +7915,41 @@
       "name" : "LEPOP_APR_2020_EN_NC_8ed937f2eff241549d80047f73cad5d8", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPOP_APR_2020_EN_NC_8ed937f2eff241549d80047f73cad5d8/FeatureServer"
+    }, 
+    {
+      "name" : "LEPOP_Apr_2020_Full_Clipped_Boundaries_in_England", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPOP_Apr_2020_Full_Clipped_Boundaries_in_England/FeatureServer"
+    }, 
+    {
+      "name" : "LEPOP_Apr_2020_Full_Clipped_Boundaries_in_England", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPOP_Apr_2020_Full_Clipped_Boundaries_in_England/WFSServer"
+    }, 
+    {
+      "name" : "LEPOP_Apr_2020_Full_Extent_Boundaries_in_England", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPOP_Apr_2020_Full_Extent_Boundaries_in_England/FeatureServer"
+    }, 
+    {
+      "name" : "LEPOP_Apr_2020_Full_Extent_Boundaries_in_England", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPOP_Apr_2020_Full_Extent_Boundaries_in_England/WFSServer"
+    }, 
+    {
+      "name" : "LEPOP_Apr_2020_Generalised_Clipped_Boundaries_in_England", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPOP_Apr_2020_Generalised_Clipped_Boundaries_in_England/FeatureServer"
+    }, 
+    {
+      "name" : "LEPOP_Apr_2020_Generalised_Clipped_Boundaries_in_England", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPOP_Apr_2020_Generalised_Clipped_Boundaries_in_England/WFSServer"
+    }, 
+    {
+      "name" : "LEPOP_Apr_2020_Ultra_Generalised_Clipped_Boundaries_in_England", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPOP_Apr_2020_Ultra_Generalised_Clipped_Boundaries_in_England/WFSServer"
     }, 
     {
       "name" : "LEPOP_APR_2021_EN_NC", 
@@ -8132,6 +8602,26 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_District_December_2013_to_NUTS3_to_NUTS2_to_NUTS1_January_2015_Lookup_in_the_UK/WFSServer"
     }, 
     {
+      "name" : "Local_Authority_District_May_2018_to_Covid_Infection_Survey_October_2020_Lookup_for_Great_Britain", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_District_May_2018_to_Covid_Infection_Survey_October_2020_Lookup_for_Great_Britain/WFSServer"
+    }, 
+    {
+      "name" : "Local_Authority_District_May_2018_to_Covid_Infection_Survey_October_2020_Lookup_in_England", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_District_May_2018_to_Covid_Infection_Survey_October_2020_Lookup_in_England/WFSServer"
+    }, 
+    {
+      "name" : "Local_Authority_District_May_2019_to_Covid_Infection_Survey_October_2020_Lookup_in_England", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_District_May_2019_to_Covid_Infection_Survey_October_2020_Lookup_in_England/WFSServer"
+    }, 
+    {
+      "name" : "Local_Authority_District_May_2020_to_Covid_Infection_Survey_October_2020_Lookup_in_England", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_District_May_2020_to_Covid_Infection_Survey_October_2020_Lookup_in_England/WFSServer"
+    }, 
+    {
       "name" : "Local_Authority_District_to_Combined_Authority_December_2018_Lookup_in_England", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_District_to_Combined_Authority_December_2018_Lookup_in_England/WFSServer"
@@ -8350,6 +8840,11 @@
       "name" : "Local_Authority_District_to_Strategic_Clinical_Network_December_2018_Lookup_in_England", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_District_to_Strategic_Clinical_Network_December_2018_Lookup_in_England/WFSServer"
+    }, 
+    {
+      "name" : "Local_Authority_District_to_Strategic_Clinical_Network_December_2020_Lookup_in_England", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_District_to_Strategic_Clinical_Network_December_2020_Lookup_in_England/WFSServer"
     }, 
     {
       "name" : "Local_Authority_Districts_(April_2019)_Boundaries_UK_BFC", 
@@ -11812,6 +12307,16 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_2011_EW_NC_6fe4968cc083413988b2c5d643e1d248/FeatureServer"
     }, 
     {
+      "name" : "LSOA_2011_to_Clinical_Commissioning_Group_to_STP_to_Cancer_Alliances_April_2020_Lookup_in_England", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_2011_to_Clinical_Commissioning_Group_to_STP_to_Cancer_Alliances_April_2020_Lookup_in_England/WFSServer"
+    }, 
+    {
+      "name" : "LSOA_2011_to_Clinical_Commissioning_Group_to_STP_to_Cancer_Alliances_April_2021_Lookup_in_England", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_2011_to_Clinical_Commissioning_Group_to_STP_to_Cancer_Alliances_April_2021_Lookup_in_England/WFSServer"
+    }, 
+    {
       "name" : "LSOA_2011_to_Clinical_Commissioning_Group_to_STP_to_Cancer_Alliances_July_2019_Lookup_in_England", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_2011_to_Clinical_Commissioning_Group_to_STP_to_Cancer_Alliances_July_2019_Lookup_in_England/WFSServer"
@@ -12072,9 +12577,19 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA11_CCG19_STP19_LAD19_EN/FeatureServer"
     }, 
     {
+      "name" : "LSOA11_CCG19_STP19_LAD19_EN_07ff742a3ce94aa99f44b96062fd1117", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA11_CCG19_STP19_LAD19_EN_07ff742a3ce94aa99f44b96062fd1117/FeatureServer"
+    }, 
+    {
       "name" : "LSOA11_CCG20_LAD20_EN_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA11_CCG20_LAD20_EN_LU/FeatureServer"
+    }, 
+    {
+      "name" : "LSOA11_CCG20_LAD20_EN_LU_70eab767c27c42bfb95aab5f67d05cdc", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA11_CCG20_LAD20_EN_LU_70eab767c27c42bfb95aab5f67d05cdc/FeatureServer"
     }, 
     {
       "name" : "LSOA11_CCG20_STP20_CAL20_LAD20_EN_LU", 
@@ -12082,9 +12597,19 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA11_CCG20_STP20_CAL20_LAD20_EN_LU/FeatureServer"
     }, 
     {
+      "name" : "LSOA11_CCG20_STP20_CAL20_LAD20_EN_LU_f1e17ac2abc84efca8ae1f4846fa951c", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA11_CCG20_STP20_CAL20_LAD20_EN_LU_f1e17ac2abc84efca8ae1f4846fa951c/FeatureServer"
+    }, 
+    {
       "name" : "LSOA11_CCG20_STP20_LAD20_EN_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA11_CCG20_STP20_LAD20_EN_LU/FeatureServer"
+    }, 
+    {
+      "name" : "LSOA11_CCG20_STP20_LAD20_EN_LU_14f86a781411470d99bb24dc4e218aeb", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA11_CCG20_STP20_LAD20_EN_LU_14f86a781411470d99bb24dc4e218aeb/FeatureServer"
     }, 
     {
       "name" : "LSOA11_CCG21_LAD21_EN_LU", 
@@ -12092,14 +12617,29 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA11_CCG21_LAD21_EN_LU/FeatureServer"
     }, 
     {
+      "name" : "LSOA11_CCG21_LAD21_EN_LU_b6ad2e7a1bd74f88992e94126570be36", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA11_CCG21_LAD21_EN_LU_b6ad2e7a1bd74f88992e94126570be36/FeatureServer"
+    }, 
+    {
       "name" : "LSOA11_CCG21_STP21_CAL21_LAD21_EN_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA11_CCG21_STP21_CAL21_LAD21_EN_LU/FeatureServer"
     }, 
     {
+      "name" : "LSOA11_CCG21_STP21_CAL21_LAD21_EN_LU_f3b57157421d4eaa81e77d3ecc4b5bda", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA11_CCG21_STP21_CAL21_LAD21_EN_LU_f3b57157421d4eaa81e77d3ecc4b5bda/FeatureServer"
+    }, 
+    {
       "name" : "LSOA11_CCG21_STP21_LAD21_EN_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA11_CCG21_STP21_LAD21_EN_LU/FeatureServer"
+    }, 
+    {
+      "name" : "LSOA11_CCG21_STP21_LAD21_EN_LU_ae1a442ee397483cab1a31f2e7b24029", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA11_CCG21_STP21_LAD21_EN_LU_ae1a442ee397483cab1a31f2e7b24029/FeatureServer"
     }, 
     {
       "name" : "LSOA11_CIS20_UK_LU", 
@@ -12145,6 +12685,11 @@
       "name" : "LSOA11_TCITY15_EW_LU_41dd2bd6c01341caad94ccba05e0bfc4", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA11_TCITY15_EW_LU_41dd2bd6c01341caad94ccba05e0bfc4/FeatureServer"
+    }, 
+    {
+      "name" : "LSOA11_to_CIS20_Lookup_532f33a284be4668b314a5dbc742e653", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA11_to_CIS20_Lookup_532f33a284be4668b314a5dbc742e653/FeatureServer"
     }, 
     {
       "name" : "LSOA11_TTWA11_UK_LU", 
@@ -12935,6 +13480,11 @@
       "name" : "MSOA11_TCITY15_EW_LU_e9458a2654ac404c961d645c86978493", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA11_TCITY15_EW_LU_e9458a2654ac404c961d645c86978493/FeatureServer"
+    }, 
+    {
+      "name" : "MSOA11_to_CIS20_Lookup_131d08fc16814c5d8113175e0c9c6de2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA11_to_CIS20_Lookup_131d08fc16814c5d8113175e0c9c6de2/FeatureServer"
     }, 
     {
       "name" : "MSOA11_WD15_EW_LU", 
@@ -14772,6 +15322,26 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSCR_2015_EW_BSC/FeatureServer"
     }, 
     {
+      "name" : "NHSCR_Apr_2016_Super_Generalised_Clipped_Boundaries_in_England", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSCR_Apr_2016_Super_Generalised_Clipped_Boundaries_in_England/FeatureServer"
+    }, 
+    {
+      "name" : "NHSCR_Apr_2016_Super_Generalised_Clipped_Boundaries_in_England", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSCR_Apr_2016_Super_Generalised_Clipped_Boundaries_in_England/WFSServer"
+    }, 
+    {
+      "name" : "NHSCR_Apr_2016_Ultra_Generalised_Clipped_Boundaries_in_England", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSCR_Apr_2016_Ultra_Generalised_Clipped_Boundaries_in_England/FeatureServer"
+    }, 
+    {
+      "name" : "NHSCR_Apr_2016_Ultra_Generalised_Clipped_Boundaries_in_England", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSCR_Apr_2016_Ultra_Generalised_Clipped_Boundaries_in_England/WFSServer"
+    }, 
+    {
       "name" : "NHSER_APR_2017_EN_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSER_APR_2017_EN_NC/FeatureServer"
@@ -14817,6 +15387,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSRG_2015_EW_BSC/FeatureServer"
     }, 
     {
+      "name" : "NHSRLO_(Apr_2017)_Generalised_Clipped_Boundaries_in_England", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSRLO_(Apr_2017)_Generalised_Clipped_Boundaries_in_England/MapServer"
+    }, 
+    {
       "name" : "NHSRLO_APR_2017_EN_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSRLO_APR_2017_EN_NC/FeatureServer"
@@ -14825,6 +15400,36 @@
       "name" : "NHSRLO_APR_2017_EN_NC_71b55f64e13d40ec9ff812cfcb96e0c7", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSRLO_APR_2017_EN_NC_71b55f64e13d40ec9ff812cfcb96e0c7/FeatureServer"
+    }, 
+    {
+      "name" : "NHSRLO_Apr_2017_Generalised_Clipped_Boundaries_in_England", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSRLO_Apr_2017_Generalised_Clipped_Boundaries_in_England/FeatureServer"
+    }, 
+    {
+      "name" : "NHSRLO_Apr_2017_Generalised_Clipped_Boundaries_in_England", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSRLO_Apr_2017_Generalised_Clipped_Boundaries_in_England/WFSServer"
+    }, 
+    {
+      "name" : "NHSRLO_Apr_2017_Super_Generalised_Clipped_Boundaries_in_England", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSRLO_Apr_2017_Super_Generalised_Clipped_Boundaries_in_England/FeatureServer"
+    }, 
+    {
+      "name" : "NHSRLO_Apr_2017_Super_Generalised_Clipped_Boundaries_in_England", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSRLO_Apr_2017_Super_Generalised_Clipped_Boundaries_in_England/WFSServer"
+    }, 
+    {
+      "name" : "NHSRLO_Apr_2017_Ultra_Generalised_Clipped_Boundaries_in_England", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSRLO_Apr_2017_Ultra_Generalised_Clipped_Boundaries_in_England/FeatureServer"
+    }, 
+    {
+      "name" : "NHSRLO_Apr_2017_Ultra_Generalised_Clipped_Boundaries_in_England", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSRLO_Apr_2017_Ultra_Generalised_Clipped_Boundaries_in_England/WFSServer"
     }, 
     {
       "name" : "NHSRLO_APR_2018_EN_NC", 
@@ -15020,6 +15625,11 @@
       "name" : "NUTS_Level_1_(January_2015)_Ultra_Generalised_Clipped_Boundaries_in_England_and_Wales", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NUTS_Level_1_(January_2015)_Ultra_Generalised_Clipped_Boundaries_in_England_and_Wales/MapServer"
+    }, 
+    {
+      "name" : "NUTS_Level_1_(January_2018)_Full_Extent_Boundaries_in_the_United_Kingdom", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NUTS_Level_1_(January_2018)_Full_Extent_Boundaries_in_the_United_Kingdom/MapServer"
     }, 
     {
       "name" : "NUTS_Level_1_(January_2018)_Generalised_Clipped_Boundaries_in_the_United_Kingdom", 
@@ -15442,6 +16052,16 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/nuts1/FeatureServer"
     }, 
     {
+      "name" : "NUTS1_(Jan_2015)_Super_Generalised_Clipped_Boundaries_in_England_and_Wales", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NUTS1_(Jan_2015)_Super_Generalised_Clipped_Boundaries_in_England_and_Wales/MapServer"
+    }, 
+    {
+      "name" : "NUTS1_(Jan_2015)_Ultra_Generalised_Clipped_Boundaries_in_England_and_Wales", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NUTS1_(Jan_2015)_Ultra_Generalised_Clipped_Boundaries_in_England_and_Wales/MapServer"
+    }, 
+    {
       "name" : "NUTS1_2012_GB_BSC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NUTS1_2012_GB_BSC/FeatureServer"
@@ -15450,6 +16070,36 @@
       "name" : "NUTS1_2015_GB_BSC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NUTS1_2015_GB_BSC/FeatureServer"
+    }, 
+    {
+      "name" : "NUTS1_Jan_2015_Super_Generalised_Clipped_Boundaries_in_England_and_Wales", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NUTS1_Jan_2015_Super_Generalised_Clipped_Boundaries_in_England_and_Wales/FeatureServer"
+    }, 
+    {
+      "name" : "NUTS1_Jan_2015_Super_Generalised_Clipped_Boundaries_in_England_and_Wales", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NUTS1_Jan_2015_Super_Generalised_Clipped_Boundaries_in_England_and_Wales/WFSServer"
+    }, 
+    {
+      "name" : "NUTS1_Jan_2015_Ultra_Generalised_Clipped_Boundaries_in_England_and_Wales", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NUTS1_Jan_2015_Ultra_Generalised_Clipped_Boundaries_in_England_and_Wales/FeatureServer"
+    }, 
+    {
+      "name" : "NUTS1_Jan_2015_Ultra_Generalised_Clipped_Boundaries_in_England_and_Wales", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NUTS1_Jan_2015_Ultra_Generalised_Clipped_Boundaries_in_England_and_Wales/WFSServer"
+    }, 
+    {
+      "name" : "NUTS1_Jan_2018_Super_Generalised_Clipped_Boundaries_in_the_UK", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NUTS1_Jan_2018_Super_Generalised_Clipped_Boundaries_in_the_UK/FeatureServer"
+    }, 
+    {
+      "name" : "NUTS1_Jan_2018_Super_Generalised_Clipped_Boundaries_in_the_UK", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NUTS1_Jan_2018_Super_Generalised_Clipped_Boundaries_in_the_UK/WFSServer"
     }, 
     {
       "name" : "NUTS1_JAN_2018_UK_NC", 
@@ -15462,9 +16112,29 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NUTS1_JAN_2018_UK_NC_65a0cab573ab42dbb0a31035ee0da8fc/FeatureServer"
     }, 
     {
+      "name" : "NUTS1_Jan_2018_Ultra_Generalised_Clipped_Boundaries_in_the_UK", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NUTS1_Jan_2018_Ultra_Generalised_Clipped_Boundaries_in_the_UK/FeatureServer"
+    }, 
+    {
+      "name" : "NUTS1_Jan_2018_Ultra_Generalised_Clipped_Boundaries_in_the_UK", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NUTS1_Jan_2018_Ultra_Generalised_Clipped_Boundaries_in_the_UK/WFSServer"
+    }, 
+    {
       "name" : "nuts2", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/nuts2/FeatureServer"
+    }, 
+    {
+      "name" : "NUTS2_(Jan_2015)_Super_Generalised_Clipped_Boundaries_in_England_and_Wales", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NUTS2_(Jan_2015)_Super_Generalised_Clipped_Boundaries_in_England_and_Wales/MapServer"
+    }, 
+    {
+      "name" : "NUTS2_(Jan_2015)_Ultra_Generalised_Clipped_Boundaries_in_England_and_Wales", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NUTS2_(Jan_2015)_Ultra_Generalised_Clipped_Boundaries_in_England_and_Wales/MapServer"
     }, 
     {
       "name" : "NUTS2_2012_GB_BSC", 
@@ -15477,6 +16147,36 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NUTS2_2015_GB_BSC/FeatureServer"
     }, 
     {
+      "name" : "NUTS2_Jan_2015_Super_Generalised_Clipped_Boundaries_in_England_and_Wales", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NUTS2_Jan_2015_Super_Generalised_Clipped_Boundaries_in_England_and_Wales/FeatureServer"
+    }, 
+    {
+      "name" : "NUTS2_Jan_2015_Super_Generalised_Clipped_Boundaries_in_England_and_Wales", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NUTS2_Jan_2015_Super_Generalised_Clipped_Boundaries_in_England_and_Wales/WFSServer"
+    }, 
+    {
+      "name" : "NUTS2_Jan_2015_Ultra_Generalised_Clipped_Boundaries_in_England_and_Wales", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NUTS2_Jan_2015_Ultra_Generalised_Clipped_Boundaries_in_England_and_Wales/FeatureServer"
+    }, 
+    {
+      "name" : "NUTS2_Jan_2015_Ultra_Generalised_Clipped_Boundaries_in_England_and_Wales", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NUTS2_Jan_2015_Ultra_Generalised_Clipped_Boundaries_in_England_and_Wales/WFSServer"
+    }, 
+    {
+      "name" : "NUTS2_Jan_2018_Super_Generalised_Clipped_Boundaries_in_the_UK", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NUTS2_Jan_2018_Super_Generalised_Clipped_Boundaries_in_the_UK/FeatureServer"
+    }, 
+    {
+      "name" : "NUTS2_Jan_2018_Super_Generalised_Clipped_Boundaries_in_the_UK", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NUTS2_Jan_2018_Super_Generalised_Clipped_Boundaries_in_the_UK/WFSServer"
+    }, 
+    {
       "name" : "NUTS2_JAN_2018_UK_NCv2", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NUTS2_JAN_2018_UK_NCv2/FeatureServer"
@@ -15485,6 +16185,16 @@
       "name" : "NUTS2_JAN_2018_UK_NCv2_46d3f752f24e418ea86c25cc9b605398", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NUTS2_JAN_2018_UK_NCv2_46d3f752f24e418ea86c25cc9b605398/FeatureServer"
+    }, 
+    {
+      "name" : "NUTS2_Jan_2018_Ultra_Generalised_Clipped_Boundaries_in_the_UK", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NUTS2_Jan_2018_Ultra_Generalised_Clipped_Boundaries_in_the_UK/FeatureServer"
+    }, 
+    {
+      "name" : "NUTS2_Jan_2018_Ultra_Generalised_Clipped_Boundaries_in_the_UK", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NUTS2_Jan_2018_Ultra_Generalised_Clipped_Boundaries_in_the_UK/WFSServer"
     }, 
     {
       "name" : "NUTS215_NUTS218_UK_LU", 
@@ -15502,6 +16212,16 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/nuts3/FeatureServer"
     }, 
     {
+      "name" : "NUTS3_(Jan_2015)_Super_Generalised_Clipped_Boundaries_in_England_and_Wales", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NUTS3_(Jan_2015)_Super_Generalised_Clipped_Boundaries_in_England_and_Wales/MapServer"
+    }, 
+    {
+      "name" : "NUTS3_(Jan_2015)_Ultra_Generalised_Clipped_Boundaries_in_England_and_Wales", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NUTS3_(Jan_2015)_Ultra_Generalised_Clipped_Boundaries_in_England_and_Wales/MapServer"
+    }, 
+    {
       "name" : "NUTS3_2012_GB_BGC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NUTS3_2012_GB_BGC/FeatureServer"
@@ -15512,6 +16232,36 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NUTS3_2015_GB_BGC/FeatureServer"
     }, 
     {
+      "name" : "NUTS3_Jan_2015_Super_Generalised_Clipped_Boundaries_in_England_and_Wales", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NUTS3_Jan_2015_Super_Generalised_Clipped_Boundaries_in_England_and_Wales/FeatureServer"
+    }, 
+    {
+      "name" : "NUTS3_Jan_2015_Super_Generalised_Clipped_Boundaries_in_England_and_Wales", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NUTS3_Jan_2015_Super_Generalised_Clipped_Boundaries_in_England_and_Wales/WFSServer"
+    }, 
+    {
+      "name" : "NUTS3_Jan_2015_Ultra_Generalised_Clipped_Boundaries_in_England_and_Wales", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NUTS3_Jan_2015_Ultra_Generalised_Clipped_Boundaries_in_England_and_Wales/FeatureServer"
+    }, 
+    {
+      "name" : "NUTS3_Jan_2015_Ultra_Generalised_Clipped_Boundaries_in_England_and_Wales", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NUTS3_Jan_2015_Ultra_Generalised_Clipped_Boundaries_in_England_and_Wales/WFSServer"
+    }, 
+    {
+      "name" : "NUTS3_Jan_2018_Super_Generalised_Clipped_Boundaries_in_the_UK", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NUTS3_Jan_2018_Super_Generalised_Clipped_Boundaries_in_the_UK/FeatureServer"
+    }, 
+    {
+      "name" : "NUTS3_Jan_2018_Super_Generalised_Clipped_Boundaries_in_the_UK", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NUTS3_Jan_2018_Super_Generalised_Clipped_Boundaries_in_the_UK/WFSServer"
+    }, 
+    {
       "name" : "NUTS3_JAN_2018_UK_NCv2", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NUTS3_JAN_2018_UK_NCv2/FeatureServer"
@@ -15520,6 +16270,16 @@
       "name" : "NUTS3_JAN_2018_UK_NCv2_98d56b61eead43898c1b1a20de832e8c", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NUTS3_JAN_2018_UK_NCv2_98d56b61eead43898c1b1a20de832e8c/FeatureServer"
+    }, 
+    {
+      "name" : "NUTS3_Jan_2018_Ultra_Generalised_Clipped_Boundaries_in_the_UK", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NUTS3_Jan_2018_Ultra_Generalised_Clipped_Boundaries_in_the_UK/FeatureServer"
+    }, 
+    {
+      "name" : "NUTS3_Jan_2018_Ultra_Generalised_Clipped_Boundaries_in_the_UK", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NUTS3_Jan_2018_Ultra_Generalised_Clipped_Boundaries_in_the_UK/WFSServer"
     }, 
     {
       "name" : "NUTS315_NUTS318_UK_LU", 
@@ -15987,6 +16747,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA11_RGN11_EN_LU/FeatureServer"
     }, 
     {
+      "name" : "OA11_RGN11_EN_LU_d8ec12dc781c421ea3dce48c7f5f71d8", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA11_RGN11_EN_LU_d8ec12dc781c421ea3dce48c7f5f71d8/FeatureServer"
+    }, 
+    {
       "name" : "OA11_RGN16_EW_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA11_RGN16_EW_LU/FeatureServer"
@@ -16197,6 +16962,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Area_(December_2011)_Population_Weighted Centroids_in_England_and_Wales/MapServer"
     }, 
     {
+      "name" : "Output_Area__2011__to_Covid_Infection_Survey_Geography__2020__Lookup_in_the_United_Kindgom", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Area__2011__to_Covid_Infection_Survey_Geography__2020__Lookup_in_the_United_Kindgom/FeatureServer"
+    }, 
+    {
       "name" : "Output_Area_2001_to_Major_Towns_and_Cities_December_2015_Lookup_in_England_and_Wales", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Area_2001_to_Major_Towns_and_Cities_December_2015_Lookup_in_England_and_Wales/WFSServer"
@@ -16205,6 +16975,11 @@
       "name" : "Output_Area_2001_to_Output_Area_2011_to_Local_Authority_District_2011_Lookup_in_England_and_Wales", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Area_2001_to_Output_Area_2011_to_Local_Authority_District_2011_Lookup_in_England_and_Wales/WFSServer"
+    }, 
+    {
+      "name" : "Output_Area_2011_to_Covid_Infection_Survey_Geography_2020_Lookup_in_the_United_Kingdom", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Area_2011_to_Covid_Infection_Survey_Geography_2020_Lookup_in_the_United_Kingdom/WFSServer"
     }, 
     {
       "name" : "Output_Area_2011_to_Major_Towns_and_Cities_December_2015_Lookup_in_England_and_Wales", 
@@ -16277,6 +17052,16 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Area_to_Covid_Infection_Survey_(October_2020)_Lookup_in_England_v1/FeatureServer"
     }, 
     {
+      "name" : "Output_Area_to_Covid_Infection_Survey__October_2020__Lookup_for_the_United_Kingdom", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Area_to_Covid_Infection_Survey__October_2020__Lookup_for_the_United_Kingdom/FeatureServer"
+    }, 
+    {
+      "name" : "Output_Area_to_Covid_Infection_Survey_October_2020_Lookup_for_the_United_Kingdom", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Area_to_Covid_Infection_Survey_October_2020_Lookup_for_the_United_Kingdom/WFSServer"
+    }, 
+    {
       "name" : "Output_Area_to_LAU2_December_2016_Lookup_in_England_and_Wales", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Area_to_LAU2_December_2016_Lookup_in_England_and_Wales/WFSServer"
@@ -16315,6 +17100,11 @@
       "name" : "Output_Area_to_Postcode_Sector_December_2011_Lookup_in_England_and_Wales", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Area_to_Postcode_Sector_December_2011_Lookup_in_England_and_Wales/WFSServer"
+    }, 
+    {
+      "name" : "Output_Area_to_Region_December_2011_Lookup_in_England", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Area_to_Region_December_2011_Lookup_in_England/WFSServer"
     }, 
     {
       "name" : "Output_Area_to_Region_December_2016_Lookup_in_England_and_Wales", 
@@ -16480,6 +17270,11 @@
       "name" : "Output_Areas_December_2011_Boundaries_EW_BFC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_December_2011_Boundaries_EW_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "Output_Areas_December_2011_Boundaries_EW_BFC_92b5b55f1e864f2c9fea35cd67aa8a4d", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_December_2011_Boundaries_EW_BFC_92b5b55f1e864f2c9fea35cd67aa8a4d/FeatureServer"
     }, 
     {
       "name" : "Output_Areas_December_2011_Boundaries_EW_BFE", 
@@ -17848,13 +18643,13 @@
     }, 
     {
       "name" : "pictureOfTheUnitedKingdom", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/pictureOfTheUnitedKingdom/WFSServer"
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/pictureOfTheUnitedKingdom/MapServer"
     }, 
     {
       "name" : "pictureOfTheUnitedKingdom", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/pictureOfTheUnitedKingdom/MapServer"
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/pictureOfTheUnitedKingdom/WFSServer"
     }, 
     {
       "name" : "Police Force Areas (December 2016) Full Clipped Boundaries in England and Wales", 
@@ -19607,6 +20402,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/sha/FeatureServer"
     }, 
     {
+      "name" : "SPC_(May_2016)_Generalised_Clipped_Boundaries_in_Scotland", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SPC_(May_2016)_Generalised_Clipped_Boundaries_in_Scotland/MapServer"
+    }, 
+    {
       "name" : "SPC_DEC_2017_SC_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SPC_DEC_2017_SC_NC/FeatureServer"
@@ -19645,6 +20445,16 @@
       "name" : "SPC_DEC_2020_SC_NC_0fb96483eba541de8dee35b4d0855252", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SPC_DEC_2020_SC_NC_0fb96483eba541de8dee35b4d0855252/FeatureServer"
+    }, 
+    {
+      "name" : "SPC_May_2016_Generalised_Clipped_Boundaries_in_Scotland", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SPC_May_2016_Generalised_Clipped_Boundaries_in_Scotland/FeatureServer"
+    }, 
+    {
+      "name" : "SPC_May_2016_Generalised_Clipped_Boundaries_in_Scotland", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SPC_May_2016_Generalised_Clipped_Boundaries_in_Scotland/WFSServer"
     }, 
     {
       "name" : "SPC17_SPR17_SC_LU", 
@@ -19747,6 +20557,51 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Statistical_Wards_December_2005_Names_and_Codes_in_the_United_Kingdom/WFSServer"
     }, 
     {
+      "name" : "STP_(Apr_2019)_Full_Clipped_Boundaries_in_England", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/STP_(Apr_2019)_Full_Clipped_Boundaries_in_England/MapServer"
+    }, 
+    {
+      "name" : "STP_(Apr_2019)_Full_Extent_Boundaries_in_England", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/STP_(Apr_2019)_Full_Extent_Boundaries_in_England/MapServer"
+    }, 
+    {
+      "name" : "STP_(Apr_2019)_Generalised_Clipped_Boundaries_in_England", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/STP_(Apr_2019)_Generalised_Clipped_Boundaries_in_England/MapServer"
+    }, 
+    {
+      "name" : "STP_(Apr_2019)_Ultra_Generalised_Boundaries_in_England", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/STP_(Apr_2019)_Ultra_Generalised_Boundaries_in_England/MapServer"
+    }, 
+    {
+      "name" : "STP_(Apr_2020)_Full_Clipped_Boundaries_in_England", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/STP_(Apr_2020)_Full_Clipped_Boundaries_in_England/MapServer"
+    }, 
+    {
+      "name" : "STP_(Apr_2020)_Full_Extent_Boundaries_in_England", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/STP_(Apr_2020)_Full_Extent_Boundaries_in_England/MapServer"
+    }, 
+    {
+      "name" : "STP_(Apr_2020)_Generalised_Clipped_Boundaries_in_England", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/STP_(Apr_2020)_Generalised_Clipped_Boundaries_in_England/MapServer"
+    }, 
+    {
+      "name" : "STP_(Feb_2017)_Full_Clipped_Boundaries_in_England", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/STP_(Feb_2017)_Full_Clipped_Boundaries_in_England/MapServer"
+    }, 
+    {
+      "name" : "STP_(Feb_2017)_Full_Extent_Boundaries_in_England", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/STP_(Feb_2017)_Full_Extent_Boundaries_in_England/MapServer"
+    }, 
+    {
       "name" : "STP_APR_2018_EN_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/STP_APR_2018_EN_NC/FeatureServer"
@@ -19755,6 +20610,46 @@
       "name" : "STP_APR_2018_EN_NC_1b8122f4691641ce8ba001c7bb7b5474", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/STP_APR_2018_EN_NC_1b8122f4691641ce8ba001c7bb7b5474/FeatureServer"
+    }, 
+    {
+      "name" : "STP_Apr_2019_Full_Clipped_Boundaries_in_England", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/STP_Apr_2019_Full_Clipped_Boundaries_in_England/FeatureServer"
+    }, 
+    {
+      "name" : "STP_Apr_2019_Full_Clipped_Boundaries_in_England", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/STP_Apr_2019_Full_Clipped_Boundaries_in_England/WFSServer"
+    }, 
+    {
+      "name" : "STP_Apr_2019_Full_Extent_Boundaries_in_England", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/STP_Apr_2019_Full_Extent_Boundaries_in_England/FeatureServer"
+    }, 
+    {
+      "name" : "STP_Apr_2019_Full_Extent_Boundaries_in_England", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/STP_Apr_2019_Full_Extent_Boundaries_in_England/WFSServer"
+    }, 
+    {
+      "name" : "STP_Apr_2019_Generalised_Clipped_Boundaries_in_England", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/STP_Apr_2019_Generalised_Clipped_Boundaries_in_England/FeatureServer"
+    }, 
+    {
+      "name" : "STP_Apr_2019_Generalised_Clipped_Boundaries_in_England", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/STP_Apr_2019_Generalised_Clipped_Boundaries_in_England/WFSServer"
+    }, 
+    {
+      "name" : "STP_Apr_2019_Ultra_Generalised_Boundaries_in_England", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/STP_Apr_2019_Ultra_Generalised_Boundaries_in_England/FeatureServer"
+    }, 
+    {
+      "name" : "STP_Apr_2019_Ultra_Generalised_Boundaries_in_England", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/STP_Apr_2019_Ultra_Generalised_Boundaries_in_England/WFSServer"
     }, 
     {
       "name" : "STP_APR_2020_EN_NC", 
@@ -19767,6 +20662,46 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/STP_APR_2020_EN_NC_60ca66c102ec466cb806a85c3b03dcf9/FeatureServer"
     }, 
     {
+      "name" : "STP_Apr_2020_Full_Clipped_Boundaries_in_England", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/STP_Apr_2020_Full_Clipped_Boundaries_in_England/FeatureServer"
+    }, 
+    {
+      "name" : "STP_Apr_2020_Full_Clipped_Boundaries_in_England", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/STP_Apr_2020_Full_Clipped_Boundaries_in_England/WFSServer"
+    }, 
+    {
+      "name" : "STP_Apr_2020_Full_Extent_Boundaries_in_England", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/STP_Apr_2020_Full_Extent_Boundaries_in_England/FeatureServer"
+    }, 
+    {
+      "name" : "STP_Apr_2020_Full_Extent_Boundaries_in_England", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/STP_Apr_2020_Full_Extent_Boundaries_in_England/WFSServer"
+    }, 
+    {
+      "name" : "STP_Apr_2020_Generalised_Clipped_Boundaries_in_England", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/STP_Apr_2020_Generalised_Clipped_Boundaries_in_England/FeatureServer"
+    }, 
+    {
+      "name" : "STP_Apr_2020_Generalised_Clipped_Boundaries_in_England", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/STP_Apr_2020_Generalised_Clipped_Boundaries_in_England/WFSServer"
+    }, 
+    {
+      "name" : "STP_Apr_2020_Ultra_Generalised_Clipped_Boundaries_in_England", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/STP_Apr_2020_Ultra_Generalised_Clipped_Boundaries_in_England/FeatureServer"
+    }, 
+    {
+      "name" : "STP_Apr_2020_Ultra_Generalised_Clipped_Boundaries_in_England", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/STP_Apr_2020_Ultra_Generalised_Clipped_Boundaries_in_England/WFSServer"
+    }, 
+    {
       "name" : "STP_FEB_2017_EN_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/STP_FEB_2017_EN_NC/FeatureServer"
@@ -19777,9 +20712,34 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/STP_FEB_2017_EN_NC_63ef8b1bdca14369a626da385564954c/FeatureServer"
     }, 
     {
+      "name" : "STP_Feb_2017_Full_Clipped_Boundaries_in_England", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/STP_Feb_2017_Full_Clipped_Boundaries_in_England/FeatureServer"
+    }, 
+    {
+      "name" : "STP_Feb_2017_Full_Clipped_Boundaries_in_England", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/STP_Feb_2017_Full_Clipped_Boundaries_in_England/WFSServer"
+    }, 
+    {
+      "name" : "STP_Feb_2017_Full_Extent_Boundaries_in_England", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/STP_Feb_2017_Full_Extent_Boundaries_in_England/FeatureServer"
+    }, 
+    {
+      "name" : "STP_Feb_2017_Full_Extent_Boundaries_in_England", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/STP_Feb_2017_Full_Extent_Boundaries_in_England/WFSServer"
+    }, 
+    {
       "name" : "STP20_NHSER20_EN_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/STP20_NHSER20_EN_LU/FeatureServer"
+    }, 
+    {
+      "name" : "STP20_NHSER20_EN_LU_e268d9cb3626464584f6b988a0aa4e61", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/STP20_NHSER20_EN_LU_e268d9cb3626464584f6b988a0aa4e61/FeatureServer"
     }, 
     {
       "name" : "Strategic_Clinical_Networks_(December_2016)_Full_Clipped_Boundaries_in_England", 
@@ -20187,6 +21147,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Sustainability_and_Transformation_Partnerships_February_2017_Names_and_Codes_in_England/WFSServer"
     }, 
     {
+      "name" : "Sustainability_Transformation_Partnerships_and_NHS_England_Region_April_2020_Lookup_in_England", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Sustainability_Transformation_Partnerships_and_NHS_England_Region_April_2020_Lookup_in_England/WFSServer"
+    }, 
+    {
       "name" : "TCITY_2015_EW_BGG", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/TCITY_2015_EW_BGG/FeatureServer"
@@ -20567,6 +21532,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/UA20_LHB20_WA_LU/FeatureServer"
     }, 
     {
+      "name" : "UA20_LHB20_WA_LU_6fa534e2c5fb4a03ad5ee821ef93b742", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/UA20_LHB20_WA_LU_6fa534e2c5fb4a03ad5ee821ef93b742/FeatureServer"
+    }, 
+    {
       "name" : "UA20_NAER20_WA_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/UA20_NAER20_WA_LU/FeatureServer"
@@ -20670,6 +21640,11 @@
       "name" : "Unitary_Authority_to_Local_Health_Board_December_2018_Lookup_in_Wales", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Unitary_Authority_to_Local_Health_Board_December_2018_Lookup_in_Wales/WFSServer"
+    }, 
+    {
+      "name" : "Unitary_Authority_to_Local_Health_Board_December_2020_Lookup_in_Wales", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Unitary_Authority_to_Local_Health_Board_December_2020_Lookup_in_Wales/WFSServer"
     }, 
     {
       "name" : "Unitary_Authority_to_National_Assembly_Economic_Region_December_2017_Lookup_in_Wales", 
