@@ -13742,6 +13742,16 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/National Parks (December 2019) GB BUC/MapServer"
     }, 
     {
+      "name" : "National Statistics Postcode Lookup (Latest Centroids)", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/National Statistics Postcode Lookup (Latest Centroids)/MapServer"
+    }, 
+    {
+      "name" : "National Statistics Postcode Lookup (Latest) Centroids", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/National Statistics Postcode Lookup (Latest) Centroids/MapServer"
+    }, 
+    {
       "name" : "National_Assembly_Economic_Regions_(December_2016)_Full_Clipped_Boundaries_in_Wales", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/National_Assembly_Economic_Regions_(December_2016)_Full_Clipped_Boundaries_in_Wales/MapServer"
@@ -14415,6 +14425,16 @@
       "name" : "National_Parks_December_2020_Names_and_Codes_in_Great_Britain", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/National_Parks_December_2020_Names_and_Codes_in_Great_Britain/WFSServer"
+    }, 
+    {
+      "name" : "National_Statistics_Postcode_Lookup_Latest_Centroids", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/National_Statistics_Postcode_Lookup_Latest_Centroids/WFSServer"
+    }, 
+    {
+      "name" : "National_Statistics_Postcode_Lookup_Latest_Centroids_", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/National_Statistics_Postcode_Lookup_Latest_Centroids_/WFSServer"
     }, 
     {
       "name" : "nationalparks", 
