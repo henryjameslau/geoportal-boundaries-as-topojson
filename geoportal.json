@@ -5107,6 +5107,36 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CTY_DEC_2018_EN_NC_6eed5b3cc61548bbaec56eb0f9caf02f/FeatureServer"
     }, 
     {
+      "name" : "CTYUA_2015_Ultra_Generalised_Clipped_Boundaries_in_England_and_Wales", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CTYUA_2015_Ultra_Generalised_Clipped_Boundaries_in_England_and_Wales/FeatureServer"
+    }, 
+    {
+      "name" : "CTYUA_2015_Ultra_Generalised_Clipped_Boundaries_in_England_and_Wales", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CTYUA_2015_Ultra_Generalised_Clipped_Boundaries_in_England_and_Wales/WFSServer"
+    }, 
+    {
+      "name" : "CTYUA_2015_Ultra_Generalised_Clipped_Boundaries_in_England_and_Wales", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CTYUA_2015_Ultra_Generalised_Clipped_Boundaries_in_England_and_Wales/MapServer"
+    }, 
+    {
+      "name" : "CTYUA_Dec_2015_Super_Generalised_Clipped_Boundaries_in_England_and_Wales", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CTYUA_Dec_2015_Super_Generalised_Clipped_Boundaries_in_England_and_Wales/FeatureServer"
+    }, 
+    {
+      "name" : "CTYUA_Dec_2015_Super_Generalised_Clipped_Boundaries_in_England_and_Wales", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CTYUA_Dec_2015_Super_Generalised_Clipped_Boundaries_in_England_and_Wales/MapServer"
+    }, 
+    {
+      "name" : "CTYUA_Dec_2015_Super_Generalised_Clipped_Boundaries_in_England_and_Wales", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CTYUA_Dec_2015_Super_Generalised_Clipped_Boundaries_in_England_and_Wales/WFSServer"
+    }, 
+    {
       "name" : "Data_Zones_December_2011_Names_and_Codes_in_Scotland", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Data_Zones_December_2011_Names_and_Codes_in_Scotland/WFSServer"
@@ -8047,6 +8077,36 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPOP_APR_2021_EN_NC_7e73cfd50cbe4c208a68642421d6d2ac/FeatureServer"
     }, 
     {
+      "name" : "LEPOP_Dec_2014_Full_Clipped_Boundaries_in_England", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPOP_Dec_2014_Full_Clipped_Boundaries_in_England/FeatureServer"
+    }, 
+    {
+      "name" : "LEPOP_Dec_2014_Full_Clipped_Boundaries_in_England", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPOP_Dec_2014_Full_Clipped_Boundaries_in_England/WFSServer"
+    }, 
+    {
+      "name" : "LEPOP_Dec_2014_Full_Clipped_Boundaries_in_England", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPOP_Dec_2014_Full_Clipped_Boundaries_in_England/MapServer"
+    }, 
+    {
+      "name" : "LEPOP_Dec_2014_Full_Extent_Boundaries_in_England", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPOP_Dec_2014_Full_Extent_Boundaries_in_England/FeatureServer"
+    }, 
+    {
+      "name" : "LEPOP_Dec_2014_Full_Extent_Boundaries_in_England", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPOP_Dec_2014_Full_Extent_Boundaries_in_England/WFSServer"
+    }, 
+    {
+      "name" : "LEPOP_Dec_2014_Full_Extent_Boundaries_in_England", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPOP_Dec_2014_Full_Extent_Boundaries_in_England/MapServer"
+    }, 
+    {
       "name" : "LGD_APR_2015_NI_BSC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LGD_APR_2015_NI_BSC/FeatureServer"
@@ -10685,16 +10745,6 @@
       "name" : "Local_Enterprise_Partnerships_overlapping_parts_April_2021_Names_and_Codes_in_England", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Enterprise_Partnerships_overlapping_parts_April_2021_Names_and_Codes_in_England/WFSServer"
-    }, 
-    {
-      "name" : "Local_Enterprise_Partnerships_overlapping_parts_December_2014_Full_Clipped_Boundaries_in_England", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Enterprise_Partnerships_overlapping_parts_December_2014_Full_Clipped_Boundaries_in_England/FeatureServer"
-    }, 
-    {
-      "name" : "Local_Enterprise_Partnerships_overlapping_parts_December_2014_Full_Clipped_Boundaries_in_England", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Enterprise_Partnerships_overlapping_parts_December_2014_Full_Clipped_Boundaries_in_England/WFSServer"
     }, 
     {
       "name" : "Local_Enterprise_Partnerships_overlapping_parts_December_2014_Full_Extent_Boundaries_in_England", 
@@ -18585,6 +18635,21 @@
       "name" : "PARNCP_2011_EW_BGC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PARNCP_2011_EW_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "PARNCP_Dec_(2016)_Generalised_Clipped_Boundaries_in_England_and_Wales", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PARNCP_Dec_(2016)_Generalised_Clipped_Boundaries_in_England_and_Wales/FeatureServer"
+    }, 
+    {
+      "name" : "PARNCP_Dec_(2016)_Generalised_Clipped_Boundaries_in_England_and_Wales", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PARNCP_Dec_(2016)_Generalised_Clipped_Boundaries_in_England_and_Wales/MapServer"
+    }, 
+    {
+      "name" : "PARNCP_Dec_2016_Generalised_Clipped_Boundaries_in_England_and_Wales", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PARNCP_Dec_2016_Generalised_Clipped_Boundaries_in_England_and_Wales/WFSServer"
     }, 
     {
       "name" : "pco", 
