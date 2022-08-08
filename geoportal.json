@@ -6107,6 +6107,26 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPOP_Dec_2014_Generalised_Clipped_Boundaries_in_England/MapServer"
     }, 
     {
+      "name" : "LEPOP_Dec_2014_Super_Generalised_Clipped_Boundaries_in_England", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPOP_Dec_2014_Super_Generalised_Clipped_Boundaries_in_England/FeatureServer"
+    }, 
+    {
+      "name" : "LEPOP_Dec_2014_Super_Generalised_Clipped_Boundaries_in_England", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPOP_Dec_2014_Super_Generalised_Clipped_Boundaries_in_England/WFSServer"
+    }, 
+    {
+      "name" : "LEPOP_Dec_2014_Ultra_Generalised_Clipped_Boundaries_in_England", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPOP_Dec_2014_Ultra_Generalised_Clipped_Boundaries_in_England/FeatureServer"
+    }, 
+    {
+      "name" : "LEPOP_Dec_2014_Ultra_Generalised_Clipped_Boundaries_in_England", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPOP_Dec_2014_Ultra_Generalised_Clipped_Boundaries_in_England/WFSServer"
+    }, 
+    {
       "name" : "LGD_APR_2015_NI_BSC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LGD_APR_2015_NI_BSC/FeatureServer"
