@@ -8482,6 +8482,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Lower Layer Super Output Areas (December 2001) EW BGC/MapServer"
     }, 
     {
+      "name" : "Lower Layer Super Output Areas (December 2011) Boundaries EW BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Lower Layer Super Output Areas (December 2011) Boundaries EW BFC/MapServer"
+    }, 
+    {
       "name" : "Lower Layer Super Output Areas (December 2011) Boundaries EW BFE", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Lower Layer Super Output Areas (December 2011) Boundaries EW BFE/MapServer"
@@ -8520,6 +8525,11 @@
       "name" : "Lower Layer Super Output Areas (December 2011) EW BGC V2", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Lower Layer Super Output Areas (December 2011) EW BGC V2/MapServer"
+    }, 
+    {
+      "name" : "Lower layer Super Output Areas (December 2021) Boundaries Full Extent (BFE) EW", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Lower layer Super Output Areas (December 2021) Boundaries Full Extent (BFE) EW/MapServer"
     }, 
     {
       "name" : "Lower_Layer_Super_Output_Area_(December_2011)_Population_Weighted_Centroids_in_England_and_Wales", 
@@ -8630,6 +8640,11 @@
       "name" : "Lower_Layer_Super_Output_Areas_December_2011_Generalised_Clipped_Boundaries_in_England_and_Wales", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Lower_Layer_Super_Output_Areas_December_2011_Generalised_Clipped_Boundaries_in_England_and_Wales/FeatureServer"
+    }, 
+    {
+      "name" : "Lower_layer_Super_Output_Areas_December_2021_Boundaries_Full_Extent_BFE_EW", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Lower_layer_Super_Output_Areas_December_2021_Boundaries_Full_Extent_BFE_EW/WFSServer"
     }, 
     {
       "name" : "Lower_Super_Output_Areas_(December_2001)_Population_Weighted_Centroids_in_England_and_Wales", 
@@ -8765,6 +8780,11 @@
       "name" : "LSOA_2011_EW_NC_6fe4968cc083413988b2c5d643e1d248", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_2011_EW_NC_6fe4968cc083413988b2c5d643e1d248/FeatureServer"
+    }, 
+    {
+      "name" : "LSOA_2021_EW_BFE_fd065201f05d4e479fb1b67c690f5afe", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_2021_EW_BFE_fd065201f05d4e479fb1b67c690f5afe/FeatureServer"
     }, 
     {
       "name" : "LSOA_2021_EW_BFE_V2", 
@@ -9635,6 +9655,11 @@
       "name" : "Middle_Layer_Super_Output_Areas_December_2011_Boundaries_EW_BFE", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Middle_Layer_Super_Output_Areas_December_2011_Boundaries_EW_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "Middle_Layer_Super_Output_Areas_December_2011_Boundaries_EW_BFE_db29c232fe544d30b9eca60b319c812c", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Middle_Layer_Super_Output_Areas_December_2011_Boundaries_EW_BFE_db29c232fe544d30b9eca60b319c812c/FeatureServer"
     }, 
     {
       "name" : "Middle_Layer_Super_Output_Areas_December_2011_EW_BFC_V2", 
@@ -11797,6 +11822,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NUTS315_NUTS318_UK_LU_7c6c05b7b6cd4fe9a4ab2158733563c6/FeatureServer"
     }, 
     {
+      "name" : "OA_2021_EW_BFE_526b35e70e2e431b8af2bf06dc5e70ed", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA_2021_EW_BFE_526b35e70e2e431b8af2bf06dc5e70ed/FeatureServer"
+    }, 
+    {
       "name" : "OA_2021_EW_BFE_V2", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA_2021_EW_BFE_V2/FeatureServer"
@@ -12407,6 +12437,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output Areas (December 2001) Population Weighted Centroids/MapServer"
     }, 
     {
+      "name" : "Output Areas (December 2011) Boundaries EW BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output Areas (December 2011) Boundaries EW BFC/MapServer"
+    }, 
+    {
       "name" : "Output Areas (December 2011) Boundaries EW BFE", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output Areas (December 2011) Boundaries EW BFE/MapServer"
@@ -12420,6 +12455,11 @@
       "name" : "Output Areas (December 2011) Population Weighted Centroids", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output Areas (December 2011) Population Weighted Centroids/MapServer"
+    }, 
+    {
+      "name" : "Output Areas (December 2021) Boundaries EW BFE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output Areas (December 2021) Boundaries EW BFE/MapServer"
     }, 
     {
       "name" : "Output_Area_(December_2011)_Full_Clipped_Boundaries_in_England_and_Wales", 
@@ -12565,6 +12605,11 @@
       "name" : "Output_Areas_December_2011_Population_Weighted_Centroids_2be3e7a42f2e4f7f9f9af3316cb62480", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_December_2011_Population_Weighted_Centroids_2be3e7a42f2e4f7f9f9af3316cb62480/FeatureServer"
+    }, 
+    {
+      "name" : "Output_Areas_December_2021_Boundaries_EW_BFE", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_December_2021_Boundaries_EW_BFE/WFSServer"
     }, 
     {
       "name" : "PAR_DEC_2016_EW_NC", 
@@ -17590,6 +17635,41 @@
       "name" : "Workplace_Zones_December_2011_Population_Weighted_Centroids_in_England_and_Wales", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Workplace_Zones_December_2011_Population_Weighted_Centroids_in_England_and_Wales/FeatureServer"
+    }, 
+    {
+      "name" : "WPC_(Dec_2015)_Super_Generalised_Clipped_Boundaries_in Great_Britain", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WPC_(Dec_2015)_Super_Generalised_Clipped_Boundaries_in Great_Britain/MapServer"
+    }, 
+    {
+      "name" : "WPC_Dec_2015_Generalised_Clipped_Boundaries_in_Great_Britain", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WPC_Dec_2015_Generalised_Clipped_Boundaries_in_Great_Britain/FeatureServer"
+    }, 
+    {
+      "name" : "WPC_Dec_2015_Super_Generalised_Clipped_Boundaries_in_Great_Britain", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WPC_Dec_2015_Super_Generalised_Clipped_Boundaries_in_Great_Britain/FeatureServer"
+    }, 
+    {
+      "name" : "WPC_Dec_2015_Super_Generalised_Clipped_Boundaries_in_Great_Britain", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WPC_Dec_2015_Super_Generalised_Clipped_Boundaries_in_Great_Britain/WFSServer"
+    }, 
+    {
+      "name" : "WPC_Dec_2015_Ultra_Generalised_Clipped_Boundaries_in Great_Britain", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WPC_Dec_2015_Ultra_Generalised_Clipped_Boundaries_in Great_Britain/MapServer"
+    }, 
+    {
+      "name" : "WPC_Dec_2015_Ultra_Generalised_Clipped_Boundaries_in_Great_Britain", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WPC_Dec_2015_Ultra_Generalised_Clipped_Boundaries_in_Great_Britain/FeatureServer"
+    }, 
+    {
+      "name" : "WPC_Dec_2015_Ultra_Generalised_Clipped_Boundaries_in_Great_Britain", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WPC_Dec_2015_Ultra_Generalised_Clipped_Boundaries_in_Great_Britain/WFSServer"
     }, 
     {
       "name" : "WZ", 
