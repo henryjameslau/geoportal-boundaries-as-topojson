@@ -4267,6 +4267,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/European Electoral Regions (December 2017) UK BUC/MapServer"
     }, 
     {
+      "name" : "European Electoral Regions (December 2018) Full Clipped Boundaries UK", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/European Electoral Regions (December 2018) Full Clipped Boundaries UK/MapServer"
+    }, 
+    {
       "name" : "European Electoral Regions (December 2018) Full Extent Boundaries UK", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/European Electoral Regions (December 2018) Full Extent Boundaries UK/MapServer"
@@ -6663,13 +6668,13 @@
     }, 
     {
       "name" : "LEPOP_Dec_2014_Ultra_Generalised_Clipped_Boundaries_in_England", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPOP_Dec_2014_Ultra_Generalised_Clipped_Boundaries_in_England/WFSServer"
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPOP_Dec_2014_Ultra_Generalised_Clipped_Boundaries_in_England/FeatureServer"
     }, 
     {
       "name" : "LEPOP_Dec_2014_Ultra_Generalised_Clipped_Boundaries_in_England", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPOP_Dec_2014_Ultra_Generalised_Clipped_Boundaries_in_England/FeatureServer"
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPOP_Dec_2014_Ultra_Generalised_Clipped_Boundaries_in_England/WFSServer"
     }, 
     {
       "name" : "LGD_APR_2015_NI_BSC", 
@@ -8992,11 +8997,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Planning_Authorities_May_2021_UK_BFC_v2/FeatureServer"
     }, 
     {
-      "name" : "Local_Planning_Authorities_May_2021_UK_BFE", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Planning_Authorities_May_2021_UK_BFE/WFSServer"
-    }, 
-    {
       "name" : "Local_Planning_Authorities_May_2021_UK_BFE_v2", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Planning_Authorities_May_2021_UK_BFE_v2/FeatureServer"
@@ -9440,16 +9440,6 @@
       "name" : "London_Assembly_Constituencies_December_2017_EN_BUC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/London_Assembly_Constituencies_December_2017_EN_BUC/FeatureServer"
-    }, 
-    {
-      "name" : "London_Assembly_Constituencies_December_2018_Boundaries_EN_BFE", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/London_Assembly_Constituencies_December_2018_Boundaries_EN_BFE/FeatureServer"
-    }, 
-    {
-      "name" : "London_Assembly_Constituencies_December_2018_Boundaries_EN_BFE", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/London_Assembly_Constituencies_December_2018_Boundaries_EN_BFE/WFSServer"
     }, 
     {
       "name" : "London_Assembly_Constituencies_December_2018_Full_Clipped_Boundaries_EN", 
@@ -14777,6 +14767,26 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_December_2021_EW_BSC_e49234ffe4dd43e7aad150b989ca91cd/FeatureServer"
     }, 
     {
+      "name" : "Parishes_May_2022_EW_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_May_2022_EW_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "Parishes_May_2022_EW_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_May_2022_EW_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "Parishes_May_2022_EW_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_May_2022_EW_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "Parishes_May_2022_EW_BSC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_May_2022_EW_BSC/FeatureServer"
+    }, 
+    {
       "name" : "PARNCP_2011_EW_BGC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PARNCP_2011_EW_BGC/FeatureServer"
@@ -15395,6 +15405,26 @@
       "name" : "Police_Force_Areas_December_2020_EW_BUC_23336031d14f4cee9f43711454adb6ad", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Police_Force_Areas_December_2020_EW_BUC_23336031d14f4cee9f43711454adb6ad/FeatureServer"
+    }, 
+    {
+      "name" : "Police_Force_Areas_December_2021_EW_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Police_Force_Areas_December_2021_EW_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "Police_Force_Areas_December_2021_EW_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Police_Force_Areas_December_2021_EW_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "Police_Force_Areas_December_2021_EW_BGC_v2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Police_Force_Areas_December_2021_EW_BGC_v2/FeatureServer"
+    }, 
+    {
+      "name" : "Police_Force_Areas_December_2021_EW_BUC_v2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Police_Force_Areas_December_2021_EW_BUC_v2/FeatureServer"
     }, 
     {
       "name" : "psha", 
@@ -19047,6 +19077,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Westminster_Parliamentary_Constituencies_December_2021_UK_BFC/WFSServer"
     }, 
     {
+      "name" : "Westminster_Parliamentary_Constituencies_December_2021_UK_BFE", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Westminster_Parliamentary_Constituencies_December_2021_UK_BFE/WFSServer"
+    }, 
+    {
       "name" : "Westminster_Parliamentary_Constituencies_December_2021_UK_BFE_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Westminster_Parliamentary_Constituencies_December_2021_UK_BFE_2022/FeatureServer"
@@ -19152,6 +19187,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WPC (Dec 2016) Generalised Clipped Boundaries in the UK/MapServer"
     }, 
     {
+      "name" : "WPC (Dec 2016) Super Generalised Clipped Boundaries in Great Britain", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WPC (Dec 2016) Super Generalised Clipped Boundaries in Great Britain/MapServer"
+    }, 
+    {
       "name" : "WPC (Dec 2016) Ultra Generalised Clipped Boundaries in Great Britain", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WPC (Dec 2016) Ultra Generalised Clipped Boundaries in Great Britain/MapServer"
@@ -19252,16 +19292,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WPC_Dec_2015_Full_Extent_Boundaries_in_Great_Britain_2022/FeatureServer"
     }, 
     {
-      "name" : "WPC_Dec_2015_Generalised_Clipped_Boundaries_in_Great_Britain", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WPC_Dec_2015_Generalised_Clipped_Boundaries_in_Great_Britain/WFSServer"
-    }, 
-    {
-      "name" : "WPC_Dec_2015_Generalised_Clipped_Boundaries_in_Great_Britain_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WPC_Dec_2015_Generalised_Clipped_Boundaries_in_Great_Britain_2022/FeatureServer"
-    }, 
-    {
       "name" : "WPC_Dec_2015_Super_Generalised_Clipped_Boundaries_in_Great_Britain", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WPC_Dec_2015_Super_Generalised_Clipped_Boundaries_in_Great_Britain/WFSServer"
@@ -19340,6 +19370,16 @@
       "name" : "WPC_Dec_2016_Generalised_Clipped_Boundaries_in_the_UK_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WPC_Dec_2016_Generalised_Clipped_Boundaries_in_the_UK_2022/FeatureServer"
+    }, 
+    {
+      "name" : "WPC_Dec_2016_Super_Generalised_Clipped_Boundaries_in_Great_Britain", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WPC_Dec_2016_Super_Generalised_Clipped_Boundaries_in_Great_Britain/WFSServer"
+    }, 
+    {
+      "name" : "WPC_Dec_2016_Super_Generalised_Clipped_Boundaries_in_Great_Britain_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WPC_Dec_2016_Super_Generalised_Clipped_Boundaries_in_Great_Britain_2022/FeatureServer"
     }, 
     {
       "name" : "WPC_Dec_2016_Super_Generalised_Clipped_Boundaries_in_the_UK", 
