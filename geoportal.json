@@ -19292,6 +19292,16 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WPC_Dec_2015_Full_Extent_Boundaries_in_Great_Britain_2022/FeatureServer"
     }, 
     {
+      "name" : "WPC_Dec_2015_Generalised_Clipped_Boundaries_in_Great_Britain", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WPC_Dec_2015_Generalised_Clipped_Boundaries_in_Great_Britain/WFSServer"
+    }, 
+    {
+      "name" : "WPC_Dec_2015_Generalised_Clipped_Boundaries_in_Great_Britain_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WPC_Dec_2015_Generalised_Clipped_Boundaries_in_Great_Britain_2022/FeatureServer"
+    }, 
+    {
       "name" : "WPC_Dec_2015_Super_Generalised_Clipped_Boundaries_in_Great_Britain", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WPC_Dec_2015_Super_Generalised_Clipped_Boundaries_in_Great_Britain/WFSServer"
