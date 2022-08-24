@@ -9747,6 +9747,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA11_LEP20_EN_LU_2bd363b66c994e11a0530b206b176e33/FeatureServer"
     }, 
     {
+      "name" : "LSOA11_LSOA21_LAD22_EW_LU_V2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA11_LSOA21_LAD22_EW_LU_V2/FeatureServer"
+    }, 
+    {
       "name" : "LSOA11_TCITY15_EW_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA11_TCITY15_EW_LU/FeatureServer"
@@ -10360,6 +10365,11 @@
       "name" : "MSOA11_CIS20_UK_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA11_CIS20_UK_LU/FeatureServer"
+    }, 
+    {
+      "name" : "MSOA11_MSOA21_LAD22_EW_LU_V2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA11_MSOA21_LAD22_EW_LU_V2/FeatureServer"
     }, 
     {
       "name" : "MSOA11_TCITY15_EW_LU", 
@@ -12952,6 +12962,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA11_NAWC18_NAWER18_WA_LU_6a7587fc5cdd4822a79d1be239ae4afd/FeatureServer"
     }, 
     {
+      "name" : "OA11_OA21_EW_LU_V2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA11_OA21_EW_LU_V2/FeatureServer"
+    }, 
+    {
       "name" : "OA11_PAR11_LAD11_EW_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA11_PAR11_LAD11_EW_LU/FeatureServer"
@@ -13120,6 +13135,11 @@
       "name" : "OA11_WZ11_LAD11_EW_LU_1e30e50424db4e97818d93e28fd2de3f", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA11_WZ11_LAD11_EW_LU_1e30e50424db4e97818d93e28fd2de3f/FeatureServer"
+    }, 
+    {
+      "name" : "OA21_PAR22_LTLA22_UTLA22_RGN22_CTRY22_EW_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA21_PAR22_LTLA22_UTLA22_RGN22_CTRY22_EW_LU/FeatureServer"
     }, 
     {
       "name" : "OAC_2011_UK_NC", 
