@@ -122,11 +122,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Built_Up_Areas_2011_Generalised_Grid_Boundaries_in_England_and_Wales/FeatureServer"
     }, 
     {
-      "name" : "Built_up_Areas_December_2011_Boundaries_V2", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Built_up_Areas_December_2011_Boundaries_V2/FeatureServer"
-    }, 
-    {
       "name" : "Built_up_Areas_December_2011_Boundaries_V2_482b0881d5394d2d8c6593d1a80a1675", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Built_up_Areas_December_2011_Boundaries_V2_482b0881d5394d2d8c6593d1a80a1675/FeatureServer"
@@ -13135,11 +13130,6 @@
       "name" : "OA11_WZ11_LAD11_EW_LU_1e30e50424db4e97818d93e28fd2de3f", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA11_WZ11_LAD11_EW_LU_1e30e50424db4e97818d93e28fd2de3f/FeatureServer"
-    }, 
-    {
-      "name" : "OA21_PAR22_LTLA22_UTLA22_RGN22_CTRY22_EW_LU", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA21_PAR22_LTLA22_UTLA22_RGN22_CTRY22_EW_LU/FeatureServer"
     }, 
     {
       "name" : "OAC_2011_UK_NC", 
