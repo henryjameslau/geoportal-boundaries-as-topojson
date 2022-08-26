@@ -9387,6 +9387,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_Dec_2011_Population_Weighted_Centroids_in_England_and_Wales_2022/FeatureServer"
     }, 
     {
+      "name" : "LSOA_Population_Weighted_Centroids_December_2021_EW", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_Population_Weighted_Centroids_December_2021_EW/FeatureServer"
+    }, 
+    {
       "name" : "LSOA01_BUASD11_BUA11_LAD11_RGN11_EW_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA01_BUASD11_BUA11_LAD11_RGN11_EW_LU/FeatureServer"
@@ -9892,6 +9897,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA11_WD20_LAD20_EW_LU_v2_f514a75a131249caa65227cdc6275a21/FeatureServer"
     }, 
     {
+      "name" : "LSOA21_WD22_LTLA22_EW_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA21_WD22_LTLA22_EW_LU/FeatureServer"
+    }, 
+    {
       "name" : "LTLA17_UTLA17_EW_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LTLA17_UTLA17_EW_LU/FeatureServer"
@@ -10332,6 +10342,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_Dec_2011_Population_Weighted_Centroids_in_England_and_Wales_2022/FeatureServer"
     }, 
     {
+      "name" : "MSOA_Population_Weighted_Centroids_December_2021_EW", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_Population_Weighted_Centroids_December_2021_EW/FeatureServer"
+    }, 
+    {
       "name" : "MSOA01_MSOA11_LAD11_EW_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA01_MSOA11_LAD11_EW_LU/FeatureServer"
@@ -10450,6 +10465,11 @@
       "name" : "MSOA11_WD20_LAD20_EW_LU_v2_fe9d3f4903fe4ae1b1141625ae912e60", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA11_WD20_LAD20_EW_LU_v2_fe9d3f4903fe4ae1b1141625ae912e60/FeatureServer"
+    }, 
+    {
+      "name" : "MSOA21_WD22_LTLA22_EW_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA21_WD22_LTLA22_EW_LU/FeatureServer"
     }, 
     {
       "name" : "NAER_DEC_2016_WA_NC", 
@@ -13130,6 +13150,46 @@
       "name" : "OA11_WZ11_LAD11_EW_LU_1e30e50424db4e97818d93e28fd2de3f", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA11_WZ11_LAD11_EW_LU_1e30e50424db4e97818d93e28fd2de3f/FeatureServer"
+    }, 
+    {
+      "name" : "OA21_CCG21_STP21_NHSER21_EW_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA21_CCG21_STP21_NHSER21_EW_LU/FeatureServer"
+    }, 
+    {
+      "name" : "OA21_LOC22_ICB22_NHSER22_EW_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA21_LOC22_ICB22_NHSER22_EW_LU/FeatureServer"
+    }, 
+    {
+      "name" : "OA21_LSOA21_MSOA21_LEP21_LAD22_EN_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA21_LSOA21_MSOA21_LEP21_LAD22_EN_LU/FeatureServer"
+    }, 
+    {
+      "name" : "OA21_LSOA21_MSOA21_LEPNOP21_LAD22_EN_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA21_LSOA21_MSOA21_LEPNOP21_LAD22_EN_LU/FeatureServer"
+    }, 
+    {
+      "name" : "OA21_LSOA21_MSOA21_LEPOP21_LAD22_EN_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA21_LSOA21_MSOA21_LEPOP21_LAD22_EN_LU/FeatureServer"
+    }, 
+    {
+      "name" : "OA21_PAR22_LTLA22_UTLA22_RGN22_CTRY22_EW_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA21_PAR22_LTLA22_UTLA22_RGN22_CTRY22_EW_LU/FeatureServer"
+    }, 
+    {
+      "name" : "OA21_WD22_LTLA22_UTLA22_RGN22_CTRY22_EW_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA21_WD22_LTLA22_UTLA22_RGN22_CTRY22_EW_LU/FeatureServer"
+    }, 
+    {
+      "name" : "OA21_WPC22_RGN22_EW_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA21_WPC22_RGN22_EW_LU/FeatureServer"
     }, 
     {
       "name" : "OAC_2011_UK_NC", 
@@ -18305,11 +18365,6 @@
       "name" : "WPC (Dec 2015) Full Extent Boundaries GB", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WPC (Dec 2015) Full Extent Boundaries GB/MapServer"
-    }, 
-    {
-      "name" : "WPC (Dec 2015) Generalised Clipped Boundaries GB", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WPC (Dec 2015) Generalised Clipped Boundaries GB/MapServer"
     }, 
     {
       "name" : "WPC (Dec 2015) Super Generalised Clipped Boundaries GB", 
