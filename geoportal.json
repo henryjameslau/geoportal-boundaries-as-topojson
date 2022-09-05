@@ -6063,13 +6063,13 @@
     }, 
     {
       "name" : "LEPOP_Dec_2014_Ultra_Generalised_Clipped_Boundaries_in_England", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPOP_Dec_2014_Ultra_Generalised_Clipped_Boundaries_in_England/FeatureServer"
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPOP_Dec_2014_Ultra_Generalised_Clipped_Boundaries_in_England/MapServer"
     }, 
     {
       "name" : "LEPOP_Dec_2014_Ultra_Generalised_Clipped_Boundaries_in_England", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPOP_Dec_2014_Ultra_Generalised_Clipped_Boundaries_in_England/MapServer"
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPOP_Dec_2014_Ultra_Generalised_Clipped_Boundaries_in_England/FeatureServer"
     }, 
     {
       "name" : "LGD_APR_2015_NI_BSC", 
@@ -6760,26 +6760,6 @@
       "name" : "Local_Authority_Districts_May_2021_UK_BFE_V3", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2021_UK_BFE_V3/FeatureServer"
-    }, 
-    {
-      "name" : "Local_Authority_Districts_May_2022_UK_BFC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2022_UK_BFC/FeatureServer"
-    }, 
-    {
-      "name" : "Local_Authority_Districts_May_2022_UK_BFE", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2022_UK_BFE/FeatureServer"
-    }, 
-    {
-      "name" : "Local_Authority_Districts_May_2022_UK_BGC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2022_UK_BGC/FeatureServer"
-    }, 
-    {
-      "name" : "Local_Authority_Districts_May_2022_UK_BSC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2022_UK_BSC/FeatureServer"
     }, 
     {
       "name" : "Local_Enterprise_Partnership_Non_Overlapping_Parts_May_2021_BGC_v2", 
