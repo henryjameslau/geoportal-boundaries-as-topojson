@@ -2102,6 +2102,61 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_(December_2016)_UGCB_in_Great_Britain/MapServer"
     }, 
     {
+      "name" : "Countries_(December_2017)_FEB_in_Great_Britain", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_(December_2017)_FEB_in_Great_Britain/MapServer"
+    }, 
+    {
+      "name" : "Countries_(December_2017)_FEB_in_UK", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_(December_2017)_FEB_in_UK/MapServer"
+    }, 
+    {
+      "name" : "Countries_(December_2017)_GCB_in_Great_Britain", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_(December_2017)_GCB_in_Great_Britain/MapServer"
+    }, 
+    {
+      "name" : "Countries_(December_2017)_GCB_in_UK", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_(December_2017)_GCB_in_UK/MapServer"
+    }, 
+    {
+      "name" : "Countries_(December_2017)_GCB_in_UK_(WGS84)", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_(December_2017)_GCB_in_UK_(WGS84)/MapServer"
+    }, 
+    {
+      "name" : "Countries_(December_2017)_SGCB_in_Great_Britain", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_(December_2017)_SGCB_in_Great_Britain/MapServer"
+    }, 
+    {
+      "name" : "Countries_(December_2017)_SGCB_in_UK", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_(December_2017)_SGCB_in_UK/MapServer"
+    }, 
+    {
+      "name" : "Countries_(December_2017)_SGCB_in_UK_(WGS84)", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_(December_2017)_SGCB_in_UK_(WGS84)/MapServer"
+    }, 
+    {
+      "name" : "Countries_(December_2017)_UGCB_in_Great_Britain", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_(December_2017)_UGCB_in_Great_Britain/MapServer"
+    }, 
+    {
+      "name" : "Countries_(December_2017)_UGCB_in_UK", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_(December_2017)_UGCB_in_UK/MapServer"
+    }, 
+    {
+      "name" : "Countries_(December_2017)_UGCB_in_UK_(WGS84)", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_(December_2017)_UGCB_in_UK_(WGS84)/MapServer"
+    }, 
+    {
       "name" : "Countries_December_1961_England_and_Wales_BFC_Boundaries", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_1961_England_and_Wales_BFC_Boundaries/FeatureServer"
@@ -2160,6 +2215,141 @@
       "name" : "Countries_December_2017_FCB_in_Great_Britain_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2017_FCB_in_Great_Britain_2022/FeatureServer"
+    }, 
+    {
+      "name" : "Countries_December_2017_FCB_in_UK_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2017_FCB_in_UK_2022/FeatureServer"
+    }, 
+    {
+      "name" : "Countries_December_2017_FCB_in_UK_WGS84_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2017_FCB_in_UK_WGS84_2022/FeatureServer"
+    }, 
+    {
+      "name" : "Countries_December_2017_FEB_in_Great_Britain_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2017_FEB_in_Great_Britain_2022/FeatureServer"
+    }, 
+    {
+      "name" : "Countries_December_2017_FEB_in_UK_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2017_FEB_in_UK_2022/FeatureServer"
+    }, 
+    {
+      "name" : "Countries_December_2017_Full_Clipped_Boundaries_in_Great_Britain", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2017_Full_Clipped_Boundaries_in_Great_Britain/WFSServer"
+    }, 
+    {
+      "name" : "Countries_December_2017_Full_Clipped_Boundaries_in_UK", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2017_Full_Clipped_Boundaries_in_UK/WFSServer"
+    }, 
+    {
+      "name" : "Countries_December_2017_Full_Clipped_Boundaries_in_UK_WGS84_", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2017_Full_Clipped_Boundaries_in_UK_WGS84_/WFSServer"
+    }, 
+    {
+      "name" : "Countries_December_2017_Full_Extent_Boundaries_in_Great_Britain", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2017_Full_Extent_Boundaries_in_Great_Britain/WFSServer"
+    }, 
+    {
+      "name" : "Countries_December_2017_Full_Extent_Boundaries_in_UK", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2017_Full_Extent_Boundaries_in_UK/WFSServer"
+    }, 
+    {
+      "name" : "Countries_December_2017_GCB_in_Great_Britain_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2017_GCB_in_Great_Britain_2022/FeatureServer"
+    }, 
+    {
+      "name" : "Countries_December_2017_GCB_in_UK_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2017_GCB_in_UK_2022/FeatureServer"
+    }, 
+    {
+      "name" : "Countries_December_2017_GCB_in_UK_WGS84_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2017_GCB_in_UK_WGS84_2022/FeatureServer"
+    }, 
+    {
+      "name" : "Countries_December_2017_Generalised_Clipped_Boundaries_in_Great_Britain", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2017_Generalised_Clipped_Boundaries_in_Great_Britain/WFSServer"
+    }, 
+    {
+      "name" : "Countries_December_2017_Generalised_Clipped_Boundaries_in_UK", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2017_Generalised_Clipped_Boundaries_in_UK/WFSServer"
+    }, 
+    {
+      "name" : "Countries_December_2017_Generalised_Clipped_Boundaries_in_UK_WGS84_", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2017_Generalised_Clipped_Boundaries_in_UK_WGS84_/WFSServer"
+    }, 
+    {
+      "name" : "Countries_December_2017_SGCB_in_Great_Britain_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2017_SGCB_in_Great_Britain_2022/FeatureServer"
+    }, 
+    {
+      "name" : "Countries_December_2017_SGCB_in_UK_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2017_SGCB_in_UK_2022/FeatureServer"
+    }, 
+    {
+      "name" : "Countries_December_2017_SGCB_in_UK_WGS84_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2017_SGCB_in_UK_WGS84_2022/FeatureServer"
+    }, 
+    {
+      "name" : "Countries_December_2017_Super_Generalised_Clipped_Boundaries_in_Great_Britain", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2017_Super_Generalised_Clipped_Boundaries_in_Great_Britain/WFSServer"
+    }, 
+    {
+      "name" : "Countries_December_2017_Super_Generalised_Clipped_Boundaries_in_UK", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2017_Super_Generalised_Clipped_Boundaries_in_UK/WFSServer"
+    }, 
+    {
+      "name" : "Countries_December_2017_Super_Generalised_Clipped_Boundaries_in_UK_WGS84_", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2017_Super_Generalised_Clipped_Boundaries_in_UK_WGS84_/WFSServer"
+    }, 
+    {
+      "name" : "Countries_December_2017_UGCB_in_Great_Britain_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2017_UGCB_in_Great_Britain_2022/FeatureServer"
+    }, 
+    {
+      "name" : "Countries_December_2017_UGCB_in_UK_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2017_UGCB_in_UK_2022/FeatureServer"
+    }, 
+    {
+      "name" : "Countries_December_2017_UGCB_in_UK_WGS84_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2017_UGCB_in_UK_WGS84_2022/FeatureServer"
+    }, 
+    {
+      "name" : "Countries_December_2017_Ultra_Generalised_Clipped_Boundaries_in_Great_Britain", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2017_Ultra_Generalised_Clipped_Boundaries_in_Great_Britain/WFSServer"
+    }, 
+    {
+      "name" : "Countries_December_2017_Ultra_Generalised_Clipped_Boundaries_in_UK", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2017_Ultra_Generalised_Clipped_Boundaries_in_UK/WFSServer"
+    }, 
+    {
+      "name" : "Countries_December_2017_Ultra_Generalised_Clipped_Boundaries_in_UK_WGS84_", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2017_Ultra_Generalised_Clipped_Boundaries_in_UK_WGS84_/WFSServer"
     }, 
     {
       "name" : "Countries_December_2020_UK_BFC_V3", 
@@ -4157,6 +4347,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD_(Dec_2017)_SGCB_UK_(WGS84)/MapServer"
     }, 
     {
+      "name" : "LAD_(Dec_2017)_UGCB_GB", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD_(Dec_2017)_UGCB_GB/MapServer"
+    }, 
+    {
       "name" : "LAD_(Dec_2017)_UGCB_in_the_UK_(WGS84)", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD_(Dec_2017)_UGCB_in_the_UK_(WGS84)/MapServer"
@@ -4427,6 +4622,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD_Dec_2017_Super_Generalised_Clipped_Boundaries_UK_WGS84_/WFSServer"
     }, 
     {
+      "name" : "LAD_Dec_2017_UGCB_GB_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD_Dec_2017_UGCB_GB_2022/FeatureServer"
+    }, 
+    {
       "name" : "LAD_Dec_2017_UGCB_in_the_UK_WGS84_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD_Dec_2017_UGCB_in_the_UK_WGS84_2022/FeatureServer"
@@ -4440,6 +4640,11 @@
       "name" : "LAD_DEC_2017_UK_NC_5679e28ce82542f0b6c78d09c3531e78", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD_DEC_2017_UK_NC_5679e28ce82542f0b6c78d09c3531e78/FeatureServer"
+    }, 
+    {
+      "name" : "LAD_Dec_2017_Ultra_Generalised_Clipped_Boundaries_GB", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD_Dec_2017_Ultra_Generalised_Clipped_Boundaries_GB/WFSServer"
     }, 
     {
       "name" : "LAD_Dec_2017_Ultra_Generalised_Clipped_Boundaries_in_the_UK_WGS84_", 
@@ -6117,6 +6322,21 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_(December_2020)_UK_BGC/FeatureServer"
     }, 
     {
+      "name" : "Local_Authority_Districts_(May_2018)_UK_BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_(May_2018)_UK_BFC/MapServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_(May_2018)_UK_BFE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_(May_2018)_UK_BFE/MapServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_(May_2018)_UK_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_(May_2018)_UK_BGC/MapServer"
+    }, 
+    {
       "name" : "Local_Authority_Districts_April_2019_UK_BFC_v2", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_April_2019_UK_BFC_v2/FeatureServer"
@@ -6182,6 +6402,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_December_2016_FEB_in_the_UK_2022/FeatureServer"
     }, 
     {
+      "name" : "Local_Authority_Districts_December_2016_FEB_in_the_UK_WGS84_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_December_2016_FEB_in_the_UK_WGS84_2022/FeatureServer"
+    }, 
+    {
       "name" : "Local_Authority_Districts_December_2016_Full_Clipped_Boundaries_in_Great_Britain", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_December_2016_Full_Clipped_Boundaries_in_Great_Britain/WFSServer"
@@ -6200,6 +6425,11 @@
       "name" : "Local_Authority_Districts_December_2016_Full_Extent_Boundaries_in_the_UK", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_December_2016_Full_Extent_Boundaries_in_the_UK/WFSServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_December_2016_Full_Extent_Boundaries_in_the_UK_WGS84", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_December_2016_Full_Extent_Boundaries_in_the_UK_WGS84/WFSServer"
     }, 
     {
       "name" : "Local_Authority_Districts_December_2016_GB_BFC_v2", 
@@ -6350,6 +6580,16 @@
       "name" : "Local_Authority_Districts_December_2021_UK_BUC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_December_2021_UK_BUC/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_May_2018_UK_BFC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2018_UK_BFC/WFSServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_May_2018_UK_BFE", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2018_UK_BFE/WFSServer"
     }, 
     {
       "name" : "Local_Authority_Districts_May_2020_Boundaries_UK_BFE", 
@@ -11707,6 +11947,21 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_(December_2017)_GCB_in_England_and_Wales/MapServer"
     }, 
     {
+      "name" : "Parishes_and_Non_Civil_Parished_Areas_(May_2018)_EW_BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_and_Non_Civil_Parished_Areas_(May_2018)_EW_BFC/MapServer"
+    }, 
+    {
+      "name" : "Parishes_and_Non_Civil_Parished_Areas_(May_2018)_EW_BFE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_and_Non_Civil_Parished_Areas_(May_2018)_EW_BFE/MapServer"
+    }, 
+    {
+      "name" : "Parishes_and_Non_Civil_Parished_Areas_(May_2018)_EW_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_and_Non_Civil_Parished_Areas_(May_2018)_EW_BGC/MapServer"
+    }, 
+    {
       "name" : "Parishes_and_Non_Civil_Parished_Areas_December_2020_EW_BFC_V2", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_and_Non_Civil_Parished_Areas_December_2020_EW_BFC_V2/FeatureServer"
@@ -11745,6 +12000,21 @@
       "name" : "Parishes_and_Non_Civil_Parished_Areas_December_2021_EW_BSC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_and_Non_Civil_Parished_Areas_December_2021_EW_BSC/FeatureServer"
+    }, 
+    {
+      "name" : "Parishes_and_Non_Civil_Parished_Areas_May_2018_EW_BFC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_and_Non_Civil_Parished_Areas_May_2018_EW_BFC/WFSServer"
+    }, 
+    {
+      "name" : "Parishes_and_Non_Civil_Parished_Areas_May_2018_EW_BFE", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_and_Non_Civil_Parished_Areas_May_2018_EW_BFE/WFSServer"
+    }, 
+    {
+      "name" : "Parishes_and_Non_Civil_Parished_Areas_May_2018_EW_BGC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_and_Non_Civil_Parished_Areas_May_2018_EW_BGC/WFSServer"
     }, 
     {
       "name" : "Parishes_Dec_2015_GCB_in_England_and_Wales_V2_2022", 
@@ -12827,6 +13097,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Regions_(December_2015)_GCB_in_England/MapServer"
     }, 
     {
+      "name" : "Regions_(December_2015)_SGCB_in_England", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Regions_(December_2015)_SGCB_in_England/MapServer"
+    }, 
+    {
       "name" : "Regions_(December_2015)_UGCB_in_England", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Regions_(December_2015)_UGCB_in_England/MapServer"
@@ -12855,6 +13130,11 @@
       "name" : "Regions_(December_2016)_UGCB_in_England", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Regions_(December_2016)_UGCB_in_England/MapServer"
+    }, 
+    {
+      "name" : "Regions_(December_2017)_FCB_in_England", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Regions_(December_2017)_FCB_in_England/MapServer"
     }, 
     {
       "name" : "Regions_(December_2017)_FEB_in_England", 
@@ -12977,9 +13257,19 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Regions_December_2016_Ultra_Generalised_Clipped_Boundaries_in_England/WFSServer"
     }, 
     {
+      "name" : "Regions_December_2017_FCB_in_England_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Regions_December_2017_FCB_in_England_2022/FeatureServer"
+    }, 
+    {
       "name" : "Regions_December_2017_FEB_in_England_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Regions_December_2017_FEB_in_England_2022/FeatureServer"
+    }, 
+    {
+      "name" : "Regions_December_2017_Full_Clipped_Boundaries_in_England", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Regions_December_2017_Full_Clipped_Boundaries_in_England/WFSServer"
     }, 
     {
       "name" : "Regions_December_2017_Full_Extent_Boundaries_in_England", 
@@ -14535,6 +14825,11 @@
       "name" : "Wards_(December_2017)_SGCB_in_UK_(WGS84)", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_(December_2017)_SGCB_in_UK_(WGS84)/MapServer"
+    }, 
+    {
+      "name" : "Wards_(May_2018)_UK_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_(May_2018)_UK_BGC/MapServer"
     }, 
     {
       "name" : "Wards_Dec_2015_FCB_GB_2022", 
