@@ -1257,6 +1257,26 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_(December_2018)_UGCB_EN/MapServer"
     }, 
     {
+      "name" : "Combined_Authorities_(December_2019)_FCB_EN", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_(December_2019)_FCB_EN/MapServer"
+    }, 
+    {
+      "name" : "Combined_Authorities_(December_2019)_FEB_EN", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_(December_2019)_FEB_EN/MapServer"
+    }, 
+    {
+      "name" : "Combined_Authorities_(December_2019)_GCB_EN", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_(December_2019)_GCB_EN/MapServer"
+    }, 
+    {
+      "name" : "Combined_Authorities_(December_2019)_UGCB_EN", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_(December_2019)_UGCB_EN/MapServer"
+    }, 
+    {
       "name" : "Combined_Authorities_(June_2016)_FCB_in_England", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_(June_2016)_FCB_in_England/MapServer"
@@ -1335,6 +1355,46 @@
       "name" : "Combined_Authorities_December_2018_Ultra_Generalised_Clipped_Boundaries_EN", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_December_2018_Ultra_Generalised_Clipped_Boundaries_EN/WFSServer"
+    }, 
+    {
+      "name" : "Combined_Authorities_December_2019_FCB_EN_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_December_2019_FCB_EN_2022/FeatureServer"
+    }, 
+    {
+      "name" : "Combined_Authorities_December_2019_FEB_EN_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_December_2019_FEB_EN_2022/FeatureServer"
+    }, 
+    {
+      "name" : "Combined_Authorities_December_2019_Full_Clipped_Boundaries_EN", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_December_2019_Full_Clipped_Boundaries_EN/WFSServer"
+    }, 
+    {
+      "name" : "Combined_Authorities_December_2019_Full_Extent_Boundaries_EN", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_December_2019_Full_Extent_Boundaries_EN/WFSServer"
+    }, 
+    {
+      "name" : "Combined_Authorities_December_2019_GCB_EN_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_December_2019_GCB_EN_2022/FeatureServer"
+    }, 
+    {
+      "name" : "Combined_Authorities_December_2019_Generalised_Clipped_Boundaries_EN", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_December_2019_Generalised_Clipped_Boundaries_EN/WFSServer"
+    }, 
+    {
+      "name" : "Combined_Authorities_December_2019_UGCB_EN_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_December_2019_UGCB_EN_2022/FeatureServer"
+    }, 
+    {
+      "name" : "Combined_Authorities_December_2019_Ultra_Generalised_Clipped_Boundaries_EN", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_December_2019_Ultra_Generalised_Clipped_Boundaries_EN/WFSServer"
     }, 
     {
       "name" : "Combined_Authorities_December_2020_EN_BFC_V2", 
@@ -2012,6 +2072,21 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_and_Unitary_Authorities_(December_2018)_GCB_UK/MapServer"
     }, 
     {
+      "name" : "Counties_and_Unitary_Authorities_(December_2019)_FCB_UK", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_and_Unitary_Authorities_(December_2019)_FCB_UK/MapServer"
+    }, 
+    {
+      "name" : "Counties_and_Unitary_Authorities_(December_2019)_FEB_UK", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_and_Unitary_Authorities_(December_2019)_FEB_UK/MapServer"
+    }, 
+    {
+      "name" : "Counties_and_Unitary_Authorities_(December_2019)_GCB_UK", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_and_Unitary_Authorities_(December_2019)_GCB_UK/MapServer"
+    }, 
+    {
       "name" : "Counties_and_Unitary_Authorities_April_2019_Boundaries_EW_BFC", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_and_Unitary_Authorities_April_2019_Boundaries_EW_BFC/WFSServer"
@@ -2315,6 +2390,36 @@
       "name" : "Counties_and_Unitary_Authorities_December_2018_Generalised_Clipped_Boundaries_UK", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_and_Unitary_Authorities_December_2018_Generalised_Clipped_Boundaries_UK/WFSServer"
+    }, 
+    {
+      "name" : "Counties_and_Unitary_Authorities_December_2019_FCB_UK_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_and_Unitary_Authorities_December_2019_FCB_UK_2022/FeatureServer"
+    }, 
+    {
+      "name" : "Counties_and_Unitary_Authorities_December_2019_FEB_UK_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_and_Unitary_Authorities_December_2019_FEB_UK_2022/FeatureServer"
+    }, 
+    {
+      "name" : "Counties_and_Unitary_Authorities_December_2019_Full_Clipped_Boundaries_UK", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_and_Unitary_Authorities_December_2019_Full_Clipped_Boundaries_UK/WFSServer"
+    }, 
+    {
+      "name" : "Counties_and_Unitary_Authorities_December_2019_Full_Extent_Boundaries_UK", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_and_Unitary_Authorities_December_2019_Full_Extent_Boundaries_UK/WFSServer"
+    }, 
+    {
+      "name" : "Counties_and_Unitary_Authorities_December_2019_GCB_UK_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_and_Unitary_Authorities_December_2019_GCB_UK_2022/FeatureServer"
+    }, 
+    {
+      "name" : "Counties_and_Unitary_Authorities_December_2019_Generalised_Clipped_Boundaries_UK", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_and_Unitary_Authorities_December_2019_Generalised_Clipped_Boundaries_UK/WFSServer"
     }, 
     {
       "name" : "Counties_and_Unitary_Authorities_December_2020_UK_BFC_V2", 
@@ -2797,6 +2902,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_(December_2018)_FEB_GB/MapServer"
     }, 
     {
+      "name" : "Countries_(December_2018)_FEB_UK", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_(December_2018)_FEB_UK/MapServer"
+    }, 
+    {
       "name" : "Countries_(December_2018)_GCB_GB", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_(December_2018)_GCB_GB/MapServer"
@@ -3150,6 +3260,21 @@
       "name" : "Countries_December_2018_Ultra_Generalised_Clipped_Boundaries_UK", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2018_Ultra_Generalised_Clipped_Boundaries_UK/WFSServer"
+    }, 
+    {
+      "name" : "Countries_December_2019_FCB_UK_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2019_FCB_UK_2022/FeatureServer"
+    }, 
+    {
+      "name" : "Countries_December_2019_FEB_UK_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2019_FEB_UK_2022/FeatureServer"
+    }, 
+    {
+      "name" : "Countries_December_2019_Full_Clipped_Boundaries_UK", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2019_Full_Clipped_Boundaries_UK/WFSServer"
     }, 
     {
       "name" : "Countries_December_2020_UK_BFC_V3", 
@@ -3722,6 +3847,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CTYUA_(Dec_2018)_UGCB_in_the_UK/MapServer"
     }, 
     {
+      "name" : "CTYUA_(Dec_2019)_UGCB_in_the_UK", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CTYUA_(Dec_2019)_UGCB_in_the_UK/MapServer"
+    }, 
+    {
       "name" : "CTYUA_Apr_2019_UGCB_Great_Britain_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CTYUA_Apr_2019_UGCB_Great_Britain_2022/FeatureServer"
@@ -4035,6 +4165,16 @@
       "name" : "CTYUA_Dec_2018_Ultra_Generalised_Clipped_Boundaries_in_the_UK", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CTYUA_Dec_2018_Ultra_Generalised_Clipped_Boundaries_in_the_UK/WFSServer"
+    }, 
+    {
+      "name" : "CTYUA_Dec_2019_UGCB_in_the_UK_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CTYUA_Dec_2019_UGCB_in_the_UK_2022/FeatureServer"
+    }, 
+    {
+      "name" : "CTYUA_Dec_2019_Ultra_Generalised_Clipped_Boundaries_in_the_UK", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CTYUA_Dec_2019_Ultra_Generalised_Clipped_Boundaries_in_the_UK/WFSServer"
     }, 
     {
       "name" : "DCELL_DEC_2011_WA_BGE", 
@@ -14802,6 +14942,26 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Regions_(December_2018)_Ultra_Generalised_EN/MapServer"
     }, 
     {
+      "name" : "Regions_(December_2019)_FCB_EN", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Regions_(December_2019)_FCB_EN/MapServer"
+    }, 
+    {
+      "name" : "Regions_(December_2019)_FEB_EN", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Regions_(December_2019)_FEB_EN/MapServer"
+    }, 
+    {
+      "name" : "Regions_(December_2019)_General_Clipped_Boundaries_EN", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Regions_(December_2019)_General_Clipped_Boundaries_EN/MapServer"
+    }, 
+    {
+      "name" : "Regions_(December_2019)_Ultra_Clipped_Boundaries_EN", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Regions_(December_2019)_Ultra_Clipped_Boundaries_EN/MapServer"
+    }, 
+    {
       "name" : "Regions_Dec_2015_FCB_in_England_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Regions_Dec_2015_FCB_in_England_2022/FeatureServer"
@@ -14990,6 +15150,41 @@
       "name" : "Regions_December_2018_Ultra_Generalised_EN_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Regions_December_2018_Ultra_Generalised_EN_2022/FeatureServer"
+    }, 
+    {
+      "name" : "Regions_December_2019_FCB_EN_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Regions_December_2019_FCB_EN_2022/FeatureServer"
+    }, 
+    {
+      "name" : "Regions_December_2019_FEB_EN_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Regions_December_2019_FEB_EN_2022/FeatureServer"
+    }, 
+    {
+      "name" : "Regions_December_2019_Full_Clipped_Boundaries_EN", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Regions_December_2019_Full_Clipped_Boundaries_EN/WFSServer"
+    }, 
+    {
+      "name" : "Regions_December_2019_Full_Extent_Boundaries_EN", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Regions_December_2019_Full_Extent_Boundaries_EN/WFSServer"
+    }, 
+    {
+      "name" : "Regions_December_2019_General_Clipped_Boundaries_EN", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Regions_December_2019_General_Clipped_Boundaries_EN/WFSServer"
+    }, 
+    {
+      "name" : "Regions_December_2019_General_Clipped_Boundaries_EN_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Regions_December_2019_General_Clipped_Boundaries_EN_2022/FeatureServer"
+    }, 
+    {
+      "name" : "Regions_December_2019_Ultra_Clipped_Boundaries_EN", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Regions_December_2019_Ultra_Clipped_Boundaries_EN/WFSServer"
     }, 
     {
       "name" : "Regions_December_2020_EN_BFC_V2", 
