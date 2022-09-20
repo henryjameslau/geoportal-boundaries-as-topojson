@@ -7752,6 +7752,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LMCTYUA_2013_EW_BSC/FeatureServer"
     }, 
     {
+      "name" : "LOC_LHB_JUL_2022_EW_NC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LOC_LHB_JUL_2022_EW_NC/FeatureServer"
+    }, 
+    {
       "name" : "Local Administrative Units Level 1 (January 2018) UK BFC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local Administrative Units Level 1 (January 2018) UK BFC/MapServer"
@@ -14605,6 +14610,11 @@
       "name" : "Output_Areas_December_2021_Population_Weighted_Centroids_Version_2_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_December_2021_Population_Weighted_Centroids_Version_2_2022/FeatureServer"
+    }, 
+    {
+      "name" : "PAR_APR_2022_EW_NC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PAR_APR_2022_EW_NC/FeatureServer"
     }, 
     {
       "name" : "PAR_DEC_2016_EW_NC", 
