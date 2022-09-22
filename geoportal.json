@@ -18217,6 +18217,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/UTLA_Dec_2011_Generalised_Clipped_Boundaries_in_England_and_Wales/WFSServer"
     }, 
     {
+      "name" : "UTLA_DEC_2022_UK_NC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/UTLA_DEC_2022_UK_NC/FeatureServer"
+    }, 
+    {
       "name" : "Ward_names_and_codes_UK_as_at_12_98", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Ward_names_and_codes_UK_as_at_12_98/FeatureServer"
