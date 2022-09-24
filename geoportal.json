@@ -147,19 +147,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CAL_APR_2020_EN_NC/FeatureServer"
     }, 
     {
-      "name" : "CAL_APR_2020_EN_NC_4a122670d9794299b26e79323043cd4a", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CAL_APR_2020_EN_NC_4a122670d9794299b26e79323043cd4a/FeatureServer"
-    }, 
-    {
       "name" : "CAL_FEB_2017_EN_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CAL_FEB_2017_EN_NC/FeatureServer"
-    }, 
-    {
-      "name" : "CAL_FEB_2017_EN_NC_ecf261dbf2a04aa38191e3b7aaf0ff28", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CAL_FEB_2017_EN_NC_ecf261dbf2a04aa38191e3b7aaf0ff28/FeatureServer"
     }, 
     {
       "name" : "CAL_JUL_2018_EN_NC", 
@@ -167,19 +157,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CAL_JUL_2018_EN_NC/FeatureServer"
     }, 
     {
-      "name" : "CAL_JUL_2018_EN_NC_4e26444f7189458ab20db3c58ab053f8", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CAL_JUL_2018_EN_NC_4e26444f7189458ab20db3c58ab053f8/FeatureServer"
-    }, 
-    {
       "name" : "CAL_JUL_2019_EN_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CAL_JUL_2019_EN_NC/FeatureServer"
-    }, 
-    {
-      "name" : "CAL_JUL_2019_EN_NC_e92bec10713648f893b26f0bfe941649", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CAL_JUL_2019_EN_NC_e92bec10713648f893b26f0bfe941649/FeatureServer"
     }, 
     {
       "name" : "Care_Home__Residents_2011_Age_85_and_over_as_a_percent_of_all_in_this_age_group", 
@@ -197,19 +177,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CAUTH_DEC_2016_EN_NC/FeatureServer"
     }, 
     {
-      "name" : "CAUTH_DEC_2016_EN_NC_9500716f27f64c6a85a44790e9886cf9", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CAUTH_DEC_2016_EN_NC_9500716f27f64c6a85a44790e9886cf9/FeatureServer"
-    }, 
-    {
       "name" : "CAUTH_DEC_2018_EN_NC_v2", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CAUTH_DEC_2018_EN_NC_v2/FeatureServer"
-    }, 
-    {
-      "name" : "CAUTH_DEC_2018_EN_NC_v2_dc01bdbc9cb0413eb9975904f939e182", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CAUTH_DEC_2018_EN_NC_v2_dc01bdbc9cb0413eb9975904f939e182/FeatureServer"
     }, 
     {
       "name" : "CAUTH_DEC_2019_EN_NC", 
@@ -217,29 +187,14 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CAUTH_DEC_2019_EN_NC/FeatureServer"
     }, 
     {
-      "name" : "CAUTH_DEC_2019_EN_NC_d703409e8d864919b9aee78403172a1e", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CAUTH_DEC_2019_EN_NC_d703409e8d864919b9aee78403172a1e/FeatureServer"
-    }, 
-    {
       "name" : "CAUTH_DEC_2020_EN_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CAUTH_DEC_2020_EN_NC/FeatureServer"
     }, 
     {
-      "name" : "CAUTH_DEC_2020_EN_NC_9fd645d539a244dba1d5109c4c1323ab", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CAUTH_DEC_2020_EN_NC_9fd645d539a244dba1d5109c4c1323ab/FeatureServer"
-    }, 
-    {
       "name" : "CAUTH_MAR_2017_EN_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CAUTH_MAR_2017_EN_NC/FeatureServer"
-    }, 
-    {
-      "name" : "CAUTH_MAR_2017_EN_NC_0eb61a9e39dc43e0b3f646ee3af2a914", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CAUTH_MAR_2017_EN_NC_0eb61a9e39dc43e0b3f646ee3af2a914/FeatureServer"
     }, 
     {
       "name" : "CCG_2013_EN_BSC", 
@@ -252,19 +207,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CCG_APR_2017_EN_NCv3/FeatureServer"
     }, 
     {
-      "name" : "CCG_APR_2017_EN_NCv3_170e5067264e44858f1b6001abab1dab", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CCG_APR_2017_EN_NCv3_170e5067264e44858f1b6001abab1dab/FeatureServer"
-    }, 
-    {
       "name" : "CCG_APR_2018_EN_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CCG_APR_2018_EN_NC/FeatureServer"
-    }, 
-    {
-      "name" : "CCG_APR_2018_EN_NC_44dd3229a6e0414fbe398dad9917161b", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CCG_APR_2018_EN_NC_44dd3229a6e0414fbe398dad9917161b/FeatureServer"
     }, 
     {
       "name" : "CCG_APR_2019_EN_NC", 
@@ -272,19 +217,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CCG_APR_2019_EN_NC/FeatureServer"
     }, 
     {
-      "name" : "CCG_APR_2019_EN_NC_796b12571b49426386f23d5016dba285", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CCG_APR_2019_EN_NC_796b12571b49426386f23d5016dba285/FeatureServer"
-    }, 
-    {
       "name" : "CCG_APR_2020_EN_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CCG_APR_2020_EN_NC/FeatureServer"
-    }, 
-    {
-      "name" : "CCG_APR_2020_EN_NC_e8fc8b2b63474474a88e4bceb7f9bd1f", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CCG_APR_2020_EN_NC_e8fc8b2b63474474a88e4bceb7f9bd1f/FeatureServer"
     }, 
     {
       "name" : "CCG_APR_2021_EN_BSC_100M", 
@@ -297,19 +232,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CCG_APR_2021_EN_NC/FeatureServer"
     }, 
     {
-      "name" : "CCG_APR_2021_EN_NC_c980f23b15e1488e95b5a9a36319ad84", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CCG_APR_2021_EN_NC_c980f23b15e1488e95b5a9a36319ad84/FeatureServer"
-    }, 
-    {
       "name" : "CCG_DEC_2016_EN_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CCG_DEC_2016_EN_NC/FeatureServer"
-    }, 
-    {
-      "name" : "CCG_DEC_2016_EN_NC_5e48701a474e40d987c6c4bfe1d35fee", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CCG_DEC_2016_EN_NC_5e48701a474e40d987c6c4bfe1d35fee/FeatureServer"
     }, 
     {
       "name" : "CCG17_NHSRLO17_NHSER17_EN_LU_v3", 
@@ -467,19 +392,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CED_DEC_2019_EN_NC/FeatureServer"
     }, 
     {
-      "name" : "CED_DEC_2019_EN_NC_52f50f16b2e04552b98e6b4994e6df98", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CED_DEC_2019_EN_NC_52f50f16b2e04552b98e6b4994e6df98/FeatureServer"
-    }, 
-    {
       "name" : "CED_MAY_2017_EN_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CED_MAY_2017_EN_NC/FeatureServer"
-    }, 
-    {
-      "name" : "CED_MAY_2017_EN_NC_f07786e46d584ffa90f8514f84249f01", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CED_MAY_2017_EN_NC_f07786e46d584ffa90f8514f84249f01/FeatureServer"
     }, 
     {
       "name" : "CED_MAY_2018_EN_NC", 
@@ -487,19 +402,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CED_MAY_2018_EN_NC/FeatureServer"
     }, 
     {
-      "name" : "CED_MAY_2018_EN_NC_4df8757ba2764eb091d03fb25a91ef72", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CED_MAY_2018_EN_NC_4df8757ba2764eb091d03fb25a91ef72/FeatureServer"
-    }, 
-    {
       "name" : "CED_MAY_2020_EN_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CED_MAY_2020_EN_NC/FeatureServer"
-    }, 
-    {
-      "name" : "CED_MAY_2020_EN_NC_b21e557adae44601997908a393b18d31", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CED_MAY_2020_EN_NC_b21e557adae44601997908a393b18d31/FeatureServer"
     }, 
     {
       "name" : "CED17_CTY17_EN_LU", 
@@ -1245,11 +1150,6 @@
       "name" : "Counties_21_April_1991_Names_and_Codes_in_England_and_Wales", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_21_April_1991_Names_and_Codes_in_England_and_Wales/FeatureServer"
-    }, 
-    {
-      "name" : "Counties_21_April_1991_Names_and_Codes_in_England_and_Wales_588fbd93fd3c4900b7523512265ec792", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_21_April_1991_Names_and_Codes_in_England_and_Wales_588fbd93fd3c4900b7523512265ec792/FeatureServer"
     }, 
     {
       "name" : "Counties_and_Unitary_Authorities_(April_2019)_Boundaries_EW_BFC", 
@@ -3262,19 +3162,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CSP_DEC_2016_EN_NC/FeatureServer"
     }, 
     {
-      "name" : "CSP_DEC_2016_EN_NC_53f81f537f454bd9bc7f8871b636b5bc", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CSP_DEC_2016_EN_NC_53f81f537f454bd9bc7f8871b636b5bc/FeatureServer"
-    }, 
-    {
       "name" : "CSP_DEC_2017_EN_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CSP_DEC_2017_EN_NC/FeatureServer"
-    }, 
-    {
-      "name" : "CSP_DEC_2017_EN_NC_2427c78259354adb8fe16387dcd8a1eb", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CSP_DEC_2017_EN_NC_2427c78259354adb8fe16387dcd8a1eb/FeatureServer"
     }, 
     {
       "name" : "CSP_DEC_2018_EN_NC", 
@@ -3282,19 +3172,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CSP_DEC_2018_EN_NC/FeatureServer"
     }, 
     {
-      "name" : "CSP_DEC_2018_EN_NC_51243f2e4a4c444b948d3f3acf83200f", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CSP_DEC_2018_EN_NC_51243f2e4a4c444b948d3f3acf83200f/FeatureServer"
-    }, 
-    {
       "name" : "CSP_DEC_2019_EW_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CSP_DEC_2019_EW_NC/FeatureServer"
-    }, 
-    {
-      "name" : "CSP_DEC_2019_EW_NC_71662d050a7441d0ba0e358bbcdf5a72", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CSP_DEC_2019_EW_NC_71662d050a7441d0ba0e358bbcdf5a72/FeatureServer"
     }, 
     {
       "name" : "CSP_DEC_2020_EW_NC", 
@@ -3302,29 +3182,14 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CSP_DEC_2020_EW_NC/FeatureServer"
     }, 
     {
-      "name" : "CSP_DEC_2020_EW_NC_b5c66c27757f4da68bfa8693ed69a177", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CSP_DEC_2020_EW_NC_b5c66c27757f4da68bfa8693ed69a177/FeatureServer"
-    }, 
-    {
       "name" : "CSP_JAN_2017_WA_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CSP_JAN_2017_WA_NC/FeatureServer"
     }, 
     {
-      "name" : "CSP_JAN_2017_WA_NC_f3846911a91a405b83f7069993d27771", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CSP_JAN_2017_WA_NC_f3846911a91a405b83f7069993d27771/FeatureServer"
-    }, 
-    {
       "name" : "CSP_JUL_2016_EN_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CSP_JUL_2016_EN_NC/FeatureServer"
-    }, 
-    {
-      "name" : "CSP_JUL_2016_EN_NC_326a1f17121342b4b0e9c830839b3352", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CSP_JUL_2016_EN_NC_326a1f17121342b4b0e9c830839b3352/FeatureServer"
     }, 
     {
       "name" : "CTRY_2014_GB_BSC", 
@@ -3342,19 +3207,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CTRY_DEC_2016_UK_NC/FeatureServer"
     }, 
     {
-      "name" : "CTRY_DEC_2016_UK_NC_e4666b6755e047e7a4161c7b4f11bfff", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CTRY_DEC_2016_UK_NC_e4666b6755e047e7a4161c7b4f11bfff/FeatureServer"
-    }, 
-    {
       "name" : "CTRY_DEC_2017_UK_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CTRY_DEC_2017_UK_NC/FeatureServer"
-    }, 
-    {
-      "name" : "CTRY_DEC_2017_UK_NC_21d746e4ef9c4b0692434682a0d43c59", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CTRY_DEC_2017_UK_NC_21d746e4ef9c4b0692434682a0d43c59/FeatureServer"
     }, 
     {
       "name" : "CTRY_DEC_2018_UK_NC", 
@@ -3362,19 +3217,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CTRY_DEC_2018_UK_NC/FeatureServer"
     }, 
     {
-      "name" : "CTRY_DEC_2018_UK_NC_31b6d1a15cb344c3aa272df7146549a8", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CTRY_DEC_2018_UK_NC_31b6d1a15cb344c3aa272df7146549a8/FeatureServer"
-    }, 
-    {
       "name" : "CTRY_DEC_2020_UK_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CTRY_DEC_2020_UK_NC/FeatureServer"
-    }, 
-    {
-      "name" : "CTRY_DEC_2020_UK_NC_1b945c22f2d3434faed1f6151be39747", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CTRY_DEC_2020_UK_NC_1b945c22f2d3434faed1f6151be39747/FeatureServer"
     }, 
     {
       "name" : "CTRY_TEST", 
@@ -3387,19 +3232,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CTY_APR_2019_EN_NC/FeatureServer"
     }, 
     {
-      "name" : "CTY_APR_2019_EN_NC_e0e43be3fc384531838d7a2fe07bfda2", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CTY_APR_2019_EN_NC_e0e43be3fc384531838d7a2fe07bfda2/FeatureServer"
-    }, 
-    {
       "name" : "CTY_APR_2020_EN_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CTY_APR_2020_EN_NC/FeatureServer"
-    }, 
-    {
-      "name" : "CTY_APR_2020_EN_NC_11c66d112a53489fb84d8807c733417a", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CTY_APR_2020_EN_NC_11c66d112a53489fb84d8807c733417a/FeatureServer"
     }, 
     {
       "name" : "CTY_APR_2021_EN_NC", 
@@ -3407,19 +3242,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CTY_APR_2021_EN_NC/FeatureServer"
     }, 
     {
-      "name" : "CTY_APR_2021_EN_NC_e4d4652ea3b24383972fa5eef911c978", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CTY_APR_2021_EN_NC_e4d4652ea3b24383972fa5eef911c978/FeatureServer"
-    }, 
-    {
       "name" : "CTY_DEC_2016_EN_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CTY_DEC_2016_EN_NC/FeatureServer"
-    }, 
-    {
-      "name" : "CTY_DEC_2016_EN_NC_a73f195bedbf4d9fae7723feaffe8fc2", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CTY_DEC_2016_EN_NC_a73f195bedbf4d9fae7723feaffe8fc2/FeatureServer"
     }, 
     {
       "name" : "CTY_DEC_2017_EN_NC", 
@@ -3427,19 +3252,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CTY_DEC_2017_EN_NC/FeatureServer"
     }, 
     {
-      "name" : "CTY_DEC_2017_EN_NC_8df7963f103948abacbbe7de8ae0b5aa", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CTY_DEC_2017_EN_NC_8df7963f103948abacbbe7de8ae0b5aa/FeatureServer"
-    }, 
-    {
       "name" : "CTY_DEC_2018_EN_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CTY_DEC_2018_EN_NC/FeatureServer"
-    }, 
-    {
-      "name" : "CTY_DEC_2018_EN_NC_6eed5b3cc61548bbaec56eb0f9caf02f", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CTY_DEC_2018_EN_NC_6eed5b3cc61548bbaec56eb0f9caf02f/FeatureServer"
     }, 
     {
       "name" : "CTYUA_(Apr_2019)_UGCB_Great_Britain", 
@@ -3952,19 +3767,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/DCELL_DEC_2016_WA_NC/FeatureServer"
     }, 
     {
-      "name" : "DCELL_DEC_2016_WA_NC_72033a4c98594125848302bfa819d6c3", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/DCELL_DEC_2016_WA_NC_72033a4c98594125848302bfa819d6c3/FeatureServer"
-    }, 
-    {
       "name" : "DCELL_DEC_2017_WA_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/DCELL_DEC_2017_WA_NC/FeatureServer"
-    }, 
-    {
-      "name" : "DCELL_DEC_2017_WA_NC_1e6df1b9ecfb4a2c8590385f237d02b5", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/DCELL_DEC_2017_WA_NC_1e6df1b9ecfb4a2c8590385f237d02b5/FeatureServer"
     }, 
     {
       "name" : "DCELL_DEC_2018_WA_NC", 
@@ -3972,29 +3777,14 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/DCELL_DEC_2018_WA_NC/FeatureServer"
     }, 
     {
-      "name" : "DCELLS (December 2018) Names and Codes in Wales_new", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/DCELLS (December 2018) Names and Codes in Wales_new/FeatureServer"
-    }, 
-    {
       "name" : "DCELLS_DEC_2019_WA_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/DCELLS_DEC_2019_WA_NC/FeatureServer"
     }, 
     {
-      "name" : "DCELLS_DEC_2019_WA_NC_8f7a651c2b774df28ec1bc6c82918ab0", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/DCELLS_DEC_2019_WA_NC_8f7a651c2b774df28ec1bc6c82918ab0/FeatureServer"
-    }, 
-    {
       "name" : "DCELLS_DEC_2020_WA_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/DCELLS_DEC_2020_WA_NC/FeatureServer"
-    }, 
-    {
-      "name" : "DCELLS_DEC_2020_WA_NC_3891c04db0534ebf9fec6878264f8313", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/DCELLS_DEC_2020_WA_NC_3891c04db0534ebf9fec6878264f8313/FeatureServer"
     }, 
     {
       "name" : "deaths2010_CustomGeography", 
@@ -4032,11 +3822,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/District_names_and_codes_EW_as_at_21_4_91/FeatureServer"
     }, 
     {
-      "name" : "District_names_and_codes_EW_as_at_21_4_91_dcd1acf2b89a46be996975c65f7a87db", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/District_names_and_codes_EW_as_at_21_4_91_dcd1acf2b89a46be996975c65f7a87db/FeatureServer"
-    }, 
-    {
       "name" : "DZ_DEC_2011_SC_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/DZ_DEC_2011_SC_NC/FeatureServer"
@@ -4052,19 +3837,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/EER_DEC_2016_UK_NC/FeatureServer"
     }, 
     {
-      "name" : "EER_DEC_2016_UK_NC_13615fd588074ae5bd9660b3e05348e1", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/EER_DEC_2016_UK_NC_13615fd588074ae5bd9660b3e05348e1/FeatureServer"
-    }, 
-    {
       "name" : "EER_DEC_2017_UK_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/EER_DEC_2017_UK_NC/FeatureServer"
-    }, 
-    {
-      "name" : "EER_DEC_2017_UK_NC_0e8b7962e5ed41f4bcdbb2430685097a", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/EER_DEC_2017_UK_NC_0e8b7962e5ed41f4bcdbb2430685097a/FeatureServer"
     }, 
     {
       "name" : "EER_DEC_2018_UK_NC", 
@@ -4072,29 +3847,14 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/EER_DEC_2018_UK_NC/FeatureServer"
     }, 
     {
-      "name" : "EER_DEC_2018_UK_NC_604be51b1d084bf6b81b288b40bccc5c", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/EER_DEC_2018_UK_NC_604be51b1d084bf6b81b288b40bccc5c/FeatureServer"
-    }, 
-    {
       "name" : "EER_DEC_2019_UK_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/EER_DEC_2019_UK_NC/FeatureServer"
     }, 
     {
-      "name" : "EER_DEC_2019_UK_NC_11f1373a47f14cc5a5c3a7efd9d61f8d", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/EER_DEC_2019_UK_NC_11f1373a47f14cc5a5c3a7efd9d61f8d/FeatureServer"
-    }, 
-    {
       "name" : "EER_DEC_2020_UK_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/EER_DEC_2020_UK_NC/FeatureServer"
-    }, 
-    {
-      "name" : "EER_DEC_2020_UK_NC_696695c547a6478a8d7f12dfe16e0cb0", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/EER_DEC_2020_UK_NC_696695c547a6478a8d7f12dfe16e0cb0/FeatureServer"
     }, 
     {
       "name" : "Fire_and_Rescue_Authorities_December_2016_EW_BFC_v2", 
@@ -4167,19 +3927,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/FRA_APR_2021_UK_NC/FeatureServer"
     }, 
     {
-      "name" : "FRA_APR_2021_UK_NC_28a7ac18ad824324be37392931792318", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/FRA_APR_2021_UK_NC_28a7ac18ad824324be37392931792318/FeatureServer"
-    }, 
-    {
       "name" : "FRA_DEC_2016_UK_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/FRA_DEC_2016_UK_NC/FeatureServer"
-    }, 
-    {
-      "name" : "FRA_DEC_2016_UK_NC_4eae5e6d5cec4d419263c26bf37a3555", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/FRA_DEC_2016_UK_NC_4eae5e6d5cec4d419263c26bf37a3555/FeatureServer"
     }, 
     {
       "name" : "FRA_DEC_2017_UK_NC", 
@@ -4187,19 +3937,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/FRA_DEC_2017_UK_NC/FeatureServer"
     }, 
     {
-      "name" : "FRA_DEC_2017_UK_NC_54a083ce456c4ce5b26d8e74267427fe", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/FRA_DEC_2017_UK_NC_54a083ce456c4ce5b26d8e74267427fe/FeatureServer"
-    }, 
-    {
       "name" : "FRA_DEC_2018_UK_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/FRA_DEC_2018_UK_NC/FeatureServer"
-    }, 
-    {
-      "name" : "FRA_DEC_2018_UK_NC_56ff8212247e4a659c40746465d37ab5", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/FRA_DEC_2018_UK_NC_56ff8212247e4a659c40746465d37ab5/FeatureServer"
     }, 
     {
       "name" : "FRA_DEC_2019_UK_NC", 
@@ -4207,19 +3947,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/FRA_DEC_2019_UK_NC/FeatureServer"
     }, 
     {
-      "name" : "FRA_DEC_2019_UK_NC_4e75bb9d72e548ad8fae2aaadc572a5b", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/FRA_DEC_2019_UK_NC_4e75bb9d72e548ad8fae2aaadc572a5b/FeatureServer"
-    }, 
-    {
       "name" : "FRA_DEC_2020_UK_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/FRA_DEC_2020_UK_NC/FeatureServer"
-    }, 
-    {
-      "name" : "FRA_DEC_2020_UK_NC_ec1a1e4865b347338072edb26b59a067", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/FRA_DEC_2020_UK_NC_ec1a1e4865b347338072edb26b59a067/FeatureServer"
     }, 
     {
       "name" : "FT_all_TTWA", 
@@ -4297,19 +4027,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/HB_APR_2019_SC_NC/FeatureServer"
     }, 
     {
-      "name" : "HB_APR_2019_SC_NC_d15aad58f47649d3b4a06b1e52b9df79", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/HB_APR_2019_SC_NC_d15aad58f47649d3b4a06b1e52b9df79/FeatureServer"
-    }, 
-    {
       "name" : "HB_DEC_2020_SC_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/HB_DEC_2020_SC_NC/FeatureServer"
-    }, 
-    {
-      "name" : "HB_DEC_2020_SC_NC_d5fef5642cce4045926f0823fab2b51a", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/HB_DEC_2020_SC_NC_d5fef5642cce4045926f0823fab2b51a/FeatureServer"
     }, 
     {
       "name" : "HB_FEB_2018_SC_NC", 
@@ -4317,19 +4037,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/HB_FEB_2018_SC_NC/FeatureServer"
     }, 
     {
-      "name" : "HB_FEB_2018_SC_NC_a283b12baa1049eca5e2bce5630836e7", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/HB_FEB_2018_SC_NC_a283b12baa1049eca5e2bce5630836e7/FeatureServer"
-    }, 
-    {
       "name" : "Health_and_Social_Care_Board_(December_2010)_Names_and_Codes_in_Northern_Ireland", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Health_and_Social_Care_Board_(December_2010)_Names_and_Codes_in_Northern_Ireland/FeatureServer"
-    }, 
-    {
-      "name" : "Health_and_Social_Care_Board__December_2010__Names_and_Codes_in_Northern_Ireland", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Health_and_Social_Care_Board__December_2010__Names_and_Codes_in_Northern_Ireland/FeatureServer"
     }, 
     {
       "name" : "High_TTWA", 
@@ -4342,34 +4052,14 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/HLTH_2015_EW_BSC/FeatureServer"
     }, 
     {
-      "name" : "Hot Spots PERCENTAGE", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Hot Spots PERCENTAGE/MapServer"
-    }, 
-    {
       "name" : "ICS_DEC_2019_EN_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ICS_DEC_2019_EN_NC/FeatureServer"
     }, 
     {
-      "name" : "ICS_DEC_2019_EN_NC_8a63b61d2cfe49ec96618cde0c2bf943", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ICS_DEC_2019_EN_NC_8a63b61d2cfe49ec96618cde0c2bf943/FeatureServer"
-    }, 
-    {
       "name" : "ICS_DEC_2020_EN_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ICS_DEC_2020_EN_NC/FeatureServer"
-    }, 
-    {
-      "name" : "ICS_DEC_2020_EN_NC_eca19f4a18fe4e81867f07f557ca60e7", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ICS_DEC_2020_EN_NC_eca19f4a18fe4e81867f07f557ca60e7/FeatureServer"
-    }, 
-    {
-      "name" : "Index of Multiple Deprivation (December 2017) Lookup in Northern Ireland_new", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Index of Multiple Deprivation (December 2017) Lookup in Northern Ireland_new/FeatureServer"
     }, 
     {
       "name" : "Index of Place Names in Great Britain (July 2016)_new", 
@@ -4382,11 +4072,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Index_of_Multiple_Deprivation_December_2016_Lookup_in_Scotland/FeatureServer"
     }, 
     {
-      "name" : "Index_of_Multiple_Deprivation_December_2016_Lookup_in_Scotland_ec5f9b1c7be24316ab6c1db63ad1b1a1", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Index_of_Multiple_Deprivation_December_2016_Lookup_in_Scotland_ec5f9b1c7be24316ab6c1db63ad1b1a1/FeatureServer"
-    }, 
-    {
       "name" : "Index_of_Multiple_Deprivation_December_2017_Lookup_in_Northern_Ireland", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Index_of_Multiple_Deprivation_December_2017_Lookup_in_Northern_Ireland/FeatureServer"
@@ -4397,19 +4082,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Index_of_Multiple_Deprivation_December_2019_Lookup_in_England/FeatureServer"
     }, 
     {
-      "name" : "Index_of_Multiple_Deprivation_December_2019_Lookup_in_England_0942b8ee21f44e3ba20c2a90c74d190b", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Index_of_Multiple_Deprivation_December_2019_Lookup_in_England_0942b8ee21f44e3ba20c2a90c74d190b/FeatureServer"
-    }, 
-    {
       "name" : "Index_of_Multiple_Deprivation_December_2019_Lookup_in_Wales", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Index_of_Multiple_Deprivation_December_2019_Lookup_in_Wales/FeatureServer"
-    }, 
-    {
-      "name" : "Index_of_Multiple_Deprivation_December_2019_Lookup_in_Wales_de15f4fbef9d4a8f9afa496e91adc742", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Index_of_Multiple_Deprivation_December_2019_Lookup_in_Wales_de15f4fbef9d4a8f9afa496e91adc742/FeatureServer"
     }, 
     {
       "name" : "Index_of_Place_Names_July_2016", 
@@ -4435,16 +4110,6 @@
       "name" : "Integrated_Care_Boards_July_2022_EN_BUC_v2", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Integrated_Care_Boards_July_2022_EN_BUC_v2/FeatureServer"
-    }, 
-    {
-      "name" : "International Migration 2005 to 2015", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/International Migration 2005 to 2015/MapServer"
-    }, 
-    {
-      "name" : "International_Migration", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/International_Migration/MapServer"
     }, 
     {
       "name" : "International_Territorial_Level_1_May_2021_UK_BFC", 
@@ -4512,11 +4177,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/IPN_GB_2016/FeatureServer"
     }, 
     {
-      "name" : "IPN_GB_2018", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/IPN_GB_2018/MapServer"
-    }, 
-    {
       "name" : "IPN_GB_2019", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/IPN_GB_2019/FeatureServer"
@@ -4525,16 +4185,6 @@
       "name" : "IPN_GB_2020", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/IPN_GB_2020/FeatureServer"
-    }, 
-    {
-      "name" : "IPN_GB_2020", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/IPN_GB_2020/MapServer"
-    }, 
-    {
-      "name" : "IPN_GB_2020_new", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/IPN_GB_2020_new/FeatureServer"
     }, 
     {
       "name" : "ITL1_JAN_2021_UK_NC", 
@@ -4592,19 +4242,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAC_DEC_2019_EN_NC/FeatureServer"
     }, 
     {
-      "name" : "LAC_DEC_2019_EN_NC_312398239cad4404b6ca1804c1776177", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAC_DEC_2019_EN_NC_312398239cad4404b6ca1804c1776177/FeatureServer"
-    }, 
-    {
       "name" : "LAC_DEC_2020_EN_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAC_DEC_2020_EN_NC/FeatureServer"
-    }, 
-    {
-      "name" : "LAC_DEC_2020_EN_NC_3a75eabe212a443daba371f9357e52eb", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAC_DEC_2020_EN_NC_3a75eabe212a443daba371f9357e52eb/FeatureServer"
     }, 
     {
       "name" : "LAD_(Dec_2009)_GCB_GB", 
@@ -4765,11 +4405,6 @@
       "name" : "LAD_APR_2015_UK_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD_APR_2015_UK_NC/FeatureServer"
-    }, 
-    {
-      "name" : "LAD_APR_2015_UK_NC_4dc35ff4c40040e295ae32fe8ec66f0a", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD_APR_2015_UK_NC_4dc35ff4c40040e295ae32fe8ec66f0a/FeatureServer"
     }, 
     {
       "name" : "LAD_DEC_2008_GB_BGC", 
@@ -4947,11 +4582,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD_DEC_2016_UK_NC/FeatureServer"
     }, 
     {
-      "name" : "LAD_DEC_2016_UK_NC_dbfe57c73a5a448f8a625db26a79966c", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD_DEC_2016_UK_NC_dbfe57c73a5a448f8a625db26a79966c/FeatureServer"
-    }, 
-    {
       "name" : "LAD_Dec_2016_Ultra_Generalised_Clipped_Boundaries_in_GB", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD_Dec_2016_Ultra_Generalised_Clipped_Boundaries_in_GB/WFSServer"
@@ -5052,11 +4682,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD_DEC_2017_UK_NC/FeatureServer"
     }, 
     {
-      "name" : "LAD_DEC_2017_UK_NC_5679e28ce82542f0b6c78d09c3531e78", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD_DEC_2017_UK_NC_5679e28ce82542f0b6c78d09c3531e78/FeatureServer"
-    }, 
-    {
       "name" : "LAD_Dec_2017_Ultra_Generalised_Clipped_Boundaries_GB", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD_Dec_2017_Ultra_Generalised_Clipped_Boundaries_GB/WFSServer"
@@ -5072,29 +4697,14 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD_DEC_2018_UK_NC/FeatureServer"
     }, 
     {
-      "name" : "LAD_DEC_2018_UK_NC_5446bc12cd2043038906f8664656be42", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD_DEC_2018_UK_NC_5446bc12cd2043038906f8664656be42/FeatureServer"
-    }, 
-    {
       "name" : "LAD_DEC_2019_UK_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD_DEC_2019_UK_NC/FeatureServer"
     }, 
     {
-      "name" : "LAD_DEC_2019_UK_NC_6db37fb36ce445638dac7bb0593ffa2c", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD_DEC_2019_UK_NC_6db37fb36ce445638dac7bb0593ffa2c/FeatureServer"
-    }, 
-    {
       "name" : "LAD_DEC_2020_UK_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD_DEC_2020_UK_NC/FeatureServer"
-    }, 
-    {
-      "name" : "LAD_DEC_2020_UK_NC_7ee8d469d3814797984faef9fe7177fa", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD_DEC_2020_UK_NC_7ee8d469d3814797984faef9fe7177fa/FeatureServer"
     }, 
     {
       "name" : "LAD_December_2018_Boundaries_GB_BFC", 
@@ -5932,19 +5542,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEP_APR_2017_EN_NC_V2/FeatureServer"
     }, 
     {
-      "name" : "LEP_APR_2017_EN_NC_V2_af0b7b66a3f14444b58d18976c7c2b46", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEP_APR_2017_EN_NC_V2_af0b7b66a3f14444b58d18976c7c2b46/FeatureServer"
-    }, 
-    {
       "name" : "LEP_APR_2020_NC_EN", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEP_APR_2020_NC_EN/FeatureServer"
-    }, 
-    {
-      "name" : "LEP_APR_2020_NC_EN_040481bce41243de877c9b14bd5f1683", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEP_APR_2020_NC_EN_040481bce41243de877c9b14bd5f1683/FeatureServer"
     }, 
     {
       "name" : "LEP_MAY_2021_EN_BFC_V2", 
@@ -5972,19 +5572,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPNOP_APR_2017_EN_NC_V2/FeatureServer"
     }, 
     {
-      "name" : "LEPNOP_APR_2017_EN_NC_V2_837f82f0e9504aa9809d3b92789fc342", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPNOP_APR_2017_EN_NC_V2_837f82f0e9504aa9809d3b92789fc342/FeatureServer"
-    }, 
-    {
       "name" : "LEPNOP_APR_2020_EN_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPNOP_APR_2020_EN_NC/FeatureServer"
-    }, 
-    {
-      "name" : "LEPNOP_APR_2020_EN_NC_e92ab458706743c0a8f4eca2805fe342", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPNOP_APR_2020_EN_NC_e92ab458706743c0a8f4eca2805fe342/FeatureServer"
     }, 
     {
       "name" : "LEPNOP_APR_2021_EN_NC", 
@@ -5992,19 +5582,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPNOP_APR_2021_EN_NC/FeatureServer"
     }, 
     {
-      "name" : "LEPNOP_APR_2021_EN_NC_be8d74a99f9245aeb0bf6e7eaa35480b", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPNOP_APR_2021_EN_NC_be8d74a99f9245aeb0bf6e7eaa35480b/FeatureServer"
-    }, 
-    {
       "name" : "LEPOP_APR_2017_EN_NC_V2", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPOP_APR_2017_EN_NC_V2/FeatureServer"
-    }, 
-    {
-      "name" : "LEPOP_APR_2017_EN_NC_V2_ea3cc2a426fe45299f06e54683b2ffeb", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPOP_APR_2017_EN_NC_V2_ea3cc2a426fe45299f06e54683b2ffeb/FeatureServer"
     }, 
     {
       "name" : "LEPOP_APR_2020_EN_NC", 
@@ -6012,19 +5592,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPOP_APR_2020_EN_NC/FeatureServer"
     }, 
     {
-      "name" : "LEPOP_APR_2020_EN_NC_8ed937f2eff241549d80047f73cad5d8", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPOP_APR_2020_EN_NC_8ed937f2eff241549d80047f73cad5d8/FeatureServer"
-    }, 
-    {
       "name" : "LEPOP_APR_2021_EN_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPOP_APR_2021_EN_NC/FeatureServer"
-    }, 
-    {
-      "name" : "LEPOP_APR_2021_EN_NC_7e73cfd50cbe4c208a68642421d6d2ac", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPOP_APR_2021_EN_NC_7e73cfd50cbe4c208a68642421d6d2ac/FeatureServer"
     }, 
     {
       "name" : "LGD_APR_2015_NI_BSC", 
@@ -6037,19 +5607,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LGD_DEC_2016_NI_NC/FeatureServer"
     }, 
     {
-      "name" : "LGD_DEC_2016_NI_NC_fadcf2cd045a4390a69dd00ac8531244", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LGD_DEC_2016_NI_NC_fadcf2cd045a4390a69dd00ac8531244/FeatureServer"
-    }, 
-    {
       "name" : "LGD_DEC_2017_NI_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LGD_DEC_2017_NI_NC/FeatureServer"
-    }, 
-    {
-      "name" : "LGD_DEC_2017_NI_NC_5c02a2a426bb41449da0c6272457f683", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LGD_DEC_2017_NI_NC_5c02a2a426bb41449da0c6272457f683/FeatureServer"
     }, 
     {
       "name" : "LGD_DEC_2018_NI_NC", 
@@ -6057,29 +5617,14 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LGD_DEC_2018_NI_NC/FeatureServer"
     }, 
     {
-      "name" : "LGD_DEC_2018_NI_NC_4049ba98bd4944bc9023d4c8ee2487e2", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LGD_DEC_2018_NI_NC_4049ba98bd4944bc9023d4c8ee2487e2/FeatureServer"
-    }, 
-    {
       "name" : "LGD_DEC_2019_NI_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LGD_DEC_2019_NI_NC/FeatureServer"
     }, 
     {
-      "name" : "LGD_DEC_2019_NI_NC_8513cf4d6e3049e9b5ec3d9457cb8dd8", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LGD_DEC_2019_NI_NC_8513cf4d6e3049e9b5ec3d9457cb8dd8/FeatureServer"
-    }, 
-    {
       "name" : "LGD_DEC_2020_NI_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LGD_DEC_2020_NI_NC/FeatureServer"
-    }, 
-    {
-      "name" : "LGD_DEC_2020_NI_NC_11553701085e476cb9f29ce949392bd4", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LGD_DEC_2020_NI_NC_11553701085e476cb9f29ce949392bd4/FeatureServer"
     }, 
     {
       "name" : "lhb", 
@@ -6097,19 +5642,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LHB_2015_WA_NC/FeatureServer"
     }, 
     {
-      "name" : "LHB_2015_WA_NC_96c870d6e6214db0b077147e601fb5ad", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LHB_2015_WA_NC_96c870d6e6214db0b077147e601fb5ad/FeatureServer"
-    }, 
-    {
       "name" : "LHB_APR_2019_WA_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LHB_APR_2019_WA_NC/FeatureServer"
-    }, 
-    {
-      "name" : "LHB_APR_2019_WA_NC_39b7bc608b39490282c5ac780498f342", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LHB_APR_2019_WA_NC_39b7bc608b39490282c5ac780498f342/FeatureServer"
     }, 
     {
       "name" : "LHB_DEC_2016_WA_NC", 
@@ -6117,19 +5652,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LHB_DEC_2016_WA_NC/FeatureServer"
     }, 
     {
-      "name" : "LHB_DEC_2016_WA_NC_39cdad9c3720406c888dd273f2027c61", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LHB_DEC_2016_WA_NC_39cdad9c3720406c888dd273f2027c61/FeatureServer"
-    }, 
-    {
       "name" : "LHB_DEC_2017_WA_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LHB_DEC_2017_WA_NC/FeatureServer"
-    }, 
-    {
-      "name" : "LHB_DEC_2017_WA_NC_43951d518c1d47709045a2b6a3a8f7b3", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LHB_DEC_2017_WA_NC_43951d518c1d47709045a2b6a3a8f7b3/FeatureServer"
     }, 
     {
       "name" : "LHB_DEC_2018_WA_NC", 
@@ -6137,34 +5662,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LHB_DEC_2018_WA_NC/FeatureServer"
     }, 
     {
-      "name" : "LHB_DEC_2018_WA_NC_bddf6d5d5125450fbd415641a5f41c6e", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LHB_DEC_2018_WA_NC_bddf6d5d5125450fbd415641a5f41c6e/FeatureServer"
-    }, 
-    {
       "name" : "LHB_DEC_2020_WA_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LHB_DEC_2020_WA_NC/FeatureServer"
-    }, 
-    {
-      "name" : "LHB_DEC_2020_WA_NC_e008605a6d824822b18a0f5fddf79671", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LHB_DEC_2020_WA_NC_e008605a6d824822b18a0f5fddf79671/FeatureServer"
-    }, 
-    {
-      "name" : "LLSOA_(Dec_2021)_Population_Weighted_Centroids_for_England_and_Wales", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LLSOA_(Dec_2021)_Population_Weighted_Centroids_for_England_and_Wales/MapServer"
-    }, 
-    {
-      "name" : "LLSOA_Dec_2021_Population_Weighted_Centroids_for_England_and_Wales", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LLSOA_Dec_2021_Population_Weighted_Centroids_for_England_and_Wales/WFSServer"
-    }, 
-    {
-      "name" : "LLSOA_Dec_2021_Population_Weighted_Centroids_for_England_and_Wales_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LLSOA_Dec_2021_Population_Weighted_Centroids_for_England_and_Wales_2022/FeatureServer"
     }, 
     {
       "name" : "LMCTYUA", 
@@ -7447,11 +6947,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Health_Boards_names_and_codes_WA_as_at_06_06/FeatureServer"
     }, 
     {
-      "name" : "Local_Health_Boards_names_and_codes_WA_as_at_06_06_b1425115b18048bb974a2198be2f9a1d", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Health_Boards_names_and_codes_WA_as_at_06_06_b1425115b18048bb974a2198be2f9a1d/FeatureServer"
-    }, 
-    {
       "name" : "Local_Planning_Authorities_(April_2020)_UK_BFC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Planning_Authorities_(April_2020)_UK_BFC/MapServer"
@@ -7762,29 +7257,14 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LPA_APR_2019_UK_NC/FeatureServer"
     }, 
     {
-      "name" : "LPA_APR_2019_UK_NC_80f171bbfaec4d74b38d30d4dece79af", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LPA_APR_2019_UK_NC_80f171bbfaec4d74b38d30d4dece79af/FeatureServer"
-    }, 
-    {
       "name" : "LPA_APR_2020_UK_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LPA_APR_2020_UK_NC/FeatureServer"
     }, 
     {
-      "name" : "LPA_APR_2020_UK_NC_41a46d6b707849d99ac19346b1bc213b", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LPA_APR_2020_UK_NC_41a46d6b707849d99ac19346b1bc213b/FeatureServer"
-    }, 
-    {
       "name" : "LPA_APR_2021_UK_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LPA_APR_2021_UK_NC/FeatureServer"
-    }, 
-    {
-      "name" : "LPA_APR_2021_UK_NC_fa85d005f7704bfab10257f2b7440577", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LPA_APR_2021_UK_NC_fa85d005f7704bfab10257f2b7440577/FeatureServer"
     }, 
     {
       "name" : "LPA19_LAD19_UK_LU", 
@@ -7802,19 +7282,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LRF_AUG_2016_EW_NC/FeatureServer"
     }, 
     {
-      "name" : "LRF_AUG_2016_EW_NC_de401bc77343408b86375bfce85d4484", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LRF_AUG_2016_EW_NC_de401bc77343408b86375bfce85d4484/FeatureServer"
-    }, 
-    {
       "name" : "LRF_DEC_2017_EW_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LRF_DEC_2017_EW_NC/FeatureServer"
-    }, 
-    {
-      "name" : "LRF_DEC_2017_EW_NC_c685c240902d462e9230a0f2c9ac3201", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LRF_DEC_2017_EW_NC_c685c240902d462e9230a0f2c9ac3201/FeatureServer"
     }, 
     {
       "name" : "LRF_DEC_2018_EW_NC", 
@@ -7822,29 +7292,14 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LRF_DEC_2018_EW_NC/FeatureServer"
     }, 
     {
-      "name" : "LRF_DEC_2018_EW_NC_29f5f03911544aa791179e7d5a6467e7", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LRF_DEC_2018_EW_NC_29f5f03911544aa791179e7d5a6467e7/FeatureServer"
-    }, 
-    {
       "name" : "LRF_DEC_2019_EW_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LRF_DEC_2019_EW_NC/FeatureServer"
     }, 
     {
-      "name" : "LRF_DEC_2019_EW_NC_682f57a54a3640d3a546be170ae16eb3", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LRF_DEC_2019_EW_NC_682f57a54a3640d3a546be170ae16eb3/FeatureServer"
-    }, 
-    {
       "name" : "LRF_DEC_2020_EW_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LRF_DEC_2020_EW_NC/FeatureServer"
-    }, 
-    {
-      "name" : "LRF_DEC_2020_EW_NC_70a183eb554d4a0f9d5f60af4c118567", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LRF_DEC_2020_EW_NC_70a183eb554d4a0f9d5f60af4c118567/FeatureServer"
     }, 
     {
       "name" : "lsoa", 
@@ -7860,16 +7315,6 @@
       "name" : "LSOA_(2001)_names_and_codes_NI_as_at_02_05", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_(2001)_names_and_codes_NI_as_at_02_05/FeatureServer"
-    }, 
-    {
-      "name" : "LSOA_(Dec_2001)_Population_Weighted_Centroids_in_England_and_Wales", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_(Dec_2001)_Population_Weighted_Centroids_in_England_and_Wales/MapServer"
-    }, 
-    {
-      "name" : "LSOA_(Dec_2011)_Population_Weighted_Centroids_in_England_and_Wales", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_(Dec_2011)_Population_Weighted_Centroids_in_England_and_Wales/MapServer"
     }, 
     {
       "name" : "LSOA__2001__names_and_codes_EW_as_at_02_04", 
@@ -7900,26 +7345,6 @@
       "name" : "LSOA_2021_EW_BFE_V2", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_2021_EW_BFE_V2/FeatureServer"
-    }, 
-    {
-      "name" : "LSOA_Dec_2001_Population_Weighted_Centroids_in_England_and_Wales", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_Dec_2001_Population_Weighted_Centroids_in_England_and_Wales/WFSServer"
-    }, 
-    {
-      "name" : "LSOA_Dec_2001_Population_Weighted_Centroids_in_England_and_Wales_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_Dec_2001_Population_Weighted_Centroids_in_England_and_Wales_2022/FeatureServer"
-    }, 
-    {
-      "name" : "LSOA_Dec_2011_Population_Weighted_Centroids_in_England_and_Wales", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_Dec_2011_Population_Weighted_Centroids_in_England_and_Wales/WFSServer"
-    }, 
-    {
-      "name" : "LSOA_Dec_2011_Population_Weighted_Centroids_in_England_and_Wales_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_Dec_2011_Population_Weighted_Centroids_in_England_and_Wales_2022/FeatureServer"
     }, 
     {
       "name" : "LSOA_Population_Weighted_Centroids_December_2021_EW", 
@@ -8512,29 +7937,14 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MCTY_DEC_2016_EN_NC/FeatureServer"
     }, 
     {
-      "name" : "MCTY_DEC_2016_EN_NC_f181402df00d4742b6e153a5f4c50f3b", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MCTY_DEC_2016_EN_NC_f181402df00d4742b6e153a5f4c50f3b/FeatureServer"
-    }, 
-    {
       "name" : "MCTY_DEC_2017_EN_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MCTY_DEC_2017_EN_NC/FeatureServer"
     }, 
     {
-      "name" : "MCTY_DEC_2017_EN_NC_a57072404810468782461082f4101d8b", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MCTY_DEC_2017_EN_NC_a57072404810468782461082f4101d8b/FeatureServer"
-    }, 
-    {
       "name" : "MCTY_DEC_2018_EN_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MCTY_DEC_2018_EN_NC/FeatureServer"
-    }, 
-    {
-      "name" : "MCTY_DEC_2018_EN_NC_ea0bfbe569c64d46ab2819f213531ec6", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MCTY_DEC_2018_EN_NC_ea0bfbe569c64d46ab2819f213531ec6/FeatureServer"
     }, 
     {
       "name" : "MCTY_Dec_2018_UGCB_in_England_2022", 
@@ -8552,19 +7962,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MCTY_DEC_2019_EN_NC/FeatureServer"
     }, 
     {
-      "name" : "MCTY_DEC_2019_EN_NC_050fac6369fa4fd3a23478592a7cc8c3", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MCTY_DEC_2019_EN_NC_050fac6369fa4fd3a23478592a7cc8c3/FeatureServer"
-    }, 
-    {
       "name" : "MCTY_DEC_2020_EN_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MCTY_DEC_2020_EN_NC/FeatureServer"
-    }, 
-    {
-      "name" : "MCTY_DEC_2020_EN_NC_e1669fc679214c44871ff5e162e8677a", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MCTY_DEC_2020_EN_NC_e1669fc679214c44871ff5e162e8677a/FeatureServer"
     }, 
     {
       "name" : "Medium_TTWA", 
@@ -8682,21 +8082,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Middle_layer_Super_Output_Areas_December_2021_EW_BGC/FeatureServer"
     }, 
     {
-      "name" : "MLSOA_(Dec_2021)_Population_Weighted_Centroids_in_England_and_Wales", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MLSOA_(Dec_2021)_Population_Weighted_Centroids_in_England_and_Wales/MapServer"
-    }, 
-    {
-      "name" : "MLSOA_Dec_2021_Population_Weighted_Centroids_in_England_and_Wales", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MLSOA_Dec_2021_Population_Weighted_Centroids_in_England_and_Wales/WFSServer"
-    }, 
-    {
-      "name" : "MLSOA_Dec_2021_Population_Weighted_Centroids_in_England_and_Wales_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MLSOA_Dec_2021_Population_Weighted_Centroids_in_England_and_Wales_2022/FeatureServer"
-    }, 
-    {
       "name" : "msoa", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/msoa/FeatureServer"
@@ -8705,16 +8090,6 @@
       "name" : "MSOA_(2001)_names_and_codes_EW_as_at_08_04", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_(2001)_names_and_codes_EW_as_at_08_04/FeatureServer"
-    }, 
-    {
-      "name" : "MSOA_(Dec_2001)_Population_Weighted_Centroids_in_England_and_Wales", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_(Dec_2001)_Population_Weighted_Centroids_in_England_and_Wales/MapServer"
-    }, 
-    {
-      "name" : "MSOA_(Dec_2011)_Population_Weighted_Centroids_in_England_and_Wales", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_(Dec_2011)_Population_Weighted_Centroids_in_England_and_Wales/MapServer"
     }, 
     {
       "name" : "MSOA__2001__names_and_codes_EW_as_at_08_04", 
@@ -8740,26 +8115,6 @@
       "name" : "MSOA_2021_EW_BFE_2", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_2021_EW_BFE_2/FeatureServer"
-    }, 
-    {
-      "name" : "MSOA_Dec_2001_Population_Weighted_Centroids_in_England_and_Wales", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_Dec_2001_Population_Weighted_Centroids_in_England_and_Wales/WFSServer"
-    }, 
-    {
-      "name" : "MSOA_Dec_2001_Population_Weighted_Centroids_in_England_and_Wales_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_Dec_2001_Population_Weighted_Centroids_in_England_and_Wales_2022/FeatureServer"
-    }, 
-    {
-      "name" : "MSOA_Dec_2011_Population_Weighted_Centroids_in_England_and_Wales", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_Dec_2011_Population_Weighted_Centroids_in_England_and_Wales/WFSServer"
-    }, 
-    {
-      "name" : "MSOA_Dec_2011_Population_Weighted_Centroids_in_England_and_Wales_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_Dec_2011_Population_Weighted_Centroids_in_England_and_Wales_2022/FeatureServer"
     }, 
     {
       "name" : "MSOA_Population_Weighted_Centroids_December_2021_EW", 
@@ -8897,19 +8252,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NAER_DEC_2016_WA_NC/FeatureServer"
     }, 
     {
-      "name" : "NAER_DEC_2016_WA_NC_f60ebe1cd58f4154b1f43849b3be3e77", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NAER_DEC_2016_WA_NC_f60ebe1cd58f4154b1f43849b3be3e77/FeatureServer"
-    }, 
-    {
       "name" : "NAER_DEC_2017_WA_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NAER_DEC_2017_WA_NC/FeatureServer"
-    }, 
-    {
-      "name" : "NAER_DEC_2017_WA_NC_b1db4de614ea40079949fd9810a56973", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NAER_DEC_2017_WA_NC_b1db4de614ea40079949fd9810a56973/FeatureServer"
     }, 
     {
       "name" : "NAER_DEC_2018_WA_NC", 
@@ -8917,19 +8262,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NAER_DEC_2018_WA_NC/FeatureServer"
     }, 
     {
-      "name" : "NAER_DEC_2018_WA_NC_bf4d0bce94b84331a6a31538c4930df9", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NAER_DEC_2018_WA_NC_bf4d0bce94b84331a6a31538c4930df9/FeatureServer"
-    }, 
-    {
       "name" : "NAER_DEC_2019_WA_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NAER_DEC_2019_WA_NC/FeatureServer"
-    }, 
-    {
-      "name" : "NAER_DEC_2019_WA_NC_e9d661f6573d4b01935205d2d465c58a", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NAER_DEC_2019_WA_NC_e9d661f6573d4b01935205d2d465c58a/FeatureServer"
     }, 
     {
       "name" : "NAER_DEC_2020_WA_NC", 
@@ -8937,24 +8272,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NAER_DEC_2020_WA_NC/FeatureServer"
     }, 
     {
-      "name" : "NAER_DEC_2020_WA_NC_c3f6089c3f1b47629275a725c28d69b0", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NAER_DEC_2020_WA_NC_c3f6089c3f1b47629275a725c28d69b0/FeatureServer"
-    }, 
-    {
       "name" : "NAT", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NAT/FeatureServer"
-    }, 
-    {
-      "name" : "National Statistics Postcode Lookup (Latest Centroids)", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/National Statistics Postcode Lookup (Latest Centroids)/MapServer"
-    }, 
-    {
-      "name" : "National Statistics Postcode Lookup (Latest) Centroids", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/National Statistics Postcode Lookup (Latest) Centroids/MapServer"
     }, 
     {
       "name" : "National_Assembly_for_Wales_Constituencies_December_2021_WA_BFC_v2", 
@@ -9052,19 +8372,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NAWC_2014_WA_NC/FeatureServer"
     }, 
     {
-      "name" : "NAWC_2014_WA_NC_d8b1c3d421ec4d1785a2e362eae6bcfb", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NAWC_2014_WA_NC_d8b1c3d421ec4d1785a2e362eae6bcfb/FeatureServer"
-    }, 
-    {
       "name" : "NAWC_2015_WA_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NAWC_2015_WA_NC/FeatureServer"
-    }, 
-    {
-      "name" : "NAWC_2015_WA_NC_bbc94de3944b40b3a163ecae1cedbd9f", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NAWC_2015_WA_NC_bbc94de3944b40b3a163ecae1cedbd9f/FeatureServer"
     }, 
     {
       "name" : "NAWC_DEC_2016_WA_NC", 
@@ -9072,19 +8382,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NAWC_DEC_2016_WA_NC/FeatureServer"
     }, 
     {
-      "name" : "NAWC_DEC_2016_WA_NC_33f1b077070b4eb1ac08eecf8279d929", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NAWC_DEC_2016_WA_NC_33f1b077070b4eb1ac08eecf8279d929/FeatureServer"
-    }, 
-    {
       "name" : "NAWC_DEC_2017_WA_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NAWC_DEC_2017_WA_NC/FeatureServer"
-    }, 
-    {
-      "name" : "NAWC_DEC_2017_WA_NC_7044d65ebb8440c1969d7ee6c0f7d896", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NAWC_DEC_2017_WA_NC_7044d65ebb8440c1969d7ee6c0f7d896/FeatureServer"
     }, 
     {
       "name" : "NAWC_DEC_2018_WA_NC", 
@@ -9092,29 +8392,14 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NAWC_DEC_2018_WA_NC/FeatureServer"
     }, 
     {
-      "name" : "NAWC_DEC_2018_WA_NC_1d92caae251b4801b48f911a51dd4108", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NAWC_DEC_2018_WA_NC_1d92caae251b4801b48f911a51dd4108/FeatureServer"
-    }, 
-    {
       "name" : "NAWC_DEC_2019_WA_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NAWC_DEC_2019_WA_NC/FeatureServer"
     }, 
     {
-      "name" : "NAWC_DEC_2019_WA_NC_192aef1c9c7d40e3a461ec4b04708056", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NAWC_DEC_2019_WA_NC_192aef1c9c7d40e3a461ec4b04708056/FeatureServer"
-    }, 
-    {
       "name" : "NAWC_DEC_2020_WA_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NAWC_DEC_2020_WA_NC/FeatureServer"
-    }, 
-    {
-      "name" : "NAWC_DEC_2020_WA_NC_8a60ee3ae904411fa7b1dd013abc4696", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NAWC_DEC_2020_WA_NC_8a60ee3ae904411fa7b1dd013abc4696/FeatureServer"
     }, 
     {
       "name" : "nawer", 
@@ -9127,19 +8412,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NAWER_DEC_2016_WA_NC/FeatureServer"
     }, 
     {
-      "name" : "NAWER_DEC_2016_WA_NC_46a3a189941a4d8288d1c4a257d54c01", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NAWER_DEC_2016_WA_NC_46a3a189941a4d8288d1c4a257d54c01/FeatureServer"
-    }, 
-    {
       "name" : "NAWER_DEC_2017_WA_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NAWER_DEC_2017_WA_NC/FeatureServer"
-    }, 
-    {
-      "name" : "NAWER_DEC_2017_WA_NC_9181fe66f99b457f9b04dc018cbb218d", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NAWER_DEC_2017_WA_NC_9181fe66f99b457f9b04dc018cbb218d/FeatureServer"
     }, 
     {
       "name" : "NAWER_DEC_2018_WA_NC", 
@@ -9147,19 +8422,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NAWER_DEC_2018_WA_NC/FeatureServer"
     }, 
     {
-      "name" : "NAWER_DEC_2018_WA_NC_1fcaf751a40a4acea7f59437949d1277", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NAWER_DEC_2018_WA_NC_1fcaf751a40a4acea7f59437949d1277/FeatureServer"
-    }, 
-    {
       "name" : "NAWER_DEC_2019_WA_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NAWER_DEC_2019_WA_NC/FeatureServer"
-    }, 
-    {
-      "name" : "NAWER_DEC_2019_WA_NC_ae63d2b9a6df49cf9e1a551c57bedd42", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NAWER_DEC_2019_WA_NC_ae63d2b9a6df49cf9e1a551c57bedd42/FeatureServer"
     }, 
     {
       "name" : "NAWER_DEC_2020_WA_NC", 
@@ -9167,19 +8432,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NAWER_DEC_2020_WA_NC/FeatureServer"
     }, 
     {
-      "name" : "NAWER_DEC_2020_WA_NC_28d3c2bedbb9443199b7f9f7e5f28897", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NAWER_DEC_2020_WA_NC_28d3c2bedbb9443199b7f9f7e5f28897/FeatureServer"
-    }, 
-    {
       "name" : "NCP_2014_EN_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NCP_2014_EN_NC/FeatureServer"
-    }, 
-    {
-      "name" : "NCP_2014_EN_NC_a589d499613f4236abc18f86a49afdb5", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NCP_2014_EN_NC_a589d499613f4236abc18f86a49afdb5/FeatureServer"
     }, 
     {
       "name" : "NCP_2015_EN_NC", 
@@ -9187,19 +8442,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NCP_2015_EN_NC/FeatureServer"
     }, 
     {
-      "name" : "NCP_2015_EN_NC_96b40092eff646d68bbf946fb7983ae4", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NCP_2015_EN_NC_96b40092eff646d68bbf946fb7983ae4/FeatureServer"
-    }, 
-    {
       "name" : "NCP_DEC_2016_EN_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NCP_DEC_2016_EN_NC/FeatureServer"
-    }, 
-    {
-      "name" : "NCP_DEC_2016_EN_NC_475440afe620478a92efb546a25291e9", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NCP_DEC_2016_EN_NC_475440afe620478a92efb546a25291e9/FeatureServer"
     }, 
     {
       "name" : "NCP_DEC_2017_EN_NC", 
@@ -9207,19 +8452,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NCP_DEC_2017_EN_NC/FeatureServer"
     }, 
     {
-      "name" : "NCP_DEC_2017_EN_NC_dec1642c5a1644c4accb1f1df69eb424", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NCP_DEC_2017_EN_NC_dec1642c5a1644c4accb1f1df69eb424/FeatureServer"
-    }, 
-    {
       "name" : "NCP_DEC_2018_EN_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NCP_DEC_2018_EN_NC/FeatureServer"
-    }, 
-    {
-      "name" : "NCP_DEC_2018_EN_NC_58faf3edc7184469bef9ecb7a298515e", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NCP_DEC_2018_EN_NC_58faf3edc7184469bef9ecb7a298515e/FeatureServer"
     }, 
     {
       "name" : "NCP_DEC_2019_EN_NC", 
@@ -9227,19 +8462,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NCP_DEC_2019_EN_NC/FeatureServer"
     }, 
     {
-      "name" : "NCP_DEC_2019_EN_NC_f0e69c78c60f49eebe10a22a4b2521a2", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NCP_DEC_2019_EN_NC_f0e69c78c60f49eebe10a22a4b2521a2/FeatureServer"
-    }, 
-    {
       "name" : "NCP_DEC_2020_EN_NC_v2", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NCP_DEC_2020_EN_NC_v2/FeatureServer"
-    }, 
-    {
-      "name" : "NCP_DEC_2020_EN_NC_v2_2a2c9d8abedf4142bcc60d7ea19c97a7", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NCP_DEC_2020_EN_NC_v2_2a2c9d8abedf4142bcc60d7ea19c97a7/FeatureServer"
     }, 
     {
       "name" : "NCP16_LAD16_EN_LU", 
@@ -9317,29 +8542,14 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NCV_SEP_2016_EN_NC/FeatureServer"
     }, 
     {
-      "name" : "NCV_SEP_2016_EN_NC_36f0d50f33b64ce9898736d844e73e7a", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NCV_SEP_2016_EN_NC_36f0d50f33b64ce9898736d844e73e7a/FeatureServer"
-    }, 
-    {
       "name" : "neWORLD_110m_admin_0_countries_lakes_with_SDG861", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/neWORLD_110m_admin_0_countries_lakes_with_SDG861/FeatureServer"
     }, 
     {
-      "name" : "NHS Postcode Directory (Latest) Centroids", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHS Postcode Directory (Latest) Centroids/MapServer"
-    }, 
-    {
       "name" : "NHS_England_Regions_(April_2021)_in_England", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHS_England_Regions_(April_2021)_in_England/FeatureServer"
-    }, 
-    {
-      "name" : "NHS_England_Regions__April_2021__in_England", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHS_England_Regions__April_2021__in_England/FeatureServer"
     }, 
     {
       "name" : "NHS_England_Regions_APR_2021_EN_BFC", 
@@ -9402,19 +8612,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSER_APR_2017_EN_NC/FeatureServer"
     }, 
     {
-      "name" : "NHSER_APR_2017_EN_NC_ffea6919bf4542f69f511fba14a9cc62", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSER_APR_2017_EN_NC_ffea6919bf4542f69f511fba14a9cc62/FeatureServer"
-    }, 
-    {
       "name" : "NHSER_APR_2018_EN_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSER_APR_2018_EN_NC/FeatureServer"
-    }, 
-    {
-      "name" : "NHSER_APR_2018_EN_NC_8ad51c2e63154887a1bbbb6acae486bd", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSER_APR_2018_EN_NC_8ad51c2e63154887a1bbbb6acae486bd/FeatureServer"
     }, 
     {
       "name" : "NHSER_APR_2019_EN_NC", 
@@ -9422,19 +8622,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSER_APR_2019_EN_NC/FeatureServer"
     }, 
     {
-      "name" : "NHSER_APR_2019_EN_NC_02632953a6944eab92852d398b3373c4", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSER_APR_2019_EN_NC_02632953a6944eab92852d398b3373c4/FeatureServer"
-    }, 
-    {
       "name" : "NHSER_APR_2020_EN_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSER_APR_2020_EN_NC/FeatureServer"
-    }, 
-    {
-      "name" : "NHSER_APR_2020_EN_NC_e9a8c4cb05eb494abf592ec48a11a2de", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSER_APR_2020_EN_NC_e9a8c4cb05eb494abf592ec48a11a2de/FeatureServer"
     }, 
     {
       "name" : "NHSRG_2015_EW_BSC", 
@@ -9447,29 +8637,14 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSRLO_APR_2017_EN_NC/FeatureServer"
     }, 
     {
-      "name" : "NHSRLO_APR_2017_EN_NC_71b55f64e13d40ec9ff812cfcb96e0c7", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSRLO_APR_2017_EN_NC_71b55f64e13d40ec9ff812cfcb96e0c7/FeatureServer"
-    }, 
-    {
       "name" : "NHSRLO_APR_2018_EN_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSRLO_APR_2018_EN_NC/FeatureServer"
     }, 
     {
-      "name" : "NHSRLO_APR_2018_EN_NC_f4d03cb1fd9d4fe695d930f7174e3737", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSRLO_APR_2018_EN_NC_f4d03cb1fd9d4fe695d930f7174e3737/FeatureServer"
-    }, 
-    {
       "name" : "NHSRLO_APR_2019_EN_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSRLO_APR_2019_EN_NC/FeatureServer"
-    }, 
-    {
-      "name" : "NHSRLO_APR_2019_EN_NC_47cf215465344339a83ee6feae0b0f4b", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSRLO_APR_2019_EN_NC_47cf215465344339a83ee6feae0b0f4b/FeatureServer"
     }, 
     {
       "name" : "NHSRLO17_NHSER17_EN_LU", 
@@ -9507,39 +8682,14 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NPARK_DEC_2017_GB_NC/FeatureServer"
     }, 
     {
-      "name" : "NPARK_DEC_2017_GB_NC_630bcc5459d04a67b70aba5ca96801cd", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NPARK_DEC_2017_GB_NC_630bcc5459d04a67b70aba5ca96801cd/FeatureServer"
-    }, 
-    {
       "name" : "NPARK_DEC_2018_GB_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NPARK_DEC_2018_GB_NC/FeatureServer"
     }, 
     {
-      "name" : "NPARK_DEC_2018_GB_NC_dbbbc0a8cb1a4086a715c17f8ce5bb00", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NPARK_DEC_2018_GB_NC_dbbbc0a8cb1a4086a715c17f8ce5bb00/FeatureServer"
-    }, 
-    {
       "name" : "NPARK_DEC_2020_GB_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NPARK_DEC_2020_GB_NC/FeatureServer"
-    }, 
-    {
-      "name" : "NPARK_DEC_2020_GB_NC_bcd35670e31e4459bb7622a5c601f66b", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NPARK_DEC_2020_GB_NC_bcd35670e31e4459bb7622a5c601f66b/FeatureServer"
-    }, 
-    {
-      "name" : "NSPL_Latest_Centroids", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NSPL_Latest_Centroids/FeatureServer"
-    }, 
-    {
-      "name" : "NSPL_Latest_Centroids", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NSPL_Latest_Centroids/MapServer"
     }, 
     {
       "name" : "NUTS0_2015_GB_BSC", 
@@ -10272,34 +9422,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OAC_2011_UK_NC_ef4e132bcfe8457aa344d59737e9bb31/FeatureServer"
     }, 
     {
-      "name" : "ONS Postcode Directory (Latest) Centroids", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ONS Postcode Directory (Latest) Centroids/MapServer"
-    }, 
-    {
-      "name" : "ONS_Postcode_Directory_Latest_Centroids_Live", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ONS_Postcode_Directory_Latest_Centroids_Live/FeatureServer"
-    }, 
-    {
-      "name" : "ONS_Postcode_Directory_Latest_Centroids_Live", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ONS_Postcode_Directory_Latest_Centroids_Live/MapServer"
-    }, 
-    {
-      "name" : "Output_Area_(December_2011)_Population_Weighted_Centroids_in_England_and_Wales", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Area_(December_2011)_Population_Weighted_Centroids_in_England_and_Wales/MapServer"
-    }, 
-    {
       "name" : "Output_Area__2011__to_Covid_Infection_Survey_Geography__2020__Lookup_in_the_United_Kindgom", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Area__2011__to_Covid_Infection_Survey_Geography__2020__Lookup_in_the_United_Kindgom/FeatureServer"
-    }, 
-    {
-      "name" : "Output_Area_December_2011_Population_Weighted_Centroids_in_England_and_Wales", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Area_December_2011_Population_Weighted_Centroids_in_England_and_Wales/WFSServer"
     }, 
     {
       "name" : "Output_Area_December_2021_Population_Weighted_Centroids_V2", 
@@ -10322,26 +9447,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Area_to_Covid_Infection_Survey__October_2020__Lookup_for_the_United_Kingdom/FeatureServer"
     }, 
     {
-      "name" : "Output_Areas_(December_2001)_Population_Weighted_Centroids", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_(December_2001)_Population_Weighted_Centroids/MapServer"
-    }, 
-    {
-      "name" : "Output_Areas_(December_2011)_Population_Weighted_Centroids", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_(December_2011)_Population_Weighted_Centroids/MapServer"
-    }, 
-    {
-      "name" : "Output_Areas_(December_2021)_Population_Weighted_Centroids", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_(December_2021)_Population_Weighted_Centroids/MapServer"
-    }, 
-    {
-      "name" : "Output_Areas_(December_2021)_Population_Weighted_Centroids_(Version_2)", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_(December_2021)_Population_Weighted_Centroids_(Version_2)/MapServer"
-    }, 
-    {
       "name" : "Output_Areas_December_2001_Boundaries_EW_BFC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_December_2001_Boundaries_EW_BFC/FeatureServer"
@@ -10360,16 +9465,6 @@
       "name" : "Output_Areas_December_2001_Population_Weighted_Centroid", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_December_2001_Population_Weighted_Centroid/FeatureServer"
-    }, 
-    {
-      "name" : "Output_Areas_December_2001_Population_Weighted_Centroids", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_December_2001_Population_Weighted_Centroids/WFSServer"
-    }, 
-    {
-      "name" : "Output_Areas_December_2001_Population_Weighted_Centroids_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_December_2001_Population_Weighted_Centroids_2022/FeatureServer"
     }, 
     {
       "name" : "Output_Areas_December_2011_Boundaries_EW_BFC", 
@@ -10392,34 +9487,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_December_2011_Population_Weighted_Centroids/FeatureServer"
     }, 
     {
-      "name" : "Output_Areas_December_2011_Population_Weighted_Centroids", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_December_2011_Population_Weighted_Centroids/WFSServer"
-    }, 
-    {
-      "name" : "Output_Areas_December_2011_Population_Weighted_Centroids_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_December_2011_Population_Weighted_Centroids_2022/FeatureServer"
-    }, 
-    {
       "name" : "Output_Areas_December_2021_Boundaries_EW_BGC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_December_2021_Boundaries_EW_BGC/FeatureServer"
-    }, 
-    {
-      "name" : "Output_Areas_December_2021_Population_Weighted_Centroids", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_December_2021_Population_Weighted_Centroids/WFSServer"
-    }, 
-    {
-      "name" : "Output_Areas_December_2021_Population_Weighted_Centroids_Version_2_", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_December_2021_Population_Weighted_Centroids_Version_2_/WFSServer"
-    }, 
-    {
-      "name" : "Output_Areas_December_2021_Population_Weighted_Centroids_Version_2_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_December_2021_Population_Weighted_Centroids_Version_2_2022/FeatureServer"
     }, 
     {
       "name" : "PAR_APR_2022_EW_NC", 
@@ -10432,19 +9502,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PAR_DEC_2016_EW_NC/FeatureServer"
     }, 
     {
-      "name" : "PAR_DEC_2016_EW_NC_32c69486f6db409db0b8b927449cb803", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PAR_DEC_2016_EW_NC_32c69486f6db409db0b8b927449cb803/FeatureServer"
-    }, 
-    {
       "name" : "PAR_DEC_2017_EW_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PAR_DEC_2017_EW_NC/FeatureServer"
-    }, 
-    {
-      "name" : "PAR_DEC_2017_EW_NC_610ef506a61c4dc8b45c7eac433b1e0a", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PAR_DEC_2017_EW_NC_610ef506a61c4dc8b45c7eac433b1e0a/FeatureServer"
     }, 
     {
       "name" : "PAR_DEC_2018_NC", 
@@ -10452,29 +9512,14 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PAR_DEC_2018_NC/FeatureServer"
     }, 
     {
-      "name" : "PAR_DEC_2018_NC_ef0f8843da6d45988cba9dbf3b0d7a9c", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PAR_DEC_2018_NC_ef0f8843da6d45988cba9dbf3b0d7a9c/FeatureServer"
-    }, 
-    {
       "name" : "PAR_DEC_2019_EW_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PAR_DEC_2019_EW_NC/FeatureServer"
     }, 
     {
-      "name" : "PAR_DEC_2019_EW_NC_c13df0666e794021ace28fbdbafe7cfb", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PAR_DEC_2019_EW_NC_c13df0666e794021ace28fbdbafe7cfb/FeatureServer"
-    }, 
-    {
       "name" : "PAR_DEC_2020_EW_NC_v2", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PAR_DEC_2020_EW_NC_v2/FeatureServer"
-    }, 
-    {
-      "name" : "PAR_DEC_2020_EW_NC_v2_5016f31d0b0945e2b46a76b7424db26b", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PAR_DEC_2020_EW_NC_v2_5016f31d0b0945e2b46a76b7424db26b/FeatureServer"
     }, 
     {
       "name" : "PAR16_WD16_LAD16_EW_LU", 
@@ -11442,19 +10487,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PCO_APR_2011_EN_NC/FeatureServer"
     }, 
     {
-      "name" : "PCO_APR_2011_EN_NC_fc9ec17a53fa466fb4e62eb9fc3aa690", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PCO_APR_2011_EN_NC_fc9ec17a53fa466fb4e62eb9fc3aa690/FeatureServer"
-    }, 
-    {
       "name" : "PCO_OCT_2005_EN_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PCO_OCT_2005_EN_NC/FeatureServer"
-    }, 
-    {
-      "name" : "PCO_OCT_2005_EN_NC_622461a853bb4de595f97f6722861afc", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PCO_OCT_2005_EN_NC_622461a853bb4de595f97f6722861afc/FeatureServer"
     }, 
     {
       "name" : "pcon", 
@@ -11472,19 +10507,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PCON_DEC_2016_UK_NC/FeatureServer"
     }, 
     {
-      "name" : "PCON_DEC_2016_UK_NC_ee47897ad9404d68bfd0a7fb9328df6b", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PCON_DEC_2016_UK_NC_ee47897ad9404d68bfd0a7fb9328df6b/FeatureServer"
-    }, 
-    {
       "name" : "PCON_DEC_2017_UK_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PCON_DEC_2017_UK_NC/FeatureServer"
-    }, 
-    {
-      "name" : "PCON_DEC_2017_UK_NC_21e40c3fce7d402bad27f73c77fa7801", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PCON_DEC_2017_UK_NC_21e40c3fce7d402bad27f73c77fa7801/FeatureServer"
     }, 
     {
       "name" : "PCON_DEC_2018_UK_NC", 
@@ -11492,29 +10517,14 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PCON_DEC_2018_UK_NC/FeatureServer"
     }, 
     {
-      "name" : "PCON_DEC_2018_UK_NC_0e71c9b71db84e46b1f18b8e7cb62d1f", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PCON_DEC_2018_UK_NC_0e71c9b71db84e46b1f18b8e7cb62d1f/FeatureServer"
-    }, 
-    {
       "name" : "PCON_DEC_2019_UK_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PCON_DEC_2019_UK_NC/FeatureServer"
     }, 
     {
-      "name" : "PCON_DEC_2019_UK_NC_f4e7cc7b479b4031a003f371f6194ad1", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PCON_DEC_2019_UK_NC_f4e7cc7b479b4031a003f371f6194ad1/FeatureServer"
-    }, 
-    {
       "name" : "PCON_DEC_2020_UK_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PCON_DEC_2020_UK_NC/FeatureServer"
-    }, 
-    {
-      "name" : "PCON_DEC_2020_UK_NC_61a3ad174b9d472493a48ca96899b246", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PCON_DEC_2020_UK_NC_61a3ad174b9d472493a48ca96899b246/FeatureServer"
     }, 
     {
       "name" : "PCON16_EER16_UK_LU", 
@@ -11572,19 +10582,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PFA_DEC_2016_UK_NC/FeatureServer"
     }, 
     {
-      "name" : "PFA_DEC_2016_UK_NC_7f7643d85a2d44048ebc550af234bc5b", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PFA_DEC_2016_UK_NC_7f7643d85a2d44048ebc550af234bc5b/FeatureServer"
-    }, 
-    {
       "name" : "PFA_DEC_2017_UK_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PFA_DEC_2017_UK_NC/FeatureServer"
-    }, 
-    {
-      "name" : "PFA_DEC_2017_UK_NC_6b808bd45ba04540859a004b8667c768", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PFA_DEC_2017_UK_NC_6b808bd45ba04540859a004b8667c768/FeatureServer"
     }, 
     {
       "name" : "PFA_DEC_2018_UK_NC", 
@@ -11592,19 +10592,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PFA_DEC_2018_UK_NC/FeatureServer"
     }, 
     {
-      "name" : "PFA_DEC_2018_UK_NC_e54ef9793aaa4c889fafc4d3b71d85d0", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PFA_DEC_2018_UK_NC_e54ef9793aaa4c889fafc4d3b71d85d0/FeatureServer"
-    }, 
-    {
       "name" : "PFA_DEC_2019_UK_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PFA_DEC_2019_UK_NC/FeatureServer"
-    }, 
-    {
-      "name" : "PFA_DEC_2019_UK_NC_4ec9b85928dd4b22b2f852ba813f22a5", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PFA_DEC_2019_UK_NC_4ec9b85928dd4b22b2f852ba813f22a5/FeatureServer"
     }, 
     {
       "name" : "PFA_DEC_2020_UK_NC", 
@@ -11612,19 +10602,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PFA_DEC_2020_UK_NC/FeatureServer"
     }, 
     {
-      "name" : "PFA_DEC_2020_UK_NC_b796af8b5dc44b069416a66b74c364d7", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PFA_DEC_2020_UK_NC_b796af8b5dc44b069416a66b74c364d7/FeatureServer"
-    }, 
-    {
       "name" : "PHEC_DEC_2016_EN_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PHEC_DEC_2016_EN_NC/FeatureServer"
-    }, 
-    {
-      "name" : "PHEC_DEC_2016_EN_NC_26287214a9b247ce8dfd0d35231d92cb", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PHEC_DEC_2016_EN_NC_26287214a9b247ce8dfd0d35231d92cb/FeatureServer"
     }, 
     {
       "name" : "PHEC_DEC_2017_EN_NC", 
@@ -11632,19 +10612,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PHEC_DEC_2017_EN_NC/FeatureServer"
     }, 
     {
-      "name" : "PHEC_DEC_2017_EN_NC_6a4add708ae54fd5990a6ba1b525cdfc", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PHEC_DEC_2017_EN_NC_6a4add708ae54fd5990a6ba1b525cdfc/FeatureServer"
-    }, 
-    {
       "name" : "PHEC_DEC_2018_EN_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PHEC_DEC_2018_EN_NC/FeatureServer"
-    }, 
-    {
-      "name" : "PHEC_DEC_2018_EN_NC_5b30395809464f539dea3c8fa1e91566", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PHEC_DEC_2018_EN_NC_5b30395809464f539dea3c8fa1e91566/FeatureServer"
     }, 
     {
       "name" : "PHEC_DEC_2019_EN_NC", 
@@ -11652,19 +10622,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PHEC_DEC_2019_EN_NC/FeatureServer"
     }, 
     {
-      "name" : "PHEC_DEC_2019_EN_NC_9d98b9b8aa6d40399c21adb8cd928464", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PHEC_DEC_2019_EN_NC_9d98b9b8aa6d40399c21adb8cd928464/FeatureServer"
-    }, 
-    {
       "name" : "PHEC_DEC_2020_EN_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PHEC_DEC_2020_EN_NC/FeatureServer"
-    }, 
-    {
-      "name" : "PHEC_DEC_2020_EN_NC_0286d4b5d3484e0d8af78bafbf3d043e", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PHEC_DEC_2020_EN_NC_0286d4b5d3484e0d8af78bafbf3d043e/FeatureServer"
     }, 
     {
       "name" : "PHEREG_DEC_2016_EN_NC", 
@@ -11672,19 +10632,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PHEREG_DEC_2016_EN_NC/FeatureServer"
     }, 
     {
-      "name" : "PHEREG_DEC_2016_EN_NC_4c64b1a148704b16bf186e12f7eb2944", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PHEREG_DEC_2016_EN_NC_4c64b1a148704b16bf186e12f7eb2944/FeatureServer"
-    }, 
-    {
       "name" : "PHEREG_DEC_2017_EN_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PHEREG_DEC_2017_EN_NC/FeatureServer"
-    }, 
-    {
-      "name" : "PHEREG_DEC_2017_EN_NC_6b574a29ddc34482ab1929e6da1d502e", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PHEREG_DEC_2017_EN_NC_6b574a29ddc34482ab1929e6da1d502e/FeatureServer"
     }, 
     {
       "name" : "PHEREG_DEC_2018_EN_NC", 
@@ -11692,34 +10642,14 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PHEREG_DEC_2018_EN_NC/FeatureServer"
     }, 
     {
-      "name" : "PHEREG_DEC_2018_EN_NC_e4fa7472e0684e43912294f3d0a96127", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PHEREG_DEC_2018_EN_NC_e4fa7472e0684e43912294f3d0a96127/FeatureServer"
-    }, 
-    {
       "name" : "PHEREG_DEC_2019_EN_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PHEREG_DEC_2019_EN_NC/FeatureServer"
     }, 
     {
-      "name" : "PHEREG_DEC_2019_EN_NC_121393db21ef4e529ab8bab1dbdbd65e", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PHEREG_DEC_2019_EN_NC_121393db21ef4e529ab8bab1dbdbd65e/FeatureServer"
-    }, 
-    {
       "name" : "PHEREG_DEC_2020_EN_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PHEREG_DEC_2020_EN_NC/FeatureServer"
-    }, 
-    {
-      "name" : "PHEREG_DEC_2020_EN_NC_1e1239e5f8654e43966a7b716f2c6836", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PHEREG_DEC_2020_EN_NC_1e1239e5f8654e43966a7b716f2c6836/FeatureServer"
-    }, 
-    {
-      "name" : "pictureOfTheUnitedKingdom", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/pictureOfTheUnitedKingdom/MapServer"
     }, 
     {
       "name" : "Police_Force_Areas_Dec_2016_EW_BFE_v2", 
@@ -11822,19 +10752,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/REGD_APR_2019_EW_NC/FeatureServer"
     }, 
     {
-      "name" : "REGD_APR_2019_EW_NC_f9056a136c0943a59309f3471f59b25c", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/REGD_APR_2019_EW_NC_f9056a136c0943a59309f3471f59b25c/FeatureServer"
-    }, 
-    {
       "name" : "REGD_DEC_2016_EW_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/REGD_DEC_2016_EW_NC/FeatureServer"
-    }, 
-    {
-      "name" : "REGD_DEC_2016_EW_NC_662678972a244886a488dd235eaccf6f", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/REGD_DEC_2016_EW_NC_662678972a244886a488dd235eaccf6f/FeatureServer"
     }, 
     {
       "name" : "REGD_DEC_2017_EW_NC", 
@@ -11842,29 +10762,14 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/REGD_DEC_2017_EW_NC/FeatureServer"
     }, 
     {
-      "name" : "REGD_DEC_2017_EW_NC_8b77fe14c30849699f8dadf177a7b5fe", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/REGD_DEC_2017_EW_NC_8b77fe14c30849699f8dadf177a7b5fe/FeatureServer"
-    }, 
-    {
       "name" : "REGD_DEC_2020_EW_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/REGD_DEC_2020_EW_NC/FeatureServer"
     }, 
     {
-      "name" : "REGD_DEC_2020_EW_NC_b85adaf6b73d407bb690c7bf5ed4115e", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/REGD_DEC_2020_EW_NC_b85adaf6b73d407bb690c7bf5ed4115e/FeatureServer"
-    }, 
-    {
       "name" : "REGD_JUN_2018_EW_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/REGD_JUN_2018_EW_NC/FeatureServer"
-    }, 
-    {
-      "name" : "REGD_JUN_2018_EW_NC_b6d0839229d340ffb467a6326bc715b0", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/REGD_JUN_2018_EW_NC_b6d0839229d340ffb467a6326bc715b0/FeatureServer"
     }, 
     {
       "name" : "Region", 
@@ -12387,19 +11292,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/RGN_DEC_2016_EN_NC/FeatureServer"
     }, 
     {
-      "name" : "RGN_DEC_2016_EN_NC_36482a791b4d4e4fb32c1ad2c72015f0", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/RGN_DEC_2016_EN_NC_36482a791b4d4e4fb32c1ad2c72015f0/FeatureServer"
-    }, 
-    {
       "name" : "RGN_DEC_2017_EN_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/RGN_DEC_2017_EN_NC/FeatureServer"
-    }, 
-    {
-      "name" : "RGN_DEC_2017_EN_NC_994b564e496c445f8b5c96514b4dc7f5", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/RGN_DEC_2017_EN_NC_994b564e496c445f8b5c96514b4dc7f5/FeatureServer"
     }, 
     {
       "name" : "RGN_DEC_2018_EN_NC", 
@@ -12407,29 +11302,14 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/RGN_DEC_2018_EN_NC/FeatureServer"
     }, 
     {
-      "name" : "RGN_DEC_2018_EN_NC_78ea3b7fcd774f11a94e98dbb358f6b1", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/RGN_DEC_2018_EN_NC_78ea3b7fcd774f11a94e98dbb358f6b1/FeatureServer"
-    }, 
-    {
       "name" : "RGN_DEC_2019_EN_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/RGN_DEC_2019_EN_NC/FeatureServer"
     }, 
     {
-      "name" : "RGN_DEC_2019_EN_NC_bdd11be2c3894138b6193b3217837977", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/RGN_DEC_2019_EN_NC_bdd11be2c3894138b6193b3217837977/FeatureServer"
-    }, 
-    {
       "name" : "RGN_DEC_2020_EN_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/RGN_DEC_2020_EN_NC/FeatureServer"
-    }, 
-    {
-      "name" : "RGN_DEC_2020_EN_NC_62b101733f684dcc99464b28fd073292", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/RGN_DEC_2020_EN_NC_62b101733f684dcc99464b28fd073292/FeatureServer"
     }, 
     {
       "name" : "RUC11_LSOA11_EW", 
@@ -12477,19 +11357,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SCN_DEC_2016_EN_NC/FeatureServer"
     }, 
     {
-      "name" : "SCN_DEC_2016_EN_NC_22f5956801b7433b9716b9513962c372", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SCN_DEC_2016_EN_NC_22f5956801b7433b9716b9513962c372/FeatureServer"
-    }, 
-    {
       "name" : "SCN_DEC_2017_EN_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SCN_DEC_2017_EN_NC/FeatureServer"
-    }, 
-    {
-      "name" : "SCN_DEC_2017_EN_NC_5d403d3dab624c808229dbaeb7a4c2a0", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SCN_DEC_2017_EN_NC_5d403d3dab624c808229dbaeb7a4c2a0/FeatureServer"
     }, 
     {
       "name" : "SCN_DEC_2018_EN_NC", 
@@ -12497,29 +11367,14 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SCN_DEC_2018_EN_NC/FeatureServer"
     }, 
     {
-      "name" : "SCN_DEC_2018_EN_NC_09b3881385964c3aa779918320f2b47c", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SCN_DEC_2018_EN_NC_09b3881385964c3aa779918320f2b47c/FeatureServer"
-    }, 
-    {
       "name" : "SCN_DEC_2019_EN_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SCN_DEC_2019_EN_NC/FeatureServer"
     }, 
     {
-      "name" : "SCN_DEC_2019_EN_NC_b168619b750445189cd276ae14f04bec", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SCN_DEC_2019_EN_NC_b168619b750445189cd276ae14f04bec/FeatureServer"
-    }, 
-    {
       "name" : "SCN_DEC_2020_EN_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SCN_DEC_2020_EN_NC/FeatureServer"
-    }, 
-    {
-      "name" : "SCN_DEC_2020_EN_NC_4371bfc5aebd4ee897ceae7bfe7f29f7", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SCN_DEC_2020_EN_NC_4371bfc5aebd4ee897ceae7bfe7f29f7/FeatureServer"
     }, 
     {
       "name" : "sha", 
@@ -12532,19 +11387,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SPC_DEC_2017_SC_NC/FeatureServer"
     }, 
     {
-      "name" : "SPC_DEC_2017_SC_NC_bcc9d8208fbf41b0a6c8d608a7d1094c", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SPC_DEC_2017_SC_NC_bcc9d8208fbf41b0a6c8d608a7d1094c/FeatureServer"
-    }, 
-    {
       "name" : "SPC_DEC_2018_SC_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SPC_DEC_2018_SC_NC/FeatureServer"
-    }, 
-    {
-      "name" : "SPC_DEC_2018_SC_NC_1855db24a2ca4d458e2cfd18989c2116", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SPC_DEC_2018_SC_NC_1855db24a2ca4d458e2cfd18989c2116/FeatureServer"
     }, 
     {
       "name" : "SPC_DEC_2019_SC_NC", 
@@ -12552,19 +11397,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SPC_DEC_2019_SC_NC/FeatureServer"
     }, 
     {
-      "name" : "SPC_DEC_2019_SC_NC_867839c4f7b645fba52c1f01f7274396", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SPC_DEC_2019_SC_NC_867839c4f7b645fba52c1f01f7274396/FeatureServer"
-    }, 
-    {
       "name" : "SPC_DEC_2020_SC_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SPC_DEC_2020_SC_NC/FeatureServer"
-    }, 
-    {
-      "name" : "SPC_DEC_2020_SC_NC_0fb96483eba541de8dee35b4d0855252", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SPC_DEC_2020_SC_NC_0fb96483eba541de8dee35b4d0855252/FeatureServer"
     }, 
     {
       "name" : "SPC17_SPR17_SC_LU", 
@@ -12612,19 +11447,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SPR_DEC_2017_SC_NC/FeatureServer"
     }, 
     {
-      "name" : "SPR_DEC_2017_SC_NC_b2dffb4fe5cb418e86813990f89d6b47", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SPR_DEC_2017_SC_NC_b2dffb4fe5cb418e86813990f89d6b47/FeatureServer"
-    }, 
-    {
       "name" : "SPR_DEC_2018_SC_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SPR_DEC_2018_SC_NC/FeatureServer"
-    }, 
-    {
-      "name" : "SPR_DEC_2018_SC_NC_2be6716d2a534a24895e9a4d031dc8c3", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SPR_DEC_2018_SC_NC_2be6716d2a534a24895e9a4d031dc8c3/FeatureServer"
     }, 
     {
       "name" : "SPR_DEC_2019_SC_NC", 
@@ -12632,19 +11457,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SPR_DEC_2019_SC_NC/FeatureServer"
     }, 
     {
-      "name" : "SPR_DEC_2019_SC_NC_d52bc19dacf04dcfacf6a465ef3d34f0", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SPR_DEC_2019_SC_NC_d52bc19dacf04dcfacf6a465ef3d34f0/FeatureServer"
-    }, 
-    {
       "name" : "SPR_DEC_2020_SC_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SPR_DEC_2020_SC_NC/FeatureServer"
-    }, 
-    {
-      "name" : "SPR_DEC_2020_SC_NC_c6022403d0aa40f3ac8f6481a3186009", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SPR_DEC_2020_SC_NC_c6022403d0aa40f3ac8f6481a3186009/FeatureServer"
     }, 
     {
       "name" : "Statistical_ward_names_and_codes_UK_as_at_2005", 
@@ -12662,29 +11477,14 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/STP_APR_2018_EN_NC/FeatureServer"
     }, 
     {
-      "name" : "STP_APR_2018_EN_NC_1b8122f4691641ce8ba001c7bb7b5474", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/STP_APR_2018_EN_NC_1b8122f4691641ce8ba001c7bb7b5474/FeatureServer"
-    }, 
-    {
       "name" : "STP_APR_2020_EN_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/STP_APR_2020_EN_NC/FeatureServer"
     }, 
     {
-      "name" : "STP_APR_2020_EN_NC_60ca66c102ec466cb806a85c3b03dcf9", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/STP_APR_2020_EN_NC_60ca66c102ec466cb806a85c3b03dcf9/FeatureServer"
-    }, 
-    {
       "name" : "STP_FEB_2017_EN_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/STP_FEB_2017_EN_NC/FeatureServer"
-    }, 
-    {
-      "name" : "STP_FEB_2017_EN_NC_63ef8b1bdca14369a626da385564954c", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/STP_FEB_2017_EN_NC_63ef8b1bdca14369a626da385564954c/FeatureServer"
     }, 
     {
       "name" : "STP20_NHSER20_EN_LU", 
@@ -12760,11 +11560,6 @@
       "name" : "TCITY_DEC_2015_EW_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/TCITY_DEC_2015_EW_NC/FeatureServer"
-    }, 
-    {
-      "name" : "TCITY_DEC_2015_EW_NC_431587ee5ecb4bdbaa596d3f81d2a76f", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/TCITY_DEC_2015_EW_NC_431587ee5ecb4bdbaa596d3f81d2a76f/FeatureServer"
     }, 
     {
       "name" : "Towns_Cities", 
@@ -12952,11 +11747,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/UACC_DEC_2016_UK_NC/FeatureServer"
     }, 
     {
-      "name" : "UACC_DEC_2016_UK_NC_97de8725efb84fe5bec032d95ecd0ad6", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/UACC_DEC_2016_UK_NC_97de8725efb84fe5bec032d95ecd0ad6/FeatureServer"
-    }, 
-    {
       "name" : "UACC_December_2011_generalised_clipped_boundaries_in_Great_Britain", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/UACC_December_2011_generalised_clipped_boundaries_in_Great_Britain/FeatureServer"
@@ -12965,11 +11755,6 @@
       "name" : "UAFUA_DEC_2016_UK_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/UAFUA_DEC_2016_UK_NC/FeatureServer"
-    }, 
-    {
-      "name" : "UAFUA_DEC_2016_UK_NC_7af6cb01eebb4cdc97d17812ff4947c7", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/UAFUA_DEC_2016_UK_NC_7af6cb01eebb4cdc97d17812ff4947c7/FeatureServer"
     }, 
     {
       "name" : "UAFUA_December_2011_generalised_clipped_boundaries_in_Great_Britain", 
@@ -12982,11 +11767,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/UAGC_DEC_2016_UK_NC/FeatureServer"
     }, 
     {
-      "name" : "UAGC_DEC_2016_UK_NC_5aa10161f7244ca6b3dace5afb8b6b45", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/UAGC_DEC_2016_UK_NC_5aa10161f7244ca6b3dace5afb8b6b45/FeatureServer"
-    }, 
-    {
       "name" : "UAGC_December_2011_Generalised_Clipped_Boundaries_in_Great_Britain", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/UAGC_December_2011_Generalised_Clipped_Boundaries_in_Great_Britain/FeatureServer"
@@ -12995,11 +11775,6 @@
       "name" : "UK", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/UK/FeatureServer"
-    }, 
-    {
-      "name" : "UK_POP", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/UK_POP/MapServer"
     }, 
     {
       "name" : "UTLA_(Dec_2011)_GCB_in_England_and_Wales", 
@@ -13022,19 +11797,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Ward_names_and_codes_UK_as_at_12_98/FeatureServer"
     }, 
     {
-      "name" : "Ward_names_and_codes_UK_as_at_12_98_2e3d6e981ca44d989052a7f0c7b295df", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Ward_names_and_codes_UK_as_at_12_98_2e3d6e981ca44d989052a7f0c7b295df/FeatureServer"
-    }, 
-    {
       "name" : "Ward_names_and_codes_UK_as_at_21_04_91", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Ward_names_and_codes_UK_as_at_21_04_91/FeatureServer"
-    }, 
-    {
-      "name" : "Ward_names_and_codes_UK_as_at_21_04_91_20a72f82a82243debea092c28a286244", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Ward_names_and_codes_UK_as_at_21_04_91_20a72f82a82243debea092c28a286244/FeatureServer"
     }, 
     {
       "name" : "Ward_to_LAD_to_County_to_County_Electoral_Division_(May_2017)_Lookup_for_England", 
@@ -14152,19 +12917,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD_APR_2015_NI_NC/FeatureServer"
     }, 
     {
-      "name" : "WD_APR_2015_NI_NC_a47787233335455bb472725190a3efdb", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD_APR_2015_NI_NC_a47787233335455bb472725190a3efdb/FeatureServer"
-    }, 
-    {
       "name" : "WD_DEC_2016_UK_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD_DEC_2016_UK_NC/FeatureServer"
-    }, 
-    {
-      "name" : "WD_DEC_2016_UK_NC_a987b7f1db834529b5171b41bc09fb7f", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD_DEC_2016_UK_NC_a987b7f1db834529b5171b41bc09fb7f/FeatureServer"
     }, 
     {
       "name" : "WD_DEC_2017_UK_NC", 
@@ -14172,19 +12927,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD_DEC_2017_UK_NC/FeatureServer"
     }, 
     {
-      "name" : "WD_DEC_2017_UK_NC_d93a2a9d44f146c08c2a5dcbcff5264f", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD_DEC_2017_UK_NC_d93a2a9d44f146c08c2a5dcbcff5264f/FeatureServer"
-    }, 
-    {
       "name" : "WD_DEC_2018_UK_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD_DEC_2018_UK_NC/FeatureServer"
-    }, 
-    {
-      "name" : "WD_DEC_2018_UK_NC_5b0cf986972f419882ffd9fee11b4eee", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD_DEC_2018_UK_NC_5b0cf986972f419882ffd9fee11b4eee/FeatureServer"
     }, 
     {
       "name" : "WD_DEC_2019_UK_NC", 
@@ -14192,19 +12937,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD_DEC_2019_UK_NC/FeatureServer"
     }, 
     {
-      "name" : "WD_DEC_2019_UK_NC_d4e73c88224842ce8779f43bdf8e6838", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD_DEC_2019_UK_NC_d4e73c88224842ce8779f43bdf8e6838/FeatureServer"
-    }, 
-    {
       "name" : "WD_DEC_2020_UK_NC_v2", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD_DEC_2020_UK_NC_v2/FeatureServer"
-    }, 
-    {
-      "name" : "WD_DEC_2020_UK_NC_v2_dd0ebe0237dc45f18fb6aa1f1168efef", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD_DEC_2020_UK_NC_v2_dd0ebe0237dc45f18fb6aa1f1168efef/FeatureServer"
     }, 
     {
       "name" : "WD11_CMWD11_LAD11_EW_LU", 
@@ -14705,21 +13440,6 @@
       "name" : "Westminster_Parliamentary_Constituencies_December_2020_UK_BUC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Westminster_Parliamentary_Constituencies_December_2020_UK_BUC/FeatureServer"
-    }, 
-    {
-      "name" : "Workplace_Zones_(December_2011)_Population_Weighted_Centroids_in_England_and_Wales", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Workplace_Zones_(December_2011)_Population_Weighted_Centroids_in_England_and_Wales/MapServer"
-    }, 
-    {
-      "name" : "Workplace_Zones_December_2011_Population_Weighted_Centroids_in_England_and_Wales", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Workplace_Zones_December_2011_Population_Weighted_Centroids_in_England_and_Wales/WFSServer"
-    }, 
-    {
-      "name" : "Workplace_Zones_December_2011_Population_Weighted_Centroids_in_England_and_Wales_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Workplace_Zones_December_2011_Population_Weighted_Centroids_in_England_and_Wales_2022/FeatureServer"
     }, 
     {
       "name" : "WZ", 
