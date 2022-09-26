@@ -7347,6 +7347,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_2021_EW_BFE_V2/FeatureServer"
     }, 
     {
+      "name" : "LSOA_2021_EW_BSC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_2021_EW_BSC/FeatureServer"
+    }, 
+    {
       "name" : "LSOA_Population_Weighted_Centroids_December_2021_EW", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_Population_Weighted_Centroids_December_2021_EW/FeatureServer"
@@ -8115,6 +8120,11 @@
       "name" : "MSOA_2021_EW_BFE_2", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_2021_EW_BFE_2/FeatureServer"
+    }, 
+    {
+      "name" : "MSOA_2021_EW_BSC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_2021_EW_BSC/FeatureServer"
     }, 
     {
       "name" : "MSOA_Population_Weighted_Centroids_December_2021_EW", 
