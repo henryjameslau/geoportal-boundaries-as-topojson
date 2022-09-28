@@ -4052,6 +4052,16 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/HLTH_2015_EW_BSC/FeatureServer"
     }, 
     {
+      "name" : "Hot_Spots_PERCENTAGE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Hot_Spots_PERCENTAGE/MapServer"
+    }, 
+    {
+      "name" : "Hot_Spots_PERCENTAGE", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Hot_Spots_PERCENTAGE/WFSServer"
+    }, 
+    {
       "name" : "ICS_DEC_2019_EN_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ICS_DEC_2019_EN_NC/FeatureServer"
@@ -4110,6 +4120,26 @@
       "name" : "Integrated_Care_Boards_July_2022_EN_BUC_v2", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Integrated_Care_Boards_July_2022_EN_BUC_v2/FeatureServer"
+    }, 
+    {
+      "name" : "International_Migration", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/International_Migration/MapServer"
+    }, 
+    {
+      "name" : "International_Migration", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/International_Migration/WFSServer"
+    }, 
+    {
+      "name" : "International_Migration_2005_to_2015", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/International_Migration_2005_to_2015/WFSServer"
+    }, 
+    {
+      "name" : "International_Migration_2005_to_2015", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/International_Migration_2005_to_2015/MapServer"
     }, 
     {
       "name" : "International_Territorial_Level_1_May_2021_UK_BFC", 
@@ -4175,6 +4205,16 @@
       "name" : "IPN_GB_2016", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/IPN_GB_2016/FeatureServer"
+    }, 
+    {
+      "name" : "IPN_GB_2018", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/IPN_GB_2018/WFSServer"
+    }, 
+    {
+      "name" : "IPN_GB_2018", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/IPN_GB_2018/MapServer"
     }, 
     {
       "name" : "IPN_GB_2019", 
@@ -7042,9 +7082,19 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Planning_Authorities_April_2020_UK_BUC/FeatureServer"
     }, 
     {
+      "name" : "Local_Planning_Authorities_April_2022_UK_BFC_v2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Planning_Authorities_April_2022_UK_BFC_v2/FeatureServer"
+    }, 
+    {
       "name" : "Local_Planning_Authorities_April_2022_UK_BFE", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Planning_Authorities_April_2022_UK_BFE/WFSServer"
+    }, 
+    {
+      "name" : "Local_Planning_Authorities_April_2022_UK_BFE_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Planning_Authorities_April_2022_UK_BFE_2022/FeatureServer"
     }, 
     {
       "name" : "Local_Planning_Authorities_April_2022_UK_BFE_V2", 
@@ -7057,6 +7107,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Planning_Authorities_April_2022_UK_BGC/WFSServer"
     }, 
     {
+      "name" : "Local_Planning_Authorities_April_2022_UK_BGC_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Planning_Authorities_April_2022_UK_BGC_2022/FeatureServer"
+    }, 
+    {
       "name" : "Local_Planning_Authorities_April_2022_UK_BGC_V2", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Planning_Authorities_April_2022_UK_BGC_V2/FeatureServer"
@@ -7065,6 +7120,11 @@
       "name" : "Local_Planning_Authorities_April_2022_UK_BUC", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Planning_Authorities_April_2022_UK_BUC/WFSServer"
+    }, 
+    {
+      "name" : "Local_Planning_Authorities_April_2022_UK_BUC_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Planning_Authorities_April_2022_UK_BUC_2022/FeatureServer"
     }, 
     {
       "name" : "Local_Planning_Authorities_April_2022_UK_BUC_V2", 
@@ -8367,6 +8427,16 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/National_Parks_December_2021_GB_BUC/FeatureServer"
     }, 
     {
+      "name" : "National_Statistics_Postcode_Lookup_(Latest)_Centroids", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/National_Statistics_Postcode_Lookup_(Latest)_Centroids/MapServer"
+    }, 
+    {
+      "name" : "National_Statistics_Postcode_Lookup_Latest_Centroids", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/National_Statistics_Postcode_Lookup_Latest_Centroids/WFSServer"
+    }, 
+    {
       "name" : "nationalparks", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/nationalparks/FeatureServer"
@@ -8602,6 +8672,16 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHS_England_Regions_July_2022_EN_BUC/FeatureServer"
     }, 
     {
+      "name" : "NHS_Postcode_Directory_(Latest)_Centroids", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHS_Postcode_Directory_(Latest)_Centroids/MapServer"
+    }, 
+    {
+      "name" : "NHS_Postcode_Directory_Latest_Centroids", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHS_Postcode_Directory_Latest_Centroids/WFSServer"
+    }, 
+    {
       "name" : "NHSAT_2013_EN_BSC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSAT_2013_EN_BSC/FeatureServer"
@@ -8700,6 +8780,31 @@
       "name" : "NPARK_DEC_2020_GB_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NPARK_DEC_2020_GB_NC/FeatureServer"
+    }, 
+    {
+      "name" : "NSPL_Latest_Centroids", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NSPL_Latest_Centroids/WFSServer"
+    }, 
+    {
+      "name" : "NSPL_Latest_Centroids_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NSPL_Latest_Centroids_2022/FeatureServer"
+    }, 
+    {
+      "name" : "NSPL21_AUG_2022_UK_AB", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NSPL21_AUG_2022_UK_AB/WFSServer"
+    }, 
+    {
+      "name" : "NSPL21_AUG_2022_UK_AB", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NSPL21_AUG_2022_UK_AB/MapServer"
+    }, 
+    {
+      "name" : "NSPL21_AUG_2022_UK_V2", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NSPL21_AUG_2022_UK_V2/MapServer"
     }, 
     {
       "name" : "NUTS0_2015_GB_BSC", 
@@ -9430,6 +9535,26 @@
       "name" : "OAC_2011_UK_NC_ef4e132bcfe8457aa344d59737e9bb31", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OAC_2011_UK_NC_ef4e132bcfe8457aa344d59737e9bb31/FeatureServer"
+    }, 
+    {
+      "name" : "ONS_Postcode_Directory_(Latest)_Centroids", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ONS_Postcode_Directory_(Latest)_Centroids/MapServer"
+    }, 
+    {
+      "name" : "ONS_Postcode_Directory_Latest_Centroids", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ONS_Postcode_Directory_Latest_Centroids/WFSServer"
+    }, 
+    {
+      "name" : "ONS_Postcode_Directory_Latest_Centroids_Live", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ONS_Postcode_Directory_Latest_Centroids_Live/WFSServer"
+    }, 
+    {
+      "name" : "ONS_Postcode_Directory_Latest_Centroids_Live", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ONS_Postcode_Directory_Latest_Centroids_Live/MapServer"
     }, 
     {
       "name" : "Output_Area__2011__to_Covid_Infection_Survey_Geography__2020__Lookup_in_the_United_Kindgom", 
@@ -10662,6 +10787,16 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PHEREG_DEC_2020_EN_NC/FeatureServer"
     }, 
     {
+      "name" : "pictureOfTheUnitedKingdom", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/pictureOfTheUnitedKingdom/MapServer"
+    }, 
+    {
+      "name" : "pictureOfTheUnitedKingdom", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/pictureOfTheUnitedKingdom/WFSServer"
+    }, 
+    {
       "name" : "Police_Force_Areas_Dec_2016_EW_BFE_v2", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Police_Force_Areas_Dec_2016_EW_BFE_v2/FeatureServer"
@@ -11785,6 +11920,16 @@
       "name" : "UK", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/UK/FeatureServer"
+    }, 
+    {
+      "name" : "UK_POP", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/UK_POP/MapServer"
+    }, 
+    {
+      "name" : "UK_POP", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/UK_POP/WFSServer"
     }, 
     {
       "name" : "UTLA_(Dec_2011)_GCB_in_England_and_Wales", 
