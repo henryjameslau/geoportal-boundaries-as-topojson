@@ -5828,13 +5828,13 @@
     }, 
     {
       "name" : "International_Migration", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/International_Migration/MapServer"
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/International_Migration/WFSServer"
     }, 
     {
       "name" : "International_Migration", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/International_Migration/WFSServer"
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/International_Migration/MapServer"
     }, 
     {
       "name" : "International_Migration_2005_to_2015", 
@@ -16503,13 +16503,13 @@
     }, 
     {
       "name" : "pictureOfTheUnitedKingdom", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/pictureOfTheUnitedKingdom/MapServer"
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/pictureOfTheUnitedKingdom/WFSServer"
     }, 
     {
       "name" : "pictureOfTheUnitedKingdom", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/pictureOfTheUnitedKingdom/WFSServer"
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/pictureOfTheUnitedKingdom/MapServer"
     }, 
     {
       "name" : "Police_Force_Areas_(Dec_2016)_FCB_in_England_and_Wales", 
