@@ -6523,13 +6523,13 @@
     }, 
     {
       "name" : "IPN_GB_2018", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/IPN_GB_2018/WFSServer"
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/IPN_GB_2018/MapServer"
     }, 
     {
       "name" : "IPN_GB_2018", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/IPN_GB_2018/MapServer"
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/IPN_GB_2018/WFSServer"
     }, 
     {
       "name" : "IPN_GB_2019", 
@@ -15003,13 +15003,13 @@
     }, 
     {
       "name" : "NSPL21_AUG_2022_UK_AB", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NSPL21_AUG_2022_UK_AB/WFSServer"
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NSPL21_AUG_2022_UK_AB/MapServer"
     }, 
     {
       "name" : "NSPL21_AUG_2022_UK_AB", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NSPL21_AUG_2022_UK_AB/MapServer"
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NSPL21_AUG_2022_UK_AB/WFSServer"
     }, 
     {
       "name" : "NUTS_Level_1_(January_2015)_FCB_in_England_and_Wales", 
@@ -20193,13 +20193,13 @@
     }, 
     {
       "name" : "UK_POP", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/UK_POP/MapServer"
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/UK_POP/WFSServer"
     }, 
     {
       "name" : "UK_POP", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/UK_POP/WFSServer"
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/UK_POP/MapServer"
     }, 
     {
       "name" : "Urban_Audit_CC_(Dec_2016)_FCB_in_the_UK", 
