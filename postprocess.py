@@ -15,7 +15,7 @@ if __name__ == "__main__":
     file = open(sys.argv[1])
     areas=json.load(file)
     folders=areas['folders']
-
+    print(folders)
 # blank array to store all the FeatureServers
     allFeatureServer=[]
 
