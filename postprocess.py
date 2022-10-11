@@ -15,7 +15,7 @@ if __name__ == "__main__":
     file = open(sys.argv[1])
     areas=json.load(file)
     folders=areas['folders']
-    print(folders)
+
 # blank array to store all the FeatureServers
     allFeatureServer=[]
 
@@ -23,8 +23,10 @@ if __name__ == "__main__":
         folder=requests.get("https://ons-inspire.esriuk.com/arcgis/rest/services/"+i+"?f=pjson")
         services=folder.json()['services']
         filtered=[service for service in services if service['type']=='FeatureServer']
+        allFeatureServer=allFeatureServer+filtered
     #     https://devenum.com/filter-a-list-of-python-dictionaries-by-conditions/
-    allFeatureServer=allFeatureServer+filtered
+
+    print(allFeatureServer)
 
     # find only areas with BUC, BGC
     # https://stackoverflow.com/questions/9012008/pythons-re-return-true-if-string-contains-regex-pattern
