@@ -4,6 +4,7 @@ import topojson as tp
 import json
 import re
 import os
+import requests
 
 # Simple script to show the parameters sent to the script, and generate a dummy file
 
