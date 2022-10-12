@@ -217,6 +217,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CAL_and_NCV_(Feb_2017)_SGCB_in_England/MapServer"
     }, 
     {
+      "name" : "CAL_and_NCV_(Feb_2017)_UGCB_in_England", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CAL_and_NCV_(Feb_2017)_UGCB_in_England/MapServer"
+    }, 
+    {
       "name" : "CAL_and_NCV_Feb_2017_FCB_in_England_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CAL_and_NCV_Feb_2017_FCB_in_England_2022/FeatureServer"
@@ -255,6 +260,16 @@
       "name" : "CAL_and_NCV_Feb_2017_Super_Generalised_Clipped_Boundaries_in_England", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CAL_and_NCV_Feb_2017_Super_Generalised_Clipped_Boundaries_in_England/WFSServer"
+    }, 
+    {
+      "name" : "CAL_and_NCV_Feb_2017_UGCB_in_England_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CAL_and_NCV_Feb_2017_UGCB_in_England_2022/FeatureServer"
+    }, 
+    {
+      "name" : "CAL_and_NCV_Feb_2017_Ultra_Generalised_Clipped_Boundaries_in_England", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CAL_and_NCV_Feb_2017_Ultra_Generalised_Clipped_Boundaries_in_England/WFSServer"
     }, 
     {
       "name" : "CAL_APR_2020_EN_NC", 
@@ -322,6 +337,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Cancer_Alliances_(February_2017)_UGCB_in_England/MapServer"
     }, 
     {
+      "name" : "Cancer_Alliances_(July_2019)_FCB_EN", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Cancer_Alliances_(July_2019)_FCB_EN/MapServer"
+    }, 
+    {
       "name" : "Cancer_Alliances_(July_2019)_FEB_EN", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Cancer_Alliances_(July_2019)_FEB_EN/MapServer"
@@ -385,6 +405,11 @@
       "name" : "Cancer_Alliances_February_2017_Full_Clipped_Boundaries_in_England", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Cancer_Alliances_February_2017_Full_Clipped_Boundaries_in_England/WFSServer"
+    }, 
+    {
+      "name" : "Cancer_Alliances_February_2017_Full_Extent_Boundaries_in_England", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Cancer_Alliances_February_2017_Full_Extent_Boundaries_in_England/WFSServer"
     }, 
     {
       "name" : "Cancer_Alliances_February_2017_GCB_in_England_2022", 
@@ -942,6 +967,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Clinical_Commissioning_Groups_(April_2019)_Boundaries_EN_BFE/MapServer"
     }, 
     {
+      "name" : "Clinical_Commissioning_Groups_(April_2019)_Boundaries_EN_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Clinical_Commissioning_Groups_(April_2019)_Boundaries_EN_BGC/MapServer"
+    }, 
+    {
       "name" : "Clinical_Commissioning_Groups_(April_2019)_Boundaries_EN_BUC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Clinical_Commissioning_Groups_(April_2019)_Boundaries_EN_BUC/MapServer"
@@ -957,9 +987,39 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Clinical_Commissioning_Groups_(April_2020)_FEB_EN/MapServer"
     }, 
     {
+      "name" : "Clinical_Commissioning_Groups_(April_2020)_GCB_EN", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Clinical_Commissioning_Groups_(April_2020)_GCB_EN/MapServer"
+    }, 
+    {
       "name" : "Clinical_Commissioning_Groups_(April_2020)_Ultra_Generalised_Boundaries_EN", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Clinical_Commissioning_Groups_(April_2020)_Ultra_Generalised_Boundaries_EN/MapServer"
+    }, 
+    {
+      "name" : "Clinical_Commissioning_Groups_(April_2021)_EN_BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Clinical_Commissioning_Groups_(April_2021)_EN_BFC/MapServer"
+    }, 
+    {
+      "name" : "Clinical_Commissioning_Groups_(April_2021)_EN_BFE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Clinical_Commissioning_Groups_(April_2021)_EN_BFE/MapServer"
+    }, 
+    {
+      "name" : "Clinical_Commissioning_Groups_(April_2021)_EN_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Clinical_Commissioning_Groups_(April_2021)_EN_BGC/MapServer"
+    }, 
+    {
+      "name" : "Clinical_Commissioning_Groups_(April_2021)_EN_BSC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Clinical_Commissioning_Groups_(April_2021)_EN_BSC/MapServer"
+    }, 
+    {
+      "name" : "Clinical_Commissioning_Groups_(April_2021)_EN_BUC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Clinical_Commissioning_Groups_(April_2021)_EN_BUC/MapServer"
     }, 
     {
       "name" : "Clinical_Commissioning_Groups_(July_2015)_FCB_in_England", 
@@ -1012,9 +1072,19 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Clinical_Commissioning_Groups_April_2017_FCB_in_England_V4_2022/FeatureServer"
     }, 
     {
+      "name" : "Clinical_Commissioning_Groups_April_2017_FEB_in_England_V4_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Clinical_Commissioning_Groups_April_2017_FEB_in_England_V4_2022/FeatureServer"
+    }, 
+    {
       "name" : "Clinical_Commissioning_Groups_April_2017_Full_Clipped_Boundaries_in_England_V4", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Clinical_Commissioning_Groups_April_2017_Full_Clipped_Boundaries_in_England_V4/WFSServer"
+    }, 
+    {
+      "name" : "Clinical_Commissioning_Groups_April_2017_Full_Extent_Boundaries_in_England_V4", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Clinical_Commissioning_Groups_April_2017_Full_Extent_Boundaries_in_England_V4/WFSServer"
     }, 
     {
       "name" : "Clinical_Commissioning_Groups_April_2018_FCB_in_England_2022", 
@@ -1077,6 +1147,16 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Clinical_Commissioning_Groups_April_2019_Boundaries_EN_BFE_v2/FeatureServer"
     }, 
     {
+      "name" : "Clinical_Commissioning_Groups_April_2019_Boundaries_EN_BGC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Clinical_Commissioning_Groups_April_2019_Boundaries_EN_BGC/WFSServer"
+    }, 
+    {
+      "name" : "Clinical_Commissioning_Groups_April_2019_Boundaries_EN_BGC_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Clinical_Commissioning_Groups_April_2019_Boundaries_EN_BGC_2022/FeatureServer"
+    }, 
+    {
       "name" : "Clinical_Commissioning_Groups_April_2019_Boundaries_EN_BGC_v2", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Clinical_Commissioning_Groups_April_2019_Boundaries_EN_BGC_v2/FeatureServer"
@@ -1122,6 +1202,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Clinical_Commissioning_Groups_April_2020_GCB_EN_2022/FeatureServer"
     }, 
     {
+      "name" : "Clinical_Commissioning_Groups_April_2020_Generalised_Clipped_Boundaries_EN", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Clinical_Commissioning_Groups_April_2020_Generalised_Clipped_Boundaries_EN/WFSServer"
+    }, 
+    {
       "name" : "Clinical_Commissioning_Groups_April_2020_Ultra_Generalised_Boundaries_EN", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Clinical_Commissioning_Groups_April_2020_Ultra_Generalised_Boundaries_EN/WFSServer"
@@ -1137,9 +1222,29 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Clinical_Commissioning_Groups_April_2021_EN_BFC/FeatureServer"
     }, 
     {
+      "name" : "Clinical_Commissioning_Groups_April_2021_EN_BFC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Clinical_Commissioning_Groups_April_2021_EN_BFC/WFSServer"
+    }, 
+    {
+      "name" : "Clinical_Commissioning_Groups_April_2021_EN_BFC_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Clinical_Commissioning_Groups_April_2021_EN_BFC_2022/FeatureServer"
+    }, 
+    {
       "name" : "Clinical_Commissioning_Groups_April_2021_EN_BFE", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Clinical_Commissioning_Groups_April_2021_EN_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "Clinical_Commissioning_Groups_April_2021_EN_BFE", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Clinical_Commissioning_Groups_April_2021_EN_BFE/WFSServer"
+    }, 
+    {
+      "name" : "Clinical_Commissioning_Groups_April_2021_EN_BFE_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Clinical_Commissioning_Groups_April_2021_EN_BFE_2022/FeatureServer"
     }, 
     {
       "name" : "Clinical_Commissioning_Groups_April_2021_EN_BGC", 
@@ -1147,9 +1252,39 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Clinical_Commissioning_Groups_April_2021_EN_BGC/FeatureServer"
     }, 
     {
+      "name" : "Clinical_Commissioning_Groups_April_2021_EN_BGC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Clinical_Commissioning_Groups_April_2021_EN_BGC/WFSServer"
+    }, 
+    {
+      "name" : "Clinical_Commissioning_Groups_April_2021_EN_BGC_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Clinical_Commissioning_Groups_April_2021_EN_BGC_2022/FeatureServer"
+    }, 
+    {
+      "name" : "Clinical_Commissioning_Groups_April_2021_EN_BSC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Clinical_Commissioning_Groups_April_2021_EN_BSC/WFSServer"
+    }, 
+    {
+      "name" : "Clinical_Commissioning_Groups_April_2021_EN_BSC_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Clinical_Commissioning_Groups_April_2021_EN_BSC_2022/FeatureServer"
+    }, 
+    {
       "name" : "Clinical_Commissioning_Groups_April_2021_EN_BUC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Clinical_Commissioning_Groups_April_2021_EN_BUC/FeatureServer"
+    }, 
+    {
+      "name" : "Clinical_Commissioning_Groups_April_2021_EN_BUC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Clinical_Commissioning_Groups_April_2021_EN_BUC/WFSServer"
+    }, 
+    {
+      "name" : "Clinical_Commissioning_Groups_April_2021_EN_BUC_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Clinical_Commissioning_Groups_April_2021_EN_BUC_2022/FeatureServer"
     }, 
     {
       "name" : "Clinical_Commissioning_Groups_July_2015_FCB_in_England_2022", 
@@ -4267,9 +4402,44 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Country/FeatureServer"
     }, 
     {
+      "name" : "Covid_Infection_Survey_(Dec)_2020_UK_BFE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey_(Dec)_2020_UK_BFE/MapServer"
+    }, 
+    {
+      "name" : "Covid_Infection_Survey_(Dec_2020)_UK_BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey_(Dec_2020)_UK_BFC/MapServer"
+    }, 
+    {
+      "name" : "Covid_Infection_Survey_(Dec_2020)_UK_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey_(Dec_2020)_UK_BGC/MapServer"
+    }, 
+    {
+      "name" : "Covid_Infection_Survey_(Dec_2020)_UK_BUC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey_(Dec_2020)_UK_BUC/MapServer"
+    }, 
+    {
       "name" : "Covid_Infection_Survey_(October_2020)_EN_BFC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey_(October_2020)_EN_BFC/MapServer"
+    }, 
+    {
+      "name" : "Covid_Infection_Survey_(October_2020)_EN_BFE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey_(October_2020)_EN_BFE/MapServer"
+    }, 
+    {
+      "name" : "Covid_Infection_Survey_(October_2020)_EN_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey_(October_2020)_EN_BGC/MapServer"
+    }, 
+    {
+      "name" : "Covid_Infection_Survey_(October_2020)_EN_BUC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey_(October_2020)_EN_BUC/MapServer"
     }, 
     {
       "name" : "Covid_Infection_Survey_(October_2020)_to_Country_Lookup_for_the_United_Kingdom", 
@@ -4292,6 +4462,46 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey__October_2020__to_Region_Lookup_in_England/FeatureServer"
     }, 
     {
+      "name" : "Covid_Infection_Survey_Dec_2020_UK_BFC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey_Dec_2020_UK_BFC/WFSServer"
+    }, 
+    {
+      "name" : "Covid_Infection_Survey_Dec_2020_UK_BFC_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey_Dec_2020_UK_BFC_2022/FeatureServer"
+    }, 
+    {
+      "name" : "Covid_Infection_Survey_Dec_2020_UK_BFE", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey_Dec_2020_UK_BFE/WFSServer"
+    }, 
+    {
+      "name" : "Covid_Infection_Survey_Dec_2020_UK_BFE_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey_Dec_2020_UK_BFE_2022/FeatureServer"
+    }, 
+    {
+      "name" : "Covid_Infection_Survey_Dec_2020_UK_BGC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey_Dec_2020_UK_BGC/WFSServer"
+    }, 
+    {
+      "name" : "Covid_Infection_Survey_Dec_2020_UK_BGC_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey_Dec_2020_UK_BGC_2022/FeatureServer"
+    }, 
+    {
+      "name" : "Covid_Infection_Survey_Dec_2020_UK_BUC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey_Dec_2020_UK_BUC/WFSServer"
+    }, 
+    {
+      "name" : "Covid_Infection_Survey_Dec_2020_UK_BUC_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey_Dec_2020_UK_BUC_2022/FeatureServer"
+    }, 
+    {
       "name" : "Covid_Infection_Survey_December_2020_UK_BFC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey_December_2020_UK_BFC/FeatureServer"
@@ -4312,6 +4522,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey_December_2020_UK_BUC/FeatureServer"
     }, 
     {
+      "name" : "Covid_Infection_Survey_Geography_(October_2020)_UK_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey_Geography_(October_2020)_UK_BGC/MapServer"
+    }, 
+    {
       "name" : "Covid_Infection_Survey_Geography_(October_2020)_UK_BUC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey_Geography_(October_2020)_UK_BUC/MapServer"
@@ -4325,6 +4540,11 @@
       "name" : "Covid_Infection_Survey_Geography_October_2020_UK_BFE", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey_Geography_October_2020_UK_BFE/WFSServer"
+    }, 
+    {
+      "name" : "Covid_Infection_Survey_Geography_October_2020_UK_BGC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey_Geography_October_2020_UK_BGC/WFSServer"
     }, 
     {
       "name" : "Covid_Infection_Survey_Geography_October_2020_UK_BUC", 
@@ -4362,9 +4582,34 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey_October_2020_EN_BFC_2022/FeatureServer"
     }, 
     {
+      "name" : "Covid_Infection_Survey_October_2020_EN_BFE", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey_October_2020_EN_BFE/WFSServer"
+    }, 
+    {
       "name" : "Covid_Infection_Survey_October_2020_EN_BFE_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey_October_2020_EN_BFE_2022/FeatureServer"
+    }, 
+    {
+      "name" : "Covid_Infection_Survey_October_2020_EN_BGC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey_October_2020_EN_BGC/WFSServer"
+    }, 
+    {
+      "name" : "Covid_Infection_Survey_October_2020_EN_BGC_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey_October_2020_EN_BGC_2022/FeatureServer"
+    }, 
+    {
+      "name" : "Covid_Infection_Survey_October_2020_EN_BUC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey_October_2020_EN_BUC/WFSServer"
+    }, 
+    {
+      "name" : "Covid_Infection_Survey_October_2020_EN_BUC_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey_October_2020_EN_BUC_2022/FeatureServer"
     }, 
     {
       "name" : "CSP_(Dec_2016)_FCB_in_England_and_Wales", 
@@ -10562,6 +10807,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Health_Boards_(April_2019)_GCB_EN/MapServer"
     }, 
     {
+      "name" : "Local_Health_Boards_(April_2019)_UGCB_EN", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Health_Boards_(April_2019)_UGCB_EN/MapServer"
+    }, 
+    {
       "name" : "Local_Health_Boards_(April_2020)_WA_BFC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Health_Boards_(April_2020)_WA_BFC/MapServer"
@@ -10575,6 +10825,11 @@
       "name" : "Local_Health_Boards_(April_2020)_WA_BGC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Health_Boards_(April_2020)_WA_BGC/MapServer"
+    }, 
+    {
+      "name" : "Local_Health_Boards_(April_2020)_WA_BUC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Health_Boards_(April_2020)_WA_BUC/MapServer"
     }, 
     {
       "name" : "Local_Health_Boards_(April_2022)_WA_BFC", 
@@ -10712,6 +10967,16 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Health_Boards_April_2020_WA_BUC/FeatureServer"
     }, 
     {
+      "name" : "Local_Health_Boards_April_2020_WA_BUC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Health_Boards_April_2020_WA_BUC/WFSServer"
+    }, 
+    {
+      "name" : "Local_Health_Boards_April_2020_WA_BUC_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Health_Boards_April_2020_WA_BUC_2022/FeatureServer"
+    }, 
+    {
       "name" : "Local_Health_Boards_April_2022_WA_BFC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Health_Boards_April_2022_WA_BFC/FeatureServer"
@@ -10795,6 +11060,11 @@
       "name" : "Local_Health_Boards_Dec_2016_UGCB_in_Wales_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Health_Boards_Dec_2016_UGCB_in_Wales_2022/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Health_Boards_December_2016_Full_Clipped_Boundaries_in_Wales", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Health_Boards_December_2016_Full_Clipped_Boundaries_in_Wales/WFSServer"
     }, 
     {
       "name" : "Local_Health_Boards_December_2016_Full_Extent_Boundaries_in_Wales", 
@@ -11405,6 +11675,11 @@
       "name" : "LocalAuthorityDistrictsMay2021UKBUC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LocalAuthorityDistrictsMay2021UKBUC/FeatureServer"
+    }, 
+    {
+      "name" : "Locations_(July_2022)_England_BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Locations_(July_2022)_England_BFC/MapServer"
     }, 
     {
       "name" : "Locations_(July_2022)_England_BFE", 
@@ -14212,6 +14487,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHS_Commissioning_Regions_(April_2016)_FEB_in_England/MapServer"
     }, 
     {
+      "name" : "NHS_Commissioning_Regions_(April_2016)_GCB_in_England", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHS_Commissioning_Regions_(April_2016)_GCB_in_England/MapServer"
+    }, 
+    {
       "name" : "NHS_Commissioning_Regions_April_2016_FCB_in_England_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHS_Commissioning_Regions_April_2016_FCB_in_England_2022/FeatureServer"
@@ -14240,6 +14520,31 @@
       "name" : "NHS_Commissioning_Regions_April_2016_Generalised_Clipped_Boundaries_in_England", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHS_Commissioning_Regions_April_2016_Generalised_Clipped_Boundaries_in_England/WFSServer"
+    }, 
+    {
+      "name" : "NHS_England_(Region_Local_Office)_(April_2018)_EN_BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHS_England_(Region_Local_Office)_(April_2018)_EN_BFC/MapServer"
+    }, 
+    {
+      "name" : "NHS_England_(Region_Local_Office)_(April_2018)_EN_BFE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHS_England_(Region_Local_Office)_(April_2018)_EN_BFE/MapServer"
+    }, 
+    {
+      "name" : "NHS_England_(Region_Local_Office)_(April_2018)_EN_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHS_England_(Region_Local_Office)_(April_2018)_EN_BGC/MapServer"
+    }, 
+    {
+      "name" : "NHS_England_(Region_Local_Office)_(April_2018)_EN_BSC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHS_England_(Region_Local_Office)_(April_2018)_EN_BSC/MapServer"
+    }, 
+    {
+      "name" : "NHS_England_(Region_Local_Office)_(April_2018)_EN_BUC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHS_England_(Region_Local_Office)_(April_2018)_EN_BUC/MapServer"
     }, 
     {
       "name" : "NHS_England_(Regions)_(April_2021)_EN_BFC", 
@@ -14300,6 +14605,56 @@
       "name" : "NHS_England_Region_Local_Office_April_2017_Full_Extent_Boundaries_in_England", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHS_England_Region_Local_Office_April_2017_Full_Extent_Boundaries_in_England/WFSServer"
+    }, 
+    {
+      "name" : "NHS_England_Region_Local_Office_April_2018_EN_BFC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHS_England_Region_Local_Office_April_2018_EN_BFC/WFSServer"
+    }, 
+    {
+      "name" : "NHS_England_Region_Local_Office_April_2018_EN_BFC_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHS_England_Region_Local_Office_April_2018_EN_BFC_2022/FeatureServer"
+    }, 
+    {
+      "name" : "NHS_England_Region_Local_Office_April_2018_EN_BFE", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHS_England_Region_Local_Office_April_2018_EN_BFE/WFSServer"
+    }, 
+    {
+      "name" : "NHS_England_Region_Local_Office_April_2018_EN_BFE_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHS_England_Region_Local_Office_April_2018_EN_BFE_2022/FeatureServer"
+    }, 
+    {
+      "name" : "NHS_England_Region_Local_Office_April_2018_EN_BGC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHS_England_Region_Local_Office_April_2018_EN_BGC/WFSServer"
+    }, 
+    {
+      "name" : "NHS_England_Region_Local_Office_April_2018_EN_BGC_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHS_England_Region_Local_Office_April_2018_EN_BGC_2022/FeatureServer"
+    }, 
+    {
+      "name" : "NHS_England_Region_Local_Office_April_2018_EN_BSC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHS_England_Region_Local_Office_April_2018_EN_BSC/WFSServer"
+    }, 
+    {
+      "name" : "NHS_England_Region_Local_Office_April_2018_EN_BSC_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHS_England_Region_Local_Office_April_2018_EN_BSC_2022/FeatureServer"
+    }, 
+    {
+      "name" : "NHS_England_Region_Local_Office_April_2018_EN_BUC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHS_England_Region_Local_Office_April_2018_EN_BUC/WFSServer"
+    }, 
+    {
+      "name" : "NHS_England_Region_Local_Office_April_2018_EN_BUC_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHS_England_Region_Local_Office_April_2018_EN_BUC_2022/FeatureServer"
     }, 
     {
       "name" : "NHS_England_Regions_(April_2017)_FCB_in_England", 
@@ -18327,6 +18682,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Public_Health_England_Centres_(Dec_2016)_FCB_in_England/MapServer"
     }, 
     {
+      "name" : "Public_Health_England_Centres_(Dec_2016)_FEB_in_England", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Public_Health_England_Centres_(Dec_2016)_FEB_in_England/MapServer"
+    }, 
+    {
       "name" : "Public_Health_England_Centres_Dec_2016_FCB_in_England_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Public_Health_England_Centres_Dec_2016_FCB_in_England_2022/FeatureServer"
@@ -19777,6 +20137,31 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Sustainability_and_Transformation_Partnerships_(April_2018)_EN_BSC/MapServer"
     }, 
     {
+      "name" : "Sustainability_and_Transformation_Partnerships_(April_2018)_EN_BUC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Sustainability_and_Transformation_Partnerships_(April_2018)_EN_BUC/MapServer"
+    }, 
+    {
+      "name" : "Sustainability_and_Transformation_Partnerships_(April_2021)_EN_BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Sustainability_and_Transformation_Partnerships_(April_2021)_EN_BFC/MapServer"
+    }, 
+    {
+      "name" : "Sustainability_and_Transformation_Partnerships_(April_2021)_EN_BFE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Sustainability_and_Transformation_Partnerships_(April_2021)_EN_BFE/MapServer"
+    }, 
+    {
+      "name" : "Sustainability_and_Transformation_Partnerships_(April_2021)_EN_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Sustainability_and_Transformation_Partnerships_(April_2021)_EN_BGC/MapServer"
+    }, 
+    {
+      "name" : "Sustainability_and_Transformation_Partnerships_(April_2021)_EN_BUC_(V2)", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Sustainability_and_Transformation_Partnerships_(April_2021)_EN_BUC_(V2)/MapServer"
+    }, 
+    {
       "name" : "Sustainability_and_Transformation_Partnerships_April_2018_EN_BFC", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Sustainability_and_Transformation_Partnerships_April_2018_EN_BFC/WFSServer"
@@ -19817,14 +20202,54 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Sustainability_and_Transformation_Partnerships_April_2018_EN_BSC_2022/FeatureServer"
     }, 
     {
+      "name" : "Sustainability_and_Transformation_Partnerships_April_2018_EN_BUC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Sustainability_and_Transformation_Partnerships_April_2018_EN_BUC/WFSServer"
+    }, 
+    {
+      "name" : "Sustainability_and_Transformation_Partnerships_April_2018_EN_BUC_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Sustainability_and_Transformation_Partnerships_April_2018_EN_BUC_2022/FeatureServer"
+    }, 
+    {
+      "name" : "Sustainability_and_Transformation_Partnerships_April_2021_EN_BFC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Sustainability_and_Transformation_Partnerships_April_2021_EN_BFC/WFSServer"
+    }, 
+    {
+      "name" : "Sustainability_and_Transformation_Partnerships_April_2021_EN_BFC_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Sustainability_and_Transformation_Partnerships_April_2021_EN_BFC_2022/FeatureServer"
+    }, 
+    {
       "name" : "Sustainability_and_Transformation_Partnerships_April_2021_EN_BFC_v2", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Sustainability_and_Transformation_Partnerships_April_2021_EN_BFC_v2/FeatureServer"
     }, 
     {
+      "name" : "Sustainability_and_Transformation_Partnerships_April_2021_EN_BFE", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Sustainability_and_Transformation_Partnerships_April_2021_EN_BFE/WFSServer"
+    }, 
+    {
+      "name" : "Sustainability_and_Transformation_Partnerships_April_2021_EN_BFE_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Sustainability_and_Transformation_Partnerships_April_2021_EN_BFE_2022/FeatureServer"
+    }, 
+    {
       "name" : "Sustainability_and_Transformation_Partnerships_April_2021_EN_BFE_v2", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Sustainability_and_Transformation_Partnerships_April_2021_EN_BFE_v2/FeatureServer"
+    }, 
+    {
+      "name" : "Sustainability_and_Transformation_Partnerships_April_2021_EN_BGC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Sustainability_and_Transformation_Partnerships_April_2021_EN_BGC/WFSServer"
+    }, 
+    {
+      "name" : "Sustainability_and_Transformation_Partnerships_April_2021_EN_BGC_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Sustainability_and_Transformation_Partnerships_April_2021_EN_BGC_2022/FeatureServer"
     }, 
     {
       "name" : "Sustainability_and_Transformation_Partnerships_April_2021_EN_BGC_v2", 
@@ -19835,6 +20260,16 @@
       "name" : "Sustainability_and_Transformation_Partnerships_April_2021_EN_BUC_v2", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Sustainability_and_Transformation_Partnerships_April_2021_EN_BUC_v2/FeatureServer"
+    }, 
+    {
+      "name" : "Sustainability_and_Transformation_Partnerships_April_2021_EN_BUC_V2_", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Sustainability_and_Transformation_Partnerships_April_2021_EN_BUC_V2_/WFSServer"
+    }, 
+    {
+      "name" : "Sustainability_and_Transformation_Partnerships_April_2021_EN_BUC_V2_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Sustainability_and_Transformation_Partnerships_April_2021_EN_BUC_V2_2022/FeatureServer"
     }, 
     {
       "name" : "TCITY_2015_EW_BGG", 
