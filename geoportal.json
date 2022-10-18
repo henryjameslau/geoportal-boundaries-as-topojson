@@ -16548,13 +16548,13 @@
     }, 
     {
       "name" : "ONS_Postcode_Directory_Latest_Centroids_Live", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ONS_Postcode_Directory_Latest_Centroids_Live/WFSServer"
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ONS_Postcode_Directory_Latest_Centroids_Live/MapServer"
     }, 
     {
       "name" : "ONS_Postcode_Directory_Latest_Centroids_Live", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ONS_Postcode_Directory_Latest_Centroids_Live/MapServer"
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ONS_Postcode_Directory_Latest_Centroids_Live/WFSServer"
     }, 
     {
       "name" : "Output_Area_(Dec_2011)_PWC_in_England_and_Wales", 
