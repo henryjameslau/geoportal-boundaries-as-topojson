@@ -24,6 +24,6 @@ jobs:
       - name: Fetch data
         uses: githubocto/flat@v2
         with:
-          http_url: https://ons-inspire.esriuk.com/arcgis/rest/services?f=pjson
+          http_url: https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services?f=pjson
           downloaded_filename: geoportal.json
           postprocess: ./postprocess.ts
