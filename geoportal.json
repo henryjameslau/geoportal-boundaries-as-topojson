@@ -14907,6 +14907,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ICB_JUL_2022_EN_BUC_V3/FeatureServer"
     }, 
     {
+      "name" : "Pollution_Removal_2007_2011_2015_2030_GeoPackage", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Pollution_Removal_2007_2011_2015_2030_GeoPackage/FeatureServer"
+    }, 
+    {
       "name" : "SHA_DEC_2005_EN_BGC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SHA_DEC_2005_EN_BGC/FeatureServer"
@@ -14980,6 +14985,11 @@
       "name" : "Built_Up_Area_to_Region_(December_2022)_Lookup_in_Great_Britain", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Built_Up_Area_to_Region_(December_2022)_Lookup_in_Great_Britain/FeatureServer"
+    }, 
+    {
+      "name" : "Northern_Ireland_Isochrones", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Northern_Ireland_Isochrones/FeatureServer"
     }
   ]
 }
