@@ -5857,11 +5857,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NUTS315_NUTS318_UK_LU_7c6c05b7b6cd4fe9a4ab2158733563c6/FeatureServer"
     }, 
     {
-      "name" : "OA_2021_to_Ward_to_LTLA_to_UTLA_to_Region_to_Country_May_2022_Lookup_in_Eng_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA_2021_to_Ward_to_LTLA_to_UTLA_to_Region_to_Country_May_2022_Lookup_in_Eng_2022/FeatureServer"
-    }, 
-    {
       "name" : "OA_DEC_2011_BGC_EW_joined", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA_DEC_2011_BGC_EW_joined/FeatureServer"
@@ -15207,11 +15202,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA21_UTLA22_EW_LU/FeatureServer"
     }, 
     {
-      "name" : "LSOA21_WD22_LAD22_EW_LU", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA21_WD22_LAD22_EW_LU/FeatureServer"
-    }, 
-    {
       "name" : "MSOA21_WD22_LAD22_EW_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA21_WD22_LAD22_EW_LU/FeatureServer"
@@ -15375,6 +15365,16 @@
       "name" : "ONSPD_Online_Latest_Centroids", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ONSPD_Online_Latest_Centroids/WFSServer"
+    }, 
+    {
+      "name" : "OA21_WD22_LTLA22_UTLA22_RGN22_CTRY22_EW_LU_v2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA21_WD22_LTLA22_UTLA22_RGN22_CTRY22_EW_LU_v2/FeatureServer"
+    }, 
+    {
+      "name" : "LSOA21_WD22_LAD22_EW_LU_v2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA21_WD22_LAD22_EW_LU_v2/FeatureServer"
     }
   ]
 }
