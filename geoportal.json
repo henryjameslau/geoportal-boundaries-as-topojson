@@ -15635,11 +15635,6 @@
       "name" : "Counties_(December_2022)_EN_BUC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_(December_2022)_EN_BUC/MapServer"
-    }, 
-    {
-      "name" : "Counties_and_Unitary_Authorities_May_2022_UK_BUC", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_and_Unitary_Authorities_May_2022_UK_BUC/WFSServer"
     }
   ]
 }
