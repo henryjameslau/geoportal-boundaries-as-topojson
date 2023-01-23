@@ -3942,11 +3942,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Planning_Authorities_April_2020_in_the_United_Kingdom_2022/FeatureServer"
     }, 
     {
-      "name" : "Local_Planning_Authorities_April_2020_UK_BFC_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Planning_Authorities_April_2020_UK_BFC_2022/FeatureServer"
-    }, 
-    {
       "name" : "Local_Planning_Authorities_April_2020_UK_BFE_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Planning_Authorities_April_2020_UK_BFE_2022/FeatureServer"
@@ -11387,11 +11382,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Planning_Authorities_(April_2019)_UK_BUC/MapServer"
     }, 
     {
-      "name" : "Local_Planning_Authorities_(April_2020)_UK_BFC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Planning_Authorities_(April_2020)_UK_BFC/MapServer"
-    }, 
-    {
       "name" : "Local_Planning_Authorities_(April_2020)_UK_BGC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Planning_Authorities_(April_2020)_UK_BGC/MapServer"
@@ -14467,11 +14457,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_December_2021_UK_BGC/WFSServer"
     }, 
     {
-      "name" : "Local_Planning_Authorities_April_2020_UK_BFC", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Planning_Authorities_April_2020_UK_BFC/WFSServer"
-    }, 
-    {
       "name" : "Local_Planning_Authorities_April_2020_UK_BFE", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Planning_Authorities_April_2020_UK_BFE/WFSServer"
@@ -15635,6 +15620,31 @@
       "name" : "Counties_(December_2022)_EN_BUC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_(December_2022)_EN_BUC/MapServer"
+    }, 
+    {
+      "name" : "Counties_and_Unitary_Authorities_May_2021_UK_BUC_2022", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_and_Unitary_Authorities_May_2021_UK_BUC_2022/MapServer"
+    }, 
+    {
+      "name" : "Counties_and_Unitary_Authorities_May_2021_UK_BUC_2022", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_and_Unitary_Authorities_May_2021_UK_BUC_2022/WFSServer"
+    }, 
+    {
+      "name" : "Local_Planning_Authorities_Apr_2020_UK_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Planning_Authorities_Apr_2020_UK_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Planning_Authorities_April_2020_UK_BFC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Planning_Authorities_April_2020_UK_BFC/WFSServer"
+    }, 
+    {
+      "name" : "Local_Planning_Authorities_(April_2020)_UK_BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Planning_Authorities_(April_2020)_UK_BFC/MapServer"
     }
   ]
 }
