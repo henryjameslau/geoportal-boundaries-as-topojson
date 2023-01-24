@@ -14457,11 +14457,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_December_2021_UK_BGC/WFSServer"
     }, 
     {
-      "name" : "Local_Planning_Authorities_April_2020_UK_BFE", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Planning_Authorities_April_2020_UK_BFE/WFSServer"
-    }, 
-    {
       "name" : "Local_Planning_Authorities_April_2020_UK_BGC", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Planning_Authorities_April_2020_UK_BGC/WFSServer"
@@ -15645,6 +15640,26 @@
       "name" : "Local_Planning_Authorities_(April_2020)_UK_BFC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Planning_Authorities_(April_2020)_UK_BFC/MapServer"
+    }, 
+    {
+      "name" : "Output_Area_2011_EW_BFE_V2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Area_2011_EW_BFE_V2/FeatureServer"
+    }, 
+    {
+      "name" : "Output_Areas_December_2011_EW_BFE_V2", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_December_2011_EW_BFE_V2/WFSServer"
+    }, 
+    {
+      "name" : "Output_Areas_(December_2011)_EW_BFE_V2", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_(December_2011)_EW_BFE_V2/MapServer"
+    }, 
+    {
+      "name" : "Wales_Isochrones_V3", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wales_Isochrones_V3/FeatureServer"
     }
   ]
 }
