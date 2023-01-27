@@ -77,11 +77,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Built_up_Area_Sub_Divisions_Dec_2011_Boundaries_2022/FeatureServer"
     }, 
     {
-      "name" : "Built_up_Areas_Dec_2011_Boundaries_V2_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Built_up_Areas_Dec_2011_Boundaries_V2_2022/FeatureServer"
-    }, 
-    {
       "name" : "CA_2011_SC_BGC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CA_2011_SC_BGC/FeatureServer"
@@ -1040,11 +1035,6 @@
       "name" : "Counties_and_Unitary_Authorities_December_2021_UK_BUC_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_and_Unitary_Authorities_December_2021_UK_BUC_2022/FeatureServer"
-    }, 
-    {
-      "name" : "Counties_and_Unitary_Authorities_May_2021_UK_BFC_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_and_Unitary_Authorities_May_2021_UK_BFC_2022/FeatureServer"
     }, 
     {
       "name" : "Counties_and_Unitary_Authorities_May_2021_UK_BFE_2022", 
@@ -8607,11 +8597,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Built-up_Area_Sub_Divisions_(Dec_2011)_Boundaries/MapServer"
     }, 
     {
-      "name" : "Built-up_Areas_(Dec_2011)_Boundaries_V2", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Built-up_Areas_(Dec_2011)_Boundaries_V2/MapServer"
-    }, 
-    {
       "name" : "CA_(June_2016)_SGCB_England", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CA_(June_2016)_SGCB_England/MapServer"
@@ -9505,11 +9490,6 @@
       "name" : "Counties_and_Unitary_Authorities_(December_2021)_UK_BUC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_and_Unitary_Authorities_(December_2021)_UK_BUC/MapServer"
-    }, 
-    {
-      "name" : "Counties_and_Unitary_Authorities_(May_2021)_UK_BFC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_and_Unitary_Authorities_(May_2021)_UK_BFC/MapServer"
     }, 
     {
       "name" : "Counties_and_Unitary_Authorities_(May_2021)_UK_BFE", 
@@ -11515,11 +11495,6 @@
       "name" : "Locations_(July_2022)_England_BFE", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Locations_(July_2022)_England_BFE/MapServer"
-    }, 
-    {
-      "name" : "Locations_(July_2022)_England_BGC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Locations_(July_2022)_England_BGC/MapServer"
     }, 
     {
       "name" : "Locations_(July_2022)_England_BSC_", 
@@ -14692,21 +14667,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CUA_Dec_2020_UK_BFE/WFSServer"
     }, 
     {
-      "name" : "Local_Planning_Authorities_April_2020_UK_BUC_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Planning_Authorities_April_2020_UK_BUC_2022/FeatureServer"
-    }, 
-    {
-      "name" : "Local_Planning_Authorities_(April_2020)_UK_BUC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Planning_Authorities_(April_2020)_UK_BUC/MapServer"
-    }, 
-    {
-      "name" : "Local_Planning_Authorities_April_2020_UK_BUC", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Planning_Authorities_April_2020_UK_BUC/WFSServer"
-    }, 
-    {
       "name" : "Parishes_and_Non_Civil_Parished_Areas_Dec_2020_EW_BFE_V2_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_and_Non_Civil_Parished_Areas_Dec_2020_EW_BFE_V2_2022/FeatureServer"
@@ -15377,11 +15337,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD_DEC_2020_UK_BGC/FeatureServer"
     }, 
     {
-      "name" : "Local_Authority_Districts_December_2020_UK_BGC_V2", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_December_2020_UK_BGC_V2/WFSServer"
-    }, 
-    {
       "name" : "Local_Authority_Districts_(December_2020)_UK_BGC_V2", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_(December_2020)_UK_BGC_V2/MapServer"
@@ -15730,6 +15685,76 @@
       "name" : "Local_Authority_Districts_(December_2020)_UK_BFE", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_(December_2020)_UK_BFE/MapServer"
+    }, 
+    {
+      "name" : "Local_Planning_Authorities_April_2020_UK_BFE_V2", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Planning_Authorities_April_2020_UK_BFE_V2/WFSServer"
+    }, 
+    {
+      "name" : "Local_Planning_Authorities_(April_2020)_UK_BFE_V2", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Planning_Authorities_(April_2020)_UK_BFE_V2/MapServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_December_2020_UK_BGC_V2", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_December_2020_UK_BGC_V2/WFSServer"
+    }, 
+    {
+      "name" : "Sub_Integrated_Care_Board_Locations_July_2022_EN_BGC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Sub_Integrated_Care_Board_Locations_July_2022_EN_BGC/WFSServer"
+    }, 
+    {
+      "name" : "Sub_Integrated_Care_Board_Locations_(July_2022)_EN_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Sub_Integrated_Care_Board_Locations_(July_2022)_EN_BGC/MapServer"
+    }, 
+    {
+      "name" : "Counties_and_Unitary_Authorities_May_2021_UK_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_and_Unitary_Authorities_May_2021_UK_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "Counties_and_Unitary_Authorities_May_2021_UK_BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_and_Unitary_Authorities_May_2021_UK_BFC/MapServer"
+    }, 
+    {
+      "name" : "Counties_and_Unitary_Authorities_May_2021_UK_BFC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_and_Unitary_Authorities_May_2021_UK_BFC/WFSServer"
+    }, 
+    {
+      "name" : "Local_Planning_Authorities_April_2020_UK_BUC_V2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Planning_Authorities_April_2020_UK_BUC_V2/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Planning_Authorities_April_2020_UK_BUC_V2", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Planning_Authorities_April_2020_UK_BUC_V2/WFSServer"
+    }, 
+    {
+      "name" : "Local_Planning_Authorities_April_2020_UK_BUC_V2", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Planning_Authorities_April_2020_UK_BUC_V2/MapServer"
+    }, 
+    {
+      "name" : "Builtup_Areas_Dec_2011_Boundaries_V2", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Builtup_Areas_Dec_2011_Boundaries_V2/WFSServer"
+    }, 
+    {
+      "name" : "Builtup_Areas_2011_EW_BGG_V3", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Builtup_Areas_2011_EW_BGG_V3/FeatureServer"
+    }, 
+    {
+      "name" : "Builtup_Areas_2011_EW_BGG_V3", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Builtup_Areas_2011_EW_BGG_V3/WFSServer"
     }
   ]
 }
