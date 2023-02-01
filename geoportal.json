@@ -15807,11 +15807,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Enterprise_Partnerships_December_2022_EN_BUC/MapServer"
     }, 
     {
-      "name" : "East_Scotland_Isochrones_10M", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/East_Scotland_Isochrones_10M/FeatureServer"
-    }, 
-    {
       "name" : "Countries_December_2022_UK_BFC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2022_UK_BFC/FeatureServer"
