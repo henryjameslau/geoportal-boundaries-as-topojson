@@ -77,6 +77,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Built_up_Area_Sub_Divisions_Dec_2011_Boundaries_2022/FeatureServer"
     }, 
     {
+      "name" : "Built_up_Areas_Dec_2011_Boundaries_V2_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Built_up_Areas_Dec_2011_Boundaries_V2_2022/FeatureServer"
+    }, 
+    {
       "name" : "CA_2011_SC_BGC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CA_2011_SC_BGC/FeatureServer"
@@ -15737,21 +15742,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Planning_Authorities_April_2020_UK_BUC_V2/MapServer"
     }, 
     {
-      "name" : "Builtup_Areas_Dec_2011_Boundaries_V2", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Builtup_Areas_Dec_2011_Boundaries_V2/WFSServer"
-    }, 
-    {
-      "name" : "Builtup_Areas_2011_EW_BGG_V3", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Builtup_Areas_2011_EW_BGG_V3/FeatureServer"
-    }, 
-    {
-      "name" : "Builtup_Areas_2011_EW_BGG_V3", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Builtup_Areas_2011_EW_BGG_V3/WFSServer"
-    }, 
-    {
       "name" : "Local_Enterprise_Partnerships_December_2022_EN_BFC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Enterprise_Partnerships_December_2022_EN_BFC/FeatureServer"
@@ -15930,6 +15920,71 @@
       "name" : "Countries_December_2022_GB_BUC", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2022_GB_BUC/WFSServer"
+    }, 
+    {
+      "name" : "East_Midlands_Isochrones", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/East_Midlands_Isochrones/FeatureServer"
+    }, 
+    {
+      "name" : "East_of_England_Isochrones_Gen", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/East_of_England_Isochrones_Gen/FeatureServer"
+    }, 
+    {
+      "name" : "London_East_Isochrones_Gen", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/London_East_Isochrones_Gen/FeatureServer"
+    }, 
+    {
+      "name" : "London_West_Isochrones_Gen", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/London_West_Isochrones_Gen/FeatureServer"
+    }, 
+    {
+      "name" : "North_East_Isochrones_Gen", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/North_East_Isochrones_Gen/FeatureServer"
+    }, 
+    {
+      "name" : "North_Scotland_Isochrones_Gen", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/North_Scotland_Isochrones_Gen/FeatureServer"
+    }, 
+    {
+      "name" : "North_West_North_Isochrones_Gen", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/North_West_North_Isochrones_Gen/FeatureServer"
+    }, 
+    {
+      "name" : "North_West_South_Isochrones_Gen", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/North_West_South_Isochrones_Gen/FeatureServer"
+    }, 
+    {
+      "name" : "Northern_Ireland_Isochrones_Gen", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Northern_Ireland_Isochrones_Gen/FeatureServer"
+    }, 
+    {
+      "name" : "South_East_Isochrones_Gen", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/South_East_Isochrones_Gen/FeatureServer"
+    }, 
+    {
+      "name" : "West_Midlands_Isochrones_Gen", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/West_Midlands_Isochrones_Gen/FeatureServer"
+    }, 
+    {
+      "name" : "Built_up_Areas_Dec_2011_Boundaries_V2", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Built_up_Areas_Dec_2011_Boundaries_V2/WFSServer"
+    }, 
+    {
+      "name" : "South_West_Isochrones_Gen", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/South_West_Isochrones_Gen/FeatureServer"
     }
   ]
 }
