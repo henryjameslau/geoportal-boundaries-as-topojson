@@ -15187,21 +15187,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA21_BUA22_LAD22_RGN22_EW_LU/FeatureServer"
     }, 
     {
-      "name" : "EastMidlandsIsochrones", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/EastMidlandsIsochrones/FeatureServer"
-    }, 
-    {
-      "name" : "West_Midlands_Isochrones", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/West_Midlands_Isochrones/FeatureServer"
-    }, 
-    {
-      "name" : "North_Scotland_Isochrones", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/North_Scotland_Isochrones/FeatureServer"
-    }, 
-    {
       "name" : "LEP_DEC_2022_NC_EN", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEP_DEC_2022_NC_EN/FeatureServer"
@@ -15237,36 +15222,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Built_Up_Area_to_Region_(December_2022)_Lookup_in_Great_Britain/FeatureServer"
     }, 
     {
-      "name" : "Yorhshire_and_the_Humber_Isochrones", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Yorhshire_and_the_Humber_Isochrones/FeatureServer"
-    }, 
-    {
-      "name" : "South_West_Isochrones", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/South_West_Isochrones/FeatureServer"
-    }, 
-    {
-      "name" : "Wales_Isochrones", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wales_Isochrones/FeatureServer"
-    }, 
-    {
-      "name" : "North_East_Isochrones", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/North_East_Isochrones/FeatureServer"
-    }, 
-    {
-      "name" : "East_of_England_Isochrones", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/East_of_England_Isochrones/FeatureServer"
-    }, 
-    {
-      "name" : "Northern_Ireland_Isochrones", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Northern_Ireland_Isochrones/FeatureServer"
-    }, 
-    {
       "name" : "NSPL_Online_Latest_Centroids", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NSPL_Online_Latest_Centroids/WFSServer"
@@ -15285,46 +15240,6 @@
       "name" : "OA21_WD22_LTLA22_UTLA22_RGN22_CTRY22_EW_LU_v2", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA21_WD22_LTLA22_UTLA22_RGN22_CTRY22_EW_LU_v2/FeatureServer"
-    }, 
-    {
-      "name" : "LondonEast_Isochrones", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LondonEast_Isochrones/FeatureServer"
-    }, 
-    {
-      "name" : "LondonWest_Isochrones", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LondonWest_Isochrones/FeatureServer"
-    }, 
-    {
-      "name" : "SouthEast_SouthIsochrones", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SouthEast_SouthIsochrones/FeatureServer"
-    }, 
-    {
-      "name" : "SouthEast_North_Isochrones", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SouthEast_North_Isochrones/FeatureServer"
-    }, 
-    {
-      "name" : "NorthWest_NorthIsochrones", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NorthWest_NorthIsochrones/FeatureServer"
-    }, 
-    {
-      "name" : "Northwest_SouthIsochrones", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Northwest_SouthIsochrones/FeatureServer"
-    }, 
-    {
-      "name" : "WestScotland_NorthIsochrones", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WestScotland_NorthIsochrones/FeatureServer"
-    }, 
-    {
-      "name" : "WestScotland_SouthIsochrones", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WestScotland_SouthIsochrones/FeatureServer"
     }, 
     {
       "name" : "LAD_DEC_2022_UK_BFE_V2", 
@@ -15607,11 +15522,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_(December_2011)_EW_BFE_V2/MapServer"
     }, 
     {
-      "name" : "EastScotland_Isochrones", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/EastScotland_Isochrones/FeatureServer"
-    }, 
-    {
       "name" : "Combined_Authorities_December_2022_EN_BFC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_December_2022_EN_BFC/FeatureServer"
@@ -15795,6 +15705,11 @@
       "name" : "Local_Enterprise_Partnerships_December_2022_EN_BUC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Enterprise_Partnerships_December_2022_EN_BUC/MapServer"
+    }, 
+    {
+      "name" : "East_Scotland_Isochrones_10M", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/East_Scotland_Isochrones_10M/FeatureServer"
     }, 
     {
       "name" : "Countries_December_2022_UK_BFC", 
