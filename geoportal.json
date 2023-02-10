@@ -2317,6 +2317,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/International_Territorial_Level_3_January_2021_UK_BUC_V3_2022/FeatureServer"
     }, 
     {
+      "name" : "IPN_GB_2019_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/IPN_GB_2019_2022/FeatureServer"
+    }, 
+    {
       "name" : "IPN_GB_2020_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/IPN_GB_2020_2022/FeatureServer"
@@ -3060,26 +3065,6 @@
       "name" : "LAU2_Dec_2014_UGCB_in_England_and_Wales_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAU2_Dec_2014_UGCB_in_England_and_Wales_2022/FeatureServer"
-    }, 
-    {
-      "name" : "LAU2_Dec_2015_FCB_in_England_and_Wales_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAU2_Dec_2015_FCB_in_England_and_Wales_2022/FeatureServer"
-    }, 
-    {
-      "name" : "LAU2_Dec_2015_FEB_in_England_and_Wales_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAU2_Dec_2015_FEB_in_England_and_Wales_2022/FeatureServer"
-    }, 
-    {
-      "name" : "LAU2_Dec_2015_GCB_in_England_and_Wales_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAU2_Dec_2015_GCB_in_England_and_Wales_2022/FeatureServer"
-    }, 
-    {
-      "name" : "LAU2_Dec_2015_SGCB_in_England_and_Wales_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAU2_Dec_2015_SGCB_in_England_and_Wales_2022/FeatureServer"
     }, 
     {
       "name" : "LAU2_DEC_2015_UK_NC_a994c71101d8407b9e4b7e7f6a9a1172", 
@@ -6592,24 +6577,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Police_Force_Areas_Dec_2016_FEB_in_England_and_Wales_2022/FeatureServer"
     }, 
     {
-      "name" : "Police_Force_Areas_Dec_2016_GCB_in_England_and_Wales_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Police_Force_Areas_Dec_2016_GCB_in_England_and_Wales_2022/FeatureServer"
-    }, 
-    {
       "name" : "Police_Force_Areas_Dec_2016_Names_and_Codes_in_the_United_Kingdom_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Police_Force_Areas_Dec_2016_Names_and_Codes_in_the_United_Kingdom_2022/FeatureServer"
-    }, 
-    {
-      "name" : "Police_Force_Areas_Dec_2016_SGCB_in_England_and_Wales_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Police_Force_Areas_Dec_2016_SGCB_in_England_and_Wales_2022/FeatureServer"
-    }, 
-    {
-      "name" : "Police_Force_Areas_Dec_2016_UGCB_in_England_and_Wales_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Police_Force_Areas_Dec_2016_UGCB_in_England_and_Wales_2022/FeatureServer"
     }, 
     {
       "name" : "Police_Force_Areas_Dec_2017_EW_BFC_2022", 
@@ -8967,26 +8937,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Community_Safety_Partnerships_(Dec_2019)_EW_BUC/MapServer"
     }, 
     {
-      "name" : "Community_Safety_Partnerships_(Dec_2019)_FCB_EW", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Community_Safety_Partnerships_(Dec_2019)_FCB_EW/MapServer"
-    }, 
-    {
-      "name" : "Community_Safety_Partnerships_(Dec_2019)_FEB_EW", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Community_Safety_Partnerships_(Dec_2019)_FEB_EW/MapServer"
-    }, 
-    {
-      "name" : "Community_Safety_Partnerships_(Dec_2019)_GCB_EW", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Community_Safety_Partnerships_(Dec_2019)_GCB_EW/MapServer"
-    }, 
-    {
-      "name" : "Community_Safety_Partnerships_(Dec_2019)_Ultra_Generalised_Boundaries_EW", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Community_Safety_Partnerships_(Dec_2019)_Ultra_Generalised_Boundaries_EW/MapServer"
-    }, 
-    {
       "name" : "Community_Safety_Partnerships_(Dec_2020)_EW_BFC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Community_Safety_Partnerships_(Dec_2020)_EW_BFC/MapServer"
@@ -9025,21 +8975,6 @@
       "name" : "Community_Safety_Partnerships_(Dec_2021)_EW_BUC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Community_Safety_Partnerships_(Dec_2021)_EW_BUC/MapServer"
-    }, 
-    {
-      "name" : "Counties_(April_2019)_FEB_EN", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_(April_2019)_FEB_EN/MapServer"
-    }, 
-    {
-      "name" : "Counties_(April_2019)_GCB_EN", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_(April_2019)_GCB_EN/MapServer"
-    }, 
-    {
-      "name" : "Counties_(April_2019)_Ultra_Generalised_Boundaries_EN", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_(April_2019)_Ultra_Generalised_Boundaries_EN/MapServer"
     }, 
     {
       "name" : "Counties_(Dec_1961)_in_England_and_Wales_BFC_Boundaries", 
@@ -9675,26 +9610,6 @@
       "name" : "Covid_Infection_Survey_(October_2020)_EN_BUC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey_(October_2020)_EN_BUC/MapServer"
-    }, 
-    {
-      "name" : "Covid_Infection_Survey_Geography_(October_2020)_UK_BFC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey_Geography_(October_2020)_UK_BFC/MapServer"
-    }, 
-    {
-      "name" : "Covid_Infection_Survey_Geography_(October_2020)_UK_BFE", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey_Geography_(October_2020)_UK_BFE/MapServer"
-    }, 
-    {
-      "name" : "Covid_Infection_Survey_Geography_(October_2020)_UK_BGC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey_Geography_(October_2020)_UK_BGC/MapServer"
-    }, 
-    {
-      "name" : "Covid_Infection_Survey_Geography_(October_2020)_UK_BUC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey_Geography_(October_2020)_UK_BUC/MapServer"
     }, 
     {
       "name" : "CSP_(Dec_2016)_FCB_in_England_and_Wales", 
@@ -10507,26 +10422,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAU2_(Dec_2014)_UGCB_in_England_and_Wales/MapServer"
     }, 
     {
-      "name" : "LAU2_(Dec_2015)_FCB_in_England_and_Wales", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAU2_(Dec_2015)_FCB_in_England_and_Wales/MapServer"
-    }, 
-    {
-      "name" : "LAU2_(Dec_2015)_FEB_in_England_and_Wales", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAU2_(Dec_2015)_FEB_in_England_and_Wales/MapServer"
-    }, 
-    {
-      "name" : "LAU2_(Dec_2015)_GCB_in_England_and_Wales", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAU2_(Dec_2015)_GCB_in_England_and_Wales/MapServer"
-    }, 
-    {
-      "name" : "LAU2_(Dec_2015)_SGCB_in_England_and_Wales", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAU2_(Dec_2015)_SGCB_in_England_and_Wales/MapServer"
-    }, 
-    {
       "name" : "LEP_(Apr_2017)_SGCB_in_England", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEP_(Apr_2017)_SGCB_in_England/MapServer"
@@ -11017,29 +10912,14 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Enterprise_Partnership_Overlapping_Parts_(May_2021)_EN_BUC/MapServer"
     }, 
     {
-      "name" : "Local_Enterprise_Partnerships_(April_2017)_FCB_in_England", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Enterprise_Partnerships_(April_2017)_FCB_in_England/MapServer"
-    }, 
-    {
       "name" : "Local_Enterprise_Partnerships_(April_2017)_FEB_EN", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Enterprise_Partnerships_(April_2017)_FEB_EN/MapServer"
     }, 
     {
-      "name" : "Local_Enterprise_Partnerships_(April_2017)_FEB_in_England", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Enterprise_Partnerships_(April_2017)_FEB_in_England/MapServer"
-    }, 
-    {
       "name" : "Local_Enterprise_Partnerships_(April_2017)_GCB_EN", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Enterprise_Partnerships_(April_2017)_GCB_EN/MapServer"
-    }, 
-    {
-      "name" : "Local_Enterprise_Partnerships_(April_2017)_GCB_in_England", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Enterprise_Partnerships_(April_2017)_GCB_in_England/MapServer"
     }, 
     {
       "name" : "Local_Enterprise_Partnerships_(April_2017)_Super_Generalised_Boundaries_EN", 
@@ -11292,26 +11172,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Resilience_Forums_(Dec_2019)_EW_BUC/MapServer"
     }, 
     {
-      "name" : "Local_Resilience_Forums_(Dec_2019)_FCB_EW", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Resilience_Forums_(Dec_2019)_FCB_EW/MapServer"
-    }, 
-    {
-      "name" : "Local_Resilience_Forums_(Dec_2019)_FEB_EW", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Resilience_Forums_(Dec_2019)_FEB_EW/MapServer"
-    }, 
-    {
-      "name" : "Local_Resilience_Forums_(Dec_2019)_GCB_EW", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Resilience_Forums_(Dec_2019)_GCB_EW/MapServer"
-    }, 
-    {
-      "name" : "Local_Resilience_Forums_(Dec_2019)_Ultra_Generalised_Boundaries_EW", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Resilience_Forums_(Dec_2019)_Ultra_Generalised_Boundaries_EW/MapServer"
-    }, 
-    {
       "name" : "Local_Resilience_Forums_(Dec_2020)_EW_BFC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Resilience_Forums_(Dec_2020)_EW_BFC/MapServer"
@@ -11330,26 +11190,6 @@
       "name" : "Local_Resilience_Forums_(Dec_2020)_EW_BUC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Resilience_Forums_(Dec_2020)_EW_BUC/MapServer"
-    }, 
-    {
-      "name" : "Locations_(July_2022)_England_BFC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Locations_(July_2022)_England_BFC/MapServer"
-    }, 
-    {
-      "name" : "Locations_(July_2022)_England_BFE", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Locations_(July_2022)_England_BFE/MapServer"
-    }, 
-    {
-      "name" : "Locations_(July_2022)_England_BSC_", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Locations_(July_2022)_England_BSC_/MapServer"
-    }, 
-    {
-      "name" : "Locations_(July_2022)_England_BUC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Locations_(July_2022)_England_BUC/MapServer"
     }, 
     {
       "name" : "London_Assembly_Constituencies_(Dec_2017)_EN_BFC", 
@@ -11655,31 +11495,6 @@
       "name" : "National_Parks_(August_2016)_Boundaries_GB_BUC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/National_Parks_(August_2016)_Boundaries_GB_BUC/MapServer"
-    }, 
-    {
-      "name" : "National_Parks_(August_2016)_FCB_in_Great_Britain", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/National_Parks_(August_2016)_FCB_in_Great_Britain/MapServer"
-    }, 
-    {
-      "name" : "National_Parks_(August_2016)_FEB_in_Great_Britain", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/National_Parks_(August_2016)_FEB_in_Great_Britain/MapServer"
-    }, 
-    {
-      "name" : "National_Parks_(August_2016)_GCB_in_Great_Britain", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/National_Parks_(August_2016)_GCB_in_Great_Britain/MapServer"
-    }, 
-    {
-      "name" : "National_Parks_(August_2016)_SGCB_in_Great_Britain", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/National_Parks_(August_2016)_SGCB_in_Great_Britain/MapServer"
-    }, 
-    {
-      "name" : "National_Parks_(August_2016)_UGCB_in_Great_Britain", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/National_Parks_(August_2016)_UGCB_in_Great_Britain/MapServer"
     }, 
     {
       "name" : "National_Parks_(Dec_2018)_FCB_GB", 
@@ -12257,16 +12072,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NUTS3_(Jan_2018)_UGCB_in_the_UK/MapServer"
     }, 
     {
-      "name" : "ONS_Postcode_Directory_(Latest)_Centroids", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ONS_Postcode_Directory_(Latest)_Centroids/MapServer"
-    }, 
-    {
-      "name" : "Output_Area_(Dec_2011)_PWC_in_England_and_Wales", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Area_(Dec_2011)_PWC_in_England_and_Wales/MapServer"
-    }, 
-    {
       "name" : "Output_Areas_(Dec_2001)_Boundaries_EW_BFC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_(Dec_2001)_Boundaries_EW_BFC/MapServer"
@@ -12310,11 +12115,6 @@
       "name" : "Output_Areas_(Dec_2021)_Boundaries_Generalised_Clipped_EW_(BGC)", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_(Dec_2021)_Boundaries_Generalised_Clipped_EW_(BGC)/MapServer"
-    }, 
-    {
-      "name" : "Output_Areas_(Dec_2021)_PWC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_(Dec_2021)_PWC/MapServer"
     }, 
     {
       "name" : "Output_Areas_(Dec_2021)_PWC_(Version_2)", 
@@ -12660,21 +12460,6 @@
       "name" : "Police_Force_Areas_(Dec_2016)_FEB_in_England_and_Wales", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Police_Force_Areas_(Dec_2016)_FEB_in_England_and_Wales/MapServer"
-    }, 
-    {
-      "name" : "Police_Force_Areas_(Dec_2016)_GCB_in_England_and_Wales", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Police_Force_Areas_(Dec_2016)_GCB_in_England_and_Wales/MapServer"
-    }, 
-    {
-      "name" : "Police_Force_Areas_(Dec_2016)_SGCB_in_England_and_Wales", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Police_Force_Areas_(Dec_2016)_SGCB_in_England_and_Wales/MapServer"
-    }, 
-    {
-      "name" : "Police_Force_Areas_(Dec_2016)_UGCB_in_England_and_Wales", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Police_Force_Areas_(Dec_2016)_UGCB_in_England_and_Wales/MapServer"
     }, 
     {
       "name" : "Police_Force_Areas_(Dec_2017)_EW_BFC", 
@@ -13795,11 +13580,6 @@
       "name" : "WPC_(Dec_2019)_Boundaries_UK_BFC_V2", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WPC_(Dec_2019)_Boundaries_UK_BFC_V2/MapServer"
-    }, 
-    {
-      "name" : "WPC_(Dec_2019)_FCB_UK", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WPC_(Dec_2019)_FCB_UK/MapServer"
     }, 
     {
       "name" : "WPC_(Dec_2019)_GCB_UK", 
@@ -15647,6 +15427,21 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Community_Safety_Partnerships_December_2022_EW_BFC/FeatureServer"
     }, 
     {
+      "name" : "Community_Safety_Partnerships_December_2022_EW_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Community_Safety_Partnerships_December_2022_EW_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "Community_Safety_Partnerships_December_2022_EW_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Community_Safety_Partnerships_December_2022_EW_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "Community_Safety_Partnerships_December_2022_EW_BUC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Community_Safety_Partnerships_December_2022_EW_BUC/FeatureServer"
+    }, 
+    {
       "name" : "Community_Safety_Partnerships_December_2022_EW_BFC", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Community_Safety_Partnerships_December_2022_EW_BFC/WFSServer"
@@ -15655,6 +15450,36 @@
       "name" : "Community_Safety_Partnerships_December_2022_EW_BFC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Community_Safety_Partnerships_December_2022_EW_BFC/MapServer"
+    }, 
+    {
+      "name" : "Community_Safety_Partnerships_December_2022_EW_BUC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Community_Safety_Partnerships_December_2022_EW_BUC/MapServer"
+    }, 
+    {
+      "name" : "Community_Safety_Partnerships_December_2022_EW_BUC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Community_Safety_Partnerships_December_2022_EW_BUC/WFSServer"
+    }, 
+    {
+      "name" : "Community_Safety_Partnerships_December_2022_EW_BGC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Community_Safety_Partnerships_December_2022_EW_BGC/WFSServer"
+    }, 
+    {
+      "name" : "Community_Safety_Partnerships_December_2022_EW_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Community_Safety_Partnerships_December_2022_EW_BGC/MapServer"
+    }, 
+    {
+      "name" : "Community_Safety_Partnerships_December_2022_EW_BFE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Community_Safety_Partnerships_December_2022_EW_BFE/MapServer"
+    }, 
+    {
+      "name" : "Community_Safety_Partnerships_December_2022_EW_BFE", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Community_Safety_Partnerships_December_2022_EW_BFE/WFSServer"
     }
   ]
 }
