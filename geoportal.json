@@ -11857,11 +11857,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHS_England_Regions_(April_2020)_Ultra_Generalised__Clipped_Boundaries_EN/MapServer"
     }, 
     {
-      "name" : "NHS_Postcode_Directory_(Latest)_Centroids", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHS_Postcode_Directory_(Latest)_Centroids/MapServer"
-    }, 
-    {
       "name" : "NHS_Region_Local_Offices_(April_2019)_FCB_EN", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHS_Region_Local_Offices_(April_2019)_FCB_EN/MapServer"
@@ -15480,6 +15475,11 @@
       "name" : "Community_Safety_Partnerships_December_2022_EW_BFE", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Community_Safety_Partnerships_December_2022_EW_BFE/WFSServer"
+    }, 
+    {
+      "name" : "ONSPD_Online_(Latest)_Centroids", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ONSPD_Online_(Latest)_Centroids/MapServer"
     }
   ]
 }
