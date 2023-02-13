@@ -15408,11 +15408,6 @@
     }, 
     {
       "name" : "LAD_DEC_2020_UK_BFE", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD_DEC_2020_UK_BFE/WFSServer"
-    }, 
-    {
-      "name" : "LAD_DEC_2020_UK_BFE", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD_DEC_2020_UK_BFE/MapServer"
     }, 
@@ -15480,6 +15475,11 @@
       "name" : "ONSPD_Online_(Latest)_Centroids", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ONSPD_Online_(Latest)_Centroids/MapServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_December_2020_UK_BFE", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_December_2020_UK_BFE/WFSServer"
     }
   ]
 }
