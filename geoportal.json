@@ -857,11 +857,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_and_Unitary_Authorities_April_2019_Boundaries_EW_BUC_2022/FeatureServer"
     }, 
     {
-      "name" : "Counties_and_Unitary_Authorities_April_2019_EW_BUC_v2", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_and_Unitary_Authorities_April_2019_EW_BUC_v2/FeatureServer"
-    }, 
-    {
       "name" : "Counties_and_Unitary_Authorities_April_2019_FCB_GB_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_and_Unitary_Authorities_April_2019_FCB_GB_2022/FeatureServer"
@@ -7365,11 +7360,6 @@
       "name" : "survey123_0561d04236fa42729bad3e159444ebcb_fieldworker", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/survey123_0561d04236fa42729bad3e159444ebcb_fieldworker/FeatureServer"
-    }, 
-    {
-      "name" : "survey123_412ab23be50b441eb25c94ba8b87e5ff_fieldworker", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/survey123_412ab23be50b441eb25c94ba8b87e5ff_fieldworker/FeatureServer"
     }, 
     {
       "name" : "survey123_6d9de20ba9e94daa9b50f61a8589a3b8_fieldworker", 
