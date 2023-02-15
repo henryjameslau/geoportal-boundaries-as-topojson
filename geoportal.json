@@ -15470,6 +15470,81 @@
       "name" : "Local_Authority_Districts_December_2020_UK_BFE", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_December_2020_UK_BFE/WFSServer"
+    }, 
+    {
+      "name" : "Scottish_Parliamentary_Constituencies_May_2021_Boundaries_SC_BFE", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Constituencies_May_2021_Boundaries_SC_BFE/WFSServer"
+    }, 
+    {
+      "name" : "Scottish_Parliamentary_Constituencies_(May_2021)_Boundaries_SC_BFE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Constituencies_(May_2021)_Boundaries_SC_BFE/MapServer"
+    }, 
+    {
+      "name" : "Scottish_Parliamentary_Constituencies_May_2021_Boundaries_SC_BFC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Constituencies_May_2021_Boundaries_SC_BFC/WFSServer"
+    }, 
+    {
+      "name" : "Scottish_Parliamentary_Constituencies_(May_2021)_Boundaries_SC_BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Constituencies_(May_2021)_Boundaries_SC_BFC/MapServer"
+    }, 
+    {
+      "name" : "Scottish_Parliamentary_Constituencies_May_2021_Boundaries_SC_BGC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Constituencies_May_2021_Boundaries_SC_BGC/WFSServer"
+    }, 
+    {
+      "name" : "Scottish_Parliamentary_Constituencies_(May_2021)_Boundaries_SC_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Constituencies_(May_2021)_Boundaries_SC_BGC/MapServer"
+    }, 
+    {
+      "name" : "Scottish_Parliamentary_Constituencies_May_2021_Boundaries_SC_BUC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Constituencies_May_2021_Boundaries_SC_BUC/WFSServer"
+    }, 
+    {
+      "name" : "Scottish_Parliamentary_Constituencies_(May_2021)_Boundaries_SC_BUC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Constituencies_(May_2021)_Boundaries_SC_BUC/MapServer"
+    }, 
+    {
+      "name" : "National_Parks_December_2020_Boundaries_GB_BFE", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/National_Parks_December_2020_Boundaries_GB_BFE/WFSServer"
+    }, 
+    {
+      "name" : "National_Parks_(December_2020)_Boundaries_GB_BFE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/National_Parks_(December_2020)_Boundaries_GB_BFE/MapServer"
+    }, 
+    {
+      "name" : "National_Parks_December_2020_Boundaries_GB_BFC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/National_Parks_December_2020_Boundaries_GB_BFC/WFSServer"
+    }, 
+    {
+      "name" : "National_Parks_(December_2020)_Boundaries_GB_BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/National_Parks_(December_2020)_Boundaries_GB_BFC/MapServer"
+    }, 
+    {
+      "name" : "National_Parks_December_2020_Boundaries_GB_BGC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/National_Parks_December_2020_Boundaries_GB_BGC/WFSServer"
+    }, 
+    {
+      "name" : "National_Parks_(December_2020)_Boundaries_GB_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/National_Parks_(December_2020)_Boundaries_GB_BGC/MapServer"
+    }, 
+    {
+      "name" : "National_Parks_December_2020_Boundaries_GB_BUC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/National_Parks_December_2020_Boundaries_GB_BUC/WFSServer"
     }
   ]
 }
