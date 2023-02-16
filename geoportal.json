@@ -15545,6 +15545,71 @@
       "name" : "National_Parks_December_2020_Boundaries_GB_BUC", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/National_Parks_December_2020_Boundaries_GB_BUC/WFSServer"
+    }, 
+    {
+      "name" : "National_Parks_(December_2020)_Boundaries_GB_BUC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/National_Parks_(December_2020)_Boundaries_GB_BUC/MapServer"
+    }, 
+    {
+      "name" : "Lower_Layer_Super_Output_Areas_December_2021_Boundaries_Super_Generalised_Clipped_EW_BSC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Lower_Layer_Super_Output_Areas_December_2021_Boundaries_Super_Generalised_Clipped_EW_BSC/WFSServer"
+    }, 
+    {
+      "name" : "Lower_Layer_Super_Output_Areas_(December_2021)_Boundaries_Super_Generalised_Clipped_EW_(BSC)", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Lower_Layer_Super_Output_Areas_(December_2021)_Boundaries_Super_Generalised_Clipped_EW_(BSC)/MapServer"
+    }, 
+    {
+      "name" : "Middle_Layer_Super_Output_Areas_December_2021_Boundaries_Super_Generalised_Clipped_EW_BSC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Middle_Layer_Super_Output_Areas_December_2021_Boundaries_Super_Generalised_Clipped_EW_BSC/WFSServer"
+    }, 
+    {
+      "name" : "Middle_Layer_Super_Output_Areas_(December_2021)_Boundaries_Super_Generalised_Clipped_EW_(BSC)", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Middle_Layer_Super_Output_Areas_(December_2021)_Boundaries_Super_Generalised_Clipped_EW_(BSC)/MapServer"
+    }, 
+    {
+      "name" : "Police_Force_Areas_December_2022_EW_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Police_Force_Areas_December_2022_EW_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "Police_Force_Areas_December_2022_EW_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Police_Force_Areas_December_2022_EW_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "Police_Force_Areas_December_2022_EW_BUC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Police_Force_Areas_December_2022_EW_BUC/FeatureServer"
+    }, 
+    {
+      "name" : "Police_Force_Areas_December_2022_EW_BFC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Police_Force_Areas_December_2022_EW_BFC/WFSServer"
+    }, 
+    {
+      "name" : "Police_Force_Areas_December_2022_EW_BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Police_Force_Areas_December_2022_EW_BFC/MapServer"
+    }, 
+    {
+      "name" : "Police_Force_Areas_December_2022_EW_BUC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Police_Force_Areas_December_2022_EW_BUC/MapServer"
+    }, 
+    {
+      "name" : "Police_Force_Areas_December_2022_EW_BUC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Police_Force_Areas_December_2022_EW_BUC/WFSServer"
+    }, 
+    {
+      "name" : "Police_Force_Areas_December_2022_EW_BGC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Police_Force_Areas_December_2022_EW_BGC/WFSServer"
     }
   ]
 }
