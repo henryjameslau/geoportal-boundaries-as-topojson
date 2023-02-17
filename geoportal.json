@@ -14617,11 +14617,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD22_CSP22_PFA22_EW_LU/FeatureServer"
     }, 
     {
-      "name" : "LAD22_FRA22_EW_LU", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD22_FRA22_EW_LU/FeatureServer"
-    }, 
-    {
       "name" : "LAD22_LRF22_EW_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD22_LRF22_EW_LU/FeatureServer"
@@ -15577,6 +15572,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Police_Force_Areas_December_2022_EW_BFC/FeatureServer"
     }, 
     {
+      "name" : "Police_Force_Areas_December_2022_EW_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Police_Force_Areas_December_2022_EW_BFE/FeatureServer"
+    }, 
+    {
       "name" : "Police_Force_Areas_December_2022_EW_BGC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Police_Force_Areas_December_2022_EW_BGC/FeatureServer"
@@ -15597,6 +15597,36 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Police_Force_Areas_December_2022_EW_BFC/MapServer"
     }, 
     {
+      "name" : "Police_Force_Areas_December_2022_EW_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Police_Force_Areas_December_2022_EW_BGC/MapServer"
+    }, 
+    {
+      "name" : "Police_Force_Areas_December_2022_EW_BGC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Police_Force_Areas_December_2022_EW_BGC/WFSServer"
+    }, 
+    {
+      "name" : "WD11_LAD11_WD22_LAD22_EW_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD11_LAD11_WD22_LAD22_EW_LU/FeatureServer"
+    }, 
+    {
+      "name" : "LAD22_FRA22_EW_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD22_FRA22_EW_LU/FeatureServer"
+    }, 
+    {
+      "name" : "Police_Force_Areas_December_2022_EW_BFE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Police_Force_Areas_December_2022_EW_BFE/MapServer"
+    }, 
+    {
+      "name" : "Police_Force_Areas_December_2022_EW_BFE", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Police_Force_Areas_December_2022_EW_BFE/WFSServer"
+    }, 
+    {
       "name" : "Police_Force_Areas_December_2022_EW_BUC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Police_Force_Areas_December_2022_EW_BUC/MapServer"
@@ -15605,11 +15635,6 @@
       "name" : "Police_Force_Areas_December_2022_EW_BUC", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Police_Force_Areas_December_2022_EW_BUC/WFSServer"
-    }, 
-    {
-      "name" : "Police_Force_Areas_December_2022_EW_BGC", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Police_Force_Areas_December_2022_EW_BGC/WFSServer"
     }
   ]
 }
