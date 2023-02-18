@@ -15258,18 +15258,8 @@
     }, 
     {
       "name" : "Countries_December_2022_GB_BFC", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2022_GB_BFC/WFSServer"
-    }, 
-    {
-      "name" : "Countries_December_2022_GB_BFC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2022_GB_BFC/MapServer"
-    }, 
-    {
-      "name" : "Countries_December_2022_GB_BGC", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2022_GB_BGC/WFSServer"
     }, 
     {
       "name" : "Countries_December_2022_GB_BGC", 
@@ -15635,6 +15625,16 @@
       "name" : "Police_Force_Areas_December_2022_EW_BUC", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Police_Force_Areas_December_2022_EW_BUC/WFSServer"
+    }, 
+    {
+      "name" : "Countries_December_2022_GB_BFC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2022_GB_BFC/WFSServer"
+    }, 
+    {
+      "name" : "Countries_December_2022_GB_BGC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2022_GB_BGC/WFSServer"
     }
   ]
 }
