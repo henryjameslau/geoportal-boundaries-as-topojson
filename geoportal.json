@@ -15690,6 +15690,66 @@
       "name" : "Fire_and_Rescue_Authorities_December_2022_EW_BGC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Fire_and_Rescue_Authorities_December_2022_EW_BGC/MapServer"
+    }, 
+    {
+      "name" : "National_Parks_December_2022_GB_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/National_Parks_December_2022_GB_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "National_Parks_December_2022_GB_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/National_Parks_December_2022_GB_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "National_Parks_December_2022_GB_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/National_Parks_December_2022_GB_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "National_Parks_December_2022_GB_BUC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/National_Parks_December_2022_GB_BUC/FeatureServer"
+    }, 
+    {
+      "name" : "National_Parks_December_2022_GB_BFC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/National_Parks_December_2022_GB_BFC/WFSServer"
+    }, 
+    {
+      "name" : "National_Parks_December_2022_GB_BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/National_Parks_December_2022_GB_BFC/MapServer"
+    }, 
+    {
+      "name" : "National_Parks_December_2022_GB_BFE", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/National_Parks_December_2022_GB_BFE/WFSServer"
+    }, 
+    {
+      "name" : "National_Parks_December_2022_GB_BFE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/National_Parks_December_2022_GB_BFE/MapServer"
+    }, 
+    {
+      "name" : "National_Parks_December_2022_GB_BGC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/National_Parks_December_2022_GB_BGC/WFSServer"
+    }, 
+    {
+      "name" : "National_Parks_December_2022_GB_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/National_Parks_December_2022_GB_BGC/MapServer"
+    }, 
+    {
+      "name" : "National_Parks_December_2022_GB_BUC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/National_Parks_December_2022_GB_BUC/WFSServer"
+    }, 
+    {
+      "name" : "National_Parks_December_2022_GB_BUC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/National_Parks_December_2022_GB_BUC/MapServer"
     }
   ]
 }
