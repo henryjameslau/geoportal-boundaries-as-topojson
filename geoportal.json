@@ -15017,11 +15017,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WPC__(Dec_2018)_GCB_UK/MapServer"
     }, 
     {
-      "name" : "NPARK_DEC_2022_GB_NC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NPARK_DEC_2022_GB_NC/FeatureServer"
-    }, 
-    {
       "name" : "National_Parks_December_2022_GB_BFC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/National_Parks_December_2022_GB_BFC/FeatureServer"
@@ -15080,6 +15075,86 @@
       "name" : "National_Parks_(December_2022)_GB_BFC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/National_Parks_(December_2022)_GB_BFC/MapServer"
+    }, 
+    {
+      "name" : "NPARK_DEC_2022_GB_NC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NPARK_DEC_2022_GB_NC/FeatureServer"
+    }, 
+    {
+      "name" : "LSOA_Dec_2021_Boundaries_Generalised_Clipped_EW_BGC_V2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_Dec_2021_Boundaries_Generalised_Clipped_EW_BGC_V2/FeatureServer"
+    }, 
+    {
+      "name" : "LSOA_Dec_2021_Boundaries_Generalised_Clipped_EW_BGC_V2", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_Dec_2021_Boundaries_Generalised_Clipped_EW_BGC_V2/WFSServer"
+    }, 
+    {
+      "name" : "LSOA_Dec_2021_Boundaries_Generalised_Clipped_EW_BGC_V2", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_Dec_2021_Boundaries_Generalised_Clipped_EW_BGC_V2/MapServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_December_2014_GB_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_December_2014_GB_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_December_2014_GB_BFE", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_December_2014_GB_BFE/WFSServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_(December_2014)_GB_BFE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_(December_2014)_GB_BFE/MapServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_December_2013_GB_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_December_2013_GB_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_December_2013_GB_BFE", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_December_2013_GB_BFE/WFSServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_December_2013_GB_BFE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_December_2013_GB_BFE/MapServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_December_2012_GB_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_December_2012_GB_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_December_2012_GB_BFE", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_December_2012_GB_BFE/WFSServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_December_2012_GB_BFE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_December_2012_GB_BFE/MapServer"
+    }, 
+    {
+      "name" : "Police_Force_Areas_December_2018_EW_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Police_Force_Areas_December_2018_EW_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "Police_Force_Areas_December_2018_EW_BFE", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Police_Force_Areas_December_2018_EW_BFE/WFSServer"
+    }, 
+    {
+      "name" : "Police_Force_Areas_December_2018_EW_BFE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Police_Force_Areas_December_2018_EW_BFE/MapServer"
     }
   ]
 }
