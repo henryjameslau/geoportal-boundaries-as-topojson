@@ -15142,19 +15142,24 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_December_2012_GB_BFE/MapServer"
     }, 
     {
-      "name" : "Police_Force_Areas_December_2018_EW_BFE", 
+      "name" : "National_Parks_December_2014_GB_BFE", 
       "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Police_Force_Areas_December_2018_EW_BFE/FeatureServer"
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/National_Parks_December_2014_GB_BFE/FeatureServer"
     }, 
     {
-      "name" : "Police_Force_Areas_December_2018_EW_BFE", 
+      "name" : "National_Parks_December_2014_GB_BFE", 
       "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Police_Force_Areas_December_2018_EW_BFE/WFSServer"
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/National_Parks_December_2014_GB_BFE/WFSServer"
     }, 
     {
-      "name" : "Police_Force_Areas_December_2018_EW_BFE", 
+      "name" : "National_Parks_December_2014_GB_BFE", 
       "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Police_Force_Areas_December_2018_EW_BFE/MapServer"
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/National_Parks_December_2014_GB_BFE/MapServer"
+    }, 
+    {
+      "name" : "National_Parks_December_2013_GB_BFE", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/National_Parks_December_2013_GB_BFE/WFSServer"
     }
   ]
 }
