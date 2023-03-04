@@ -6862,26 +6862,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_and_Non_Civil_Parished_Areas_December_2021_EW_BSC_2022/FeatureServer"
     }, 
     {
-      "name" : "Parishes_and_Non_Civil_Parished_Areas_December_2022_EW_BFC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_and_Non_Civil_Parished_Areas_December_2022_EW_BFC/FeatureServer"
-    }, 
-    {
-      "name" : "Parishes_and_Non_Civil_Parished_Areas_December_2022_EW_BFE", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_and_Non_Civil_Parished_Areas_December_2022_EW_BFE/FeatureServer"
-    }, 
-    {
-      "name" : "Parishes_and_Non_Civil_Parished_Areas_December_2022_EW_BGC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_and_Non_Civil_Parished_Areas_December_2022_EW_BGC/FeatureServer"
-    }, 
-    {
-      "name" : "Parishes_and_Non_Civil_Parished_Areas_December_2022_EW_BSC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_and_Non_Civil_Parished_Areas_December_2022_EW_BSC/FeatureServer"
-    }, 
-    {
       "name" : "Parishes_and_Non_Civil_Parished_Areas_December2021_EW_BFE_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_and_Non_Civil_Parished_Areas_December2021_EW_BFE_2022/FeatureServer"
@@ -15237,6 +15217,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_and_Non_Civil_Parished_Areas_December_2022_EW_BFC_V3/MapServer"
     }, 
     {
+      "name" : "Parishes_and_Non_Civil_Parished_Areas_December_2022_EW_BGC_V3", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_and_Non_Civil_Parished_Areas_December_2022_EW_BGC_V3/FeatureServer"
+    }, 
+    {
       "name" : "Parishes_and_Non_Civil_Parished_Areas_December_2022_EW_BFE_V3", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_and_Non_Civil_Parished_Areas_December_2022_EW_BFE_V3/MapServer"
@@ -15245,6 +15230,31 @@
       "name" : "Parishes_and_Non_Civil_Parished_Areas_December_2022_EW_BFE_V3", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_and_Non_Civil_Parished_Areas_December_2022_EW_BFE_V3/WFSServer"
+    }, 
+    {
+      "name" : "Parishes_and_Non_Civil_Parished_Areas_December_2022_EW_BSC_V3", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_and_Non_Civil_Parished_Areas_December_2022_EW_BSC_V3/FeatureServer"
+    }, 
+    {
+      "name" : "Parishes_and_Non_Civil_Parished_Areas_December_2022_EW_BGC_V3", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_and_Non_Civil_Parished_Areas_December_2022_EW_BGC_V3/WFSServer"
+    }, 
+    {
+      "name" : "Parishes_and_Non_Civil_Parished_Areas_December_2022_EW_BGC_V3", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_and_Non_Civil_Parished_Areas_December_2022_EW_BGC_V3/MapServer"
+    }, 
+    {
+      "name" : "Parishes_and_Non_Civil_Parished_Areas_December_2022_EW_BSC_V3", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_and_Non_Civil_Parished_Areas_December_2022_EW_BSC_V3/WFSServer"
+    }, 
+    {
+      "name" : "Parishes_and_Non_Civil_Parished_Areas_December_2022_EW_BSC_V3", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_and_Non_Civil_Parished_Areas_December_2022_EW_BSC_V3/MapServer"
     }
   ]
 }
