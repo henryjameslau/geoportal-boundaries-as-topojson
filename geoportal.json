@@ -4682,11 +4682,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_Dec_2011_Boundaries_Generalised_Clipped_BGC_EW_V3_2022/FeatureServer"
     }, 
     {
-      "name" : "LSOA_Dec_2011_Boundaries_Super_Generalised_Clipped_BSC_EW_V3_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_Dec_2011_Boundaries_Super_Generalised_Clipped_BSC_EW_V3_2022/FeatureServer"
-    }, 
-    {
       "name" : "LSOA_Dec_2011_PWC_in_England_and_Wales_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_Dec_2011_PWC_in_England_and_Wales_2022/FeatureServer"
@@ -12662,11 +12657,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_(Dec_2011)_Boundaries_Generalised_Clipped_(BGC)_EW_V3/MapServer"
     }, 
     {
-      "name" : "LSOA_(Dec_2011)_Boundaries_Super_Generalised_Clipped_(BSC)_EW_V3", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_(Dec_2011)_Boundaries_Super_Generalised_Clipped_(BSC)_EW_V3/MapServer"
-    }, 
-    {
       "name" : "LSOA_(Dec_2011)_PWC_in_England_and_Wales", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_(Dec_2011)_PWC_in_England_and_Wales/MapServer"
@@ -15170,6 +15160,21 @@
       "name" : "WPC__(Dec_2018)_GCB_UK", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WPC__(Dec_2018)_GCB_UK/MapServer"
+    }, 
+    {
+      "name" : "OA11_RUCOA11", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA11_RUCOA11/FeatureServer"
+    }, 
+    {
+      "name" : "LSOA_2011_Boundaries_Super_Generalised_Clipped_BSC_EW_V4", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_2011_Boundaries_Super_Generalised_Clipped_BSC_EW_V4/FeatureServer"
+    }, 
+    {
+      "name" : "LSOA_2011_Boundaries_Super_Generalised_Clipped_BSC_EW_V4", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_2011_Boundaries_Super_Generalised_Clipped_BSC_EW_V4/MapServer"
     }
   ]
 }
