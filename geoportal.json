@@ -6137,6 +6137,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NSPL_Online_Centroids/FeatureServer"
     }, 
     {
+      "name" : "NSUL_DEC_2022_SE_Fareham", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NSUL_DEC_2022_SE_Fareham/FeatureServer"
+    }, 
+    {
       "name" : "NUTS_Level_1_January_2015_FCB_in_England_and_Wales_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NUTS_Level_1_January_2015_FCB_in_England_and_Wales_2022/FeatureServer"
@@ -7910,6 +7915,11 @@
       "name" : "RGN_DEC_2022_EN_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/RGN_DEC_2022_EN_NC/FeatureServer"
+    }, 
+    {
+      "name" : "Risk_of_Flooding_from_River_and_Sea", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Risk_of_Flooding_from_River_and_Sea/FeatureServer"
     }, 
     {
       "name" : "Rural Urban Classification (2011) of Lower Layer Super Output Areas in England and Wales_new", 
