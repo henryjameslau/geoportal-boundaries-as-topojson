@@ -6032,6 +6032,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSCR_Apr_2016_UGCB_in_England_2022/FeatureServer"
     }, 
     {
+      "name" : "NHSPD_Online_Latest_Centroids", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSPD_Online_Latest_Centroids/FeatureServer"
+    }, 
+    {
       "name" : "NHSRG_2015_EW_BSC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSRG_2015_EW_BSC/FeatureServer"
@@ -15185,6 +15190,131 @@
       "name" : "LSOA_2011_Boundaries_Super_Generalised_Clipped_BSC_EW_V4", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_2011_Boundaries_Super_Generalised_Clipped_BSC_EW_V4/MapServer"
+    }, 
+    {
+      "name" : "UPRN_Map", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/UPRN_Map/FeatureServer"
+    }, 
+    {
+      "name" : "Integrated_Care_Boards_April_2023_EN_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Integrated_Care_Boards_April_2023_EN_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "Integrated_Care_Boards_April_2023_EN_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Integrated_Care_Boards_April_2023_EN_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "Integrated_Care_Boards_April_2023_EN_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Integrated_Care_Boards_April_2023_EN_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "Integrated_Care_Boards_April_2023_EN_BSC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Integrated_Care_Boards_April_2023_EN_BSC/FeatureServer"
+    }, 
+    {
+      "name" : "Integrated_Care_Boards_April_2023_EN_BFC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Integrated_Care_Boards_April_2023_EN_BFC/WFSServer"
+    }, 
+    {
+      "name" : "Integrated_Care_Boards_April_2023_EN_BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Integrated_Care_Boards_April_2023_EN_BFC/MapServer"
+    }, 
+    {
+      "name" : "Integrated_Care_Boards_April_2023_EN_BGC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Integrated_Care_Boards_April_2023_EN_BGC/WFSServer"
+    }, 
+    {
+      "name" : "Integrated_Care_Boards_April_2023_EN_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Integrated_Care_Boards_April_2023_EN_BGC/MapServer"
+    }, 
+    {
+      "name" : "Integrated_Care_Boards_April_2023_EN_BFE", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Integrated_Care_Boards_April_2023_EN_BFE/WFSServer"
+    }, 
+    {
+      "name" : "Integrated_Care_Boards_April_2023_EN_BFE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Integrated_Care_Boards_April_2023_EN_BFE/MapServer"
+    }, 
+    {
+      "name" : "Integrated_Care_Boards_April_2023_EN_BSC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Integrated_Care_Boards_April_2023_EN_BSC/WFSServer"
+    }, 
+    {
+      "name" : "Integrated_Care_Boards_April_2023_EN_BSC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Integrated_Care_Boards_April_2023_EN_BSC/MapServer"
+    }, 
+    {
+      "name" : "Sub_Integrated_Care_Board_Locations_April_2023_EN_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Sub_Integrated_Care_Board_Locations_April_2023_EN_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "Sub_Integrated_Care_Board_Locations_April_2023_EN_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Sub_Integrated_Care_Board_Locations_April_2023_EN_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "Sub_Integrated_Care_Board_Locations_April_2023_EN_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Sub_Integrated_Care_Board_Locations_April_2023_EN_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "Sub_Integrated_Care_Board_Locations_April_2023_EN_BSC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Sub_Integrated_Care_Board_Locations_April_2023_EN_BSC/FeatureServer"
+    }, 
+    {
+      "name" : "Sub_Integrated_Care_Board_Locations_April_2023_EN_BFC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Sub_Integrated_Care_Board_Locations_April_2023_EN_BFC/WFSServer"
+    }, 
+    {
+      "name" : "Sub_Integrated_Care_Board_Locations_April_2023_EN_BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Sub_Integrated_Care_Board_Locations_April_2023_EN_BFC/MapServer"
+    }, 
+    {
+      "name" : "Sub_Integrated_Care_Board_Locations_April_2023_EN_BFE", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Sub_Integrated_Care_Board_Locations_April_2023_EN_BFE/WFSServer"
+    }, 
+    {
+      "name" : "Sub_Integrated_Care_Board_Locations_April_2023_EN_BFE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Sub_Integrated_Care_Board_Locations_April_2023_EN_BFE/MapServer"
+    }, 
+    {
+      "name" : "Sub_Integrated_Care_Board_Locations_April_2023_EN_BGC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Sub_Integrated_Care_Board_Locations_April_2023_EN_BGC/WFSServer"
+    }, 
+    {
+      "name" : "Sub_Integrated_Care_Board_Locations_April_2023_EN_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Sub_Integrated_Care_Board_Locations_April_2023_EN_BGC/MapServer"
+    }, 
+    {
+      "name" : "Sub_Integrated_Care_Board_Locations_April_2023_EN_BSC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Sub_Integrated_Care_Board_Locations_April_2023_EN_BSC/WFSServer"
+    }, 
+    {
+      "name" : "Sub_Integrated_Care_Board_Locations_April_2023_EN_BSC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Sub_Integrated_Care_Board_Locations_April_2023_EN_BSC/MapServer"
     }
   ]
 }
