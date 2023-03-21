@@ -6722,11 +6722,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OAs_to_LSOAs_to_MSOAs_to_LEP_to_LAD_(May_2022)_in_England/FeatureServer"
     }, 
     {
-      "name" : "ONSPD_Online_Latest_Centroids", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ONSPD_Online_Latest_Centroids/FeatureServer"
-    }, 
-    {
       "name" : "Output_Area__2011__to_Covid_Infection_Survey_Geography__2020__Lookup_in_the_United_Kindgom", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Area__2011__to_Covid_Infection_Survey_Geography__2020__Lookup_in_the_United_Kindgom/FeatureServer"
@@ -13457,11 +13452,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NUTS3_(Jan_2018)_UGCB_in_the_UK/MapServer"
     }, 
     {
-      "name" : "ONSPD_Online_(Latest)_Centroids", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ONSPD_Online_(Latest)_Centroids/MapServer"
-    }, 
-    {
       "name" : "Output_Areas_(Dec_2001)_Boundaries_EW_BFC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_(Dec_2001)_Boundaries_EW_BFC/MapServer"
@@ -15320,6 +15310,21 @@
       "name" : "NHSPD_Online_Latest_Centroids", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSPD_Online_Latest_Centroids/FeatureServer"
+    }, 
+    {
+      "name" : "NHSPD_Online_Latest_Centroids", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSPD_Online_Latest_Centroids/MapServer"
+    }, 
+    {
+      "name" : "NHSPD_Online_Latest_Centroids", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSPD_Online_Latest_Centroids/WFSServer"
+    }, 
+    {
+      "name" : "ONSPD_Online_Latest_Centroids", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ONSPD_Online_Latest_Centroids/FeatureServer"
     }
   ]
 }
