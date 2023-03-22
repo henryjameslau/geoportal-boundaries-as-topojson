@@ -4967,24 +4967,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA11_WD20_LAD20_EW_LU_v2_f514a75a131249caa65227cdc6275a21/FeatureServer"
     }, 
     {
-      "name" : "LSOA21_BUA22_LAD22_RGN22_EW_LU", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA21_BUA22_LAD22_RGN22_EW_LU/FeatureServer"
-    }, 
-    {
       "name" : "LSOA21_LEP22_EN_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA21_LEP22_EN_LU/FeatureServer"
-    }, 
-    {
-      "name" : "LSOA21_UTLA22_EW_LU", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA21_UTLA22_EW_LU/FeatureServer"
-    }, 
-    {
-      "name" : "LSOA21_WD22_LAD22_EW_LU_v2", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA21_WD22_LAD22_EW_LU_v2/FeatureServer"
     }, 
     {
       "name" : "LTLA17_UTLA17_EW_LU_45a46a5b8c3c47a6b84418d88aa1626c", 
@@ -5265,16 +5250,6 @@
       "name" : "MSOA11_WD20_LAD20_EW_LU_v2_fe9d3f4903fe4ae1b1141625ae912e60", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA11_WD20_LAD20_EW_LU_v2_fe9d3f4903fe4ae1b1141625ae912e60/FeatureServer"
-    }, 
-    {
-      "name" : "MSOA21_BUA22_LAD22_RGN22_EW_LU", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA21_BUA22_LAD22_RGN22_EW_LU/FeatureServer"
-    }, 
-    {
-      "name" : "MSOA21_WD22_LAD22_EW_LU", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA21_WD22_LAD22_EW_LU/FeatureServer"
     }, 
     {
       "name" : "MSOA21_WD22_LTLA22_EW_LU", 
@@ -15325,6 +15300,51 @@
       "name" : "ONSPD_Online_Latest_Centroids", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ONSPD_Online_Latest_Centroids/FeatureServer"
+    }, 
+    {
+      "name" : "LSOA_DEC_2021_EW_NC_v2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_DEC_2021_EW_NC_v2/FeatureServer"
+    }, 
+    {
+      "name" : "MSOA_DEC_2021_EW_NC_v2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_DEC_2021_EW_NC_v2/FeatureServer"
+    }, 
+    {
+      "name" : "LSOA21_BUA22_LAD22_RGN22_EW_LU_v2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA21_BUA22_LAD22_RGN22_EW_LU_v2/FeatureServer"
+    }, 
+    {
+      "name" : "MSOA21_BUA22_LAD22_RGN22_EW_LU_v2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA21_BUA22_LAD22_RGN22_EW_LU_v2/FeatureServer"
+    }, 
+    {
+      "name" : "LSOA21_UTLA22_EW_LU_v2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA21_UTLA22_EW_LU_v2/FeatureServer"
+    }, 
+    {
+      "name" : "LSOA21_WD22_LAD22_EW_LU_v3", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA21_WD22_LAD22_EW_LU_v3/FeatureServer"
+    }, 
+    {
+      "name" : "MSOA21_WD22_LAD22_EW_LU_v2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA21_WD22_LAD22_EW_LU_v2/FeatureServer"
+    }, 
+    {
+      "name" : "OA_LSOA_MSOA_EW_DEC_2021_LU_v3", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA_LSOA_MSOA_EW_DEC_2021_LU_v3/FeatureServer"
+    }, 
+    {
+      "name" : "LSOA_Dec_2011_Boundaries_Super_Generalised_Clipped_BSC_EW_V4", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_Dec_2011_Boundaries_Super_Generalised_Clipped_BSC_EW_V4/WFSServer"
     }
   ]
 }
