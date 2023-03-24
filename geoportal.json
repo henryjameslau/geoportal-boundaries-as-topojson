@@ -15345,6 +15345,66 @@
       "name" : "LSOA_Dec_2011_Boundaries_Super_Generalised_Clipped_BSC_EW_V4", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_Dec_2011_Boundaries_Super_Generalised_Clipped_BSC_EW_V4/WFSServer"
+    }, 
+    {
+      "name" : "Westminster_Parliamentary_Constituencies_Dec_2022_UK_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Westminster_Parliamentary_Constituencies_Dec_2022_UK_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "Westminster_Parliamentary_Constituencies_Dec_2022_UK_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Westminster_Parliamentary_Constituencies_Dec_2022_UK_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "Westminster_Parliamentary_Constituencies_Dec_2022_UK_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Westminster_Parliamentary_Constituencies_Dec_2022_UK_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "Westminster_Parliamentary_Constituencies_Dec_2022_UK_BUC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Westminster_Parliamentary_Constituencies_Dec_2022_UK_BUC/FeatureServer"
+    }, 
+    {
+      "name" : "Westminster_Parliamentary_Constituencies_Dec_2022_UK_BFC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Westminster_Parliamentary_Constituencies_Dec_2022_UK_BFC/WFSServer"
+    }, 
+    {
+      "name" : "Westminster_Parliamentary_Constituencies_Dec_2022_UK_BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Westminster_Parliamentary_Constituencies_Dec_2022_UK_BFC/MapServer"
+    }, 
+    {
+      "name" : "Westminster_Parliamentary_Constituencies_Dec_2022_UK_BUC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Westminster_Parliamentary_Constituencies_Dec_2022_UK_BUC/WFSServer"
+    }, 
+    {
+      "name" : "Westminster_Parliamentary_Constituencies_Dec_2022_UK_BUC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Westminster_Parliamentary_Constituencies_Dec_2022_UK_BUC/MapServer"
+    }, 
+    {
+      "name" : "Westminster_Parliamentary_Constituencies_Dec_2022_UK_BGC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Westminster_Parliamentary_Constituencies_Dec_2022_UK_BGC/WFSServer"
+    }, 
+    {
+      "name" : "Westminster_Parliamentary_Constituencies_Dec_2022_UK_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Westminster_Parliamentary_Constituencies_Dec_2022_UK_BGC/MapServer"
+    }, 
+    {
+      "name" : "Westminster_Parliamentary_Constituencies_Dec_2022_UK_BFE", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Westminster_Parliamentary_Constituencies_Dec_2022_UK_BFE/WFSServer"
+    }, 
+    {
+      "name" : "Westminster_Parliamentary_Constituencies_Dec_2022_UK_BFE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Westminster_Parliamentary_Constituencies_Dec_2022_UK_BFE/MapServer"
     }
   ]
 }
