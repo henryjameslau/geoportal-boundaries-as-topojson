@@ -15282,21 +15282,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NSPL_Online_Latest_Centroids/WFSServer"
     }, 
     {
-      "name" : "NHSPD_Online_Latest_Centroids", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSPD_Online_Latest_Centroids/FeatureServer"
-    }, 
-    {
-      "name" : "NHSPD_Online_Latest_Centroids", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSPD_Online_Latest_Centroids/MapServer"
-    }, 
-    {
-      "name" : "NHSPD_Online_Latest_Centroids", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSPD_Online_Latest_Centroids/WFSServer"
-    }, 
-    {
       "name" : "ONSPD_Online_Latest_Centroids", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ONSPD_Online_Latest_Centroids/FeatureServer"
@@ -15405,6 +15390,41 @@
       "name" : "Westminster_Parliamentary_Constituencies_Dec_2022_UK_BFE", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Westminster_Parliamentary_Constituencies_Dec_2022_UK_BFE/MapServer"
+    }, 
+    {
+      "name" : "Sub_Integrated_Care_Board_Locations_July_2022_EN_BFE", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Sub_Integrated_Care_Board_Locations_July_2022_EN_BFE/WFSServer"
+    }, 
+    {
+      "name" : "Sub_Integrated_Care_Board_Locations_July_2022_EN_BFE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Sub_Integrated_Care_Board_Locations_July_2022_EN_BFE/MapServer"
+    }, 
+    {
+      "name" : "Sub_Integrated_Care_Board_Locations_July_2022_EN_BFC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Sub_Integrated_Care_Board_Locations_July_2022_EN_BFC/WFSServer"
+    }, 
+    {
+      "name" : "Sub_Integrated_Care_Board_Locations_(July_2022)_EN_BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Sub_Integrated_Care_Board_Locations_(July_2022)_EN_BFC/MapServer"
+    }, 
+    {
+      "name" : "Sub_Integrated_Care_Board_Locations_July_2022_EN_BUC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Sub_Integrated_Care_Board_Locations_July_2022_EN_BUC/WFSServer"
+    }, 
+    {
+      "name" : "Sub_Integrated_Care_Board_Locations_July_2022_EN_BUC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Sub_Integrated_Care_Board_Locations_July_2022_EN_BUC/MapServer"
+    }, 
+    {
+      "name" : "NHSPD_Online_Latest_Centroids", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSPD_Online_Latest_Centroids/FeatureServer"
     }
   ]
 }
