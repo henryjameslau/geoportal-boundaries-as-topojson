@@ -4877,11 +4877,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA11_LEP20_EN_LU_2bd363b66c994e11a0530b206b176e33/FeatureServer"
     }, 
     {
-      "name" : "LSOA11_LSOA21_LAD22_EW_LU", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA11_LSOA21_LAD22_EW_LU/FeatureServer"
-    }, 
-    {
       "name" : "LSOA11_SICBL22_EN_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA11_SICBL22_EN_LU/FeatureServer"
@@ -5200,11 +5195,6 @@
       "name" : "MSOA11_BUASD11_BUA11_LAD11_RGN11_EW_LU_3aef3be2ae364e668580cddbb1ca6592", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA11_BUASD11_BUA11_LAD11_RGN11_EW_LU_3aef3be2ae364e668580cddbb1ca6592/FeatureServer"
-    }, 
-    {
-      "name" : "MSOA11_MSOA21_LAD22_EW_LU", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA11_MSOA21_LAD22_EW_LU/FeatureServer"
     }, 
     {
       "name" : "MSOA11_TCITY15_EW_LU_e9458a2654ac404c961d645c86978493", 
@@ -6545,11 +6535,6 @@
       "name" : "OA11_NAWC18_NAWER18_WA_LU_6a7587fc5cdd4822a79d1be239ae4afd", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA11_NAWC18_NAWER18_WA_LU_6a7587fc5cdd4822a79d1be239ae4afd/FeatureServer"
-    }, 
-    {
-      "name" : "OA11_OA21_LAD22_EW_LU", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA11_OA21_LAD22_EW_LU/FeatureServer"
     }, 
     {
       "name" : "OA11_PAR11_LAD11_EW_LU_ff0c1b98220f4756915b2eaf7510df06", 
@@ -15425,6 +15410,21 @@
       "name" : "NHSPD_Online_Latest_Centroids", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSPD_Online_Latest_Centroids/FeatureServer"
+    }, 
+    {
+      "name" : "OA11_OA21_LAD22_EW_LU_Exact_fit_V2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA11_OA21_LAD22_EW_LU_Exact_fit_V2/FeatureServer"
+    }, 
+    {
+      "name" : "LSOA_(2011)_to_LSOA_(2021)_to_Local_Authority_District_(2022)_Lookup_for_England_and_Wales", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_(2011)_to_LSOA_(2021)_to_Local_Authority_District_(2022)_Lookup_for_England_and_Wales/FeatureServer"
+    }, 
+    {
+      "name" : "MSOA_(2011)_to_MSOA_(2021)_to_Local_Authority_District_(2022)_Lookup_for_England_and_Wales", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_(2011)_to_MSOA_(2021)_to_Local_Authority_District_(2022)_Lookup_for_England_and_Wales/FeatureServer"
     }
   ]
 }
