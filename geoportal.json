@@ -15425,6 +15425,21 @@
       "name" : "MSOA_(2011)_to_MSOA_(2021)_to_Local_Authority_District_(2022)_Lookup_for_England_and_Wales", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_(2011)_to_MSOA_(2021)_to_Local_Authority_District_(2022)_Lookup_for_England_and_Wales/FeatureServer"
+    }, 
+    {
+      "name" : "Middle_Layer_Super_Output_Areas_2021_EW_BFE_V6", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Middle_Layer_Super_Output_Areas_2021_EW_BFE_V6/FeatureServer"
+    }, 
+    {
+      "name" : "Middle_Layer_Super_Output_Areas_2021_EW_BFE", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Middle_Layer_Super_Output_Areas_2021_EW_BFE/WFSServer"
+    }, 
+    {
+      "name" : "Middle_Layer_Super_Output_Areas_(2021)_EW_BFE_", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Middle_Layer_Super_Output_Areas_(2021)_EW_BFE_/MapServer"
     }
   ]
 }
