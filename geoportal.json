@@ -4557,11 +4557,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Lower_Layer_Super_Output_Areas_Dec_2011_Boundaries_Full_Extent_BFE_EW_V3_2022/FeatureServer"
     }, 
     {
-      "name" : "Lower_Layer_Super_Output_Areas_Dec_2021_Boundaries_Full_Extent_BFE_EW_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Lower_Layer_Super_Output_Areas_Dec_2021_Boundaries_Full_Extent_BFE_EW_2022/FeatureServer"
-    }, 
-    {
       "name" : "LPA_DEC_2022_UK_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LPA_DEC_2022_UK_NC/FeatureServer"
@@ -5175,11 +5170,6 @@
       "name" : "MSOA_Dec_2011_PWC_in_England_and_Wales_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_Dec_2011_PWC_in_England_and_Wales_2022/FeatureServer"
-    }, 
-    {
-      "name" : "MSOA_Dec_2021_Boundaries_Full_Extent_BFE_EW_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_Dec_2021_Boundaries_Full_Extent_BFE_EW_2022/FeatureServer"
     }, 
     {
       "name" : "MSOA_Dec_2021_Boundaries_Generalised_Clipped_EW_BGC_2022", 
@@ -6745,11 +6735,6 @@
       "name" : "Output_Areas_Dec_2021_Boundaries_Full_Clipped_EW_BFC_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_Dec_2021_Boundaries_Full_Clipped_EW_BFC_2022/FeatureServer"
-    }, 
-    {
-      "name" : "Output_Areas_Dec_2021_Boundaries_Full_Extent_EW_BFE_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_Dec_2021_Boundaries_Full_Extent_EW_BFE_2022/FeatureServer"
     }, 
     {
       "name" : "Output_Areas_Dec_2021_Boundaries_Generalised_Clipped_EW_BGC_2022", 
@@ -15322,11 +15307,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Westminster_Parliamentary_Constituencies_Dec_2022_UK_BFC/FeatureServer"
     }, 
     {
-      "name" : "Westminster_Parliamentary_Constituencies_Dec_2022_UK_BFE", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Westminster_Parliamentary_Constituencies_Dec_2022_UK_BFE/FeatureServer"
-    }, 
-    {
       "name" : "Westminster_Parliamentary_Constituencies_Dec_2022_UK_BGC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Westminster_Parliamentary_Constituencies_Dec_2022_UK_BGC/FeatureServer"
@@ -15427,6 +15407,16 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_(2011)_to_MSOA_(2021)_to_Local_Authority_District_(2022)_Lookup_for_England_and_Wales/FeatureServer"
     }, 
     {
+      "name" : "Output_Areas_2021_EW_BFE_V8", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_2021_EW_BFE_V8/FeatureServer"
+    }, 
+    {
+      "name" : "Lower_Layer_Super_Output_Area_2021_EW_BFE_V8", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Lower_Layer_Super_Output_Area_2021_EW_BFE_V8/FeatureServer"
+    }, 
+    {
       "name" : "Middle_Layer_Super_Output_Areas_2021_EW_BFE_V6", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Middle_Layer_Super_Output_Areas_2021_EW_BFE_V6/FeatureServer"
@@ -15440,6 +15430,56 @@
       "name" : "Middle_Layer_Super_Output_Areas_(2021)_EW_BFE_", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Middle_Layer_Super_Output_Areas_(2021)_EW_BFE_/MapServer"
+    }, 
+    {
+      "name" : "Lower_Layer_Super_Output_Area_2021_EW_BFE_V8", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Lower_Layer_Super_Output_Area_2021_EW_BFE_V8/WFSServer"
+    }, 
+    {
+      "name" : "Lower_Layer_Super_Output_Area_2021_EW_BFE_V8", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Lower_Layer_Super_Output_Area_2021_EW_BFE_V8/MapServer"
+    }, 
+    {
+      "name" : "Output_Areas_2021_EW_BFE_V8", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_2021_EW_BFE_V8/WFSServer"
+    }, 
+    {
+      "name" : "Output_Areas_2021_EW_BFE_V8", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_2021_EW_BFE_V8/MapServer"
+    }, 
+    {
+      "name" : "PCON_DEC_2022_UK_BFE_V2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PCON_DEC_2022_UK_BFE_V2/FeatureServer"
+    }, 
+    {
+      "name" : "PCON_DEC_2022_UK_BFE_V2", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PCON_DEC_2022_UK_BFE_V2/WFSServer"
+    }, 
+    {
+      "name" : "PCON_DEC_2022_UK_BFE_V2", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PCON_DEC_2022_UK_BFE_V2/MapServer"
+    }, 
+    {
+      "name" : "LAD_APR_2023_UK_NC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD_APR_2023_UK_NC/FeatureServer"
+    }, 
+    {
+      "name" : "LTLA23_UTLA23_EW_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LTLA23_UTLA23_EW_LU/FeatureServer"
+    }, 
+    {
+      "name" : "LAD22_LAD23_UK_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD22_LAD23_UK_LU/FeatureServer"
     }
   ]
 }
