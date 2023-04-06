@@ -15297,11 +15297,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA_LSOA_MSOA_EW_DEC_2021_LU_v3/FeatureServer"
     }, 
     {
-      "name" : "LSOA_Dec_2011_Boundaries_Super_Generalised_Clipped_BSC_EW_V4", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_Dec_2011_Boundaries_Super_Generalised_Clipped_BSC_EW_V4/WFSServer"
-    }, 
-    {
       "name" : "Westminster_Parliamentary_Constituencies_Dec_2022_UK_BFC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Westminster_Parliamentary_Constituencies_Dec_2022_UK_BFC/FeatureServer"
@@ -15480,6 +15475,11 @@
       "name" : "LAD22_LAD23_UK_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD22_LAD23_UK_LU/FeatureServer"
+    }, 
+    {
+      "name" : "LSOA_Dec_2011_Boundaries_Super_Generalised_Clipped_BSC_EW_V4", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_Dec_2011_Boundaries_Super_Generalised_Clipped_BSC_EW_V4/WFSServer"
     }
   ]
 }
