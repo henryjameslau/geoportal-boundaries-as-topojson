@@ -15480,6 +15480,11 @@
       "name" : "LSOA_Dec_2011_Boundaries_Super_Generalised_Clipped_BSC_EW_V4", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_Dec_2011_Boundaries_Super_Generalised_Clipped_BSC_EW_V4/WFSServer"
+    }, 
+    {
+      "name" : "Buckinghamshire_Wards_BNG", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Buckinghamshire_Wards_BNG/WFSServer"
     }
   ]
 }
