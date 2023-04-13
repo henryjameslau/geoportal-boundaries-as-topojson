@@ -15483,8 +15483,43 @@
     }, 
     {
       "name" : "Buckinghamshire_Wards_BNG", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Buckinghamshire_Wards_BNG/FeatureServer"
+    }, 
+    {
+      "name" : "Buckinghamshire_Wards_BNG", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Buckinghamshire_Wards_BNG/WFSServer"
+    }, 
+    {
+      "name" : "Scottish_Parliamentary_Constituencies_December_2022_Boundaries_SC_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Constituencies_December_2022_Boundaries_SC_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "Scottish_Parliamentary_Constituencies_December_2022_Boundaries_SC_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Constituencies_December_2022_Boundaries_SC_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "Scottish_Parliamentary_Constituencies_December_2022_Boundaries_SC_BFE", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Constituencies_December_2022_Boundaries_SC_BFE/WFSServer"
+    }, 
+    {
+      "name" : "Scottish_Parliamentary_Constituencies_December_2022_Boundaries_SC_BFE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Constituencies_December_2022_Boundaries_SC_BFE/MapServer"
+    }, 
+    {
+      "name" : "Scottish_Parliamentary_Constituencies_December_2022_Boundaries_SC_BFC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Constituencies_December_2022_Boundaries_SC_BFC/WFSServer"
+    }, 
+    {
+      "name" : "Scottish_Parliamentary_Constituencies_December_2022_Boundaries_SC_BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Constituencies_December_2022_Boundaries_SC_BFC/MapServer"
     }
   ]
 }
