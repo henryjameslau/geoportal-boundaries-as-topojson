@@ -15502,6 +15502,16 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Constituencies_December_2022_Boundaries_SC_BFC/FeatureServer"
     }, 
     {
+      "name" : "Scottish_Parliamentary_Constituencies_December_2022_Boundaries_SC_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Constituencies_December_2022_Boundaries_SC_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "Scottish_Parliamentary_Constituencies_December_2022_Boundaries_SC_BUC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Constituencies_December_2022_Boundaries_SC_BUC/FeatureServer"
+    }, 
+    {
       "name" : "Scottish_Parliamentary_Constituencies_December_2022_Boundaries_SC_BFE", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Constituencies_December_2022_Boundaries_SC_BFE/WFSServer"
@@ -15520,6 +15530,46 @@
       "name" : "Scottish_Parliamentary_Constituencies_December_2022_Boundaries_SC_BFC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Constituencies_December_2022_Boundaries_SC_BFC/MapServer"
+    }, 
+    {
+      "name" : "Scottish_Parliamentary_Constituencies_December_2022_Boundaries_SC_BGC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Constituencies_December_2022_Boundaries_SC_BGC/WFSServer"
+    }, 
+    {
+      "name" : "Scottish_Parliamentary_Constituencies_December_2022_Boundaries_SC_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Constituencies_December_2022_Boundaries_SC_BGC/MapServer"
+    }, 
+    {
+      "name" : "Scottish_Parliamentary_Constituencies_December_2022_Boundaries_SC_BUC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Constituencies_December_2022_Boundaries_SC_BUC/WFSServer"
+    }, 
+    {
+      "name" : "Scottish_Parliamentary_Constituencies_December_2022_Boundaries_SC_BUC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Constituencies_December_2022_Boundaries_SC_BUC/MapServer"
+    }, 
+    {
+      "name" : "Counties_and_Unitary_Authorities_December_2022_EN_BUC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_and_Unitary_Authorities_December_2022_EN_BUC/FeatureServer"
+    }, 
+    {
+      "name" : "Counties_and_Unitary_Authorities_December_2022_EN_BUC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_and_Unitary_Authorities_December_2022_EN_BUC/WFSServer"
+    }, 
+    {
+      "name" : "Counties_and_Unitary_Authorities_December_2022_EN_BUC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_and_Unitary_Authorities_December_2022_EN_BUC/MapServer"
+    }, 
+    {
+      "name" : "LSOA_2011_EW_BSC_V4_ESRI_TEST", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_2011_EW_BSC_V4_ESRI_TEST/WFSServer"
     }
   ]
 }
