@@ -15568,8 +15568,83 @@
     }, 
     {
       "name" : "LSOA_2011_EW_BSC_V4_ESRI_TEST", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_2011_EW_BSC_V4_ESRI_TEST/FeatureServer"
+    }, 
+    {
+      "name" : "LSOA_2011_EW_BSC_V4_ESRI_TEST", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_2011_EW_BSC_V4_ESRI_TEST/WFSServer"
+    }, 
+    {
+      "name" : "CMLAD_APR_2023_EN_NC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CMLAD_APR_2023_EN_NC/FeatureServer"
+    }, 
+    {
+      "name" : "NSGC_APR_2023_NC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NSGC_APR_2023_NC/FeatureServer"
+    }, 
+    {
+      "name" : "The_Senedd_Constituencies_December_2022_WA_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/The_Senedd_Constituencies_December_2022_WA_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "The_Senedd_Constituencies_December_2022_WA_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/The_Senedd_Constituencies_December_2022_WA_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "The_Senedd_Constituencies_December_2022_WA_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/The_Senedd_Constituencies_December_2022_WA_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "The_Senedd_Constituencies_December_2022_WA_BSC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/The_Senedd_Constituencies_December_2022_WA_BSC/FeatureServer"
+    }, 
+    {
+      "name" : "The_Senedd_Constituencies_December_2022_WA_BGC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/The_Senedd_Constituencies_December_2022_WA_BGC/WFSServer"
+    }, 
+    {
+      "name" : "The_Senedd_Constituencies_December_2022_WA_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/The_Senedd_Constituencies_December_2022_WA_BGC/MapServer"
+    }, 
+    {
+      "name" : "The_Senedd_Constituencies_December_2022_WA_BFE", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/The_Senedd_Constituencies_December_2022_WA_BFE/WFSServer"
+    }, 
+    {
+      "name" : "The_Senedd_Constituencies_December_2022_WA_BFE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/The_Senedd_Constituencies_December_2022_WA_BFE/MapServer"
+    }, 
+    {
+      "name" : "The_Senedd_Constituencies_December_2022_WA_BFC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/The_Senedd_Constituencies_December_2022_WA_BFC/WFSServer"
+    }, 
+    {
+      "name" : "The_Senedd_Constituencies_December_2022_WA_BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/The_Senedd_Constituencies_December_2022_WA_BFC/MapServer"
+    }, 
+    {
+      "name" : "The_Senedd_Constituencies_December_2022_WA_BSC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/The_Senedd_Constituencies_December_2022_WA_BSC/WFSServer"
+    }, 
+    {
+      "name" : "The_Senedd_Constituencies_December_2022_WA_BSC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/The_Senedd_Constituencies_December_2022_WA_BSC/MapServer"
     }
   ]
 }
