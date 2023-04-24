@@ -4732,11 +4732,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_Dec_2001_EW_BFE_2022/FeatureServer"
     }, 
     {
-      "name" : "LSOA_Dec_2001_PWC_in_England_and_Wales_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_Dec_2001_PWC_in_England_and_Wales_2022/FeatureServer"
-    }, 
-    {
       "name" : "LSOA_Dec_2011_Boundaries_Generalised_Clipped_BGC_EW_V3_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_Dec_2011_Boundaries_Generalised_Clipped_BGC_EW_V3_2022/FeatureServer"
@@ -5250,11 +5245,6 @@
       "name" : "MSOA_Dec_2001_Boundaries_EW_BFC_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_Dec_2001_Boundaries_EW_BFC_2022/FeatureServer"
-    }, 
-    {
-      "name" : "MSOA_Dec_2001_PWC_in_England_and_Wales_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_Dec_2001_PWC_in_England_and_Wales_2022/FeatureServer"
     }, 
     {
       "name" : "MSOA_Dec_2011_Boundaries_Generalised_Clipped_BGC_EW_V3_2022", 
@@ -6870,11 +6860,6 @@
       "name" : "Output_Areas_Dec_2001_Boundaries_EW_BGC_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_Dec_2001_Boundaries_EW_BGC_2022/FeatureServer"
-    }, 
-    {
-      "name" : "Output_Areas_Dec_2001_PWC_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_Dec_2001_PWC_2022/FeatureServer"
     }, 
     {
       "name" : "Output_Areas_Dec_2011_Boundaries_EW_BFC_2022", 
@@ -12862,11 +12847,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_(Dec_2001)_EW_BFE/MapServer"
     }, 
     {
-      "name" : "LSOA_(Dec_2001)_PWC_in_England_and_Wales", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_(Dec_2001)_PWC_in_England_and_Wales/MapServer"
-    }, 
-    {
       "name" : "LSOA_(Dec_2011)_Boundaries_Generalised_Clipped_(BGC)_EW_V3", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_(Dec_2011)_Boundaries_Generalised_Clipped_(BGC)_EW_V3/MapServer"
@@ -12965,11 +12945,6 @@
       "name" : "MSOA_(Dec_2001)_Boundaries_EW_BFC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_(Dec_2001)_Boundaries_EW_BFC/MapServer"
-    }, 
-    {
-      "name" : "MSOA_(Dec_2001)_PWC_in_England_and_Wales", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_(Dec_2001)_PWC_in_England_and_Wales/MapServer"
     }, 
     {
       "name" : "MSOA_(Dec_2011)_Boundaries_Generalised_Clipped_(BGC)_EW_V3", 
@@ -13700,11 +13675,6 @@
       "name" : "Output_Areas_(Dec_2001)_Boundaries_EW_BGC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_(Dec_2001)_Boundaries_EW_BGC/MapServer"
-    }, 
-    {
-      "name" : "Output_Areas_(Dec_2001)_PWC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_(Dec_2001)_PWC/MapServer"
     }, 
     {
       "name" : "Output_Areas_(Dec_2011)_Boundaries_EW_(BFC)", 
@@ -15485,6 +15455,46 @@
       "name" : "WPC__(Dec_2018)_GCB_UK", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WPC__(Dec_2018)_GCB_UK/MapServer"
+    }, 
+    {
+      "name" : "OA_Dec_2001_Address_Weighted_Centroids", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA_Dec_2001_Address_Weighted_Centroids/FeatureServer"
+    }, 
+    {
+      "name" : "OA_Dec_2001_Address_Weighted_Centroids", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA_Dec_2001_Address_Weighted_Centroids/WFSServer"
+    }, 
+    {
+      "name" : "LSOA_Dec_2001_Address_Weighted_Centroids", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_Dec_2001_Address_Weighted_Centroids/FeatureServer"
+    }, 
+    {
+      "name" : "LSOA_Dec_2001_Address_Weighted_Centroids", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_Dec_2001_Address_Weighted_Centroids/WFSServer"
+    }, 
+    {
+      "name" : "LSOA_(Dec_2001)_Address_Weighted_Centroids", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_(Dec_2001)_Address_Weighted_Centroids/MapServer"
+    }, 
+    {
+      "name" : "MSOA_Dec_2001_Address_Weighted_Centroids", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_Dec_2001_Address_Weighted_Centroids/FeatureServer"
+    }, 
+    {
+      "name" : "MSOA_Dec_2001_Address_Weighted_Centroids", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_Dec_2001_Address_Weighted_Centroids/WFSServer"
+    }, 
+    {
+      "name" : "MSOA_(Dec_2001)_Address_Weighted_Centroids", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_(Dec_2001)_Address_Weighted_Centroids/MapServer"
     }
   ]
 }
