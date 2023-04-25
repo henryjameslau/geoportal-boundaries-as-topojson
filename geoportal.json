@@ -8462,26 +8462,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/TCITY_2015_EW_BGG/FeatureServer"
     }, 
     {
-      "name" : "The_Senedd_Constituencies_December_2022_WA_BFC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/The_Senedd_Constituencies_December_2022_WA_BFC/FeatureServer"
-    }, 
-    {
-      "name" : "The_Senedd_Constituencies_December_2022_WA_BFE", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/The_Senedd_Constituencies_December_2022_WA_BFE/FeatureServer"
-    }, 
-    {
-      "name" : "The_Senedd_Constituencies_December_2022_WA_BGC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/The_Senedd_Constituencies_December_2022_WA_BGC/FeatureServer"
-    }, 
-    {
-      "name" : "The_Senedd_Constituencies_December_2022_WA_BSC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/The_Senedd_Constituencies_December_2022_WA_BSC/FeatureServer"
-    }, 
-    {
       "name" : "Towns_Cities", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Towns_Cities/FeatureServer"
@@ -14757,26 +14737,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Sustainability_and_Transformation_Partnerships_(April_2021)_EN_BUC_(V2)/MapServer"
     }, 
     {
-      "name" : "The_Senedd_Constituencies_December_2022_WA_BFC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/The_Senedd_Constituencies_December_2022_WA_BFC/MapServer"
-    }, 
-    {
-      "name" : "The_Senedd_Constituencies_December_2022_WA_BFE", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/The_Senedd_Constituencies_December_2022_WA_BFE/MapServer"
-    }, 
-    {
-      "name" : "The_Senedd_Constituencies_December_2022_WA_BGC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/The_Senedd_Constituencies_December_2022_WA_BGC/MapServer"
-    }, 
-    {
-      "name" : "The_Senedd_Constituencies_December_2022_WA_BSC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/The_Senedd_Constituencies_December_2022_WA_BSC/MapServer"
-    }, 
-    {
       "name" : "Travel_to_Work_Areas_(Dec_2001)_FCB_in_the_United_Kingdom", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Travel_to_Work_Areas_(Dec_2001)_FCB_in_the_United_Kingdom/MapServer"
@@ -15495,6 +15455,86 @@
       "name" : "MSOA_(Dec_2001)_Address_Weighted_Centroids", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_(Dec_2001)_Address_Weighted_Centroids/MapServer"
+    }, 
+    {
+      "name" : "MSOA_2011_EW_BGC_V3_ESRI_TEST", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_2011_EW_BGC_V3_ESRI_TEST/FeatureServer"
+    }, 
+    {
+      "name" : "MSOA_2011_EW_BGC_V3_ESRI_TEST", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_2011_EW_BGC_V3_ESRI_TEST/WFSServer"
+    }, 
+    {
+      "name" : "LSOA_2011_EW_BGC_V3_ESRI_TEST", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_2011_EW_BGC_V3_ESRI_TEST/FeatureServer"
+    }, 
+    {
+      "name" : "LSOA_2011_EW_BGC_V3_ESRI_TEST", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_2011_EW_BGC_V3_ESRI_TEST/WFSServer"
+    }, 
+    {
+      "name" : "Scottish_Parliamentary_Regions_December_2022_SC_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Regions_December_2022_SC_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "Scottish_Parliamentary_Regions_December_2022_SC_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Regions_December_2022_SC_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "Scottish_Parliamentary_Regions_December_2022_SC_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Regions_December_2022_SC_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "Scottish_Parliamentary_Regions_December_2022_SC_BUC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Regions_December_2022_SC_BUC/FeatureServer"
+    }, 
+    {
+      "name" : "Scottish_Parliamentary_Regions_December_2022_SC_BFE", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Regions_December_2022_SC_BFE/WFSServer"
+    }, 
+    {
+      "name" : "Scottish_Parliamentary_Regions_December_2022_SC_BFE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Regions_December_2022_SC_BFE/MapServer"
+    }, 
+    {
+      "name" : "Scottish_Parliamentary_Regions_December_2022_SC_BFC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Regions_December_2022_SC_BFC/WFSServer"
+    }, 
+    {
+      "name" : "Scottish_Parliamentary_Regions_December_2022_SC_BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Regions_December_2022_SC_BFC/MapServer"
+    }, 
+    {
+      "name" : "Scottish_Parliamentary_Regions_December_2022_SC_BGC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Regions_December_2022_SC_BGC/WFSServer"
+    }, 
+    {
+      "name" : "Scottish_Parliamentary_Regions_December_2022_SC_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Regions_December_2022_SC_BGC/MapServer"
+    }, 
+    {
+      "name" : "Scottish_Parliamentary_Regions_December_2022_SC_BUC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Regions_December_2022_SC_BUC/WFSServer"
+    }, 
+    {
+      "name" : "Scottish_Parliamentary_Regions_December_2022_SC_BUC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Regions_December_2022_SC_BUC/MapServer"
     }
   ]
 }
