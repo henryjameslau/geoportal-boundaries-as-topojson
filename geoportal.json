@@ -15535,6 +15535,21 @@
       "name" : "Scottish_Parliamentary_Regions_December_2022_SC_BUC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Regions_December_2022_SC_BUC/MapServer"
+    }, 
+    {
+      "name" : "SICBL_APR_2023_EN_NC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SICBL_APR_2023_EN_NC/FeatureServer"
+    }, 
+    {
+      "name" : "ICB_APR_2023_EN_NC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ICB_APR_2023_EN_NC/FeatureServer"
+    }, 
+    {
+      "name" : "SICBL23_ICB23_NHSER23_EN_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SICBL23_ICB23_NHSER23_EN_LU/FeatureServer"
     }
   ]
 }
