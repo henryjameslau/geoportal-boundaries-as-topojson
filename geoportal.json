@@ -10892,11 +10892,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2022_UK_BUC/MapServer"
     }, 
     {
-      "name" : "Covid_Infection_Survey_(Dec)_2020_UK_BFE", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey_(Dec)_2020_UK_BFE/MapServer"
-    }, 
-    {
       "name" : "Covid_Infection_Survey_(Dec_2020)_UK_BFC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey_(Dec_2020)_UK_BFC/MapServer"
@@ -15550,6 +15545,11 @@
       "name" : "SICBL23_ICB23_NHSER23_EN_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SICBL23_ICB23_NHSER23_EN_LU/FeatureServer"
+    }, 
+    {
+      "name" : "Covid_Infection_Survey_Dec_2020_UK_BFE", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey_Dec_2020_UK_BFE/WFSServer"
     }
   ]
 }
