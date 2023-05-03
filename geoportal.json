@@ -2487,6 +2487,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/HLTH_2015_EW_BSC/FeatureServer"
     }, 
     {
+      "name" : "ICB_APR_2023_EN_NC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ICB_APR_2023_EN_NC/FeatureServer"
+    }, 
+    {
       "name" : "ICB_JUL_2022_EN_BGC_V3", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ICB_JUL_2022_EN_BGC_V3/FeatureServer"
@@ -4697,6 +4702,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_2011_Boundaries_Super_Generalised_Clipped_BSC_EW_V4/FeatureServer"
     }, 
     {
+      "name" : "LSOA_2011_EW_BGC_V3_ESRI_TEST", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_2011_EW_BGC_V3_ESRI_TEST/FeatureServer"
+    }, 
+    {
       "name" : "LSOA_2011_EW_BSC_V4_ESRI_TEST", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_2011_EW_BSC_V4_ESRI_TEST/FeatureServer"
@@ -4720,6 +4730,11 @@
       "name" : "LSOA_2021_to_Ward_to_Lower_Tier_Local_Authority_May_2022_Lookup_for_England_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_2021_to_Ward_to_Lower_Tier_Local_Authority_May_2022_Lookup_for_England_2022/FeatureServer"
+    }, 
+    {
+      "name" : "LSOA_Dec_2001_Address_Weighted_Centroids", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_Dec_2001_Address_Weighted_Centroids/FeatureServer"
     }, 
     {
       "name" : "LSOA_Dec_2001_EW_BFC_2022", 
@@ -5227,6 +5242,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA__2001__names_and_codes_EW_as_at_08_04/FeatureServer"
     }, 
     {
+      "name" : "MSOA_2011_EW_BGC_V3_ESRI_TEST", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_2011_EW_BGC_V3_ESRI_TEST/FeatureServer"
+    }, 
+    {
       "name" : "MSOA_2011_EW_NC_a8cc8c7309734d5bba946c74ca52fe25", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_2011_EW_NC_a8cc8c7309734d5bba946c74ca52fe25/FeatureServer"
@@ -5240,6 +5260,11 @@
       "name" : "MSOA_2021_EW_BSC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_2021_EW_BSC/FeatureServer"
+    }, 
+    {
+      "name" : "MSOA_Dec_2001_Address_Weighted_Centroids", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_Dec_2001_Address_Weighted_Centroids/FeatureServer"
     }, 
     {
       "name" : "MSOA_Dec_2001_Boundaries_EW_BFC_2022", 
@@ -6435,6 +6460,11 @@
       "name" : "NUTS315_NUTS318_UK_LU_7c6c05b7b6cd4fe9a4ab2158733563c6", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NUTS315_NUTS318_UK_LU_7c6c05b7b6cd4fe9a4ab2158733563c6/FeatureServer"
+    }, 
+    {
+      "name" : "OA_Dec_2001_Address_Weighted_Centroids", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA_Dec_2001_Address_Weighted_Centroids/FeatureServer"
     }, 
     {
       "name" : "OA_DEC_2011_BGC_EW_joined", 
@@ -8112,6 +8142,26 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Regions_Dec_2020_Names_and_Codes_in_Scotland_2022/FeatureServer"
     }, 
     {
+      "name" : "Scottish_Parliamentary_Regions_December_2022_SC_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Regions_December_2022_SC_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "Scottish_Parliamentary_Regions_December_2022_SC_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Regions_December_2022_SC_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "Scottish_Parliamentary_Regions_December_2022_SC_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Regions_December_2022_SC_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "Scottish_Parliamentary_Regions_December_2022_SC_BUC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Regions_December_2022_SC_BUC/FeatureServer"
+    }, 
+    {
       "name" : "SENC_DEC_2022_WA_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SENC_DEC_2022_WA_NC/FeatureServer"
@@ -8130,6 +8180,11 @@
       "name" : "SHA_DEC_2005_EN_BGC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SHA_DEC_2005_EN_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "SICBL_APR_2023_EN_NC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SICBL_APR_2023_EN_NC/FeatureServer"
     }, 
     {
       "name" : "SICBL_JUL_2022_EN_BFC", 
@@ -8165,6 +8220,11 @@
       "name" : "SICBL22_ICB22_NHSER22_EN_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SICBL22_ICB22_NHSER22_EN_LU/FeatureServer"
+    }, 
+    {
+      "name" : "SICBL23_ICB23_NHSER23_EN_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SICBL23_ICB23_NHSER23_EN_LU/FeatureServer"
     }, 
     {
       "name" : "South_East_Isochrones_Gen", 
@@ -12812,6 +12872,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LRF_(Dec_2016)_UGCB_in_England_and_Wales/MapServer"
     }, 
     {
+      "name" : "LSOA_(Dec_2001)_Address_Weighted_Centroids", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_(Dec_2001)_Address_Weighted_Centroids/MapServer"
+    }, 
+    {
       "name" : "LSOA_(Dec_2001)_EW_BFC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_(Dec_2001)_EW_BFC/MapServer"
@@ -12915,6 +12980,11 @@
       "name" : "MLSOA_(Dec_2021)_PWC_in_England_and_Wales", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MLSOA_(Dec_2021)_PWC_in_England_and_Wales/MapServer"
+    }, 
+    {
+      "name" : "MSOA_(Dec_2001)_Address_Weighted_Centroids", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_(Dec_2001)_Address_Weighted_Centroids/MapServer"
     }, 
     {
       "name" : "MSOA_(Dec_2001)_Boundaries_EW_BFC", 
@@ -13635,6 +13705,11 @@
       "name" : "NUTS3_(Jan_2018)_UGCB_in_the_UK", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NUTS3_(Jan_2018)_UGCB_in_the_UK/MapServer"
+    }, 
+    {
+      "name" : "OA_(Dec_2001)_Address_Weighted_Centroids", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA_(Dec_2001)_Address_Weighted_Centroids/MapServer"
     }, 
     {
       "name" : "Output_Areas_(Dec_2001)_Boundaries_EW_BFC", 
@@ -14542,6 +14617,26 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Constituencies_December_2022_Boundaries_SC_BUC/MapServer"
     }, 
     {
+      "name" : "Scottish_Parliamentary_Regions_December_2022_SC_BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Regions_December_2022_SC_BFC/MapServer"
+    }, 
+    {
+      "name" : "Scottish_Parliamentary_Regions_December_2022_SC_BFE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Regions_December_2022_SC_BFE/MapServer"
+    }, 
+    {
+      "name" : "Scottish_Parliamentary_Regions_December_2022_SC_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Regions_December_2022_SC_BGC/MapServer"
+    }, 
+    {
+      "name" : "Scottish_Parliamentary_Regions_December_2022_SC_BUC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Regions_December_2022_SC_BUC/MapServer"
+    }, 
+    {
       "name" : "SPC_(May_2016)_FCB_in_Scotland", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SPC_(May_2016)_FCB_in_Scotland/MapServer"
@@ -15412,144 +15507,34 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WPC__(Dec_2018)_GCB_UK/MapServer"
     }, 
     {
-      "name" : "OA_Dec_2001_Address_Weighted_Centroids", 
+      "name" : "Senedd_Cymru_Constituencies_December_2022_Boundaries_WA_BFC", 
       "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA_Dec_2001_Address_Weighted_Centroids/FeatureServer"
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Constituencies_December_2022_Boundaries_WA_BFC/FeatureServer"
     }, 
     {
-      "name" : "OA_Dec_2001_Address_Weighted_Centroids", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA_Dec_2001_Address_Weighted_Centroids/WFSServer"
-    }, 
-    {
-      "name" : "LSOA_Dec_2001_Address_Weighted_Centroids", 
+      "name" : "Senedd_Cymru_Constituencies_December_2022_Boundaries_WA_BUC", 
       "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_Dec_2001_Address_Weighted_Centroids/FeatureServer"
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Constituencies_December_2022_Boundaries_WA_BUC/FeatureServer"
     }, 
     {
-      "name" : "LSOA_Dec_2001_Address_Weighted_Centroids", 
+      "name" : "Senedd_Cymru_Constituencies_December_2022_Boundaries_WA_BFC", 
       "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_Dec_2001_Address_Weighted_Centroids/WFSServer"
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Constituencies_December_2022_Boundaries_WA_BFC/WFSServer"
     }, 
     {
-      "name" : "LSOA_(Dec_2001)_Address_Weighted_Centroids", 
+      "name" : "Senedd_Cymru_Constituencies_December_2022_Boundaries_WA_BFC", 
       "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_(Dec_2001)_Address_Weighted_Centroids/MapServer"
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Constituencies_December_2022_Boundaries_WA_BFC/MapServer"
     }, 
     {
-      "name" : "MSOA_Dec_2001_Address_Weighted_Centroids", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_Dec_2001_Address_Weighted_Centroids/FeatureServer"
-    }, 
-    {
-      "name" : "MSOA_Dec_2001_Address_Weighted_Centroids", 
+      "name" : "Senedd_Cymru_Constituencies_December_2022_Boundaries_WA_BUC", 
       "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_Dec_2001_Address_Weighted_Centroids/WFSServer"
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Constituencies_December_2022_Boundaries_WA_BUC/WFSServer"
     }, 
     {
-      "name" : "MSOA_(Dec_2001)_Address_Weighted_Centroids", 
+      "name" : "Senedd_Cymru_Constituencies_December_2022_Boundaries_WA_BUC", 
       "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_(Dec_2001)_Address_Weighted_Centroids/MapServer"
-    }, 
-    {
-      "name" : "MSOA_2011_EW_BGC_V3_ESRI_TEST", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_2011_EW_BGC_V3_ESRI_TEST/FeatureServer"
-    }, 
-    {
-      "name" : "MSOA_2011_EW_BGC_V3_ESRI_TEST", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_2011_EW_BGC_V3_ESRI_TEST/WFSServer"
-    }, 
-    {
-      "name" : "LSOA_2011_EW_BGC_V3_ESRI_TEST", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_2011_EW_BGC_V3_ESRI_TEST/FeatureServer"
-    }, 
-    {
-      "name" : "LSOA_2011_EW_BGC_V3_ESRI_TEST", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_2011_EW_BGC_V3_ESRI_TEST/WFSServer"
-    }, 
-    {
-      "name" : "Scottish_Parliamentary_Regions_December_2022_SC_BFC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Regions_December_2022_SC_BFC/FeatureServer"
-    }, 
-    {
-      "name" : "Scottish_Parliamentary_Regions_December_2022_SC_BFE", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Regions_December_2022_SC_BFE/FeatureServer"
-    }, 
-    {
-      "name" : "Scottish_Parliamentary_Regions_December_2022_SC_BGC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Regions_December_2022_SC_BGC/FeatureServer"
-    }, 
-    {
-      "name" : "Scottish_Parliamentary_Regions_December_2022_SC_BUC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Regions_December_2022_SC_BUC/FeatureServer"
-    }, 
-    {
-      "name" : "Scottish_Parliamentary_Regions_December_2022_SC_BFE", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Regions_December_2022_SC_BFE/WFSServer"
-    }, 
-    {
-      "name" : "Scottish_Parliamentary_Regions_December_2022_SC_BFE", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Regions_December_2022_SC_BFE/MapServer"
-    }, 
-    {
-      "name" : "Scottish_Parliamentary_Regions_December_2022_SC_BFC", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Regions_December_2022_SC_BFC/WFSServer"
-    }, 
-    {
-      "name" : "Scottish_Parliamentary_Regions_December_2022_SC_BFC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Regions_December_2022_SC_BFC/MapServer"
-    }, 
-    {
-      "name" : "Scottish_Parliamentary_Regions_December_2022_SC_BGC", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Regions_December_2022_SC_BGC/WFSServer"
-    }, 
-    {
-      "name" : "Scottish_Parliamentary_Regions_December_2022_SC_BGC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Regions_December_2022_SC_BGC/MapServer"
-    }, 
-    {
-      "name" : "Scottish_Parliamentary_Regions_December_2022_SC_BUC", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Regions_December_2022_SC_BUC/WFSServer"
-    }, 
-    {
-      "name" : "Scottish_Parliamentary_Regions_December_2022_SC_BUC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Regions_December_2022_SC_BUC/MapServer"
-    }, 
-    {
-      "name" : "SICBL_APR_2023_EN_NC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SICBL_APR_2023_EN_NC/FeatureServer"
-    }, 
-    {
-      "name" : "ICB_APR_2023_EN_NC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ICB_APR_2023_EN_NC/FeatureServer"
-    }, 
-    {
-      "name" : "SICBL23_ICB23_NHSER23_EN_LU", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SICBL23_ICB23_NHSER23_EN_LU/FeatureServer"
-    }, 
-    {
-      "name" : "Covid_Infection_Survey_Dec_2020_UK_BFE", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey_Dec_2020_UK_BFE/WFSServer"
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Constituencies_December_2022_Boundaries_WA_BUC/MapServer"
     }
   ]
 }
