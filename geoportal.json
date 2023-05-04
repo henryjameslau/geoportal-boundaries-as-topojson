@@ -15512,6 +15512,16 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Constituencies_December_2022_Boundaries_WA_BFC/FeatureServer"
     }, 
     {
+      "name" : "Senedd_Cymru_Constituencies_December_2022_Boundaries_WA_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Constituencies_December_2022_Boundaries_WA_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "Senedd_Cymru_Constituencies_December_2022_Boundaries_WA_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Constituencies_December_2022_Boundaries_WA_BGC/FeatureServer"
+    }, 
+    {
       "name" : "Senedd_Cymru_Constituencies_December_2022_Boundaries_WA_BUC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Constituencies_December_2022_Boundaries_WA_BUC/FeatureServer"
@@ -15535,6 +15545,86 @@
       "name" : "Senedd_Cymru_Constituencies_December_2022_Boundaries_WA_BUC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Constituencies_December_2022_Boundaries_WA_BUC/MapServer"
+    }, 
+    {
+      "name" : "Senedd_Cymru_Constituencies_December_2022_Boundaries_WA_BGC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Constituencies_December_2022_Boundaries_WA_BGC/WFSServer"
+    }, 
+    {
+      "name" : "Senedd_Cymru_Constituencies_December_2022_Boundaries_WA_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Constituencies_December_2022_Boundaries_WA_BGC/MapServer"
+    }, 
+    {
+      "name" : "Senedd_Cymru_Constituencies_December_2022_Boundaries_WA_BFE", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Constituencies_December_2022_Boundaries_WA_BFE/WFSServer"
+    }, 
+    {
+      "name" : "Senedd_Cymru_Constituencies_December_2022_Boundaries_WA_BFE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Constituencies_December_2022_Boundaries_WA_BFE/MapServer"
+    }, 
+    {
+      "name" : "Senedd_Cymru_Electoral_Regions_December_2022_WA_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Electoral_Regions_December_2022_WA_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "Senedd_Cymru_Electoral_Regions_December_2022_WA_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Electoral_Regions_December_2022_WA_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "Senedd_Cymru_Electoral_Regions_December_2022_WA_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Electoral_Regions_December_2022_WA_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "Senedd_Cymru_Electoral_Regions_December_2022_WA_BUC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Electoral_Regions_December_2022_WA_BUC/FeatureServer"
+    }, 
+    {
+      "name" : "Senedd_Cymru_Electoral_Regions_December_2022_WA_BFE", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Electoral_Regions_December_2022_WA_BFE/WFSServer"
+    }, 
+    {
+      "name" : "Senedd_Cymru_Electoral_Regions_December_2022_WA_BFE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Electoral_Regions_December_2022_WA_BFE/MapServer"
+    }, 
+    {
+      "name" : "Senedd_Cymru_Electoral_Regions_December_2022_WA_BUC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Electoral_Regions_December_2022_WA_BUC/WFSServer"
+    }, 
+    {
+      "name" : "Senedd_Cymru_Electoral_Regions_December_2022_WA_BUC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Electoral_Regions_December_2022_WA_BUC/MapServer"
+    }, 
+    {
+      "name" : "Senedd_Cymru_Electoral_Regions_December_2022_WA_BGC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Electoral_Regions_December_2022_WA_BGC/WFSServer"
+    }, 
+    {
+      "name" : "Senedd_Cymru_Electoral_Regions_December_2022_WA_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Electoral_Regions_December_2022_WA_BGC/MapServer"
+    }, 
+    {
+      "name" : "Senedd_Cymru_Electoral_Regions_December_2022_WA_BFC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Electoral_Regions_December_2022_WA_BFC/WFSServer"
+    }, 
+    {
+      "name" : "Senedd_Cymru_Electoral_Regions_December_2022_WA_BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Electoral_Regions_December_2022_WA_BFC/MapServer"
     }
   ]
 }
