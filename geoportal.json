@@ -1707,6 +1707,26 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey__October_2020__to_Region_Lookup_in_England/FeatureServer"
     }, 
     {
+      "name" : "Covid_Infection_Survey_Dec_2020_UK_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey_Dec_2020_UK_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "Covid_Infection_Survey_Dec_2020_UK_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey_Dec_2020_UK_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "Covid_Infection_Survey_Dec_2020_UK_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey_Dec_2020_UK_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "Covid_Infection_Survey_Dec_2020_UK_BUC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey_Dec_2020_UK_BUC/FeatureServer"
+    }, 
+    {
       "name" : "Covid_Infection_Survey_October_2020_EN_BFC_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey_October_2020_EN_BFC_2022/FeatureServer"
@@ -4725,6 +4745,11 @@
       "name" : "LSOA_Dec_2001_EW_BFE_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_Dec_2001_EW_BFE_2022/FeatureServer"
+    }, 
+    {
+      "name" : "LSOA_Dec_2011_Boundaries_Generalised_Clipped_BGC_EW_V3", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_Dec_2011_Boundaries_Generalised_Clipped_BGC_EW_V3/FeatureServer"
     }, 
     {
       "name" : "LSOA_Dec_2011_PWC_in_England_and_Wales_2022", 
@@ -8142,6 +8167,46 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SENC_DEC_2022_WA_NC/FeatureServer"
     }, 
     {
+      "name" : "Senedd_Cymru_Constituencies_December_2022_Boundaries_WA_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Constituencies_December_2022_Boundaries_WA_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "Senedd_Cymru_Constituencies_December_2022_Boundaries_WA_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Constituencies_December_2022_Boundaries_WA_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "Senedd_Cymru_Constituencies_December_2022_Boundaries_WA_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Constituencies_December_2022_Boundaries_WA_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "Senedd_Cymru_Constituencies_December_2022_Boundaries_WA_BUC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Constituencies_December_2022_Boundaries_WA_BUC/FeatureServer"
+    }, 
+    {
+      "name" : "Senedd_Cymru_Electoral_Regions_December_2022_WA_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Electoral_Regions_December_2022_WA_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "Senedd_Cymru_Electoral_Regions_December_2022_WA_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Electoral_Regions_December_2022_WA_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "Senedd_Cymru_Electoral_Regions_December_2022_WA_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Electoral_Regions_December_2022_WA_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "Senedd_Cymru_Electoral_Regions_December_2022_WA_BUC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Electoral_Regions_December_2022_WA_BUC/FeatureServer"
+    }, 
+    {
       "name" : "SENER_DEC_2022_WA_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SENER_DEC_2022_WA_NC/FeatureServer"
@@ -10947,6 +11012,26 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey_(October_2020)_EN_BUC/MapServer"
     }, 
     {
+      "name" : "Covid_Infection_Survey_Dec_2020_UK_BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey_Dec_2020_UK_BFC/MapServer"
+    }, 
+    {
+      "name" : "Covid_Infection_Survey_Dec_2020_UK_BFE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey_Dec_2020_UK_BFE/MapServer"
+    }, 
+    {
+      "name" : "Covid_Infection_Survey_Dec_2020_UK_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey_Dec_2020_UK_BGC/MapServer"
+    }, 
+    {
+      "name" : "Covid_Infection_Survey_Dec_2020_UK_BUC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey_Dec_2020_UK_BUC/MapServer"
+    }, 
+    {
       "name" : "CSP_(Dec_2016)_FCB_in_England_and_Wales", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CSP_(Dec_2016)_FCB_in_England_and_Wales/MapServer"
@@ -12867,6 +12952,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_2011_Boundaries_Super_Generalised_Clipped_BSC_EW_V4/MapServer"
     }, 
     {
+      "name" : "LSOA_Dec_2011_Boundaries_Generalised_Clipped_BGC_EW_V3", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_Dec_2011_Boundaries_Generalised_Clipped_BGC_EW_V3/MapServer"
+    }, 
+    {
       "name" : "LSOA_Dec_2021_Boundaries_Generalised_Clipped_EW_BGC_V2", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_Dec_2021_Boundaries_Generalised_Clipped_EW_BGC_V2/MapServer"
@@ -14592,6 +14682,46 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Regions_December_2022_SC_BUC/MapServer"
     }, 
     {
+      "name" : "Senedd_Cymru_Constituencies_December_2022_Boundaries_WA_BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Constituencies_December_2022_Boundaries_WA_BFC/MapServer"
+    }, 
+    {
+      "name" : "Senedd_Cymru_Constituencies_December_2022_Boundaries_WA_BFE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Constituencies_December_2022_Boundaries_WA_BFE/MapServer"
+    }, 
+    {
+      "name" : "Senedd_Cymru_Constituencies_December_2022_Boundaries_WA_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Constituencies_December_2022_Boundaries_WA_BGC/MapServer"
+    }, 
+    {
+      "name" : "Senedd_Cymru_Constituencies_December_2022_Boundaries_WA_BUC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Constituencies_December_2022_Boundaries_WA_BUC/MapServer"
+    }, 
+    {
+      "name" : "Senedd_Cymru_Electoral_Regions_December_2022_WA_BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Electoral_Regions_December_2022_WA_BFC/MapServer"
+    }, 
+    {
+      "name" : "Senedd_Cymru_Electoral_Regions_December_2022_WA_BFE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Electoral_Regions_December_2022_WA_BFE/MapServer"
+    }, 
+    {
+      "name" : "Senedd_Cymru_Electoral_Regions_December_2022_WA_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Electoral_Regions_December_2022_WA_BGC/MapServer"
+    }, 
+    {
+      "name" : "Senedd_Cymru_Electoral_Regions_December_2022_WA_BUC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Electoral_Regions_December_2022_WA_BUC/MapServer"
+    }, 
+    {
       "name" : "SPC_(May_2016)_FCB_in_Scotland", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SPC_(May_2016)_FCB_in_Scotland/MapServer"
@@ -15460,201 +15590,6 @@
       "name" : "WPC__(Dec_2018)_GCB_UK", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WPC__(Dec_2018)_GCB_UK/MapServer"
-    }, 
-    {
-      "name" : "Senedd_Cymru_Constituencies_December_2022_Boundaries_WA_BFC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Constituencies_December_2022_Boundaries_WA_BFC/FeatureServer"
-    }, 
-    {
-      "name" : "Senedd_Cymru_Constituencies_December_2022_Boundaries_WA_BFE", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Constituencies_December_2022_Boundaries_WA_BFE/FeatureServer"
-    }, 
-    {
-      "name" : "Senedd_Cymru_Constituencies_December_2022_Boundaries_WA_BGC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Constituencies_December_2022_Boundaries_WA_BGC/FeatureServer"
-    }, 
-    {
-      "name" : "Senedd_Cymru_Constituencies_December_2022_Boundaries_WA_BUC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Constituencies_December_2022_Boundaries_WA_BUC/FeatureServer"
-    }, 
-    {
-      "name" : "Senedd_Cymru_Constituencies_December_2022_Boundaries_WA_BFC", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Constituencies_December_2022_Boundaries_WA_BFC/WFSServer"
-    }, 
-    {
-      "name" : "Senedd_Cymru_Constituencies_December_2022_Boundaries_WA_BFC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Constituencies_December_2022_Boundaries_WA_BFC/MapServer"
-    }, 
-    {
-      "name" : "Senedd_Cymru_Constituencies_December_2022_Boundaries_WA_BUC", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Constituencies_December_2022_Boundaries_WA_BUC/WFSServer"
-    }, 
-    {
-      "name" : "Senedd_Cymru_Constituencies_December_2022_Boundaries_WA_BUC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Constituencies_December_2022_Boundaries_WA_BUC/MapServer"
-    }, 
-    {
-      "name" : "Senedd_Cymru_Constituencies_December_2022_Boundaries_WA_BGC", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Constituencies_December_2022_Boundaries_WA_BGC/WFSServer"
-    }, 
-    {
-      "name" : "Senedd_Cymru_Constituencies_December_2022_Boundaries_WA_BGC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Constituencies_December_2022_Boundaries_WA_BGC/MapServer"
-    }, 
-    {
-      "name" : "Senedd_Cymru_Constituencies_December_2022_Boundaries_WA_BFE", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Constituencies_December_2022_Boundaries_WA_BFE/WFSServer"
-    }, 
-    {
-      "name" : "Senedd_Cymru_Constituencies_December_2022_Boundaries_WA_BFE", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Constituencies_December_2022_Boundaries_WA_BFE/MapServer"
-    }, 
-    {
-      "name" : "Senedd_Cymru_Electoral_Regions_December_2022_WA_BFC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Electoral_Regions_December_2022_WA_BFC/FeatureServer"
-    }, 
-    {
-      "name" : "Senedd_Cymru_Electoral_Regions_December_2022_WA_BFE", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Electoral_Regions_December_2022_WA_BFE/FeatureServer"
-    }, 
-    {
-      "name" : "Senedd_Cymru_Electoral_Regions_December_2022_WA_BGC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Electoral_Regions_December_2022_WA_BGC/FeatureServer"
-    }, 
-    {
-      "name" : "Senedd_Cymru_Electoral_Regions_December_2022_WA_BUC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Electoral_Regions_December_2022_WA_BUC/FeatureServer"
-    }, 
-    {
-      "name" : "Senedd_Cymru_Electoral_Regions_December_2022_WA_BFE", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Electoral_Regions_December_2022_WA_BFE/WFSServer"
-    }, 
-    {
-      "name" : "Senedd_Cymru_Electoral_Regions_December_2022_WA_BFE", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Electoral_Regions_December_2022_WA_BFE/MapServer"
-    }, 
-    {
-      "name" : "Senedd_Cymru_Electoral_Regions_December_2022_WA_BUC", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Electoral_Regions_December_2022_WA_BUC/WFSServer"
-    }, 
-    {
-      "name" : "Senedd_Cymru_Electoral_Regions_December_2022_WA_BUC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Electoral_Regions_December_2022_WA_BUC/MapServer"
-    }, 
-    {
-      "name" : "Senedd_Cymru_Electoral_Regions_December_2022_WA_BGC", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Electoral_Regions_December_2022_WA_BGC/WFSServer"
-    }, 
-    {
-      "name" : "Senedd_Cymru_Electoral_Regions_December_2022_WA_BGC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Electoral_Regions_December_2022_WA_BGC/MapServer"
-    }, 
-    {
-      "name" : "Senedd_Cymru_Electoral_Regions_December_2022_WA_BFC", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Electoral_Regions_December_2022_WA_BFC/WFSServer"
-    }, 
-    {
-      "name" : "Senedd_Cymru_Electoral_Regions_December_2022_WA_BFC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Electoral_Regions_December_2022_WA_BFC/MapServer"
-    }, 
-    {
-      "name" : "Covid_Infection_Survey_Dec_2020_UK_BFE", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey_Dec_2020_UK_BFE/FeatureServer"
-    }, 
-    {
-      "name" : "Covid_Infection_Survey_Dec_2020_UK_BFE", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey_Dec_2020_UK_BFE/WFSServer"
-    }, 
-    {
-      "name" : "Covid_Infection_Survey_Dec_2020_UK_BFE", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey_Dec_2020_UK_BFE/MapServer"
-    }, 
-    {
-      "name" : "Covid_Infection_Survey_Dec_2020_UK_BGC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey_Dec_2020_UK_BGC/FeatureServer"
-    }, 
-    {
-      "name" : "Covid_Infection_Survey_Dec_2020_UK_BGC", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey_Dec_2020_UK_BGC/WFSServer"
-    }, 
-    {
-      "name" : "Covid_Infection_Survey_Dec_2020_UK_BGC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey_Dec_2020_UK_BGC/MapServer"
-    }, 
-    {
-      "name" : "Covid_Infection_Survey_Dec_2020_UK_BFC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey_Dec_2020_UK_BFC/FeatureServer"
-    }, 
-    {
-      "name" : "Covid_Infection_Survey_Dec_2020_UK_BFC", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey_Dec_2020_UK_BFC/WFSServer"
-    }, 
-    {
-      "name" : "Covid_Infection_Survey_Dec_2020_UK_BFC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey_Dec_2020_UK_BFC/MapServer"
-    }, 
-    {
-      "name" : "Covid_Infection_Survey_Dec_2020_UK_BUC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey_Dec_2020_UK_BUC/FeatureServer"
-    }, 
-    {
-      "name" : "Covid_Infection_Survey_Dec_2020_UK_BUC", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey_Dec_2020_UK_BUC/WFSServer"
-    }, 
-    {
-      "name" : "Covid_Infection_Survey_Dec_2020_UK_BUC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey_Dec_2020_UK_BUC/MapServer"
-    }, 
-    {
-      "name" : "LSOA_Dec_2011_Boundaries_Generalised_Clipped_BGC_EW_V3", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_Dec_2011_Boundaries_Generalised_Clipped_BGC_EW_V3/FeatureServer"
-    }, 
-    {
-      "name" : "LSOA_Dec_2011_Boundaries_Generalised_Clipped_BGC_EW_V3", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_Dec_2011_Boundaries_Generalised_Clipped_BGC_EW_V3/WFSServer"
-    }, 
-    {
-      "name" : "LSOA_Dec_2011_Boundaries_Generalised_Clipped_BGC_EW_V3", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_Dec_2011_Boundaries_Generalised_Clipped_BGC_EW_V3/MapServer"
     }
   ]
 }
