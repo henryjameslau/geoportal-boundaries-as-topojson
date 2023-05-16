@@ -3382,11 +3382,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD22_LPA22_UK_LU/FeatureServer"
     }, 
     {
-      "name" : "LAD22_LRF22_EW_LU", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD22_LRF22_EW_LU/FeatureServer"
-    }, 
-    {
       "name" : "LAD22_RGN22_EN_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD22_RGN22_EN_LU/FeatureServer"
@@ -4670,11 +4665,6 @@
       "name" : "LRF_Dec_2016_UGCB_in_England_and_Wales_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LRF_Dec_2016_UGCB_in_England_and_Wales_2022/FeatureServer"
-    }, 
-    {
-      "name" : "LRF_DEC_2022_EW_NC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LRF_DEC_2022_EW_NC/FeatureServer"
     }, 
     {
       "name" : "lsoa", 
@@ -15705,6 +15695,96 @@
       "name" : "Local_Authority_Districts_May_2023_UK_BFE", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2023_UK_BFE/MapServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_May_2023_UK_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2023_UK_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_May_2023_UK_BUC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2023_UK_BUC/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_May_2023_UK_BUC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2023_UK_BUC/WFSServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_May_2023_UK_BUC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2023_UK_BUC/MapServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_May_2023_UK_BGC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2023_UK_BGC/WFSServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_May_2023_UK_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2023_UK_BGC/MapServer"
+    }, 
+    {
+      "name" : "OA21_WD23_LAD23_EW_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA21_WD23_LAD23_EW_LU/FeatureServer"
+    }, 
+    {
+      "name" : "LSOA21_WD23_LAD23_EW_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA21_WD23_LAD23_EW_LU/FeatureServer"
+    }, 
+    {
+      "name" : "MSOA21_WD23_LAD23_EW_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA21_WD23_LAD23_EW_LU/FeatureServer"
+    }, 
+    {
+      "name" : "OA21_UTLA23_EW_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA21_UTLA23_EW_LU/FeatureServer"
+    }, 
+    {
+      "name" : "MSOA21_UTLA23_EW_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA21_UTLA23_EW_LU/FeatureServer"
+    }, 
+    {
+      "name" : "LSOA21_UTLA23_EW_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA21_UTLA23_EW_LU/FeatureServer"
+    }, 
+    {
+      "name" : "OA21_SICBL23_ICB23_NHSER23_EN_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA21_SICBL23_ICB23_NHSER23_EN_LU/FeatureServer"
+    }, 
+    {
+      "name" : "OA21_LAD23_EW_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA21_LAD23_EW_LU/FeatureServer"
+    }, 
+    {
+      "name" : "LSOA21_LAD23_EW_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA21_LAD23_EW_LU/FeatureServer"
+    }, 
+    {
+      "name" : "MSOA21_LAD23_EW_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA21_LAD23_EW_LU/FeatureServer"
+    }, 
+    {
+      "name" : "LRF_DEC_2022_EW_NC_v2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LRF_DEC_2022_EW_NC_v2/FeatureServer"
+    }, 
+    {
+      "name" : "LAD22_LRF22_EW_LU_v2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD22_LRF22_EW_LU_v2/FeatureServer"
     }
   ]
 }
