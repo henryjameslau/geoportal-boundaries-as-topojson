@@ -3567,11 +3567,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEP_Dec_2014_UGCB_in_England_2022/FeatureServer"
     }, 
     {
-      "name" : "LEP_DEC_2022_NC_EN", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEP_DEC_2022_NC_EN/FeatureServer"
-    }, 
-    {
       "name" : "LEP_non_overlapping_parts_April_2017_Names_and_Codes_in_England_V2_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEP_non_overlapping_parts_April_2017_Names_and_Codes_in_England_V2_2022/FeatureServer"
@@ -7712,11 +7707,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/REGD_DEC_2021_EW_BSC/FeatureServer"
     }, 
     {
-      "name" : "REGD_DEC_2022_EW_NC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/REGD_DEC_2022_EW_NC/FeatureServer"
-    }, 
-    {
       "name" : "Region", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Region/FeatureServer"
@@ -9385,11 +9375,6 @@
       "name" : "WD22_PCON22_LAD22_UTLA22_UK_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD22_PCON22_LAD22_UTLA22_UK_LU/FeatureServer"
-    }, 
-    {
-      "name" : "WD22_REGD22_LAD22_EW_LU", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD22_REGD22_LAD22_EW_LU/FeatureServer"
     }, 
     {
       "name" : "WD22_SENC22_WA_LU", 
@@ -15785,6 +15770,36 @@
       "name" : "LAD22_LRF22_EW_LU_v2", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD22_LRF22_EW_LU_v2/FeatureServer"
+    }, 
+    {
+      "name" : "LEP_DEC_2022_NC_EN_v2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEP_DEC_2022_NC_EN_v2/FeatureServer"
+    }, 
+    {
+      "name" : "REGD_DEC_2022_EW_NC_v2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/REGD_DEC_2022_EW_NC_v2/FeatureServer"
+    }, 
+    {
+      "name" : "WD22_REGD22_LAD22_EW_LU_v2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD22_REGD22_LAD22_EW_LU_v2/FeatureServer"
+    }, 
+    {
+      "name" : "Counties_and_Unitary_Authorities_May_2023_UK_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_and_Unitary_Authorities_May_2023_UK_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "Counties_and_Unitary_Authorities_May_2023_UK_BFC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_and_Unitary_Authorities_May_2023_UK_BFC/WFSServer"
+    }, 
+    {
+      "name" : "Counties_and_Unitary_Authorities_May_2023_UK_BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_and_Unitary_Authorities_May_2023_UK_BFC/MapServer"
     }
   ]
 }
