@@ -15857,6 +15857,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_District_Splits_December_1921_in_England_and_Wales_BGC/MapServer"
     }, 
     {
+      "name" : "LAD_DEC_1921_EW_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD_DEC_1921_EW_BGC/FeatureServer"
+    }, 
+    {
       "name" : "Local_Authority_Districts_December_1921_in_England_and_Wales_BGC", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_December_1921_in_England_and_Wales_BGC/WFSServer"
@@ -15875,6 +15880,51 @@
       "name" : "Counties_and_Unitary_Authorities_May_2023_UK_BGC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_and_Unitary_Authorities_May_2023_UK_BGC/MapServer"
+    }, 
+    {
+      "name" : "CTY_DEC_1921_EW_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CTY_DEC_1921_EW_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "Counties_December_1921_in_England_and_Wales_BGC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_December_1921_in_England_and_Wales_BGC/WFSServer"
+    }, 
+    {
+      "name" : "Counties_December_1921_in_England_and_Wales_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_December_1921_in_England_and_Wales_BGC/MapServer"
+    }, 
+    {
+      "name" : "CTRY_DEC_1921_EW_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CTRY_DEC_1921_EW_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "Countries_December_1921_in_England_and_Wales_BGC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_1921_in_England_and_Wales_BGC/WFSServer"
+    }, 
+    {
+      "name" : "Countries_December_1921_in_England_and_Wales_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_1921_in_England_and_Wales_BGC/MapServer"
+    }, 
+    {
+      "name" : "ACTY_DEC_1921_EW_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ACTY_DEC_1921_EW_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "Ancient_Counties_December_1921_in_England_and_Wales_BGC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Ancient_Counties_December_1921_in_England_and_Wales_BGC/WFSServer"
+    }, 
+    {
+      "name" : "Ancient_Counties_December_1921_in_England_and_Wales_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Ancient_Counties_December_1921_in_England_and_Wales_BGC/MapServer"
     }
   ]
 }
