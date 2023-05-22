@@ -15925,6 +15925,21 @@
       "name" : "Ancient_Counties_December_1921_in_England_and_Wales_BGC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Ancient_Counties_December_1921_in_England_and_Wales_BGC/MapServer"
+    }, 
+    {
+      "name" : "Counties_and_Unitary_Authorities_May_2023_UK_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_and_Unitary_Authorities_May_2023_UK_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "Counties_and_Unitary_Authorities_May_2023_UK_BFC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_and_Unitary_Authorities_May_2023_UK_BFC/WFSServer"
+    }, 
+    {
+      "name" : "Counties_and_Unitary_Authorities_May_2023_UK_BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_and_Unitary_Authorities_May_2023_UK_BFC/MapServer"
     }
   ]
 }
