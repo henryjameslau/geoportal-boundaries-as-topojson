@@ -15940,6 +15940,16 @@
       "name" : "Counties_and_Unitary_Authorities_May_2023_UK_BFC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_and_Unitary_Authorities_May_2023_UK_BFC/MapServer"
+    }, 
+    {
+      "name" : "OA21_AONB22_EW_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA21_AONB22_EW_LU/FeatureServer"
+    }, 
+    {
+      "name" : "OA21_SENC22_SENER22_EW_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA21_SENC22_SENER22_EW_LU/FeatureServer"
     }
   ]
 }
