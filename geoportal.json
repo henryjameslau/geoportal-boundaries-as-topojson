@@ -15877,6 +15877,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_and_Unitary_Authorities_May_2023_UK_BFC/MapServer"
     }, 
     {
+      "name" : "LTLA22_IOL22_EN_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LTLA22_IOL22_EN_LU/FeatureServer"
+    }, 
+    {
       "name" : "OA21_AONB22_EW_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA21_AONB22_EW_LU/FeatureServer"
@@ -16040,6 +16045,71 @@
       "name" : "OA21_LAD22_LSOA21_MSOA21_LEP22_EN_LU_V2", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA21_LAD22_LSOA21_MSOA21_LEP22_EN_LU_V2/FeatureServer"
+    }, 
+    {
+      "name" : "LTLA22_GLTLA22_EW_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LTLA22_GLTLA22_EW_LU/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Resilience_Forums_December_2020_Boundaries_EW_BFC_V2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Resilience_Forums_December_2020_Boundaries_EW_BFC_V2/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Resilience_Forums_December_2020_Boundaries_EW_BFE_V2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Resilience_Forums_December_2020_Boundaries_EW_BFE_V2/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Resilience_Forums_December_2020_Boundaries_EW_BGC_V2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Resilience_Forums_December_2020_Boundaries_EW_BGC_V2/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Resilience_Forums_December_2020_Boundaries_EW_BUC_V2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Resilience_Forums_December_2020_Boundaries_EW_BUC_V2/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Resilience_Forums_December_2020_Boundaries_EW_BGC_V2", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Resilience_Forums_December_2020_Boundaries_EW_BGC_V2/WFSServer"
+    }, 
+    {
+      "name" : "Local_Resilience_Forums_December_2020_Boundaries_EW_BGC_V2", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Resilience_Forums_December_2020_Boundaries_EW_BGC_V2/MapServer"
+    }, 
+    {
+      "name" : "Local_Resilience_Forums_December_2020_Boundaries_EW_BFC_V2", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Resilience_Forums_December_2020_Boundaries_EW_BFC_V2/WFSServer"
+    }, 
+    {
+      "name" : "Local_Resilience_Forums_December_2020_Boundaries_EW_BFC_V2", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Resilience_Forums_December_2020_Boundaries_EW_BFC_V2/MapServer"
+    }, 
+    {
+      "name" : "Local_Resilience_Forums_December_2020_Boundaries_EW_BUC_V2", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Resilience_Forums_December_2020_Boundaries_EW_BUC_V2/WFSServer"
+    }, 
+    {
+      "name" : "Local_Resilience_Forums_December_2020_Boundaries_EW_BUC_V2", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Resilience_Forums_December_2020_Boundaries_EW_BUC_V2/MapServer"
+    }, 
+    {
+      "name" : "Local_Resilience_Forums_December_2020_Boundaries_EW_BFE_V2", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Resilience_Forums_December_2020_Boundaries_EW_BFE_V2/WFSServer"
+    }, 
+    {
+      "name" : "Local_Resilience_Forums_December_2020_Boundaries_EW_BFE_V2", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Resilience_Forums_December_2020_Boundaries_EW_BFE_V2/MapServer"
     }
   ]
 }
