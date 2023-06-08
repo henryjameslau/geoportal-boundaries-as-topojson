@@ -12912,6 +12912,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_(Dec_2011)_PWC_in_England_and_Wales/MapServer"
     }, 
     {
+      "name" : "MSOA_(Dec_2021)_Boundaries_Full_Extent_(BFE)_EW", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_(Dec_2021)_Boundaries_Full_Extent_(BFE)_EW/MapServer"
+    }, 
+    {
       "name" : "MSOA_(Dec_2021)_Boundaries_Generalised_Clipped_EW_(BGC)", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_(Dec_2021)_Boundaries_Generalised_Clipped_EW_(BGC)/MapServer"
@@ -15037,6 +15042,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_(December_2019)_Boundaries_UK_BFC/MapServer"
     }, 
     {
+      "name" : "Wards_(December_2019)_Boundaries_UK_BFE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_(December_2019)_Boundaries_UK_BFE/MapServer"
+    }, 
+    {
       "name" : "Wards_(December_2019)_Boundaries_UK_BGC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_(December_2019)_Boundaries_UK_BGC/MapServer"
@@ -15125,6 +15135,11 @@
       "name" : "Wards_(December_2021)_UK_BFE", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_(December_2021)_UK_BFE/MapServer"
+    }, 
+    {
+      "name" : "Wards_(December_2021)_UK_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_(December_2021)_UK_BGC/MapServer"
     }, 
     {
       "name" : "Wards_(December_2021)_UK_BSC", 
@@ -16055,6 +16070,66 @@
       "name" : "Local_Resilience_Forums_December_2020_Boundaries_EW_BFE_V2", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Resilience_Forums_December_2020_Boundaries_EW_BFE_V2/MapServer"
+    }, 
+    {
+      "name" : "Registration_Districts_December_2021_Boundaries_EW_BFC_v2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Registration_Districts_December_2021_Boundaries_EW_BFC_v2/FeatureServer"
+    }, 
+    {
+      "name" : "Registration_Districts_December_2021_Boundaries_EW_BFE_v2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Registration_Districts_December_2021_Boundaries_EW_BFE_v2/FeatureServer"
+    }, 
+    {
+      "name" : "Registration_Districts_December_2021_Boundaries_EW_BGC_v2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Registration_Districts_December_2021_Boundaries_EW_BGC_v2/FeatureServer"
+    }, 
+    {
+      "name" : "Registration_Districts_December_2021_Boundaries_EW_BUC_v2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Registration_Districts_December_2021_Boundaries_EW_BUC_v2/FeatureServer"
+    }, 
+    {
+      "name" : "Registration_Districts_December_2021_Boundaries_EW_BUC_v2", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Registration_Districts_December_2021_Boundaries_EW_BUC_v2/WFSServer"
+    }, 
+    {
+      "name" : "Registration_Districts_December_2021_Boundaries_EW_BUC_v2", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Registration_Districts_December_2021_Boundaries_EW_BUC_v2/MapServer"
+    }, 
+    {
+      "name" : "Registration_Districts_December_2021_Boundaries_EW_BGC_v2", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Registration_Districts_December_2021_Boundaries_EW_BGC_v2/WFSServer"
+    }, 
+    {
+      "name" : "Registration_Districts_December_2021_Boundaries_EW_BGC_v2", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Registration_Districts_December_2021_Boundaries_EW_BGC_v2/MapServer"
+    }, 
+    {
+      "name" : "Registration_Districts_December_2021_Boundaries_EW_BFE_v2", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Registration_Districts_December_2021_Boundaries_EW_BFE_v2/WFSServer"
+    }, 
+    {
+      "name" : "Registration_Districts_December_2021_Boundaries_EW_BFE_v2", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Registration_Districts_December_2021_Boundaries_EW_BFE_v2/MapServer"
+    }, 
+    {
+      "name" : "Registration_Districts_December_2021_Boundaries_EW_BFC_v2", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Registration_Districts_December_2021_Boundaries_EW_BFC_v2/WFSServer"
+    }, 
+    {
+      "name" : "Registration_Districts_December_2021_Boundaries_EW_BFC_v2", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Registration_Districts_December_2021_Boundaries_EW_BFC_v2/MapServer"
     }
   ]
 }
