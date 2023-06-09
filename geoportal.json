@@ -16130,6 +16130,51 @@
       "name" : "Registration_Districts_December_2021_Boundaries_EW_BFC_v2", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Registration_Districts_December_2021_Boundaries_EW_BFC_v2/MapServer"
+    }, 
+    {
+      "name" : "Registration_Districts_December_2021_Boundaries_EW_BFC_TEST", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Registration_Districts_December_2021_Boundaries_EW_BFC_TEST/FeatureServer"
+    }, 
+    {
+      "name" : "Urban_Areas_December_2001_EW_BGE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Urban_Areas_December_2001_EW_BGE/FeatureServer"
+    }, 
+    {
+      "name" : "Urban_Area_Sub_Divisions_December_2001_EW_BGE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Urban_Area_Sub_Divisions_December_2001_EW_BGE/FeatureServer"
+    }, 
+    {
+      "name" : "Urban_Areas_December_2001_EW_BGE", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Urban_Areas_December_2001_EW_BGE/WFSServer"
+    }, 
+    {
+      "name" : "Urban_Areas_December_2001_EW_BGE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Urban_Areas_December_2001_EW_BGE/MapServer"
+    }, 
+    {
+      "name" : "Urban_Area_Sub_Divisions_December_2001_EW_BGE", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Urban_Area_Sub_Divisions_December_2001_EW_BGE/WFSServer"
+    }, 
+    {
+      "name" : "Urban_Area_Sub_Divisions_December_2001_EW_BGE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Urban_Area_Sub_Divisions_December_2001_EW_BGE/MapServer"
+    }, 
+    {
+      "name" : "Registration_Districts_December_2021_Boundaries_EW_BFC_TEST", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Registration_Districts_December_2021_Boundaries_EW_BFC_TEST/WFSServer"
+    }, 
+    {
+      "name" : "Registration_Districts_December_2021_Boundaries_EW_BFC_TEST", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Registration_Districts_December_2021_Boundaries_EW_BFC_TEST/MapServer"
     }
   ]
 }
