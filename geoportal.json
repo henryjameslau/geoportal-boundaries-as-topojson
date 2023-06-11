@@ -8442,6 +8442,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Sustainability_and_Transformation_Partnerships_February_2017_Names_and_2022/FeatureServer"
     }, 
     {
+      "name" : "TCITY_2015_EW_BGG", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/TCITY_2015_EW_BGG/FeatureServer"
+    }, 
+    {
       "name" : "Towns_Cities", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Towns_Cities/FeatureServer"
