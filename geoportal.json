@@ -15847,11 +15847,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA21_AONB22_EW_LU/FeatureServer"
     }, 
     {
-      "name" : "OA21_SENC22_SENER22_EW_LU", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA21_SENC22_SENER22_EW_LU/FeatureServer"
-    }, 
-    {
       "name" : "LEP_DEC_2022_EN_BFC_V2", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEP_DEC_2022_EN_BFC_V2/FeatureServer"
@@ -16132,11 +16127,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Registration_Districts_December_2021_Boundaries_EW_BFC_v2/MapServer"
     }, 
     {
-      "name" : "Registration_Districts_December_2021_Boundaries_EW_BFC_TEST", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Registration_Districts_December_2021_Boundaries_EW_BFC_TEST/FeatureServer"
-    }, 
-    {
       "name" : "Urban_Areas_December_2001_EW_BGE", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Urban_Areas_December_2001_EW_BGE/FeatureServer"
@@ -16167,16 +16157,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Urban_Area_Sub_Divisions_December_2001_EW_BGE/MapServer"
     }, 
     {
-      "name" : "Registration_Districts_December_2021_Boundaries_EW_BFC_TEST", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Registration_Districts_December_2021_Boundaries_EW_BFC_TEST/WFSServer"
-    }, 
-    {
-      "name" : "Registration_Districts_December_2021_Boundaries_EW_BFC_TEST", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Registration_Districts_December_2021_Boundaries_EW_BFC_TEST/MapServer"
-    }, 
-    {
       "name" : "Registration_Distrists_December_2021_EW_BUC_TEST", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Registration_Distrists_December_2021_EW_BUC_TEST/FeatureServer"
@@ -16190,6 +16170,11 @@
       "name" : "Registration_Districts_December_2021_EW_BUC_TEST", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Registration_Districts_December_2021_EW_BUC_TEST/MapServer"
+    }, 
+    {
+      "name" : "OA21_to_SENC22_to_SENEDD22", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA21_to_SENC22_to_SENEDD22/FeatureServer"
     }
   ]
 }
