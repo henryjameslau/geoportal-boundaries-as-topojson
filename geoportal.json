@@ -16167,11 +16167,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Registration_Districts_December_2021_EW_BUC_TEST/MapServer"
     }, 
     {
-      "name" : "OA21_to_SENC22_to_SENEDD22", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA21_to_SENC22_to_SENEDD22/FeatureServer"
-    }, 
-    {
       "name" : "Registration_Districts_December_2021_Boundaries_EW_BFE_TEST", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Registration_Districts_December_2021_Boundaries_EW_BFE_TEST/FeatureServer"
@@ -16203,6 +16198,16 @@
     }, 
     {
       "name" : "Local_Authority_Districts_December_2022_Boundaries_UK_BFE_TEST", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_December_2022_Boundaries_UK_BFE_TEST/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_December_2022_UK_BFC_TEST", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_December_2022_UK_BFC_TEST/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_December_2022_Boundaries_UK_BFE_TEST", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_December_2022_Boundaries_UK_BFE_TEST/WFSServer"
     }, 
@@ -16212,9 +16217,49 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_December_2022_UK_BFC_TEST/WFSServer"
     }, 
     {
+      "name" : "Local_Authority_Districts_December_2022_Boundaries_UK_BFE_TEST", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_December_2022_Boundaries_UK_BFE_TEST/MapServer"
+    }, 
+    {
       "name" : "Local_Authority_Districts_December_2022_UK_BFC_TEST", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_December_2022_UK_BFC_TEST/MapServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_December_2022_UK_BUC_TEST", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_December_2022_UK_BUC_TEST/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_December_2022_UK_BUC_TEST", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_December_2022_UK_BUC_TEST/WFSServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_December_2022_UK_BUC_TEST", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_December_2022_UK_BUC_TEST/MapServer"
+    }, 
+    {
+      "name" : "OA21_SENC22_SENER22_EW_LU_V3", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA21_SENC22_SENER22_EW_LU_V3/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_December_2022_Boundaries_UK_BGC_TEST", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_December_2022_Boundaries_UK_BGC_TEST/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_December_2022_Boundaries_UK_BGC_TEST", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_December_2022_Boundaries_UK_BGC_TEST/WFSServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_December_2022_Boundaries_UK_BGC_TEST", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_December_2022_Boundaries_UK_BGC_TEST/MapServer"
     }
   ]
 }
