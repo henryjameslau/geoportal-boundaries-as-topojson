@@ -1,5 +1,5 @@
 {
-  "currentVersion" : 11, 
+  "currentVersion" : 11.1, 
   "services" : [
     {
       "name" : "Age_16_24_TTWA", 
@@ -16202,29 +16202,14 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_December_2022_Boundaries_UK_BFE_TEST/FeatureServer"
     }, 
     {
-      "name" : "Local_Authority_Districts_December_2022_UK_BFC_TEST", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_December_2022_UK_BFC_TEST/FeatureServer"
-    }, 
-    {
       "name" : "Local_Authority_Districts_December_2022_Boundaries_UK_BFE_TEST", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_December_2022_Boundaries_UK_BFE_TEST/WFSServer"
     }, 
     {
-      "name" : "Local_Authority_Districts_December_2022_UK_BFC_TEST", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_December_2022_UK_BFC_TEST/WFSServer"
-    }, 
-    {
       "name" : "Local_Authority_Districts_December_2022_Boundaries_UK_BFE_TEST", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_December_2022_Boundaries_UK_BFE_TEST/MapServer"
-    }, 
-    {
-      "name" : "Local_Authority_Districts_December_2022_UK_BFC_TEST", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_December_2022_UK_BFC_TEST/MapServer"
     }, 
     {
       "name" : "Local_Authority_Districts_December_2022_UK_BUC_TEST", 
@@ -16260,6 +16245,41 @@
       "name" : "Local_Authority_Districts_December_2022_Boundaries_UK_BGC_TEST", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_December_2022_Boundaries_UK_BGC_TEST/MapServer"
+    }, 
+    {
+      "name" : "Registration_Districts_December_2021_Boundaries_EW_BGC_TEST", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Registration_Districts_December_2021_Boundaries_EW_BGC_TEST/FeatureServer"
+    }, 
+    {
+      "name" : "Registration_Districts_December_2021_Boundaries_EW_BGC_TEST", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Registration_Districts_December_2021_Boundaries_EW_BGC_TEST/WFSServer"
+    }, 
+    {
+      "name" : "Registration_Districts_December_2021_Boundaries_EW_BGC_TEST", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Registration_Districts_December_2021_Boundaries_EW_BGC_TEST/MapServer"
+    }, 
+    {
+      "name" : "GTLA_DEC_2022_EW_BFE", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/GTLA_DEC_2022_EW_BFE/WFSServer"
+    }, 
+    {
+      "name" : "GTLA_DEC_2022_EW_BFE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/GTLA_DEC_2022_EW_BFE/MapServer"
+    }, 
+    {
+      "name" : "GLTLA_DEC_2022_EW_BFC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/GLTLA_DEC_2022_EW_BFC/WFSServer"
+    }, 
+    {
+      "name" : "GLTLA_DEC_2022_EW_BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/GLTLA_DEC_2022_EW_BFC/MapServer"
     }
   ]
 }
