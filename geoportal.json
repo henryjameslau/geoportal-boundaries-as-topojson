@@ -16280,6 +16280,26 @@
       "name" : "GLTLA_DEC_2022_EW_BFC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/GLTLA_DEC_2022_EW_BFC/MapServer"
+    }, 
+    {
+      "name" : "GLTLA_DEC_2022_EW_BGC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/GLTLA_DEC_2022_EW_BGC/WFSServer"
+    }, 
+    {
+      "name" : "GLTLA_DEC_2022_EW_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/GLTLA_DEC_2022_EW_BGC/MapServer"
+    }, 
+    {
+      "name" : "GLTLA_DEC_2022_EW_BUC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/GLTLA_DEC_2022_EW_BUC/WFSServer"
+    }, 
+    {
+      "name" : "GLTLA_DEC_2022_EW_BUC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/GLTLA_DEC_2022_EW_BUC/MapServer"
     }
   ]
 }
