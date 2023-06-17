@@ -16300,6 +16300,21 @@
       "name" : "GLTLA_DEC_2022_EW_BUC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/GLTLA_DEC_2022_EW_BUC/MapServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_Dember_2022_Boundaries_UK_BFC_TEST", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_Dember_2022_Boundaries_UK_BFC_TEST/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_Dember_2022_Boundaries_UK_BFC_TEST", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_Dember_2022_Boundaries_UK_BFC_TEST/WFSServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_Dember_2022_Boundaries_UK_BFC_TEST", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_Dember_2022_Boundaries_UK_BFC_TEST/MapServer"
     }
   ]
 }
