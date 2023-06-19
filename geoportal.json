@@ -16252,6 +16252,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Registration_Districts_December_2021_Boundaries_EW_BGC_TEST/FeatureServer"
     }, 
     {
+      "name" : "GLTLA_DEC_2022_EW_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/GLTLA_DEC_2022_EW_BFC/FeatureServer"
+    }, 
+    {
       "name" : "Registration_Districts_December_2021_Boundaries_EW_BGC_TEST", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Registration_Districts_December_2021_Boundaries_EW_BGC_TEST/WFSServer"
@@ -16260,6 +16265,21 @@
       "name" : "Registration_Districts_December_2021_Boundaries_EW_BGC_TEST", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Registration_Districts_December_2021_Boundaries_EW_BGC_TEST/MapServer"
+    }, 
+    {
+      "name" : "GLTLA_DEC_2022_EW_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/GLTLA_DEC_2022_EW_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "GLTLA_DEC_2022_EW_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/GLTLA_DEC_2022_EW_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "GLTLA_DEC_2022_EW_BUC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/GLTLA_DEC_2022_EW_BUC/FeatureServer"
     }, 
     {
       "name" : "GTLA_DEC_2022_EW_BFE", 
