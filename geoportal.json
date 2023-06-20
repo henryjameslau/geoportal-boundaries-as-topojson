@@ -16335,6 +16335,11 @@
       "name" : "Local_Authority_Districts_Dember_2022_Boundaries_UK_BFC_TEST", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_Dember_2022_Boundaries_UK_BFC_TEST/MapServer"
+    }, 
+    {
+      "name" : "LAD21_LAU121_ITL321_ITL221_ITL121_UK_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD21_LAU121_ITL321_ITL221_ITL121_UK_LU/FeatureServer"
     }
   ]
 }
