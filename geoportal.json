@@ -4697,11 +4697,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_Dec_2021_Boundaries_Full_Clipped_EW_BFC_2022/FeatureServer"
     }, 
     {
-      "name" : "LSOA_Dec_2021_Boundaries_Generalised_Clipped_EW_BGC_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_Dec_2021_Boundaries_Generalised_Clipped_EW_BGC_2022/FeatureServer"
-    }, 
-    {
       "name" : "LSOA_Dec_2021_Boundaries_Generalised_Clipped_EW_BGC_V2", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_Dec_2021_Boundaries_Generalised_Clipped_EW_BGC_V2/FeatureServer"
