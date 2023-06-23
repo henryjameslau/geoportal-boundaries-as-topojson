@@ -16340,6 +16340,36 @@
       "name" : "OA21_PCDS21_EW_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA21_PCDS21_EW_LU/FeatureServer"
+    }, 
+    {
+      "name" : "CTRY_DEC_1921_EW_BFC_Eng_Excl_Monmouthshire", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CTRY_DEC_1921_EW_BFC_Eng_Excl_Monmouthshire/FeatureServer"
+    }, 
+    {
+      "name" : "RGN_DEC_1921_EN_BFC_Excl_Monmouthshire", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/RGN_DEC_1921_EN_BFC_Excl_Monmouthshire/FeatureServer"
+    }, 
+    {
+      "name" : "CTRY_DEC_1921_EW_BFC_Eng_Excl_Monmouthshire", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CTRY_DEC_1921_EW_BFC_Eng_Excl_Monmouthshire/WFSServer"
+    }, 
+    {
+      "name" : "CTRY_DEC_1921_EW_BFC_Eng_Excl_Monmouthshire", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CTRY_DEC_1921_EW_BFC_Eng_Excl_Monmouthshire/MapServer"
+    }, 
+    {
+      "name" : "RGN_DEC_1921_EN_BFC_Excl_Monmouthshire", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/RGN_DEC_1921_EN_BFC_Excl_Monmouthshire/WFSServer"
+    }, 
+    {
+      "name" : "RGN_DEC_1921_EN_BFC_Excl_Monmouthshire", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/RGN_DEC_1921_EN_BFC_Excl_Monmouthshire/MapServer"
     }
   ]
 }
