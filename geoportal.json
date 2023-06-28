@@ -6032,11 +6032,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSCR_Apr_2016_UGCB_in_England_2022/FeatureServer"
     }, 
     {
-      "name" : "NHSPD_Online_Latest_Centroids", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSPD_Online_Latest_Centroids/FeatureServer"
-    }, 
-    {
       "name" : "NHSRG_2015_EW_BSC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSRG_2015_EW_BSC/FeatureServer"
@@ -6730,11 +6725,6 @@
       "name" : "OAs_to_LSOAs_to_MSOAs_to_LEP_to_LAD_(May_2022)_in_England", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OAs_to_LSOAs_to_MSOAs_to_LEP_to_LAD_(May_2022)_in_England/FeatureServer"
-    }, 
-    {
-      "name" : "Online_ONS_Postcode_Directory_Live", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Online_ONS_Postcode_Directory_Live/FeatureServer"
     }, 
     {
       "name" : "Output_Area__2011__to_Covid_Infection_Survey_Geography__2020__Lookup_in_the_United_Kindgom", 
@@ -16370,6 +16360,76 @@
       "name" : "ONSPD_Online_Latest_Centroids", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ONSPD_Online_Latest_Centroids/FeatureServer"
+    }, 
+    {
+      "name" : "Online_ONS_Postcode_Directory_Live", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Online_ONS_Postcode_Directory_Live/FeatureServer"
+    }, 
+    {
+      "name" : "WD_MAY_2023_UK_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD_MAY_2023_UK_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "WD_MAY_2023_UK_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD_MAY_2023_UK_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "WD_MAY_2023_UK_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD_MAY_2023_UK_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "NHSPD_Online_Latest_Centroids", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSPD_Online_Latest_Centroids/FeatureServer"
+    }, 
+    {
+      "name" : "WD_MAY_2023_UK_BSC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD_MAY_2023_UK_BSC/FeatureServer"
+    }, 
+    {
+      "name" : "WD_MAY_2023_UK_BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD_MAY_2023_UK_BFC/MapServer"
+    }, 
+    {
+      "name" : "WD_MAY_2023_UK_BFC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD_MAY_2023_UK_BFC/WFSServer"
+    }, 
+    {
+      "name" : "WD_MAY_2023_UK_BFE", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD_MAY_2023_UK_BFE/WFSServer"
+    }, 
+    {
+      "name" : "WD_MAY_2023_UK_BFE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD_MAY_2023_UK_BFE/MapServer"
+    }, 
+    {
+      "name" : "WD_MAY_2023_UK_BGC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD_MAY_2023_UK_BGC/WFSServer"
+    }, 
+    {
+      "name" : "WD_MAY_2023_UK_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD_MAY_2023_UK_BGC/MapServer"
+    }, 
+    {
+      "name" : "WD_MAY_2023_UK_BSC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD_MAY_2023_UK_BSC/MapServer"
+    }, 
+    {
+      "name" : "WD_MAY_2023_UK_BSC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD_MAY_2023_UK_BSC/WFSServer"
     }
   ]
 }
