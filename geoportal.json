@@ -16430,6 +16430,66 @@
       "name" : "WD_MAY_2023_UK_BSC", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD_MAY_2023_UK_BSC/WFSServer"
+    }, 
+    {
+      "name" : "LAD_DEC_2012_GB_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD_DEC_2012_GB_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "LAD_DEC_2013_GB_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD_DEC_2013_GB_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "LAD_DEC_2014_GB_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD_DEC_2014_GB_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "SUB_URBAN_AREAS_1991_EW", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SUB_URBAN_AREAS_1991_EW/FeatureServer"
+    }, 
+    {
+      "name" : "SUB_URBAN_AREAS_1991_EW", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SUB_URBAN_AREAS_1991_EW/WFSServer"
+    }, 
+    {
+      "name" : "SUB_URBAN_AREAS_1991_EW", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SUB_URBAN_AREAS_1991_EW/MapServer"
+    }, 
+    {
+      "name" : "LAD_DEC_2012_GB_BFC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD_DEC_2012_GB_BFC/WFSServer"
+    }, 
+    {
+      "name" : "LAD_DEC_2012_GB_BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD_DEC_2012_GB_BFC/MapServer"
+    }, 
+    {
+      "name" : "LAD_DEC_2013_GB_BFC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD_DEC_2013_GB_BFC/WFSServer"
+    }, 
+    {
+      "name" : "LAD_DEC_2013_GB_BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD_DEC_2013_GB_BFC/MapServer"
+    }, 
+    {
+      "name" : "LAD_DEC_2014_GB_BFC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD_DEC_2014_GB_BFC/WFSServer"
+    }, 
+    {
+      "name" : "LAD_DEC_2014_GB_BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD_DEC_2014_GB_BFC/MapServer"
     }
   ]
 }
