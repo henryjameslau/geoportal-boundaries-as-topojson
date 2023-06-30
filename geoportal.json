@@ -16490,6 +16490,21 @@
       "name" : "LAD_DEC_2014_GB_BFC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD_DEC_2014_GB_BFC/MapServer"
+    }, 
+    {
+      "name" : "CAL_APR_2020_EN_BUE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CAL_APR_2020_EN_BUE/FeatureServer"
+    }, 
+    {
+      "name" : "CAL_APR_2020_EN_BUE", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CAL_APR_2020_EN_BUE/WFSServer"
+    }, 
+    {
+      "name" : "CAL_APR_2020_EN_BUE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CAL_APR_2020_EN_BUE/MapServer"
     }
   ]
 }
