@@ -16505,6 +16505,26 @@
       "name" : "CAL_APR_2020_EN_BUE", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CAL_APR_2020_EN_BUE/MapServer"
+    }, 
+    {
+      "name" : "CB_JUN_1921_EW_BGC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CB_JUN_1921_EW_BGC/WFSServer"
+    }, 
+    {
+      "name" : "CB_JUN_1921_EW_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CB_JUN_1921_EW_BGC/MapServer"
+    }, 
+    {
+      "name" : "ADCTY_JUN_1921_EW_BGC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ADCTY_JUN_1921_EW_BGC/WFSServer"
+    }, 
+    {
+      "name" : "ADCTY_JUN_1921_EW_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ADCTY_JUN_1921_EW_BGC/MapServer"
     }
   ]
 }
