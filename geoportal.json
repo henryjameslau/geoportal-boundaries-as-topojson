@@ -15682,6 +15682,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_and_Unitary_Authorities_May_2023_UK_BUC/FeatureServer"
     }, 
     {
+      "name" : "RGN_DEC_1921_EW_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/RGN_DEC_1921_EW_BGC/FeatureServer"
+    }, 
+    {
       "name" : "Counties_and_Unitary_Authorities_May_2023_UK_BGC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_and_Unitary_Authorities_May_2023_UK_BGC/FeatureServer"
@@ -15707,11 +15712,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_and_Unitary_Authorities_May_2023_UK_BUC/MapServer"
     }, 
     {
-      "name" : "LAD_S_DEC_1921_EW_BGC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD_S_DEC_1921_EW_BGC/FeatureServer"
-    }, 
-    {
       "name" : "Local_Authority_District_Splits_December_1921_in_England_and_Wales_BGC", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_District_Splits_December_1921_in_England_and_Wales_BGC/WFSServer"
@@ -15720,11 +15720,6 @@
       "name" : "Local_Authority_District_Splits_December_1921_in_England_and_Wales_BGC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_District_Splits_December_1921_in_England_and_Wales_BGC/MapServer"
-    }, 
-    {
-      "name" : "LAD_DEC_1921_EW_BGC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD_DEC_1921_EW_BGC/FeatureServer"
     }, 
     {
       "name" : "Local_Authority_Districts_December_1921_in_England_and_Wales_BGC", 
@@ -15745,11 +15740,6 @@
       "name" : "Counties_and_Unitary_Authorities_May_2023_UK_BGC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_and_Unitary_Authorities_May_2023_UK_BGC/MapServer"
-    }, 
-    {
-      "name" : "CTY_DEC_1921_EW_BGC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CTY_DEC_1921_EW_BGC/FeatureServer"
     }, 
     {
       "name" : "Counties_December_1921_in_England_and_Wales_BGC", 
@@ -15775,11 +15765,6 @@
       "name" : "Countries_December_1921_in_England_and_Wales_BGC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_1921_in_England_and_Wales_BGC/MapServer"
-    }, 
-    {
-      "name" : "ACTY_DEC_1921_EW_BGC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ACTY_DEC_1921_EW_BGC/FeatureServer"
     }, 
     {
       "name" : "Ancient_Counties_December_1921_in_England_and_Wales_BGC", 
@@ -16317,29 +16302,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD21_LAU121_ITL321_ITL221_ITL121_UK_LU/FeatureServer"
     }, 
     {
-      "name" : "OA21_PCDS21_EW_LU", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA21_PCDS21_EW_LU/FeatureServer"
-    }, 
-    {
-      "name" : "CTRY_DEC_1921_EW_BFC_Eng_Excl_Monmouthshire", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CTRY_DEC_1921_EW_BFC_Eng_Excl_Monmouthshire/FeatureServer"
-    }, 
-    {
       "name" : "RGN_DEC_1921_EN_BFC_Excl_Monmouthshire", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/RGN_DEC_1921_EN_BFC_Excl_Monmouthshire/FeatureServer"
-    }, 
-    {
-      "name" : "CTRY_DEC_1921_EW_BFC_Eng_Excl_Monmouthshire", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CTRY_DEC_1921_EW_BFC_Eng_Excl_Monmouthshire/WFSServer"
-    }, 
-    {
-      "name" : "CTRY_DEC_1921_EW_BFC_Eng_Excl_Monmouthshire", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CTRY_DEC_1921_EW_BFC_Eng_Excl_Monmouthshire/MapServer"
     }, 
     {
       "name" : "RGN_DEC_1921_EN_BFC_Excl_Monmouthshire", 
@@ -16508,6 +16473,41 @@
     }, 
     {
       "name" : "CB_JUN_1921_EW_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CB_JUN_1921_EW_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "ADCTY_JUN_1921_EW_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ADCTY_JUN_1921_EW_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "ADCTYCB_JUN_1921_EW_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ADCTYCB_JUN_1921_EW_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "ANCTY_JUN_1921_EW_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ANCTY_JUN_1921_EW_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "LAD_JUN_1921_EW_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD_JUN_1921_EW_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "LAD_PT_JUN_1921_EW_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD_PT_JUN_1921_EW_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "CTRY_DEC_1921_EW_BFC_Eng_Excl_Monmouthshire_V2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CTRY_DEC_1921_EW_BFC_Eng_Excl_Monmouthshire_V2/FeatureServer"
+    }, 
+    {
+      "name" : "CB_JUN_1921_EW_BGC", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CB_JUN_1921_EW_BGC/WFSServer"
     }, 
@@ -16525,6 +16525,56 @@
       "name" : "ADCTY_JUN_1921_EW_BGC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ADCTY_JUN_1921_EW_BGC/MapServer"
+    }, 
+    {
+      "name" : "ADCTYCB_JUN_1921_EW_BGC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ADCTYCB_JUN_1921_EW_BGC/WFSServer"
+    }, 
+    {
+      "name" : "ADCTYCB_JUN_1921_EW_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ADCTYCB_JUN_1921_EW_BGC/MapServer"
+    }, 
+    {
+      "name" : "ANCTY_JUN_1921_EW_BGC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ANCTY_JUN_1921_EW_BGC/WFSServer"
+    }, 
+    {
+      "name" : "ANCTY_JUN_1921_EW_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ANCTY_JUN_1921_EW_BGC/MapServer"
+    }, 
+    {
+      "name" : "LAD_JUN_1921_EW_BGC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD_JUN_1921_EW_BGC/WFSServer"
+    }, 
+    {
+      "name" : "LAD_JUN_1921_EW_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD_JUN_1921_EW_BGC/MapServer"
+    }, 
+    {
+      "name" : "LAD_PT_JUN_1921_EW_BGC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD_PT_JUN_1921_EW_BGC/WFSServer"
+    }, 
+    {
+      "name" : "LAD_PT_JUN_1921_EW_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD_PT_JUN_1921_EW_BGC/MapServer"
+    }, 
+    {
+      "name" : "CTRY_DEC_1921_EW_BFC_Eng_Excl_Monmouthshire_V2", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CTRY_DEC_1921_EW_BFC_Eng_Excl_Monmouthshire_V2/WFSServer"
+    }, 
+    {
+      "name" : "CTRY_DEC_1921_EW_BFC_Eng_Excl_Monmouthshire_V2", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CTRY_DEC_1921_EW_BFC_Eng_Excl_Monmouthshire_V2/MapServer"
     }
   ]
 }
