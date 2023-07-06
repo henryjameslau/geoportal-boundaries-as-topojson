@@ -16477,16 +16477,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CB_JUN_1921_EW_BGC/FeatureServer"
     }, 
     {
-      "name" : "ADCTY_JUN_1921_EW_BGC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ADCTY_JUN_1921_EW_BGC/FeatureServer"
-    }, 
-    {
-      "name" : "ADCTYCB_JUN_1921_EW_BGC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ADCTYCB_JUN_1921_EW_BGC/FeatureServer"
-    }, 
-    {
       "name" : "ANCTY_JUN_1921_EW_BGC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ANCTY_JUN_1921_EW_BGC/FeatureServer"
