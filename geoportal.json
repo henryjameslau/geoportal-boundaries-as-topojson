@@ -16565,6 +16565,21 @@
       "name" : "CTRY_DEC_1921_EW_BFC_Eng_Excl_Monmouthshire_V2", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CTRY_DEC_1921_EW_BFC_Eng_Excl_Monmouthshire_V2/MapServer"
+    }, 
+    {
+      "name" : "Lower_layer_Super_Output_Areas_2021_EW_BFE_V9", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Lower_layer_Super_Output_Areas_2021_EW_BFE_V9/FeatureServer"
+    }, 
+    {
+      "name" : "Lower_layer_Super_Output_Areas_2021_EW_BFE_V9", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Lower_layer_Super_Output_Areas_2021_EW_BFE_V9/WFSServer"
+    }, 
+    {
+      "name" : "Lower_layer_Super_Output_Areas_2021_EW_BFE_V9", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Lower_layer_Super_Output_Areas_2021_EW_BFE_V9/MapServer"
     }
   ]
 }
