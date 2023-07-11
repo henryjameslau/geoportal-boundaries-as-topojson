@@ -4617,11 +4617,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/lsoa/FeatureServer"
     }, 
     {
-      "name" : "LSOA_(2011)_to_LSOA_(2021)_to_Local_Authority_District_(2022)_Lookup_for_England_and_Wales", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_(2011)_to_LSOA_(2021)_to_Local_Authority_District_(2022)_Lookup_for_England_and_Wales/FeatureServer"
-    }, 
-    {
       "name" : "LSOA__2001__names_and_codes_EW_as_at_02_04", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA__2001__names_and_codes_EW_as_at_02_04/FeatureServer"
@@ -16567,6 +16562,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CTRY_DEC_1921_EW_BFC_Eng_Excl_Monmouthshire_V2/MapServer"
     }, 
     {
+      "name" : "Lower_layer_Super_Output_Areas_2021_EW_BFC_V8", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Lower_layer_Super_Output_Areas_2021_EW_BFC_V8/FeatureServer"
+    }, 
+    {
       "name" : "Lower_layer_Super_Output_Areas_2021_EW_BFE_V9", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Lower_layer_Super_Output_Areas_2021_EW_BFE_V9/FeatureServer"
@@ -16580,6 +16580,36 @@
       "name" : "Lower_layer_Super_Output_Areas_2021_EW_BFE_V9", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Lower_layer_Super_Output_Areas_2021_EW_BFE_V9/MapServer"
+    }, 
+    {
+      "name" : "LSOA_(2011)_to_LSOA_(2021)_to_Local_Authority_District_(2022)_Lookup_for_England_and_Wales", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_(2011)_to_LSOA_(2021)_to_Local_Authority_District_(2022)_Lookup_for_England_and_Wales/FeatureServer"
+    }, 
+    {
+      "name" : "MOSA_2021_EW_BFC_V6", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MOSA_2021_EW_BFC_V6/FeatureServer"
+    }, 
+    {
+      "name" : "MOSA_2021_EW_BFC_V6", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MOSA_2021_EW_BFC_V6/WFSServer"
+    }, 
+    {
+      "name" : "MOSA_2021_EW_BFC_V6", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MOSA_2021_EW_BFC_V6/MapServer"
+    }, 
+    {
+      "name" : "Lower_layer_Super_Output_Areas_2021_EW_BFC_V8", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Lower_layer_Super_Output_Areas_2021_EW_BFC_V8/WFSServer"
+    }, 
+    {
+      "name" : "Lower_layer_Super_Output_Areas_2021_EW_BFC_V8", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Lower_layer_Super_Output_Areas_2021_EW_BFC_V8/MapServer"
     }
   ]
 }
