@@ -16673,6 +16673,11 @@
     }, 
     {
       "name" : "MSOA_2021_EW_BSC_V2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_2021_EW_BSC_V2/FeatureServer"
+    }, 
+    {
+      "name" : "MSOA_2021_EW_BSC_V2", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_2021_EW_BSC_V2/WFSServer"
     }, 
@@ -16702,6 +16707,16 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_May_2023_Boundaries_EW_BFC/MapServer"
     }, 
     {
+      "name" : "Parishes_May_2023_Boundaries_EW_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_May_2023_Boundaries_EW_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "Parishes_May_2023_Boundaries_EW_BSC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_May_2023_Boundaries_EW_BSC/FeatureServer"
+    }, 
+    {
       "name" : "Parishes_May_2023_Boundaries_EW_BFE", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_May_2023_Boundaries_EW_BFE/WFSServer"
@@ -16710,6 +16725,71 @@
       "name" : "Parishes_May_2023_Boundaries_EW_BFE", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_May_2023_Boundaries_EW_BFE/MapServer"
+    }, 
+    {
+      "name" : "Parishes_May_2023_Boundaries_EW_BGC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_May_2023_Boundaries_EW_BGC/WFSServer"
+    }, 
+    {
+      "name" : "Parishes_May_2023_Boundaries_EW_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_May_2023_Boundaries_EW_BGC/MapServer"
+    }, 
+    {
+      "name" : "Parishes_May_2023_Boundaries_EW_BSC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_May_2023_Boundaries_EW_BSC/WFSServer"
+    }, 
+    {
+      "name" : "Parishes_May_2023_Boundaries_EW_BSC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_May_2023_Boundaries_EW_BSC/MapServer"
+    }, 
+    {
+      "name" : "Output_Areas_2021_EW_BFC_V8", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_2021_EW_BFC_V8/FeatureServer"
+    }, 
+    {
+      "name" : "Output_Areas_2021_EW_BFE_V9", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_2021_EW_BFE_V9/FeatureServer"
+    }, 
+    {
+      "name" : "Output_Areas_2021_EW_BGC_V2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_2021_EW_BGC_V2/FeatureServer"
+    }, 
+    {
+      "name" : "Output_Areas_2021_EW_BGC_V2", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_2021_EW_BGC_V2/WFSServer"
+    }, 
+    {
+      "name" : "Output_Areas_2021_EW_BGC_V2", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_2021_EW_BGC_V2/MapServer"
+    }, 
+    {
+      "name" : "Output_Areas_2021_EW_BFE_V9", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_2021_EW_BFE_V9/WFSServer"
+    }, 
+    {
+      "name" : "Output_Areas_2021_EW_BFE_V9", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_2021_EW_BFE_V9/MapServer"
+    }, 
+    {
+      "name" : "Output_Areas_2021_EW_BFC_V8", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_2021_EW_BFC_V8/WFSServer"
+    }, 
+    {
+      "name" : "Output_Areas_2021_EW_BFC_V8", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_2021_EW_BFC_V8/MapServer"
     }
   ]
 }
