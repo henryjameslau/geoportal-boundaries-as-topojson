@@ -10467,6 +10467,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_and_Unitary_Authorities_(December_2018)_FEB_EW/MapServer"
     }, 
     {
+      "name" : "Counties_and_Unitary_Authorities_(December_2018)_FEB_GB", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_and_Unitary_Authorities_(December_2018)_FEB_GB/MapServer"
+    }, 
+    {
       "name" : "Counties_and_Unitary_Authorities_(December_2018)_FEB_UK", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_and_Unitary_Authorities_(December_2018)_FEB_UK/MapServer"
