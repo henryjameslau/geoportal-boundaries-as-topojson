@@ -16805,6 +16805,21 @@
       "name" : "Local_Authority_Districts_(December_2022)_Boundaries_UK_BUC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_(December_2022)_Boundaries_UK_BUC/MapServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_May_2023_EW_BUC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2023_EW_BUC/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_May_2023_EW_BUC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2023_EW_BUC/WFSServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_May_2023_EW_BUC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2023_EW_BUC/MapServer"
     }
   ]
 }
