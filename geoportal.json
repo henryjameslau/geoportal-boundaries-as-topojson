@@ -15473,11 +15473,6 @@
     }, 
     {
       "name" : "Local_Authority_Districts_May_2023_UK_BFC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2023_UK_BFC/FeatureServer"
-    }, 
-    {
-      "name" : "Local_Authority_Districts_May_2023_UK_BFC", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2023_UK_BFC/WFSServer"
     }, 
@@ -15513,11 +15508,6 @@
     }, 
     {
       "name" : "Local_Authority_Districts_May_2023_UK_BFE", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2023_UK_BFE/FeatureServer"
-    }, 
-    {
-      "name" : "Local_Authority_Districts_May_2023_UK_BFE", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2023_UK_BFE/WFSServer"
     }, 
@@ -15525,16 +15515,6 @@
       "name" : "Local_Authority_Districts_May_2023_UK_BFE", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2023_UK_BFE/MapServer"
-    }, 
-    {
-      "name" : "Local_Authority_Districts_May_2023_UK_BGC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2023_UK_BGC/FeatureServer"
-    }, 
-    {
-      "name" : "Local_Authority_Districts_May_2023_UK_BUC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2023_UK_BUC/FeatureServer"
     }, 
     {
       "name" : "Local_Authority_Districts_May_2023_UK_BUC", 
@@ -15630,16 +15610,6 @@
       "name" : "WD22_REGD22_LAD22_EW_LU_v2", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD22_REGD22_LAD22_EW_LU_v2/FeatureServer"
-    }, 
-    {
-      "name" : "Sub_Integrated_Care_Board_Locations_April_2023_EN_BFC", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Sub_Integrated_Care_Board_Locations_April_2023_EN_BFC/WFSServer"
-    }, 
-    {
-      "name" : "Sub_Integrated_Care_Board_Locations_April_2023_EN_BFC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Sub_Integrated_Care_Board_Locations_April_2023_EN_BFC/MapServer"
     }, 
     {
       "name" : "Sub_Integrated_Care_Board_Locations_April_2023_EN_BSC", 
@@ -16820,6 +16790,76 @@
       "name" : "Local_Authority_Districts_May_2023_EW_BUC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2023_EW_BUC/MapServer"
+    }, 
+    {
+      "name" : "Sub_Integrated_Care_Board_Locations_April_2023_EN_BFC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Sub_Integrated_Care_Board_Locations_April_2023_EN_BFC/WFSServer"
+    }, 
+    {
+      "name" : "Sub_Integrated_Care_Board_Locations_(April_2023)_EN_BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Sub_Integrated_Care_Board_Locations_(April_2023)_EN_BFC/MapServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_May_2023_UK_BFE_V2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2023_UK_BFE_V2/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_May_2023_UK_BFC_V2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2023_UK_BFC_V2/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_May_2023_UK_BGC_V2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2023_UK_BGC_V2/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_May_2023_UK_BUC_V2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2023_UK_BUC_V2/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_May_2023_UK_BUC_V2", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2023_UK_BUC_V2/WFSServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_May_2023_UK_BUC_V2", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2023_UK_BUC_V2/MapServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_May_2023_UK_BGC_V2", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2023_UK_BGC_V2/WFSServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_May_2023_UK_BGC_V2", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2023_UK_BGC_V2/MapServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_May_2023_UK_BFE_V2", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2023_UK_BFE_V2/WFSServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_May_2023_UK_BFE_V2", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2023_UK_BFE_V2/MapServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_May_2023_UK_BFC_V2", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2023_UK_BFC_V2/WFSServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_May_2023_UK_BFC_V2", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2023_UK_BFC_V2/MapServer"
     }
   ]
 }
