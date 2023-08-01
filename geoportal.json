@@ -16900,6 +16900,11 @@
       "name" : "Local_Authority_Districts_December_2022_UK_BFE_V2", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_December_2022_UK_BFE_V2/MapServer"
+    }, 
+    {
+      "name" : "OA21_PCON25_LAD21_EW_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA21_PCON25_LAD21_EW_LU/FeatureServer"
     }
   ]
 }
