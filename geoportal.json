@@ -16995,6 +16995,21 @@
       "name" : "Regions_December_2022_Boundaries_EN_BFC_V2", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Regions_December_2022_Boundaries_EN_BFC_V2/MapServer"
+    }, 
+    {
+      "name" : "Output_Areas_2001_EW_PWC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_2001_EW_PWC/FeatureServer"
+    }, 
+    {
+      "name" : "Output_Areas_Dec_2001_PWC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_Dec_2001_PWC/WFSServer"
+    }, 
+    {
+      "name" : "Output_Areas_Dec_2001_PWC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_Dec_2001_PWC/MapServer"
     }
   ]
 }
