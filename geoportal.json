@@ -2487,31 +2487,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Index of Place Names in Great Britain (July 2016)_new/FeatureServer"
     }, 
     {
-      "name" : "Index_of_Multiple_Deprivation_Dec_2010_Lookup_in_Northern_Ireland_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Index_of_Multiple_Deprivation_Dec_2010_Lookup_in_Northern_Ireland_2022/FeatureServer"
-    }, 
-    {
-      "name" : "Index_of_Multiple_Deprivation_Dec_2012_Lookup_in_Scotland_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Index_of_Multiple_Deprivation_Dec_2012_Lookup_in_Scotland_2022/FeatureServer"
-    }, 
-    {
-      "name" : "Index_of_Multiple_Deprivation_Dec_2014_Lookup_in_Wales_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Index_of_Multiple_Deprivation_Dec_2014_Lookup_in_Wales_2022/FeatureServer"
-    }, 
-    {
-      "name" : "Index_of_Multiple_Deprivation_Dec_2015_Lookup_in_England_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Index_of_Multiple_Deprivation_Dec_2015_Lookup_in_England_2022/FeatureServer"
-    }, 
-    {
-      "name" : "Index_of_Multiple_Deprivation_Dec_2016_Lookup_in_Scotland_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Index_of_Multiple_Deprivation_Dec_2016_Lookup_in_Scotland_2022/FeatureServer"
-    }, 
-    {
       "name" : "Index_of_Multiple_Deprivation_Dec_2017_Lookup_in_Northern_Ireland_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Index_of_Multiple_Deprivation_Dec_2017_Lookup_in_Northern_Ireland_2022/FeatureServer"
@@ -17010,6 +16985,11 @@
       "name" : "Output_Areas_Dec_2001_PWC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_Dec_2001_PWC/MapServer"
+    }, 
+    {
+      "name" : "Index_of_Multiple_Deprivation_(Dec_2020)_Lookup_in_Scotland", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Index_of_Multiple_Deprivation_(Dec_2020)_Lookup_in_Scotland/FeatureServer"
     }
   ]
 }
