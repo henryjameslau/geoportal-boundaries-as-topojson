@@ -16990,6 +16990,16 @@
       "name" : "Index_of_Multiple_Deprivation_(Dec_2020)_Lookup_in_Scotland", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Index_of_Multiple_Deprivation_(Dec_2020)_Lookup_in_Scotland/FeatureServer"
+    }, 
+    {
+      "name" : "Output_Areas_December_2021_PWC_V3", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_December_2021_PWC_V3/WFSServer"
+    }, 
+    {
+      "name" : "Output_Areas_(December_2021)_PWC_(V3)", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_(December_2021)_PWC_(V3)/MapServer"
     }
   ]
 }
