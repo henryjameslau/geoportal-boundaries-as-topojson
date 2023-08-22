@@ -4677,11 +4677,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_Dec_2021_Boundaries_Generalised_Clipped_EW_BGC_V2/FeatureServer"
     }, 
     {
-      "name" : "LSOA_DEC_2021_EW_NC_v2", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_DEC_2021_EW_NC_v2/FeatureServer"
-    }, 
-    {
       "name" : "LSOA01_BUASD11_BUA11_LAD11_RGN11_EW_LU_8ac85fc24ca643e093078965212b8f9c", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA01_BUASD11_BUA11_LAD11_RGN11_EW_LU_8ac85fc24ca643e093078965212b8f9c/FeatureServer"
@@ -16385,11 +16380,6 @@
       "name" : "CB_JUN_1921_EW_BGC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CB_JUN_1921_EW_BGC/FeatureServer"
-    }, 
-    {
-      "name" : "ANCTY_JUN_1921_EW_BGC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ANCTY_JUN_1921_EW_BGC/FeatureServer"
     }, 
     {
       "name" : "LAD_JUN_1921_EW_BGC", 
