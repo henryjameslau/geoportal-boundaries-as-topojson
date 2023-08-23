@@ -5187,11 +5187,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_Dec_2021_Boundaries_Generalised_Clipped_EW_BGC_2022/FeatureServer"
     }, 
     {
-      "name" : "MSOA_DEC_2021_EW_NC_v2", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_DEC_2021_EW_NC_v2/FeatureServer"
-    }, 
-    {
       "name" : "MSOA01_MSOA11_LAD11_EW_LU_4d62b7319b914e52bb640ccd5d7977b6", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA01_MSOA11_LAD11_EW_LU_4d62b7319b914e52bb640ccd5d7977b6/FeatureServer"
@@ -6760,11 +6755,6 @@
       "name" : "Output_Areas_Dec_2021_Boundaries_Generalised_Clipped_EW_BGC_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_Dec_2021_Boundaries_Generalised_Clipped_EW_BGC_2022/FeatureServer"
-    }, 
-    {
-      "name" : "Output_Areas_Dec_2021_PWC_Version_2_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_Dec_2021_PWC_Version_2_2022/FeatureServer"
     }, 
     {
       "name" : "PAR_DEC_2022_EW_NC", 
@@ -13602,11 +13592,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_(Dec_2021)_Boundaries_Generalised_Clipped_EW_(BGC)/MapServer"
     }, 
     {
-      "name" : "Output_Areas_(Dec_2021)_PWC_(Version_2)", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_(Dec_2021)_PWC_(Version_2)/MapServer"
-    }, 
-    {
       "name" : "Output_Areas_(December_2011)_EW_BFE_V2", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_(December_2011)_EW_BFE_V2/MapServer"
@@ -16982,6 +16967,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Index_of_Multiple_Deprivation_(Dec_2020)_Lookup_in_Scotland/FeatureServer"
     }, 
     {
+      "name" : "Output_Areas_2021_PWC_V3", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_2021_PWC_V3/FeatureServer"
+    }, 
+    {
       "name" : "Output_Areas_December_2021_PWC_V3", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_December_2021_PWC_V3/WFSServer"
@@ -16990,6 +16980,46 @@
       "name" : "Output_Areas_(December_2021)_PWC_(V3)", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_(December_2021)_PWC_(V3)/MapServer"
+    }, 
+    {
+      "name" : "LSOA_DEC_2021_EW_NC_v3", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_DEC_2021_EW_NC_v3/FeatureServer"
+    }, 
+    {
+      "name" : "MSOA_DEC_2021_EW_NC_v3", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_DEC_2021_EW_NC_v3/FeatureServer"
+    }, 
+    {
+      "name" : "MSOA__Dec_2001_Population_Weighted_Centroids_in_England_and_Wales", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA__Dec_2001_Population_Weighted_Centroids_in_England_and_Wales/FeatureServer"
+    }, 
+    {
+      "name" : "LSOA_Dec_2001_Population_Weighted_Centroids_in_England_and_Wales", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_Dec_2001_Population_Weighted_Centroids_in_England_and_Wales/FeatureServer"
+    }, 
+    {
+      "name" : "LSOA_Dec_2001_Population_Weighted_Centroids_in_England_and_Wales", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_Dec_2001_Population_Weighted_Centroids_in_England_and_Wales/WFSServer"
+    }, 
+    {
+      "name" : "LSOA_(Dec_2001)_Population_Weighted_Centroids_in_England_and_Wales", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_(Dec_2001)_Population_Weighted_Centroids_in_England_and_Wales/MapServer"
+    }, 
+    {
+      "name" : "MSOA_Dec_2001_Population_Weighted_Centroids_in_England_and_Wales", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_Dec_2001_Population_Weighted_Centroids_in_England_and_Wales/WFSServer"
+    }, 
+    {
+      "name" : "MSOA_(Dec_2001)_Population_Weighted_Centroids_in_England_and_Wales", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_(Dec_2001)_Population_Weighted_Centroids_in_England_and_Wales/MapServer"
     }
   ]
 }
