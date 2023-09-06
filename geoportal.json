@@ -17020,6 +17020,46 @@
       "name" : "MSOA_(Dec_2001)_Population_Weighted_Centroids_in_England_and_Wales", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_(Dec_2001)_Population_Weighted_Centroids_in_England_and_Wales/MapServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_December_2008_Boundaries_GB_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_December_2008_Boundaries_GB_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_December_2008_Boundaries_GB_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_December_2008_Boundaries_GB_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_December_2008_Boundaries_GB_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_December_2008_Boundaries_GB_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_December_2008_Boundaries_GB_BGC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_December_2008_Boundaries_GB_BGC/WFSServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_December_2008_Boundaries_GB_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_December_2008_Boundaries_GB_BGC/MapServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_December_2008_Boundaries_GB_BFE", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_December_2008_Boundaries_GB_BFE/WFSServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_December_2008_Boundaries_GB_BFE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_December_2008_Boundaries_GB_BFE/MapServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_December_2008_Boundaries_GB_BFC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_December_2008_Boundaries_GB_BFC/WFSServer"
     }
   ]
 }
