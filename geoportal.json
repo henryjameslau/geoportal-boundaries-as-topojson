@@ -16877,16 +16877,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Regions_December_2022_Boundaries_EN_BFC_V2/FeatureServer"
     }, 
     {
-      "name" : "ntca_features_with_Lat_and_Long", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ntca_features_with_Lat_and_Long/FeatureServer"
-    }, 
-    {
-      "name" : "Joined dataset", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Joined dataset/FeatureServer"
-    }, 
-    {
       "name" : "Westminster_Parliamentary_Constituencies_Future_UK_BFC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Westminster_Parliamentary_Constituencies_Future_UK_BFC/FeatureServer"
@@ -16955,11 +16945,6 @@
       "name" : "Regions_December_2022_Boundaries_EN_BFC_V2", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Regions_December_2022_Boundaries_EN_BFC_V2/MapServer"
-    }, 
-    {
-      "name" : "Polygons", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Polygons/FeatureServer"
     }, 
     {
       "name" : "Output_Areas_2001_EW_PWC", 
