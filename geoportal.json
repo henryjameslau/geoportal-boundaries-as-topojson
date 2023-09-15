@@ -17060,6 +17060,21 @@
       "name" : "Local_Authority_Districts_December_2008_Boundaries_GB_BFC", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_December_2008_Boundaries_GB_BFC/WFSServer"
+    }, 
+    {
+      "name" : "OA_2021_EW_BGC_V3", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA_2021_EW_BGC_V3/FeatureServer"
+    }, 
+    {
+      "name" : "OA_2021_EW_BGC_V3", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA_2021_EW_BGC_V3/WFSServer"
+    }, 
+    {
+      "name" : "OA_2021_EW_BGC_V3", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA_2021_EW_BGC_V3/MapServer"
     }
   ]
 }
