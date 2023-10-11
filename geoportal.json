@@ -16690,6 +16690,66 @@
       "name" : "Local_Skills_Improvement_Plan_Areas_August_2023_Boundaries_EN_BFC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Skills_Improvement_Plan_Areas_August_2023_Boundaries_EN_BFC/MapServer"
+    }, 
+    {
+      "name" : "Cancer_Alliances_July_2023_Boundaries_EN_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Cancer_Alliances_July_2023_Boundaries_EN_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "Cancer_Alliances_July_2023_Boundaries_EN_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Cancer_Alliances_July_2023_Boundaries_EN_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "Cancer_Alliances_July_2023_Boundaries_EN_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Cancer_Alliances_July_2023_Boundaries_EN_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "Cancer_Alliances_July_2023_Boundaries_EN_BUC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Cancer_Alliances_July_2023_Boundaries_EN_BUC/FeatureServer"
+    }, 
+    {
+      "name" : "Cancer_Alliances_July_2023_Boundaries_EN_BUC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Cancer_Alliances_July_2023_Boundaries_EN_BUC/WFSServer"
+    }, 
+    {
+      "name" : "Cancer_Alliances_July_2023_Boundaries_EN_BUC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Cancer_Alliances_July_2023_Boundaries_EN_BUC/MapServer"
+    }, 
+    {
+      "name" : "Cancer_Alliances_July_2023_Boundaries_EN_BGC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Cancer_Alliances_July_2023_Boundaries_EN_BGC/WFSServer"
+    }, 
+    {
+      "name" : "Cancer_Alliances_July_2023_Boundaries_EN_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Cancer_Alliances_July_2023_Boundaries_EN_BGC/MapServer"
+    }, 
+    {
+      "name" : "Cancer_Alliances_July_2023_Boundaries_EN_BFE", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Cancer_Alliances_July_2023_Boundaries_EN_BFE/WFSServer"
+    }, 
+    {
+      "name" : "Cancer_Alliances_July_2023_Boundaries_EN_BFE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Cancer_Alliances_July_2023_Boundaries_EN_BFE/MapServer"
+    }, 
+    {
+      "name" : "Cancer_Alliances_July_2023_Boundaries_EN_BFC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Cancer_Alliances_July_2023_Boundaries_EN_BFC/WFSServer"
+    }, 
+    {
+      "name" : "Cancer_Alliances_July_2023_Boundaries_EN_BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Cancer_Alliances_July_2023_Boundaries_EN_BFC/MapServer"
     }
   ]
 }
