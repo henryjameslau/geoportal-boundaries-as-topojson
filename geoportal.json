@@ -5352,11 +5352,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA21_UTLA23_EW_LU/FeatureServer"
     }, 
     {
-      "name" : "LSOA21_WD22_LAD22_EW_LU_v3", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA21_WD22_LAD22_EW_LU_v3/FeatureServer"
-    }, 
-    {
       "name" : "LSOA21_WD23_LAD23_EW_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA21_WD23_LAD23_EW_LU/FeatureServer"
@@ -16710,6 +16705,21 @@
       "name" : "WPC__(Dec_2018)_GCB_UK", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WPC__(Dec_2018)_GCB_UK/MapServer"
+    }, 
+    {
+      "name" : "Wards_December_2022_Boundaries_UK_BFC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_December_2022_Boundaries_UK_BFC/WFSServer"
+    }, 
+    {
+      "name" : "Wards_December_2022_Boundaries_UK_BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_December_2022_Boundaries_UK_BFC/MapServer"
+    }, 
+    {
+      "name" : "LSOA21_WD22_LAD22_EW_LU_v3", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA21_WD22_LAD22_EW_LU_v3/FeatureServer"
     }
   ]
 }
