@@ -6527,6 +6527,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Non_Civil_Parished_Areas_Dec_2020_Names_and_Codes_in_England_V2_2022/FeatureServer"
     }, 
     {
+      "name" : "Norfolk_polygons", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Norfolk_polygons/FeatureServer"
+    }, 
+    {
       "name" : "North_East_Isochrones_Gen", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/North_East_Isochrones_Gen/FeatureServer"
@@ -16740,6 +16745,16 @@
       "name" : "Countries_(December_2022)_Boundaries_GB_BFC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_(December_2022)_Boundaries_GB_BFC/MapServer"
+    }, 
+    {
+      "name" : "Broadband_coverage", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Broadband_coverage/FeatureServer"
+    }, 
+    {
+      "name" : "Disability", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Disability/FeatureServer"
     }
   ]
 }
