@@ -32,6 +32,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Age_75_plus_TTWA/FeatureServer"
     }, 
     {
+      "name" : "Broadband_coverage", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Broadband_coverage/FeatureServer"
+    }, 
+    {
       "name" : "BUA_2011_EW_BGG", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/BUA_2011_EW_BGG/FeatureServer"
@@ -1707,6 +1712,16 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2021_UK_BUC_2022/FeatureServer"
     }, 
     {
+      "name" : "Countries_December_2022_GB_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2022_GB_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "Countries_December_2022_GB_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2022_GB_BFE/FeatureServer"
+    }, 
+    {
       "name" : "Countries_December_2022_GB_BGC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2022_GB_BGC/FeatureServer"
@@ -1715,6 +1730,16 @@
       "name" : "Countries_December_2022_GB_BUC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2022_GB_BUC/FeatureServer"
+    }, 
+    {
+      "name" : "Countries_December_2022_UK_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2022_UK_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "Countries_December_2022_UK_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2022_UK_BFE/FeatureServer"
     }, 
     {
       "name" : "Countries_December_2022_UK_BGC", 
@@ -2155,6 +2180,11 @@
       "name" : "Department_for_Children_Education_Lifelong_Learning_and_Skills_Dec_202_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Department_for_Children_Education_Lifelong_Learning_and_Skills_Dec_202_2022/FeatureServer"
+    }, 
+    {
+      "name" : "Disability", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Disability/FeatureServer"
     }, 
     {
       "name" : "DZ_DEC_2011_SC_NC_45ae61d197ca46658b7431e39e1eb3de", 
@@ -5330,6 +5360,11 @@
       "name" : "LSOA21_UTLA23_EW_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA21_UTLA23_EW_LU/FeatureServer"
+    }, 
+    {
+      "name" : "LSOA21_WD22_LAD22_EW_LU_v3", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA21_WD22_LAD22_EW_LU_v3/FeatureServer"
     }, 
     {
       "name" : "LSOA21_WD23_LAD23_EW_LU", 
@@ -11582,6 +11617,26 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_(December_2021)_UK_BUC/MapServer"
     }, 
     {
+      "name" : "Countries_(December_2022)_Boundaries_GB_BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_(December_2022)_Boundaries_GB_BFC/MapServer"
+    }, 
+    {
+      "name" : "Countries_(December_2022)_Boundaries_GB_BFE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_(December_2022)_Boundaries_GB_BFE/MapServer"
+    }, 
+    {
+      "name" : "Countries_(December_2022)_Boundaries_UK_BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_(December_2022)_Boundaries_UK_BFC/MapServer"
+    }, 
+    {
+      "name" : "Countries_(December_2022)_Boundaries_UK_BFE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_(December_2022)_Boundaries_UK_BFE/MapServer"
+    }, 
+    {
       "name" : "Countries_December_1921_in_England_and_Wales_BGC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_1921_in_England_and_Wales_BGC/MapServer"
@@ -16342,6 +16397,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_(December_2021)_UK_BSC/MapServer"
     }, 
     {
+      "name" : "Wards_December_2022_Boundaries_UK_BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_December_2022_Boundaries_UK_BFC/MapServer"
+    }, 
+    {
       "name" : "WD_MAY_2023_UK_BFC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD_MAY_2023_UK_BFC/MapServer"
@@ -16670,91 +16730,6 @@
       "name" : "WPC__(Dec_2018)_GCB_UK", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WPC__(Dec_2018)_GCB_UK/MapServer"
-    }, 
-    {
-      "name" : "Wards_December_2022_Boundaries_UK_BFC", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_December_2022_Boundaries_UK_BFC/WFSServer"
-    }, 
-    {
-      "name" : "Wards_December_2022_Boundaries_UK_BFC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_December_2022_Boundaries_UK_BFC/MapServer"
-    }, 
-    {
-      "name" : "LSOA21_WD22_LAD22_EW_LU_v3", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA21_WD22_LAD22_EW_LU_v3/FeatureServer"
-    }, 
-    {
-      "name" : "Countries_December_2022_GB_BFC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2022_GB_BFC/FeatureServer"
-    }, 
-    {
-      "name" : "Countries_December_2022_Boundaries_GB_BFC", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2022_Boundaries_GB_BFC/WFSServer"
-    }, 
-    {
-      "name" : "Countries_December_2022_GB_BFE", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2022_GB_BFE/FeatureServer"
-    }, 
-    {
-      "name" : "Countries_December_2022_Boundaries_GB_BFE", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2022_Boundaries_GB_BFE/WFSServer"
-    }, 
-    {
-      "name" : "Countries_(December_2022)_Boundaries_GB_BFE", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_(December_2022)_Boundaries_GB_BFE/MapServer"
-    }, 
-    {
-      "name" : "Countries_December_2022_UK_BFC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2022_UK_BFC/FeatureServer"
-    }, 
-    {
-      "name" : "Countries_December_2022_Boundaries_UK_BFC", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2022_Boundaries_UK_BFC/WFSServer"
-    }, 
-    {
-      "name" : "Countries_(December_2022)_Boundaries_UK_BFC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_(December_2022)_Boundaries_UK_BFC/MapServer"
-    }, 
-    {
-      "name" : "Countries_December_2022_UK_BFE", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2022_UK_BFE/FeatureServer"
-    }, 
-    {
-      "name" : "Countries_December_2022_Boundaries_UK_BFE", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2022_Boundaries_UK_BFE/WFSServer"
-    }, 
-    {
-      "name" : "Countries_(December_2022)_Boundaries_UK_BFE", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_(December_2022)_Boundaries_UK_BFE/MapServer"
-    }, 
-    {
-      "name" : "Countries_(December_2022)_Boundaries_GB_BFC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_(December_2022)_Boundaries_GB_BFC/MapServer"
-    }, 
-    {
-      "name" : "Broadband_coverage", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Broadband_coverage/FeatureServer"
-    }, 
-    {
-      "name" : "Disability", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Disability/FeatureServer"
     }
   ]
 }
