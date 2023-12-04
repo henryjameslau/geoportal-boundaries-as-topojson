@@ -16732,6 +16732,16 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSPD_Online_Latest_Centroids/MapServer"
     }, 
     {
+      "name" : "oa_london_refactored", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/oa_london_refactored/FeatureServer"
+    }, 
+    {
+      "name" : "lsoa_london_refactored", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/lsoa_london_refactored/FeatureServer"
+    }, 
+    {
       "name" : "test_lakes", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/test_lakes/FeatureServer"
