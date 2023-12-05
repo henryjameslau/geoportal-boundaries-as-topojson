@@ -2682,16 +2682,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Integrated_Care_Boards_July_2022_EN_BFE_2022/FeatureServer"
     }, 
     {
-      "name" : "Integrated_Care_Systems_Dec_2019_in_England_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Integrated_Care_Systems_Dec_2019_in_England_2022/FeatureServer"
-    }, 
-    {
-      "name" : "Integrated_Care_Systems_Dec_2020_in_England_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Integrated_Care_Systems_Dec_2020_in_England_2022/FeatureServer"
-    }, 
-    {
       "name" : "Intermediate_Zones_Dec_2001_Names_and_Codes_in_Scotland_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Intermediate_Zones_Dec_2001_Names_and_Codes_in_Scotland_2022/FeatureServer"
