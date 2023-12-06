@@ -16800,6 +16800,16 @@
       "name" : "Westminster_Parliamentary_Constituencies_(Future)_Boundaries_EW_BFE", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Westminster_Parliamentary_Constituencies_(Future)_Boundaries_EW_BFE/MapServer"
+    }, 
+    {
+      "name" : "cpca_oa_refactored", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/cpca_oa_refactored/FeatureServer"
+    }, 
+    {
+      "name" : "cpca_lsoa_refactored", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/cpca_lsoa_refactored/FeatureServer"
     }
   ]
 }
