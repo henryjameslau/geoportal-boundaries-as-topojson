@@ -1777,26 +1777,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/County_Electoral_Division_May_2020_Names_and_Codes_for_England_2022/FeatureServer"
     }, 
     {
-      "name" : "County_Electoral_Division_May_2023_Boundaries_EN_BFC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/County_Electoral_Division_May_2023_Boundaries_EN_BFC/FeatureServer"
-    }, 
-    {
-      "name" : "County_Electoral_Division_May_2023_Boundaries_EN_BFE", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/County_Electoral_Division_May_2023_Boundaries_EN_BFE/FeatureServer"
-    }, 
-    {
-      "name" : "County_Electoral_Division_May_2023_Boundaries_EN_BGC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/County_Electoral_Division_May_2023_Boundaries_EN_BGC/FeatureServer"
-    }, 
-    {
-      "name" : "County_Electoral_Division_May_2023_Boundaries_EN_BUC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/County_Electoral_Division_May_2023_Boundaries_EN_BUC/FeatureServer"
-    }, 
-    {
       "name" : "Covid_Infection_Survey__October_2020__to_Country_Lookup_for_the_United_Kingdom", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey__October_2020__to_Country_Lookup_for_the_United_Kingdom/FeatureServer"
@@ -11622,26 +11602,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2022_UK_BUC/MapServer"
     }, 
     {
-      "name" : "County_Electoral_Division_May_2023_Boundaries_EN_BFC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/County_Electoral_Division_May_2023_Boundaries_EN_BFC/MapServer"
-    }, 
-    {
-      "name" : "County_Electoral_Division_May_2023_Boundaries_EN_BFE", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/County_Electoral_Division_May_2023_Boundaries_EN_BFE/MapServer"
-    }, 
-    {
-      "name" : "County_Electoral_Division_May_2023_Boundaries_EN_BGC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/County_Electoral_Division_May_2023_Boundaries_EN_BGC/MapServer"
-    }, 
-    {
-      "name" : "County_Electoral_Division_May_2023_Boundaries_EN_BUC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/County_Electoral_Division_May_2023_Boundaries_EN_BUC/MapServer"
-    }, 
-    {
       "name" : "Covid_Infection_Survey_Dec_2020_UK_BFC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Covid_Infection_Survey_Dec_2020_UK_BFC/MapServer"
@@ -16810,6 +16770,66 @@
       "name" : "cpca_lsoa_refactored", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/cpca_lsoa_refactored/FeatureServer"
+    }, 
+    {
+      "name" : "County_Electoral_Division_May_2023_Boundaries_EN_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/County_Electoral_Division_May_2023_Boundaries_EN_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "County_Electoral_Division_May_2023_Boundaries_EN_BFC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/County_Electoral_Division_May_2023_Boundaries_EN_BFC/WFSServer"
+    }, 
+    {
+      "name" : "County_Electoral_Division_(May_2023)_Boundaries_EN_BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/County_Electoral_Division_(May_2023)_Boundaries_EN_BFC/MapServer"
+    }, 
+    {
+      "name" : "County_Electoral_Division_May_2023_Boundaries_EN_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/County_Electoral_Division_May_2023_Boundaries_EN_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "County_Electoral_Division_May_2023_Boundaries_EN_BFE", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/County_Electoral_Division_May_2023_Boundaries_EN_BFE/WFSServer"
+    }, 
+    {
+      "name" : "County_Electoral_Division_(May_2023)_Boundaries_EN_BFE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/County_Electoral_Division_(May_2023)_Boundaries_EN_BFE/MapServer"
+    }, 
+    {
+      "name" : "County_Electoral_Division_May_2023_Boundaries_EN_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/County_Electoral_Division_May_2023_Boundaries_EN_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "County_Electoral_Division_May_2023_Boundaries_EN_BGC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/County_Electoral_Division_May_2023_Boundaries_EN_BGC/WFSServer"
+    }, 
+    {
+      "name" : "County_Electoral_Division_(May_2023)_Boundaries_EN_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/County_Electoral_Division_(May_2023)_Boundaries_EN_BGC/MapServer"
+    }, 
+    {
+      "name" : "County_Electoral_Division_May_2023_Boundaries_EN_BUC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/County_Electoral_Division_May_2023_Boundaries_EN_BUC/FeatureServer"
+    }, 
+    {
+      "name" : "County_Electoral_Division_May_2023_Boundaries_EN_BUC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/County_Electoral_Division_May_2023_Boundaries_EN_BUC/WFSServer"
+    }, 
+    {
+      "name" : "County_Electoral_Division_(May_2023)_Boundaries_EN_BUC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/County_Electoral_Division_(May_2023)_Boundaries_EN_BUC/MapServer"
     }
   ]
 }
