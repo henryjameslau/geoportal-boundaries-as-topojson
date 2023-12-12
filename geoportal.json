@@ -16772,6 +16772,16 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/cpca_lsoa_refactored/FeatureServer"
     }, 
     {
+      "name" : "herefordshire_oa_refactored", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/herefordshire_oa_refactored/FeatureServer"
+    }, 
+    {
+      "name" : "herefordshire_lsoa_refactored", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/herefordshire_lsoa_refactored/FeatureServer"
+    }, 
+    {
       "name" : "County_Electoral_Division_May_2023_Boundaries_EN_BFC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/County_Electoral_Division_May_2023_Boundaries_EN_BFC/FeatureServer"
