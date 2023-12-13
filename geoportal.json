@@ -16840,6 +16840,16 @@
       "name" : "County_Electoral_Division_(May_2023)_Boundaries_EN_BUC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/County_Electoral_Division_(May_2023)_Boundaries_EN_BUC/MapServer"
+    }, 
+    {
+      "name" : "LSOA21_PCON25_LAD21_EW_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA21_PCON25_LAD21_EW_LU/FeatureServer"
+    }, 
+    {
+      "name" : "MSOA21_PCON25_LAD21_EW_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA21_PCON25_LAD21_EW_LU/FeatureServer"
     }
   ]
 }
