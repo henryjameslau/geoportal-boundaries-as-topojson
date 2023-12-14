@@ -5222,6 +5222,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA11_LEP20_EN_LU_2bd363b66c994e11a0530b206b176e33/FeatureServer"
     }, 
     {
+      "name" : "LSOA11_LSOA21_LAD22_EW_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA11_LSOA21_LAD22_EW_LU/FeatureServer"
+    }, 
+    {
       "name" : "LSOA11_SICBL22_EN_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA11_SICBL22_EN_LU/FeatureServer"
@@ -5625,6 +5630,11 @@
       "name" : "MSOA11_BUASD11_BUA11_LAD11_RGN11_EW_LU_3aef3be2ae364e668580cddbb1ca6592", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA11_BUASD11_BUA11_LAD11_RGN11_EW_LU_3aef3be2ae364e668580cddbb1ca6592/FeatureServer"
+    }, 
+    {
+      "name" : "MSOA11_MSOA21_LAD22_EW_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA11_MSOA21_LAD22_EW_LU/FeatureServer"
     }, 
     {
       "name" : "MSOA11_TCITY15_EW_LU_e9458a2654ac404c961d645c86978493", 
@@ -7032,6 +7042,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA11_NAWC18_NAWER18_WA_LU_6a7587fc5cdd4822a79d1be239ae4afd/FeatureServer"
     }, 
     {
+      "name" : "OA11_OA21_LAD22_EW_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA11_OA21_LAD22_EW_LU/FeatureServer"
+    }, 
+    {
       "name" : "OA11_OA21_LAD22_EW_LU_Exact_fit_V2", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA11_OA21_LAD22_EW_LU_Exact_fit_V2/FeatureServer"
@@ -7157,6 +7172,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA21_SENC21_SENER21_WA_LU/FeatureServer"
     }, 
     {
+      "name" : "OA21_SENC22_SENER22_EW_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA21_SENC22_SENER22_EW_LU/FeatureServer"
+    }, 
+    {
       "name" : "OA21_SENC22_SENER22_EW_LU_V3", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA21_SENC22_SENER22_EW_LU_V3/FeatureServer"
@@ -7165,6 +7185,11 @@
       "name" : "OA21_SICBL23_ICB23_NHSER23_EN_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA21_SICBL23_ICB23_NHSER23_EN_LU/FeatureServer"
+    }, 
+    {
+      "name" : "OA21_to_SENC22_to_SENEDD22", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA21_to_SENC22_to_SENEDD22/FeatureServer"
     }, 
     {
       "name" : "OA21_UTLA23_EW_LU", 
@@ -16682,6 +16707,61 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSPD_Online_Latest_Centroids/MapServer"
     }, 
     {
+      "name" : "CED23_CTY23_EN_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CED23_CTY23_EN_LU/FeatureServer"
+    }, 
+    {
+      "name" : "LAD23_RGN23_EN_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD23_RGN23_EN_LU/FeatureServer"
+    }, 
+    {
+      "name" : "LAD23_LPA23_UK_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD23_LPA23_UK_LU/FeatureServer"
+    }, 
+    {
+      "name" : "NCP23_LAD23_EN_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NCP23_LAD23_EN_LU/FeatureServer"
+    }, 
+    {
+      "name" : "PAR23_WD23_LAD23_EW_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PAR23_WD23_LAD23_EW_LU/FeatureServer"
+    }, 
+    {
+      "name" : "WD23_LAD23_UK_LU_DEC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD23_LAD23_UK_LU_DEC/FeatureServer"
+    }, 
+    {
+      "name" : "WD23_LAD23_CTY23_CED23_EN_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD23_LAD23_CTY23_CED23_EN_LU/FeatureServer"
+    }, 
+    {
+      "name" : "SPC23_SPR23_SC_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SPC23_SPR23_SC_LU/FeatureServer"
+    }, 
+    {
+      "name" : "WD23_SENC23_WA_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD23_SENC23_WA_LU/FeatureServer"
+    }, 
+    {
+      "name" : "WD23_UA23_SENER23_WA_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD23_UA23_SENER23_WA_LU/FeatureServer"
+    }, 
+    {
+      "name" : "WD23_PCON23_LAD23_UTLA23_UK_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD23_PCON23_LAD23_UTLA23_UK_LU/FeatureServer"
+    }, 
+    {
       "name" : "oa_london_refactored", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/oa_london_refactored/FeatureServer"
@@ -16850,6 +16930,66 @@
       "name" : "MSOA21_PCON25_LAD21_EW_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA21_PCON25_LAD21_EW_LU/FeatureServer"
+    }, 
+    {
+      "name" : "Upper_Tier_Local_Authorities_December_2022_Boundaries_UK_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Upper_Tier_Local_Authorities_December_2022_Boundaries_UK_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "Upper_Tier_Local_Authorities_December_2022_Boundaries_UK_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Upper_Tier_Local_Authorities_December_2022_Boundaries_UK_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "Upper_Tier_Local_Authorities_December_2022_Boundaries_UK_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Upper_Tier_Local_Authorities_December_2022_Boundaries_UK_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "Upper_Tier_Local_Authorities_December_2022_Boundaries_UK_BUC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Upper_Tier_Local_Authorities_December_2022_Boundaries_UK_BUC/FeatureServer"
+    }, 
+    {
+      "name" : "Upper_Tier_Local_Authorities_inc_Metropolitan_Counties_December_2022_Boundaries_UK_BUC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Upper_Tier_Local_Authorities_inc_Metropolitan_Counties_December_2022_Boundaries_UK_BUC/WFSServer"
+    }, 
+    {
+      "name" : "Upper_Tier_Local_Authorities_inc_Metropolitan_Counties_December_2022_Boundaries_UK_BUC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Upper_Tier_Local_Authorities_inc_Metropolitan_Counties_December_2022_Boundaries_UK_BUC/MapServer"
+    }, 
+    {
+      "name" : "Upper_Tier_Local_Authorities_inc_Metropolitan_Counties_December_2022_Boundaries_UK_BGC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Upper_Tier_Local_Authorities_inc_Metropolitan_Counties_December_2022_Boundaries_UK_BGC/WFSServer"
+    }, 
+    {
+      "name" : "Upper_Tier_Local_Authorities_inc_Metropolitan_Counties_December_2022_Boundaries_UK_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Upper_Tier_Local_Authorities_inc_Metropolitan_Counties_December_2022_Boundaries_UK_BGC/MapServer"
+    }, 
+    {
+      "name" : "Upper_Tier_Local_Authorities_inc_Metropolitan_Counties_December_2022_Boundaries_UK_BFE", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Upper_Tier_Local_Authorities_inc_Metropolitan_Counties_December_2022_Boundaries_UK_BFE/WFSServer"
+    }, 
+    {
+      "name" : "Upper_Tier_Local_Authorities_inc_Metropolitan_Counties_December_2022_Boundaries_UK_BFE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Upper_Tier_Local_Authorities_inc_Metropolitan_Counties_December_2022_Boundaries_UK_BFE/MapServer"
+    }, 
+    {
+      "name" : "Upper_Tier_Local_Authorities_inc_Metropolitan_Counties_December_2022_Boundaries_UK_BFC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Upper_Tier_Local_Authorities_inc_Metropolitan_Counties_December_2022_Boundaries_UK_BFC/WFSServer"
+    }, 
+    {
+      "name" : "Upper_Tier_Local_Authorities_inc_Metropolitan_Counties_December_2022_Boundaries_UK_BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Upper_Tier_Local_Authorities_inc_Metropolitan_Counties_December_2022_Boundaries_UK_BFC/MapServer"
     }
   ]
 }
