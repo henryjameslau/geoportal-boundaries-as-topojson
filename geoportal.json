@@ -17127,6 +17127,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_December_2023_Boundaries_UK_BGC/FeatureServer"
     }, 
     {
+      "name" : "Wards_December_2023_Boundaries_UK_BSC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_December_2023_Boundaries_UK_BSC/FeatureServer"
+    }, 
+    {
       "name" : "NHSPD_Online_Latest_Centroids", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSPD_Online_Latest_Centroids/FeatureServer"
@@ -17195,6 +17200,31 @@
       "name" : "Wards_December_2023_Boundaries_UK_BGC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_December_2023_Boundaries_UK_BGC/MapServer"
+    }, 
+    {
+      "name" : "Wards_December_2023_Boundaries_UK_BSC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_December_2023_Boundaries_UK_BSC/WFSServer"
+    }, 
+    {
+      "name" : "Wards_December_2023_Boundaries_UK_BSC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_December_2023_Boundaries_UK_BSC/MapServer"
+    }, 
+    {
+      "name" : "Wards_December_2023_Boundaries_UK_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_December_2023_Boundaries_UK_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "Wards_December_2023_Boundaries_UK_BFE", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_December_2023_Boundaries_UK_BFE/WFSServer"
+    }, 
+    {
+      "name" : "Wards_December_2023_Boundaries_UK_BFE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_December_2023_Boundaries_UK_BFE/MapServer"
     }
   ]
 }
