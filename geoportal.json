@@ -17227,6 +17227,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_December_2023_Boundaries_UK_BFE/MapServer"
     }, 
     {
+      "name" : "Parishes_and_Non_Civil_Parished_Areas_December_2023_Boundaries_EW_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_and_Non_Civil_Parished_Areas_December_2023_Boundaries_EW_BFC/FeatureServer"
+    }, 
+    {
       "name" : "Parishes_and_Non_Civil_Parished_Areas_December_2023_Boundaries_EW_BFE", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_and_Non_Civil_Parished_Areas_December_2023_Boundaries_EW_BFE/FeatureServer"
@@ -17270,6 +17275,16 @@
       "name" : "Parishes_and_Non_Civil_Parished_Areas_December_2023_Boundaries_EW_BFE", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_and_Non_Civil_Parished_Areas_December_2023_Boundaries_EW_BFE/MapServer"
+    }, 
+    {
+      "name" : "Parishes_and_Non_Civil_Parished_Areas_December_2023_Boundaries_EW_BFC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_and_Non_Civil_Parished_Areas_December_2023_Boundaries_EW_BFC/WFSServer"
+    }, 
+    {
+      "name" : "Parishes_and_Non_Civil_Parished_Areas_December_2023_Boundaries_EW_BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_and_Non_Civil_Parished_Areas_December_2023_Boundaries_EW_BFC/MapServer"
     }
   ]
 }
