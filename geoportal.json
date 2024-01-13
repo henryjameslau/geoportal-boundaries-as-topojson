@@ -17212,11 +17212,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_December_2023_Boundaries_UK_BSC/MapServer"
     }, 
     {
-      "name" : "Wards_December_2023_Boundaries_UK_BFE", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_December_2023_Boundaries_UK_BFE/FeatureServer"
-    }, 
-    {
       "name" : "Parishes_and_Non_Civil_Parished_Areas_December_2023_Boundaries_EW_BFC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_and_Non_Civil_Parished_Areas_December_2023_Boundaries_EW_BFC/FeatureServer"
@@ -17335,6 +17330,21 @@
       "name" : "Fire_and_Rescue_Authorities_December_2022_EN_BGC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Fire_and_Rescue_Authorities_December_2022_EN_BGC/MapServer"
+    }, 
+    {
+      "name" : "Wards_December_2023_Boundaries_UK_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_December_2023_Boundaries_UK_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "Wards_December_2023_Boundaries_UK_BFE", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_December_2023_Boundaries_UK_BFE/WFSServer"
+    }, 
+    {
+      "name" : "Wards_(December_2023)_Boundaries_UK_BFE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_(December_2023)_Boundaries_UK_BFE/MapServer"
     }
   ]
 }
