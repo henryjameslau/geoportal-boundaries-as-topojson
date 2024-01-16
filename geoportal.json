@@ -17117,6 +17117,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Upper_Tier_Local_Authorities_inc_Metropolitan_Counties_December_2022_Boundaries_UK_BFC/MapServer"
     }, 
     {
+      "name" : "oa_layer_refactored", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/oa_layer_refactored/FeatureServer"
+    }, 
+    {
       "name" : "Wards_December_2023_Boundaries_UK_BFC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_December_2023_Boundaries_UK_BFC/FeatureServer"
@@ -17170,6 +17175,11 @@
       "name" : "NSPL_Online_Latest_Centroids", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NSPL_Online_Latest_Centroids/MapServer"
+    }, 
+    {
+      "name" : "lsoa_layer_refactored", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/lsoa_layer_refactored/FeatureServer"
     }, 
     {
       "name" : "NHSPD_Online_Latest_Centroids", 
