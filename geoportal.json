@@ -16897,16 +16897,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/lsoa_london_refactored/FeatureServer"
     }, 
     {
-      "name" : "test_lakes", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/test_lakes/FeatureServer"
-    }, 
-    {
-      "name" : "UserData_EsriTest", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/UserData_EsriTest/FeatureServer"
-    }, 
-    {
       "name" : "Westminster_Parliamentary_Constituencies_Future_UK_BFC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Westminster_Parliamentary_Constituencies_Future_UK_BFC/FeatureServer"
