@@ -17420,11 +17420,6 @@
       "name" : "SICBL_APR_2023_EN__BSC_Coastline", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SICBL_APR_2023_EN__BSC_Coastline/MapServer"
-    }, 
-    {
-      "name" : "EsriUK_TestData_4089865311839094363", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/EsriUK_TestData_4089865311839094363/FeatureServer"
     }
   ]
 }
