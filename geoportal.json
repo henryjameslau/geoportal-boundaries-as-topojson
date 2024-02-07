@@ -677,11 +677,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_Dec_2019_Names_and_Codes_in_England_2022/FeatureServer"
     }, 
     {
-      "name" : "Combined_Authorities_Dec_2020_EN_BGC_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_Dec_2020_EN_BGC_2022/FeatureServer"
-    }, 
-    {
       "name" : "Combined_Authorities_Dec_2020_Names_and_Codes_in_England_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_Dec_2020_Names_and_Codes_in_England_2022/FeatureServer"
@@ -10637,11 +10632,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CMWD_(Dec_2011)_SGCB_in_England_and_Wales/MapServer"
     }, 
     {
-      "name" : "Combined_Authorities_(Dec_2020)_EN_BGC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_(Dec_2020)_EN_BGC/MapServer"
-    }, 
-    {
       "name" : "Combined_Authorities_(December_2018)_FCB_EN", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_(December_2018)_FCB_EN/MapServer"
@@ -11002,29 +10992,14 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_(December_2018)_FEB_EN/MapServer"
     }, 
     {
-      "name" : "Counties_(December_2018)_FEB_in_England", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_(December_2018)_FEB_in_England/MapServer"
-    }, 
-    {
       "name" : "Counties_(December_2018)_GCB_EN", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_(December_2018)_GCB_EN/MapServer"
     }, 
     {
-      "name" : "Counties_(December_2018)_GCB_in_England", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_(December_2018)_GCB_in_England/MapServer"
-    }, 
-    {
       "name" : "Counties_(December_2018)_UGCB_EN", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_(December_2018)_UGCB_EN/MapServer"
-    }, 
-    {
-      "name" : "Counties_(December_2018)_UGCB_in_England", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_(December_2018)_UGCB_in_England/MapServer"
     }, 
     {
       "name" : "Counties_(December_2019)_FCB_EN", 
@@ -16797,11 +16772,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD23_LAD23_UK_LU_DEC/FeatureServer"
     }, 
     {
-      "name" : "WD23_LAD23_CTY23_CED23_EN_LU", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD23_LAD23_CTY23_CED23_EN_LU/FeatureServer"
-    }, 
-    {
       "name" : "SPC23_SPR23_SC_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SPC23_SPR23_SC_LU/FeatureServer"
@@ -17420,6 +17390,36 @@
       "name" : "SICBL_APR_2023_EN__BSC_Coastline", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SICBL_APR_2023_EN__BSC_Coastline/MapServer"
+    }, 
+    {
+      "name" : "CCG_(Apr_2018)_Super_Generalised_Clipped_Boundaries_in_England", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CCG_(Apr_2018)_Super_Generalised_Clipped_Boundaries_in_England/MapServer"
+    }, 
+    {
+      "name" : "LSOA21_SICBL23_ICB23_LAD23_EN_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA21_SICBL23_ICB23_LAD23_EN_LU/FeatureServer"
+    }, 
+    {
+      "name" : "CAUTH_DEC_2020_EN_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CAUTH_DEC_2020_EN_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "Combined_Authorities_December_2020_Boundaries_EN_BGC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_December_2020_Boundaries_EN_BGC/WFSServer"
+    }, 
+    {
+      "name" : "Combined_Authorities_(December_2020)_Boundaries_EN_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_(December_2020)_Boundaries_EN_BGC/MapServer"
+    }, 
+    {
+      "name" : "WD23_LAD23_CTY23_CED23_EN_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD23_LAD23_CTY23_CED23_EN_LU/FeatureServer"
     }
   ]
 }
