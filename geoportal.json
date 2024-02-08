@@ -17420,6 +17420,21 @@
       "name" : "WD23_LAD23_CTY23_CED23_EN_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD23_LAD23_CTY23_CED23_EN_LU/FeatureServer"
+    }, 
+    {
+      "name" : "Counties_December_2023_Boundaries_EN_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_December_2023_Boundaries_EN_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "Counties_December_2023_Boundaries_EN_BFE", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_December_2023_Boundaries_EN_BFE/WFSServer"
+    }, 
+    {
+      "name" : "Counties_December_2023_Boundaries_EN_BFE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_December_2023_Boundaries_EN_BFE/MapServer"
     }
   ]
 }
