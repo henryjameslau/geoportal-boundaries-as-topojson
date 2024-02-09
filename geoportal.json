@@ -17422,9 +17422,29 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD23_LAD23_CTY23_CED23_EN_LU/FeatureServer"
     }, 
     {
+      "name" : "Counties_December_2023_Boundaries_EN_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_December_2023_Boundaries_EN_BFC/FeatureServer"
+    }, 
+    {
       "name" : "Counties_December_2023_Boundaries_EN_BFE", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_December_2023_Boundaries_EN_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "Counties_December_2023_Boundaries_EN_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_December_2023_Boundaries_EN_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "Counties_December_2023_Boundaries_EN_BSC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_December_2023_Boundaries_EN_BSC/FeatureServer"
+    }, 
+    {
+      "name" : "Counties_December_2023_Boundaries_EN_BUC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_December_2023_Boundaries_EN_BUC/FeatureServer"
     }, 
     {
       "name" : "Counties_December_2023_Boundaries_EN_BFE", 
@@ -17435,6 +17455,121 @@
       "name" : "Counties_December_2023_Boundaries_EN_BFE", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_December_2023_Boundaries_EN_BFE/MapServer"
+    }, 
+    {
+      "name" : "Counties_December_2023_Boundaries_EN_BFC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_December_2023_Boundaries_EN_BFC/WFSServer"
+    }, 
+    {
+      "name" : "Counties_December_2023_Boundaries_EN_BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_December_2023_Boundaries_EN_BFC/MapServer"
+    }, 
+    {
+      "name" : "Counties_December_2023_Boundaries_EN_BGC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_December_2023_Boundaries_EN_BGC/WFSServer"
+    }, 
+    {
+      "name" : "Counties_December_2023_Boundaries_EN_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_December_2023_Boundaries_EN_BGC/MapServer"
+    }, 
+    {
+      "name" : "Counties_December_2023_Boundaries_EN_BSC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_December_2023_Boundaries_EN_BSC/WFSServer"
+    }, 
+    {
+      "name" : "Counties_December_2023_Boundaries_EN_BSC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_December_2023_Boundaries_EN_BSC/MapServer"
+    }, 
+    {
+      "name" : "Counties_and_Unitary_Authorities_December_2023_Boundaries_UK_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_and_Unitary_Authorities_December_2023_Boundaries_UK_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "Counties_and_Unitary_Authorities_December_2023_Boundaries_UK_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_and_Unitary_Authorities_December_2023_Boundaries_UK_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "Counties_and_Unitary_Authorities_December_2023_Boundaries_UK_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_and_Unitary_Authorities_December_2023_Boundaries_UK_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "Counties_and_Unitary_Authorities_December_2023_Boundaries_UK_BSC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_and_Unitary_Authorities_December_2023_Boundaries_UK_BSC/FeatureServer"
+    }, 
+    {
+      "name" : "Counties_and_Unitary_Authorities_December_2023_Boundaries_UK_BUC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_and_Unitary_Authorities_December_2023_Boundaries_UK_BUC/FeatureServer"
+    }, 
+    {
+      "name" : "Counties_and_Unitary_Authorities_December_2023_Boundaries_UK_BFE", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_and_Unitary_Authorities_December_2023_Boundaries_UK_BFE/WFSServer"
+    }, 
+    {
+      "name" : "Counties_and_Unitary_Authorities_December_2023_Boundaries_UK_BFE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_and_Unitary_Authorities_December_2023_Boundaries_UK_BFE/MapServer"
+    }, 
+    {
+      "name" : "Counties_and_Unitary_Authorities_December_2023_Boundaries_UK_BFC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_and_Unitary_Authorities_December_2023_Boundaries_UK_BFC/WFSServer"
+    }, 
+    {
+      "name" : "Counties_and_Unitary_Authorities_December_2023_Boundaries_UK_BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_and_Unitary_Authorities_December_2023_Boundaries_UK_BFC/MapServer"
+    }, 
+    {
+      "name" : "Counties_and_Unitary_Authorities_December_2023_Boundaries_UK_BGC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_and_Unitary_Authorities_December_2023_Boundaries_UK_BGC/WFSServer"
+    }, 
+    {
+      "name" : "Counties_and_Unitary_Authorities_December_2023_Boundaries_UK_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_and_Unitary_Authorities_December_2023_Boundaries_UK_BGC/MapServer"
+    }, 
+    {
+      "name" : "Counties_and_Unitary_Authorities_December_2023_Boundaries_UK_BUC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_and_Unitary_Authorities_December_2023_Boundaries_UK_BUC/WFSServer"
+    }, 
+    {
+      "name" : "Counties_and_Unitary_Authorities_December_2023_Boundaries_UK_BUC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_and_Unitary_Authorities_December_2023_Boundaries_UK_BUC/MapServer"
+    }, 
+    {
+      "name" : "Counties_and_Unitary_Authorities_December_2023_Boundaries_UK_BSC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_and_Unitary_Authorities_December_2023_Boundaries_UK_BSC/WFSServer"
+    }, 
+    {
+      "name" : "Counties_and_Unitary_Authorities_December_2023_Boundaries_UK_BSC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_and_Unitary_Authorities_December_2023_Boundaries_UK_BSC/MapServer"
+    }, 
+    {
+      "name" : "Counties_December_2023_Boundaries_EN_BUC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_December_2023_Boundaries_EN_BUC/WFSServer"
+    }, 
+    {
+      "name" : "Counties_December_2023_Boundaries_EN_BUC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_December_2023_Boundaries_EN_BUC/MapServer"
     }
   ]
 }
