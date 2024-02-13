@@ -3947,31 +3947,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Administrative_Units_Level_1__January_2018__Names_and_Codes_in_the_UK/FeatureServer"
     }, 
     {
-      "name" : "Local_Administrative_Units_Level_1_January_2018_UK_BFC_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Administrative_Units_Level_1_January_2018_UK_BFC_2022/FeatureServer"
-    }, 
-    {
-      "name" : "Local_Administrative_Units_Level_1_January_2018_UK_BFE_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Administrative_Units_Level_1_January_2018_UK_BFE_2022/FeatureServer"
-    }, 
-    {
-      "name" : "Local_Administrative_Units_Level_1_January_2018_UK_BGC_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Administrative_Units_Level_1_January_2018_UK_BGC_2022/FeatureServer"
-    }, 
-    {
-      "name" : "Local_Administrative_Units_Level_1_January_2018_UK_BSC_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Administrative_Units_Level_1_January_2018_UK_BSC_2022/FeatureServer"
-    }, 
-    {
-      "name" : "Local_Administrative_Units_Level_1_January_2018_UK_BUC_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Administrative_Units_Level_1_January_2018_UK_BUC_2022/FeatureServer"
-    }, 
-    {
       "name" : "Local_Authority_Districts_April_2019_UK_BFC_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_April_2019_UK_BFC_2022/FeatureServer"
@@ -4837,11 +4812,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Low_TTWA/FeatureServer"
     }, 
     {
-      "name" : "Lower_Layer_Super_Output_Area_2021_EW_BFE_V8", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Lower_Layer_Super_Output_Area_2021_EW_BFE_V8/FeatureServer"
-    }, 
-    {
       "name" : "Lower_layer_Super_Output_Areas_2021_EW_BFC_V8", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Lower_layer_Super_Output_Areas_2021_EW_BFC_V8/FeatureServer"
@@ -4997,11 +4967,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_2011_to_LSOA_2021_to_Local_Authority_District_2022_Lookup_for_England__2022/FeatureServer"
     }, 
     {
-      "name" : "LSOA_2021_EW_BSC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_2021_EW_BSC/FeatureServer"
-    }, 
-    {
       "name" : "LSOA_2021_to_Ward_to_Lower_Tier_Local_Authority_May_2022_Lookup_for_England_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_2021_to_Ward_to_Lower_Tier_Local_Authority_May_2022_Lookup_for_England_2022/FeatureServer"
@@ -5035,21 +5000,6 @@
       "name" : "LSOA_Dec_2011_PWC_in_England_and_Wales_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_Dec_2011_PWC_in_England_and_Wales_2022/FeatureServer"
-    }, 
-    {
-      "name" : "LSOA_Dec_2021_Boundaries_Full_Clipped_EW_BFC_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_Dec_2021_Boundaries_Full_Clipped_EW_BFC_2022/FeatureServer"
-    }, 
-    {
-      "name" : "LSOA_Dec_2021_Boundaries_Generalised_Clipped_EW_BGC_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_Dec_2021_Boundaries_Generalised_Clipped_EW_BGC_2022/FeatureServer"
-    }, 
-    {
-      "name" : "LSOA_Dec_2021_Boundaries_Generalised_Clipped_EW_BGC_V2", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_Dec_2021_Boundaries_Generalised_Clipped_EW_BGC_V2/FeatureServer"
     }, 
     {
       "name" : "LSOA_DEC_2021_EW_NC_v2", 
@@ -5507,11 +5457,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Metropolitan_Counties_December_2018_GCB_in_England_2022/FeatureServer"
     }, 
     {
-      "name" : "Middle_Layer_Super_Output_Areas_2021_EW_BFE_V6", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Middle_Layer_Super_Output_Areas_2021_EW_BFE_V6/FeatureServer"
-    }, 
-    {
       "name" : "Middle_Layer_Super_Output_Areas_Dec_2001_Boundaries_EW_BFE_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Middle_Layer_Super_Output_Areas_Dec_2001_Boundaries_EW_BFE_2022/FeatureServer"
@@ -5530,11 +5475,6 @@
       "name" : "Middle_Layer_Super_Output_Areas_Dec_2011_Boundaries_Full_Extent_BFE_EW_V3_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Middle_Layer_Super_Output_Areas_Dec_2011_Boundaries_Full_Extent_BFE_EW_V3_2022/FeatureServer"
-    }, 
-    {
-      "name" : "Middle_Layer_Super_Output_Areas_Dec_2021_Boundaries_Full_Clipped_EW_BFC_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Middle_Layer_Super_Output_Areas_Dec_2021_Boundaries_Full_Clipped_EW_BFC_2022/FeatureServer"
     }, 
     {
       "name" : "MLSOA_Dec_2021_PWC_in_England_and_Wales_2022", 
@@ -5592,11 +5532,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_2021_EW_BGC_V2/FeatureServer"
     }, 
     {
-      "name" : "MSOA_2021_EW_BSC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_2021_EW_BSC/FeatureServer"
-    }, 
-    {
       "name" : "MSOA_2021_EW_BSC_V2", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_2021_EW_BSC_V2/FeatureServer"
@@ -5625,11 +5560,6 @@
       "name" : "MSOA_Dec_2011_PWC_in_England_and_Wales_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_Dec_2011_PWC_in_England_and_Wales_2022/FeatureServer"
-    }, 
-    {
-      "name" : "MSOA_Dec_2021_Boundaries_Generalised_Clipped_EW_BGC_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_Dec_2021_Boundaries_Generalised_Clipped_EW_BGC_2022/FeatureServer"
     }, 
     {
       "name" : "MSOA_DEC_2021_EW_NC_v2", 
@@ -7292,11 +7222,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_2021_EW_BFC_V8/FeatureServer"
     }, 
     {
-      "name" : "Output_Areas_2021_EW_BFE_V8", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_2021_EW_BFE_V8/FeatureServer"
-    }, 
-    {
       "name" : "Output_Areas_2021_EW_BFE_V9", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_2021_EW_BFE_V9/FeatureServer"
@@ -7340,16 +7265,6 @@
       "name" : "Output_Areas_Dec_2011_PWC_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_Dec_2011_PWC_2022/FeatureServer"
-    }, 
-    {
-      "name" : "Output_Areas_Dec_2021_Boundaries_Full_Clipped_EW_BFC_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_Dec_2021_Boundaries_Full_Clipped_EW_BFC_2022/FeatureServer"
-    }, 
-    {
-      "name" : "Output_Areas_Dec_2021_Boundaries_Generalised_Clipped_EW_BGC_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_Dec_2021_Boundaries_Generalised_Clipped_EW_BGC_2022/FeatureServer"
     }, 
     {
       "name" : "PAR_DEC_2022_EW_NC", 
@@ -10282,26 +10197,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Yorkshire_and_the_Humber_Gen/FeatureServer"
     }, 
     {
-      "name" : "ADCTY_JUN_1921_EW_BGC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ADCTY_JUN_1921_EW_BGC/MapServer"
-    }, 
-    {
-      "name" : "ADCTYCB_JUN_1921_EW_BGC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ADCTYCB_JUN_1921_EW_BGC/MapServer"
-    }, 
-    {
-      "name" : "Ancient_Counties_December_1921_in_England_and_Wales_BGC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Ancient_Counties_December_1921_in_England_and_Wales_BGC/MapServer"
-    }, 
-    {
-      "name" : "ANCTY_JUN_1921_EW_BGC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ANCTY_JUN_1921_EW_BGC/MapServer"
-    }, 
-    {
       "name" : "Built-up_Area_Sub_Divisions_(Dec_2011)_Boundaries", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Built-up_Area_Sub_Divisions_(Dec_2011)_Boundaries/MapServer"
@@ -11315,11 +11210,6 @@
       "name" : "Counties_and_Unitary_Authorities_May_2023_UK_BUC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_and_Unitary_Authorities_May_2023_UK_BUC/MapServer"
-    }, 
-    {
-      "name" : "Counties_December_1921_in_England_and_Wales_BGC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_December_1921_in_England_and_Wales_BGC/MapServer"
     }, 
     {
       "name" : "Counties_May_2023_Boundaries_EN_BFC", 
@@ -12797,26 +12687,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LLSOA_(Dec_2021)_PWC_for_England_and_Wales/MapServer"
     }, 
     {
-      "name" : "Local_Administrative_Units_Level_1_(January_2018)_UK_BFE", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Administrative_Units_Level_1_(January_2018)_UK_BFE/MapServer"
-    }, 
-    {
-      "name" : "Local_Administrative_Units_Level_1_(January_2018)_UK_BGC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Administrative_Units_Level_1_(January_2018)_UK_BGC/MapServer"
-    }, 
-    {
-      "name" : "Local_Administrative_Units_Level_1_(January_2018)_UK_BSC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Administrative_Units_Level_1_(January_2018)_UK_BSC/MapServer"
-    }, 
-    {
-      "name" : "Local_Administrative_Units_Level_1_(January_2018)_UK_BUC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Administrative_Units_Level_1_(January_2018)_UK_BUC/MapServer"
-    }, 
-    {
       "name" : "Local_Authority_District_Splits_December_1921_in_England_and_Wales_BGC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_District_Splits_December_1921_in_England_and_Wales_BGC/MapServer"
@@ -13120,11 +12990,6 @@
       "name" : "Local_Authority_Districts_(May_2022)_UK_BSC_V3", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_(May_2022)_UK_BSC_V3/MapServer"
-    }, 
-    {
-      "name" : "Local_Authority_Districts_December_1921_in_England_and_Wales_BGC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_December_1921_in_England_and_Wales_BGC/MapServer"
     }, 
     {
       "name" : "Local_Authority_Districts_December_2008_Boundaries_GB_BFE", 
@@ -13707,16 +13572,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Lower_Layer_Super_Output_Areas_(Dec_2011)_Boundaries_Full_Extent_(BFE)_EW_V3/MapServer"
     }, 
     {
-      "name" : "Lower_Layer_Super_Output_Areas_(Dec_2021)_Boundaries_Full_Extent_(BFE)_EW", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Lower_Layer_Super_Output_Areas_(Dec_2021)_Boundaries_Full_Extent_(BFE)_EW/MapServer"
-    }, 
-    {
-      "name" : "Lower_Layer_Super_Output_Areas_(December_2021)_Boundaries_Super_Generalised_Clipped_EW_(BSC)", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Lower_Layer_Super_Output_Areas_(December_2021)_Boundaries_Super_Generalised_Clipped_EW_(BSC)/MapServer"
-    }, 
-    {
       "name" : "Lower_layer_Super_Output_Areas_2021_EW_BFC_V8", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Lower_layer_Super_Output_Areas_2021_EW_BFC_V8/MapServer"
@@ -13812,16 +13667,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_(Dec_2011)_PWC_in_England_and_Wales/MapServer"
     }, 
     {
-      "name" : "LSOA_(Dec_2021)_Boundaries_Full_Clipped_EW_(BFC)", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_(Dec_2021)_Boundaries_Full_Clipped_EW_(BFC)/MapServer"
-    }, 
-    {
-      "name" : "LSOA_(Dec_2021)_Boundaries_Generalised_Clipped_EW_(BGC)", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_(Dec_2021)_Boundaries_Generalised_Clipped_EW_(BGC)/MapServer"
-    }, 
-    {
       "name" : "LSOA_2011_Boundaries_Super_Generalised_Clipped_BSC_EW_V4", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_2011_Boundaries_Super_Generalised_Clipped_BSC_EW_V4/MapServer"
@@ -13830,11 +13675,6 @@
       "name" : "LSOA_Dec_2011_Boundaries_Generalised_Clipped_BGC_EW_V3", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_Dec_2011_Boundaries_Generalised_Clipped_BGC_EW_V3/MapServer"
-    }, 
-    {
-      "name" : "LSOA_Dec_2021_Boundaries_Generalised_Clipped_EW_BGC_V2", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_Dec_2021_Boundaries_Generalised_Clipped_EW_BGC_V2/MapServer"
     }, 
     {
       "name" : "Major_Towns_and_Cities_(Dec_2015)_Boundaries_V2", 
@@ -13862,11 +13702,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Metropolitan_Counties_(December_2018)_GCB_in_England/MapServer"
     }, 
     {
-      "name" : "Middle_Layer_Super_Output_Areas_(2021)_EW_BFE_", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Middle_Layer_Super_Output_Areas_(2021)_EW_BFE_/MapServer"
-    }, 
-    {
       "name" : "Middle_Layer_Super_Output_Areas_(Dec_2001)__Boundaries_EW_BFE", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Middle_Layer_Super_Output_Areas_(Dec_2001)__Boundaries_EW_BFE/MapServer"
@@ -13885,16 +13720,6 @@
       "name" : "Middle_Layer_Super_Output_Areas_(Dec_2011)_Boundaries_Full_Extent_(BFE)_EW_V3", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Middle_Layer_Super_Output_Areas_(Dec_2011)_Boundaries_Full_Extent_(BFE)_EW_V3/MapServer"
-    }, 
-    {
-      "name" : "Middle_Layer_Super_Output_Areas_(Dec_2021)_Boundaries_Full_Clipped_EW_(BFC)", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Middle_Layer_Super_Output_Areas_(Dec_2021)_Boundaries_Full_Clipped_EW_(BFC)/MapServer"
-    }, 
-    {
-      "name" : "Middle_Layer_Super_Output_Areas_(December_2021)_Boundaries_Super_Generalised_Clipped_EW_(BSC)", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Middle_Layer_Super_Output_Areas_(December_2021)_Boundaries_Super_Generalised_Clipped_EW_(BSC)/MapServer"
     }, 
     {
       "name" : "MLSOA_(Dec_2021)_PWC_in_England_and_Wales", 
@@ -13935,16 +13760,6 @@
       "name" : "MSOA_(Dec_2011)_PWC_in_England_and_Wales", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_(Dec_2011)_PWC_in_England_and_Wales/MapServer"
-    }, 
-    {
-      "name" : "MSOA_(Dec_2021)_Boundaries_Full_Extent_(BFE)_EW", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_(Dec_2021)_Boundaries_Full_Extent_(BFE)_EW/MapServer"
-    }, 
-    {
-      "name" : "MSOA_(Dec_2021)_Boundaries_Generalised_Clipped_EW_(BGC)", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_(Dec_2021)_Boundaries_Generalised_Clipped_EW_(BGC)/MapServer"
     }, 
     {
       "name" : "MSOA_2021_EW_BFE_V7", 
@@ -14672,11 +14487,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA_(Dec_2001)_Address_Weighted_Centroids/MapServer"
     }, 
     {
-      "name" : "OA_2021_EW_BGC_V3", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA_2021_EW_BGC_V3/MapServer"
-    }, 
-    {
       "name" : "Output_Areas_(Dec_2001)_Boundaries_EW_BFC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_(Dec_2001)_Boundaries_EW_BFC/MapServer"
@@ -14707,21 +14517,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_(Dec_2011)_PWC/MapServer"
     }, 
     {
-      "name" : "Output_Areas_(Dec_2021)_Boundaries_Full_Clipped_EW_(BFC)", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_(Dec_2021)_Boundaries_Full_Clipped_EW_(BFC)/MapServer"
-    }, 
-    {
-      "name" : "Output_Areas_(Dec_2021)_Boundaries_Full_Extent_EW_(BFE)", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_(Dec_2021)_Boundaries_Full_Extent_EW_(BFE)/MapServer"
-    }, 
-    {
-      "name" : "Output_Areas_(Dec_2021)_Boundaries_Generalised_Clipped_EW_(BGC)", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_(Dec_2021)_Boundaries_Generalised_Clipped_EW_(BGC)/MapServer"
-    }, 
-    {
       "name" : "Output_Areas_(December_2011)_EW_BFE_V2", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_(December_2011)_EW_BFE_V2/MapServer"
@@ -14735,11 +14530,6 @@
       "name" : "Output_Areas_2021_EW_BFC_V8", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_2021_EW_BFC_V8/MapServer"
-    }, 
-    {
-      "name" : "Output_Areas_2021_EW_BFE_V8", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_2021_EW_BFE_V8/MapServer"
     }, 
     {
       "name" : "Output_Areas_2021_EW_BFE_V9", 
@@ -15945,6 +15735,11 @@
       "name" : "Travel_to_Work_Areas_(Dec_2011)_FCB_in_United_Kingdom", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Travel_to_Work_Areas_(Dec_2011)_FCB_in_United_Kingdom/MapServer"
+    }, 
+    {
+      "name" : "Travel_to_Work_Areas_(Dec_2011)_FEB_in_United_Kingdom", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Travel_to_Work_Areas_(Dec_2011)_FEB_in_United_Kingdom/MapServer"
     }, 
     {
       "name" : "Travel_to_Work_Areas_(Dec_2011)_GCB_in_United_Kingdom", 
