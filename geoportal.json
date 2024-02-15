@@ -2,36 +2,6 @@
   "currentVersion" : 11.2, 
   "services" : [
     {
-      "name" : "Age_16_24_TTWA", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Age_16_24_TTWA/FeatureServer"
-    }, 
-    {
-      "name" : "Age_25_34_TTWA", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Age_25_34_TTWA/FeatureServer"
-    }, 
-    {
-      "name" : "Age_35_49_TTWA", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Age_35_49_TTWA/FeatureServer"
-    }, 
-    {
-      "name" : "Age_50_64_TTWA", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Age_50_64_TTWA/FeatureServer"
-    }, 
-    {
-      "name" : "Age_65_74_TTWA", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Age_65_74_TTWA/FeatureServer"
-    }, 
-    {
-      "name" : "Age_75_plus_TTWA", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Age_75_plus_TTWA/FeatureServer"
-    }, 
-    {
       "name" : "Broadband_coverage", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Broadband_coverage/FeatureServer"
@@ -270,16 +240,6 @@
       "name" : "Cancer_Alliances_July_2023_Boundaries_EN_BUC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Cancer_Alliances_July_2023_Boundaries_EN_BUC/FeatureServer"
-    }, 
-    {
-      "name" : "Care_Home__Residents_2011_Age_85_and_over_as_a_percent_of_all_in_this_age_group", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Care_Home__Residents_2011_Age_85_and_over_as_a_percent_of_all_in_this_age_group/FeatureServer"
-    }, 
-    {
-      "name" : "Care_Home_Residents_2011_Age_65_and_over_as_a_percent_of_all_in_this_age_group", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Care_Home_Residents_2011_Age_65_and_over_as_a_percent_of_all_in_this_age_group/FeatureServer"
     }, 
     {
       "name" : "CAUTH_DEC_2022_EN_NC", 
@@ -9020,11 +8980,6 @@
       "name" : "TTWA_2001_UK_NC_610a76f036ca49428bf824eaa6fcdeec", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/TTWA_2001_UK_NC_610a76f036ca49428bf824eaa6fcdeec/FeatureServer"
-    }, 
-    {
-      "name" : "TTWA_2011_UK", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/TTWA_2011_UK/FeatureServer"
     }, 
     {
       "name" : "TTWA_2011_UK_BSC", 
