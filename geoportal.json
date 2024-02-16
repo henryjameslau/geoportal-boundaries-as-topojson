@@ -2,6 +2,36 @@
   "currentVersion" : 11.2, 
   "services" : [
     {
+      "name" : "Age_16_24_TTWA", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Age_16_24_TTWA/FeatureServer"
+    }, 
+    {
+      "name" : "Age_25_34_TTWA", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Age_25_34_TTWA/FeatureServer"
+    }, 
+    {
+      "name" : "Age_35_49_TTWA", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Age_35_49_TTWA/FeatureServer"
+    }, 
+    {
+      "name" : "Age_50_64_TTWA", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Age_50_64_TTWA/FeatureServer"
+    }, 
+    {
+      "name" : "Age_65_74_TTWA", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Age_65_74_TTWA/FeatureServer"
+    }, 
+    {
+      "name" : "Age_75_plus_TTWA", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Age_75_plus_TTWA/FeatureServer"
+    }, 
+    {
       "name" : "Broadband_coverage", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Broadband_coverage/FeatureServer"
@@ -8980,6 +9010,11 @@
       "name" : "TTWA_2001_UK_NC_610a76f036ca49428bf824eaa6fcdeec", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/TTWA_2001_UK_NC_610a76f036ca49428bf824eaa6fcdeec/FeatureServer"
+    }, 
+    {
+      "name" : "TTWA_2011_UK", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/TTWA_2011_UK/FeatureServer"
     }, 
     {
       "name" : "TTWA_2011_UK_BSC", 
