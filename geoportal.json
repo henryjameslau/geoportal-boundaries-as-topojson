@@ -5512,6 +5512,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_Dec_2011_PWC_in_England_and_Wales_2022/FeatureServer"
     }, 
     {
+      "name" : "MSOA_Dec_2021_Boundaries_Generalised_Clipped_EW_BGC_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_Dec_2021_Boundaries_Generalised_Clipped_EW_BGC_2022/FeatureServer"
+    }, 
+    {
       "name" : "MSOA_DEC_2021_EW_NC_v2", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_DEC_2021_EW_NC_v2/FeatureServer"
@@ -7215,6 +7220,11 @@
       "name" : "Output_Areas_Dec_2011_PWC_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_Dec_2011_PWC_2022/FeatureServer"
+    }, 
+    {
+      "name" : "Output_Areas_Dec_2021_Boundaries_Generalised_Clipped_EW_BGC_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_Dec_2021_Boundaries_Generalised_Clipped_EW_BGC_2022/FeatureServer"
     }, 
     {
       "name" : "PAR_DEC_2022_EW_NC", 
@@ -17165,6 +17175,21 @@
       "name" : "Counties_December_2023_Boundaries_EN_BUC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_December_2023_Boundaries_EN_BUC/MapServer"
+    }, 
+    {
+      "name" : "Local_Health_Boards_December_2023_WA_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Health_Boards_December_2023_WA_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Health_Boards_December_2023_WA_BFC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Health_Boards_December_2023_WA_BFC/WFSServer"
+    }, 
+    {
+      "name" : "Local_Health_Boards_December_2023_WA_BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Health_Boards_December_2023_WA_BFC/MapServer"
     }
   ]
 }
