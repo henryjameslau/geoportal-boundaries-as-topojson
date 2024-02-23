@@ -17182,6 +17182,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Health_Boards_December_2023_WA_BFC/FeatureServer"
     }, 
     {
+      "name" : "Local_Health_Boards_December_2023_WA_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Health_Boards_December_2023_WA_BFE/FeatureServer"
+    }, 
+    {
       "name" : "Local_Health_Boards_December_2023_WA_BFC", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Health_Boards_December_2023_WA_BFC/WFSServer"
@@ -17190,6 +17195,46 @@
       "name" : "Local_Health_Boards_December_2023_WA_BFC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Health_Boards_December_2023_WA_BFC/MapServer"
+    }, 
+    {
+      "name" : "Local_Health_Boards_December_2023_WA_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Health_Boards_December_2023_WA_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Health_Boards_December_2023_WA_BUC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Health_Boards_December_2023_WA_BUC/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Health_Boards_December_2023_WA_BFE", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Health_Boards_December_2023_WA_BFE/WFSServer"
+    }, 
+    {
+      "name" : "Local_Health_Boards_December_2023_WA_BFE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Health_Boards_December_2023_WA_BFE/MapServer"
+    }, 
+    {
+      "name" : "Local_Health_Boards_December_2023_WA_BGC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Health_Boards_December_2023_WA_BGC/WFSServer"
+    }, 
+    {
+      "name" : "Local_Health_Boards_December_2023_WA_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Health_Boards_December_2023_WA_BGC/MapServer"
+    }, 
+    {
+      "name" : "Local_Health_Boards_December_2023_WA_BUC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Health_Boards_December_2023_WA_BUC/WFSServer"
+    }, 
+    {
+      "name" : "Local_Health_Boards_December_2023_WA_BUC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Health_Boards_December_2023_WA_BUC/MapServer"
     }
   ]
 }
