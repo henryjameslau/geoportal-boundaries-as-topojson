@@ -17227,6 +17227,21 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Health_Boards_December_2023_WA_BUC/MapServer"
     }, 
     {
+      "name" : "NHS_England_Regions_December_2023_EN_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHS_England_Regions_December_2023_EN_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "NHS_England_Regions_December_2023_EN_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHS_England_Regions_December_2023_EN_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "NHS_England_Regions_December_2023_EN_BSC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHS_England_Regions_December_2023_EN_BSC/FeatureServer"
+    }, 
+    {
       "name" : "NHS_England_Regions_December_2023_EN_BFC", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHS_England_Regions_December_2023_EN_BFC/WFSServer"
@@ -17255,6 +17270,111 @@
       "name" : "PCON_2024_UK_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PCON_2024_UK_NC/FeatureServer"
+    }, 
+    {
+      "name" : "NHS_England_Regions_December_2023_EN_BSC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHS_England_Regions_December_2023_EN_BSC/WFSServer"
+    }, 
+    {
+      "name" : "NHS_England_Regions_December_2023_EN_BSC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHS_England_Regions_December_2023_EN_BSC/MapServer"
+    }, 
+    {
+      "name" : "NHS_England_Regions_December_2023_EN_BGC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHS_England_Regions_December_2023_EN_BGC/WFSServer"
+    }, 
+    {
+      "name" : "NHS_England_Regions_December_2023_EN_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHS_England_Regions_December_2023_EN_BGC/MapServer"
+    }, 
+    {
+      "name" : "NHS_England_Regions_December_2023_EN_BFE", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHS_England_Regions_December_2023_EN_BFE/WFSServer"
+    }, 
+    {
+      "name" : "NHS_England_Regions_December_2023_EN_BFE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHS_England_Regions_December_2023_EN_BFE/MapServer"
+    }, 
+    {
+      "name" : "Regions_December_2023_Boundaries_EN_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Regions_December_2023_Boundaries_EN_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "Regions_December_2023_Boundaries_EN_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Regions_December_2023_Boundaries_EN_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "Regions_December_2023_Boundaries_EN_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Regions_December_2023_Boundaries_EN_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "Regions_December_2023_Boundaries_EN_BUC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Regions_December_2023_Boundaries_EN_BUC/FeatureServer"
+    }, 
+    {
+      "name" : "Regions_December_2023_Boundaries_EN_BUC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Regions_December_2023_Boundaries_EN_BUC/WFSServer"
+    }, 
+    {
+      "name" : "Regions_December_2023_Boundaries_EN_BUC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Regions_December_2023_Boundaries_EN_BUC/MapServer"
+    }, 
+    {
+      "name" : "Regions_December_2023_Boundaries_EN_BGC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Regions_December_2023_Boundaries_EN_BGC/WFSServer"
+    }, 
+    {
+      "name" : "Regions_December_2023_Boundaries_EN_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Regions_December_2023_Boundaries_EN_BGC/MapServer"
+    }, 
+    {
+      "name" : "Regions_December_2023_Boundaries_EN_BFE", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Regions_December_2023_Boundaries_EN_BFE/WFSServer"
+    }, 
+    {
+      "name" : "Regions_December_2023_Boundaries_EN_BFE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Regions_December_2023_Boundaries_EN_BFE/MapServer"
+    }, 
+    {
+      "name" : "Regions_December_2023_Boundaries_EN_BFC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Regions_December_2023_Boundaries_EN_BFC/WFSServer"
+    }, 
+    {
+      "name" : "Regions_December_2023_Boundaries_EN_BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Regions_December_2023_Boundaries_EN_BFC/MapServer"
+    }, 
+    {
+      "name" : "Regions_December_2023_Boundaries_EN_BSC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Regions_December_2023_Boundaries_EN_BSC/FeatureServer"
+    }, 
+    {
+      "name" : "Regions_December_2023_Boundaries_EN_BSC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Regions_December_2023_Boundaries_EN_BSC/WFSServer"
+    }, 
+    {
+      "name" : "Regions_December_2023_Boundaries_EN_BSC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Regions_December_2023_Boundaries_EN_BSC/MapServer"
     }
   ]
 }
