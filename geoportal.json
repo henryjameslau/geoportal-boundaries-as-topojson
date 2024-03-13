@@ -7457,11 +7457,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA21_WD22_LTLA22_UTLA22_RGN22_CTRY22_EW_LU_v2/FeatureServer"
     }, 
     {
-      "name" : "OA21_WD23_LAD23_EW_LU", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA21_WD23_LAD23_EW_LU/FeatureServer"
-    }, 
-    {
       "name" : "OAC_2011_UK_NC_ef4e132bcfe8457aa344d59737e9bb31", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OAC_2011_UK_NC_ef4e132bcfe8457aa344d59737e9bb31/FeatureServer"
@@ -17127,6 +17122,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_December_2023_Boundaries_EN_BGC/FeatureServer"
     }, 
     {
+      "name" : "Combined_Authorities_December_2023_Boundaries_EN_BSC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_December_2023_Boundaries_EN_BSC/FeatureServer"
+    }, 
+    {
       "name" : "Combined_Authorities_December_2023_Boundaries_EN_BUC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_December_2023_Boundaries_EN_BUC/FeatureServer"
@@ -17170,6 +17170,21 @@
       "name" : "Combined_Authorities_December_2023_Boundaries_EN_BFC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_December_2023_Boundaries_EN_BFC/MapServer"
+    }, 
+    {
+      "name" : "Combined_Authorities_December_2023_Boundaries_EN_BSC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_December_2023_Boundaries_EN_BSC/WFSServer"
+    }, 
+    {
+      "name" : "Combined_Authorities_December_2023_Boundaries_EN_BSC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_December_2023_Boundaries_EN_BSC/MapServer"
+    }, 
+    {
+      "name" : "OA21_WD23_LAD23_EW_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA21_WD23_LAD23_EW_LU/FeatureServer"
     }
   ]
 }
