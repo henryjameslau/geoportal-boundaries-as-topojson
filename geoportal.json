@@ -982,6 +982,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Community_Safety_Partnerships_July_2016_Names_and_Codes_in_England_2022/FeatureServer"
     }, 
     {
+      "name" : "Cornwall", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Cornwall/FeatureServer"
+    }, 
+    {
       "name" : "Counties_21_April_1991_Names_and_Codes_in_England_and_Wales_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_21_April_1991_Names_and_Codes_in_England_and_Wales_2022/FeatureServer"
