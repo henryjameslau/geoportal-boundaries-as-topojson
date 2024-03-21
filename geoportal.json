@@ -4107,6 +4107,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LHB_2013_WA_BSC/FeatureServer"
     }, 
     {
+      "name" : "LHB_DEC_2023_WA_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LHB_DEC_2023_WA_BGC/FeatureServer"
+    }, 
+    {
       "name" : "LHB_DEC_2023_WA_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LHB_DEC_2023_WA_NC/FeatureServer"
@@ -6710,6 +6715,11 @@
       "name" : "NHSCR_Apr_2016_UGCB_in_England_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSCR_Apr_2016_UGCB_in_England_2022/FeatureServer"
+    }, 
+    {
+      "name" : "NHSER_DEC_2023_EN_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSER_DEC_2023_EN_BGC/FeatureServer"
     }, 
     {
       "name" : "NHSPD_Online_Latest_Centroids", 
