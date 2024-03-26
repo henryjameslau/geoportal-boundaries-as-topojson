@@ -10362,11 +10362,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD23_LAD23_UK_LU_DEC/FeatureServer"
     }, 
     {
-      "name" : "WD23_PCON23_LAD23_UTLA23_UK_LU", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD23_PCON23_LAD23_UTLA23_UK_LU/FeatureServer"
-    }, 
-    {
       "name" : "WD23_REGD23_LAD23_EW_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD23_REGD23_LAD23_EW_LU/FeatureServer"
@@ -17210,6 +17205,21 @@
       "name" : "OA21_WD23_LAD23_EW_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA21_WD23_LAD23_EW_LU/FeatureServer"
+    }, 
+    {
+      "name" : "PCON10_PCON25_UK_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PCON10_PCON25_UK_LU/FeatureServer"
+    }, 
+    {
+      "name" : "OA11_PCON25_EW_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA11_PCON25_EW_LU/FeatureServer"
+    }, 
+    {
+      "name" : "WD23_PCON23_LAD23_UTLA23_UK_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD23_PCON23_LAD23_UTLA23_UK_LU/FeatureServer"
     }
   ]
 }
