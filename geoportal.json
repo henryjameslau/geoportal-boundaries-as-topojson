@@ -5837,11 +5837,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_Dec_2011_PWC_in_England_and_Wales_2022/FeatureServer"
     }, 
     {
-      "name" : "MSOA_Dec_2021_Boundaries_Generalised_Clipped_EW_BGC_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_Dec_2021_Boundaries_Generalised_Clipped_EW_BGC_2022/FeatureServer"
-    }, 
-    {
       "name" : "MSOA_DEC_2021_EW_NC_v2", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_DEC_2021_EW_NC_v2/FeatureServer"
@@ -6847,11 +6842,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NSPL_Online_Centroids/FeatureServer"
     }, 
     {
-      "name" : "NSUL_DEC_2022_SE_Fareham", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NSUL_DEC_2022_SE_Fareham/FeatureServer"
-    }, 
-    {
       "name" : "NUTS_Level_1_January_2015_FCB_in_England_and_Wales_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NUTS_Level_1_January_2015_FCB_in_England_and_Wales_2022/FeatureServer"
@@ -7600,11 +7590,6 @@
       "name" : "Output_Areas_Dec_2011_PWC_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_Dec_2011_PWC_2022/FeatureServer"
-    }, 
-    {
-      "name" : "Output_Areas_Dec_2021_Boundaries_Generalised_Clipped_EW_BGC_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_Dec_2021_Boundaries_Generalised_Clipped_EW_BGC_2022/FeatureServer"
     }, 
     {
       "name" : "PAR_DEC_2022_EW_NC", 
@@ -17220,6 +17205,11 @@
       "name" : "WD23_PCON23_LAD23_UTLA23_UK_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD23_PCON23_LAD23_UTLA23_UK_LU/FeatureServer"
+    }, 
+    {
+      "name" : "Lower_Tier_Local_Authority_to_Upper_Tier_Local_Authority_(December_2016)_Lookup_in_EW", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Lower_Tier_Local_Authority_to_Upper_Tier_Local_Authority_(December_2016)_Lookup_in_EW/FeatureServer"
     }
   ]
 }
