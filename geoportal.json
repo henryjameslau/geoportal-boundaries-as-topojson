@@ -17210,6 +17210,46 @@
       "name" : "Lower_Tier_Local_Authority_to_Upper_Tier_Local_Authority_(December_2016)_Lookup_in_EW", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Lower_Tier_Local_Authority_to_Upper_Tier_Local_Authority_(December_2016)_Lookup_in_EW/FeatureServer"
+    }, 
+    {
+      "name" : "Westminster_Parliamentary_Constituencies_Future_Boundaries_UK_BFC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Westminster_Parliamentary_Constituencies_Future_Boundaries_UK_BFC/WFSServer"
+    }, 
+    {
+      "name" : "Westminster_Parliamentary_Constituencies_(Future)_Boundaries_UK_BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Westminster_Parliamentary_Constituencies_(Future)_Boundaries_UK_BFC/MapServer"
+    }, 
+    {
+      "name" : "Westminster_Parliamentary_Constituencies_Future_Boundaries_UK_BFE", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Westminster_Parliamentary_Constituencies_Future_Boundaries_UK_BFE/WFSServer"
+    }, 
+    {
+      "name" : "Westminster_Parliamentary_Constituencies_(Future)_Boundaries_UK_BFE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Westminster_Parliamentary_Constituencies_(Future)_Boundaries_UK_BFE/MapServer"
+    }, 
+    {
+      "name" : "Westminster_Parliamentary_Constituencies_Future_Boundaries_UK_BGC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Westminster_Parliamentary_Constituencies_Future_Boundaries_UK_BGC/WFSServer"
+    }, 
+    {
+      "name" : "Westminster_Parliamentary_Constituencies_(Future)_Boundaries_UK_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Westminster_Parliamentary_Constituencies_(Future)_Boundaries_UK_BGC/MapServer"
+    }, 
+    {
+      "name" : "Westminster_Parliamentary_Constituencies_Future_Boundaries_UK_BSC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Westminster_Parliamentary_Constituencies_Future_Boundaries_UK_BSC/WFSServer"
+    }, 
+    {
+      "name" : "Westminster_Parliamentary_Constituencies_(Future)_Boundaries_UK_BSC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Westminster_Parliamentary_Constituencies_(Future)_Boundaries_UK_BSC/MapServer"
     }
   ]
 }
