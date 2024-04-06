@@ -17172,6 +17172,16 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA21_WD23_LAD23_EW_LU/FeatureServer"
     }, 
     {
+      "name" : "LeicestershireLSOA", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LeicestershireLSOA/FeatureServer"
+    }, 
+    {
+      "name" : "LeicestershireOA", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LeicestershireOA/FeatureServer"
+    }, 
+    {
       "name" : "PCON10_PCON25_UK_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PCON10_PCON25_UK_LU/FeatureServer"
