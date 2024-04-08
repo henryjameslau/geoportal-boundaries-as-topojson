@@ -5222,11 +5222,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_2011_EW_NC_6fe4968cc083413988b2c5d643e1d248/FeatureServer"
     }, 
     {
-      "name" : "LSOA_2011_to_LSOA_2021_to_Local_Authority_District_2022_Lookup_for_England__2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_2011_to_LSOA_2021_to_Local_Authority_District_2022_Lookup_for_England__2022/FeatureServer"
-    }, 
-    {
       "name" : "LSOA_2021_to_Ward_to_Lower_Tier_Local_Authority_May_2022_Lookup_for_England_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_2021_to_Ward_to_Lower_Tier_Local_Authority_May_2022_Lookup_for_England_2022/FeatureServer"
@@ -17300,6 +17295,21 @@
       "name" : "Countries_(December_2023)_Boundaries_UK_BFC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_(December_2023)_Boundaries_UK_BFC/MapServer"
+    }, 
+    {
+      "name" : "Middle_Super_Output_Areas_DEC_2021_EW_PWC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Middle_Super_Output_Areas_DEC_2021_EW_PWC/FeatureServer"
+    }, 
+    {
+      "name" : "Middle_layer_Super_Output_Areas_December_2021_EW_Population_Weighted_Centroids_V2", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Middle_layer_Super_Output_Areas_December_2021_EW_Population_Weighted_Centroids_V2/WFSServer"
+    }, 
+    {
+      "name" : "Middle_layer_Super_Output_Areas_(December_2021)_EW_Population_Weighted_Centroids_(V2)", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Middle_layer_Super_Output_Areas_(December_2021)_EW_Population_Weighted_Centroids_(V2)/MapServer"
     }
   ]
 }
