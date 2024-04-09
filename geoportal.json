@@ -5457,11 +5457,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA11_LEP20_EN_LU_2bd363b66c994e11a0530b206b176e33/FeatureServer"
     }, 
     {
-      "name" : "LSOA11_LSOA21_LAD22_EW_LU", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA11_LSOA21_LAD22_EW_LU/FeatureServer"
-    }, 
-    {
       "name" : "LSOA11_SICBL22_EN_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA11_SICBL22_EN_LU/FeatureServer"
@@ -17310,6 +17305,11 @@
       "name" : "Middle_layer_Super_Output_Areas_(December_2021)_EW_Population_Weighted_Centroids_(V2)", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Middle_layer_Super_Output_Areas_(December_2021)_EW_Population_Weighted_Centroids_(V2)/MapServer"
+    }, 
+    {
+      "name" : "LSOA11_LSOA21_LAD22_EW_LU_v3", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA11_LSOA21_LAD22_EW_LU_v3/FeatureServer"
     }
   ]
 }
