@@ -5532,11 +5532,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA11_WD19_LAD19_EW_LU_cbf3896924a74e58ac96b7ec66a34071/FeatureServer"
     }, 
     {
-      "name" : "LSOA11_WD20_LAD20_EW_LU_aec7b3e1683e431482cae2b459e2f853", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA11_WD20_LAD20_EW_LU_aec7b3e1683e431482cae2b459e2f853/FeatureServer"
-    }, 
-    {
       "name" : "LSOA11_WD20_LAD20_EW_LU_v2_f514a75a131249caa65227cdc6275a21", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA11_WD20_LAD20_EW_LU_v2_f514a75a131249caa65227cdc6275a21/FeatureServer"
