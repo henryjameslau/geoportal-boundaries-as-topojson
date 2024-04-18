@@ -2297,6 +2297,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Disability/FeatureServer"
     }, 
     {
+      "name" : "DorsetBCP", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/DorsetBCP/FeatureServer"
+    }, 
+    {
       "name" : "DZ_DEC_2011_SC_NC_45ae61d197ca46658b7431e39e1eb3de", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/DZ_DEC_2011_SC_NC_45ae61d197ca46658b7431e39e1eb3de/FeatureServer"
@@ -17157,6 +17162,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA21_WD23_LAD23_EW_LU/FeatureServer"
     }, 
     {
+      "name" : "Oxfordshire", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Oxfordshire/FeatureServer"
+    }, 
+    {
       "name" : "LeicestershireLSOA", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LeicestershireLSOA/FeatureServer"
@@ -17380,6 +17390,21 @@
       "name" : "Community_Safety_Partnerships_December_2023_Boundaries_EW_BSC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Community_Safety_Partnerships_December_2023_Boundaries_EW_BSC/MapServer"
+    }, 
+    {
+      "name" : "main_ONS_BUA_2024_EW", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/main_ONS_BUA_2024_EW/FeatureServer"
+    }, 
+    {
+      "name" : "Built_Up_Areas_2024_Boundaries_EW_BGG", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Built_Up_Areas_2024_Boundaries_EW_BGG/WFSServer"
+    }, 
+    {
+      "name" : "Built_Up_Areas_(2024)_Boundaries_EW_BGG", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Built_Up_Areas_(2024)_Boundaries_EW_BGG/MapServer"
     }
   ]
 }
