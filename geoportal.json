@@ -17405,6 +17405,76 @@
       "name" : "Built_Up_Areas_(2024)_Boundaries_EW_BGG", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Built_Up_Areas_(2024)_Boundaries_EW_BGG/MapServer"
+    }, 
+    {
+      "name" : "Police_Force_Areas_December_2023_EW_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Police_Force_Areas_December_2023_EW_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "Police_Force_Areas_December_2023_EW_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Police_Force_Areas_December_2023_EW_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "Police_Force_Areas_December_2023_EW_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Police_Force_Areas_December_2023_EW_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "Police_Force_Areas_December_2023_EW_BSC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Police_Force_Areas_December_2023_EW_BSC/FeatureServer"
+    }, 
+    {
+      "name" : "Police_Force_Areas_December_2023_EW_BUC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Police_Force_Areas_December_2023_EW_BUC/FeatureServer"
+    }, 
+    {
+      "name" : "Police_Force_Areas_December_2023_EW_BUC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Police_Force_Areas_December_2023_EW_BUC/WFSServer"
+    }, 
+    {
+      "name" : "Police_Force_Areas_December_2023_EW_BSC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Police_Force_Areas_December_2023_EW_BSC/WFSServer"
+    }, 
+    {
+      "name" : "Police_Force_Areas_December_2023_EW_BSC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Police_Force_Areas_December_2023_EW_BSC/MapServer"
+    }, 
+    {
+      "name" : "Police_Force_Areas_December_2023_EW_BGC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Police_Force_Areas_December_2023_EW_BGC/WFSServer"
+    }, 
+    {
+      "name" : "Police_Force_Areas_December_2023_EW_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Police_Force_Areas_December_2023_EW_BGC/MapServer"
+    }, 
+    {
+      "name" : "Police_Force_Areas_December_2023_EW_BFE", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Police_Force_Areas_December_2023_EW_BFE/WFSServer"
+    }, 
+    {
+      "name" : "Police_Force_Areas_December_2023_EW_BFE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Police_Force_Areas_December_2023_EW_BFE/MapServer"
+    }, 
+    {
+      "name" : "Police_Force_Areas_December_2023_EW_BFC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Police_Force_Areas_December_2023_EW_BFC/WFSServer"
+    }, 
+    {
+      "name" : "Police_Force_Areas_December_2023_EW_BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Police_Force_Areas_December_2023_EW_BFC/MapServer"
     }
   ]
 }
