@@ -3647,11 +3647,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD22_FRA22_EW_LU/FeatureServer"
     }, 
     {
-      "name" : "LAD22_LAD23_UK_LU", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD22_LAD23_UK_LU/FeatureServer"
-    }, 
-    {
       "name" : "LAD22_LPA22_UK_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD22_LPA22_UK_LU/FeatureServer"
@@ -3682,11 +3677,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD23_CSP23_PFA23_EW_LU/FeatureServer"
     }, 
     {
-      "name" : "LAD23_CTRY23_UK_LU", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD23_CTRY23_UK_LU/FeatureServer"
-    }, 
-    {
       "name" : "LAD23_CTY23_EN_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD23_CTY23_EN_LU/FeatureServer"
@@ -3700,11 +3690,6 @@
       "name" : "LAD23_LAU121_ITL321_ITL221_ITL121_UK_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD23_LAU121_ITL321_ITL221_ITL121_UK_LU/FeatureServer"
-    }, 
-    {
-      "name" : "LAD23_LPA23_UK_LU", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD23_LPA23_UK_LU/FeatureServer"
     }, 
     {
       "name" : "LAD23_LRF23_EW_LU", 
@@ -17475,6 +17460,141 @@
       "name" : "Police_Force_Areas_December_2023_EW_BFC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Police_Force_Areas_December_2023_EW_BFC/MapServer"
+    }, 
+    {
+      "name" : "NHS_England_Regions_January_2024_EN_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHS_England_Regions_January_2024_EN_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "NHS_England_Regions_January_2024_EN_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHS_England_Regions_January_2024_EN_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "NHS_England_Regions_January_2024_EN_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHS_England_Regions_January_2024_EN_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "NHS_England_Regions_January_2024_EN_BSC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHS_England_Regions_January_2024_EN_BSC/FeatureServer"
+    }, 
+    {
+      "name" : "NHS_England_Regions_January_2024_EN_BGC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHS_England_Regions_January_2024_EN_BGC/WFSServer"
+    }, 
+    {
+      "name" : "NHS_England_Regions_January_2024_EN_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHS_England_Regions_January_2024_EN_BGC/MapServer"
+    }, 
+    {
+      "name" : "NHS_England_Regions_January_2024_EN_BSC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHS_England_Regions_January_2024_EN_BSC/WFSServer"
+    }, 
+    {
+      "name" : "NHS_England_Regions_January_2024_EN_BSC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHS_England_Regions_January_2024_EN_BSC/MapServer"
+    }, 
+    {
+      "name" : "NHS_England_Regions_January_2024_EN_BFE", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHS_England_Regions_January_2024_EN_BFE/WFSServer"
+    }, 
+    {
+      "name" : "NHS_England_Regions_January_2024_EN_BFE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHS_England_Regions_January_2024_EN_BFE/MapServer"
+    }, 
+    {
+      "name" : "NHS_England_Regions_January_2024_EN_BFC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHS_England_Regions_January_2024_EN_BFC/WFSServer"
+    }, 
+    {
+      "name" : "NHS_England_Regions_January_2024_EN_BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHS_England_Regions_January_2024_EN_BFC/MapServer"
+    }, 
+    {
+      "name" : "SICBL24_ICB24_NHSER24_EN_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SICBL24_ICB24_NHSER24_EN_LU/FeatureServer"
+    }, 
+    {
+      "name" : "OA21_SICBL24_ICB24_NHSER24_EN_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA21_SICBL24_ICB24_NHSER24_EN_LU/FeatureServer"
+    }, 
+    {
+      "name" : "LSOA21_SICBL24_ICB24_CAL24_LAD24_EN_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA21_SICBL24_ICB24_CAL24_LAD24_EN_LU/FeatureServer"
+    }, 
+    {
+      "name" : "NHSER_APR_2024_EN_NC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSER_APR_2024_EN_NC/FeatureServer"
+    }, 
+    {
+      "name" : "CAL_APR_2024_EN_NC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CAL_APR_2024_EN_NC/FeatureServer"
+    }, 
+    {
+      "name" : "OA21_LAD23_LSOA21_MSOA21_LEP23_EN_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA21_LAD23_LSOA21_MSOA21_LEP23_EN_LU/FeatureServer"
+    }, 
+    {
+      "name" : "Wards_December_1998_Boundaries_EW_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_December_1998_Boundaries_EW_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "Wards_December_1998_Boundaries_SC_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_December_1998_Boundaries_SC_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "Wards_December_1998_Boundaries_SC_BFE", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_December_1998_Boundaries_SC_BFE/WFSServer"
+    }, 
+    {
+      "name" : "Wards_December_1998_Boundaries_SC_BFE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_December_1998_Boundaries_SC_BFE/MapServer"
+    }, 
+    {
+      "name" : "Wards_December_1998_Boundaries_EW_BFE", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_December_1998_Boundaries_EW_BFE/WFSServer"
+    }, 
+    {
+      "name" : "Wards_December_1998_Boundaries_EW_BFE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_December_1998_Boundaries_EW_BFE/MapServer"
+    }, 
+    {
+      "name" : "LAD22_LAD23_UK_LU_v1", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD22_LAD23_UK_LU_v1/FeatureServer"
+    }, 
+    {
+      "name" : "LAD23_CTRY23_UK_LU_v1", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD23_CTRY23_UK_LU_v1/FeatureServer"
+    }, 
+    {
+      "name" : "LAD23_LPA23_UK_LU_v1", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD23_LPA23_UK_LU_v1/FeatureServer"
     }
   ]
 }
