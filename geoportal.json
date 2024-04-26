@@ -7602,11 +7602,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PAR22_WD22_LAD22_EW_LU/FeatureServer"
     }, 
     {
-      "name" : "PAR23_WD23_LAD23_EW_LU", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PAR23_WD23_LAD23_EW_LU/FeatureServer"
-    }, 
-    {
       "name" : "parish", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/parish/FeatureServer"
@@ -17595,6 +17590,11 @@
       "name" : "LAD23_LPA23_UK_LU_v1", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD23_LPA23_UK_LU_v1/FeatureServer"
+    }, 
+    {
+      "name" : "PAR23_WD23_LAD23_EW_LU_v1", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PAR23_WD23_LAD23_EW_LU_v1/FeatureServer"
     }
   ]
 }
