@@ -10322,11 +10322,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD23_REGD23_LAD23_EW_LU/FeatureServer"
     }, 
     {
-      "name" : "WD23_SENC23_WA_LU", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD23_SENC23_WA_LU/FeatureServer"
-    }, 
-    {
       "name" : "WD23_UA23_SENER23_WA_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD23_UA23_SENER23_WA_LU/FeatureServer"
@@ -17167,11 +17162,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA11_PCON25_EW_LU/FeatureServer"
     }, 
     {
-      "name" : "WD23_PCON23_LAD23_UTLA23_UK_LU", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD23_PCON23_LAD23_UTLA23_UK_LU/FeatureServer"
-    }, 
-    {
       "name" : "Lower_Tier_Local_Authority_to_Upper_Tier_Local_Authority_(December_2016)_Lookup_in_EW", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Lower_Tier_Local_Authority_to_Upper_Tier_Local_Authority_(December_2016)_Lookup_in_EW/FeatureServer"
@@ -17595,6 +17585,16 @@
       "name" : "PAR23_WD23_LAD23_EW_LU_v1", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PAR23_WD23_LAD23_EW_LU_v1/FeatureServer"
+    }, 
+    {
+      "name" : "WD23_SENC23_WA_LU_v1", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD23_SENC23_WA_LU_v1/FeatureServer"
+    }, 
+    {
+      "name" : "WD23_PCON23_LAD23_UTLA23_UK_LU_v1", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD23_PCON23_LAD23_UTLA23_UK_LU_v1/FeatureServer"
     }
   ]
 }
