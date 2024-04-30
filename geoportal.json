@@ -5212,6 +5212,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_2011_EW_NC_6fe4968cc083413988b2c5d643e1d248/FeatureServer"
     }, 
     {
+      "name" : "LSOA_2011_to_LSOA_2021_to_Local_Authority_District_2022_Lookup_for_England__2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_2011_to_LSOA_2021_to_Local_Authority_District_2022_Lookup_for_England__2022/FeatureServer"
+    }, 
+    {
       "name" : "LSOA_2021_to_Ward_to_Lower_Tier_Local_Authority_May_2022_Lookup_for_England_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_2021_to_Ward_to_Lower_Tier_Local_Authority_May_2022_Lookup_for_England_2022/FeatureServer"
@@ -5870,11 +5875,6 @@
       "name" : "MSOA11_WD19_LAD19_EW_LU_604dd503f9aa46639ac31e5bd36f9c15", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA11_WD19_LAD19_EW_LU_604dd503f9aa46639ac31e5bd36f9c15/FeatureServer"
-    }, 
-    {
-      "name" : "MSOA11_WD20_LAD20_EW_LU_c31e6cf6899f47c499803514e4d02bc2", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA11_WD20_LAD20_EW_LU_c31e6cf6899f47c499803514e4d02bc2/FeatureServer"
     }, 
     {
       "name" : "MSOA11_WD20_LAD20_EW_LU_v2_fe9d3f4903fe4ae1b1141625ae912e60", 
@@ -7407,11 +7407,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA21_SENC21_SENER21_WA_LU/FeatureServer"
     }, 
     {
-      "name" : "OA21_SENC22_SENER22_EW_LU", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA21_SENC22_SENER22_EW_LU/FeatureServer"
-    }, 
-    {
       "name" : "OA21_SENC22_SENER22_EW_LU_V3", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA21_SENC22_SENER22_EW_LU_V3/FeatureServer"
@@ -7420,11 +7415,6 @@
       "name" : "OA21_SICBL23_ICB23_NHSER23_EN_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA21_SICBL23_ICB23_NHSER23_EN_LU/FeatureServer"
-    }, 
-    {
-      "name" : "OA21_to_SENC22_to_SENEDD22", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA21_to_SENC22_to_SENEDD22/FeatureServer"
     }, 
     {
       "name" : "OA21_UTLA23_EW_LU", 
@@ -8065,11 +8055,6 @@
       "name" : "PCON19_EER19_UK_LU_416e1e78345c416c8346d781f69c453a", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PCON19_EER19_UK_LU_416e1e78345c416c8346d781f69c453a/FeatureServer"
-    }, 
-    {
-      "name" : "PCON20_EER20_UK_LU_84881709dd5e4ceaaaee17ac435214d3", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PCON20_EER20_UK_LU_84881709dd5e4ceaaaee17ac435214d3/FeatureServer"
     }, 
     {
       "name" : "PFA_Dec_2016_GCB_in_England_and_Wales_2022", 
@@ -10320,11 +10305,6 @@
       "name" : "WD23_REGD23_LAD23_EW_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD23_REGD23_LAD23_EW_LU/FeatureServer"
-    }, 
-    {
-      "name" : "WD23_UA23_SENER23_WA_LU", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD23_UA23_SENER23_WA_LU/FeatureServer"
     }, 
     {
       "name" : "WD81_WD91_EW_LU_644a3989bd4042119678945ca1f2f2ec", 
@@ -17595,6 +17575,16 @@
       "name" : "WD23_PCON23_LAD23_UTLA23_UK_LU_v1", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD23_PCON23_LAD23_UTLA23_UK_LU_v1/FeatureServer"
+    }, 
+    {
+      "name" : "WD23_UA23_SENER23_WA_LU_v1", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD23_UA23_SENER23_WA_LU_v1/FeatureServer"
+    }, 
+    {
+      "name" : "PCON20_EER20_UK_LU_v1", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PCON20_EER20_UK_LU_v1/FeatureServer"
     }
   ]
 }
