@@ -17585,6 +17585,16 @@
       "name" : "PCON20_EER20_UK_LU_v1", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PCON20_EER20_UK_LU_v1/FeatureServer"
+    }, 
+    {
+      "name" : "CAUTH_MAY_2024_EN_NC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CAUTH_MAY_2024_EN_NC/FeatureServer"
+    }, 
+    {
+      "name" : "LAD24_CAUTH24_EN_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD24_CAUTH24_EN_LU/FeatureServer"
     }
   ]
 }
