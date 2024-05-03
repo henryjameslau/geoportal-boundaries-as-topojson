@@ -1122,6 +1122,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_and_Unitary_Authorities_December_2018_GCB_GB_2022/FeatureServer"
     }, 
     {
+      "name" : "Counties_and_Unitary_Authorities_December_2018_GCB_UK_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_and_Unitary_Authorities_December_2018_GCB_UK_2022/FeatureServer"
+    }, 
+    {
       "name" : "Counties_and_Unitary_Authorities_December_2019_FCB_UK_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_and_Unitary_Authorities_December_2019_FCB_UK_2022/FeatureServer"
