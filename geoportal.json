@@ -17600,6 +17600,41 @@
       "name" : "UTLA_APR_2023_UK_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/UTLA_APR_2023_UK_NC/FeatureServer"
+    }, 
+    {
+      "name" : "Fire_and_Rescue_Authorities_December_2023_EW_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Fire_and_Rescue_Authorities_December_2023_EW_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "Fire_and_Rescue_Authorities_December_2023_EW_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Fire_and_Rescue_Authorities_December_2023_EW_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "Fire_and_Rescue_Authorities_December_2023_EW_BFE", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Fire_and_Rescue_Authorities_December_2023_EW_BFE/WFSServer"
+    }, 
+    {
+      "name" : "Fire_and_Rescue_Authorities_December_2023_EW_BFE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Fire_and_Rescue_Authorities_December_2023_EW_BFE/MapServer"
+    }, 
+    {
+      "name" : "Fire_and_Rescue_Authorities_December_2023_EW_BFC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Fire_and_Rescue_Authorities_December_2023_EW_BFC/WFSServer"
+    }, 
+    {
+      "name" : "Fire_and_Rescue_Authorities_December_2023_EW_BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Fire_and_Rescue_Authorities_December_2023_EW_BFC/MapServer"
+    }, 
+    {
+      "name" : "Fire_and_Rescue_Authorities_December_2023_EW_BGC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Fire_and_Rescue_Authorities_December_2023_EW_BGC/WFSServer"
     }
   ]
 }
