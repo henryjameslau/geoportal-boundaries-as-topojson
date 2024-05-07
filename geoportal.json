@@ -17567,14 +17567,19 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PAR23_WD23_LAD23_EW_LU_v1/FeatureServer"
     }, 
     {
+      "name" : "UK_Gridded_Square_200m", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/UK_Gridded_Square_200m/FeatureServer"
+    }, 
+    {
+      "name" : "France_Gridded_Square_200m", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/France_Gridded_Square_200m/FeatureServer"
+    }, 
+    {
       "name" : "WD23_SENC23_WA_LU_v1", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD23_SENC23_WA_LU_v1/FeatureServer"
-    }, 
-    {
-      "name" : "WD23_PCON23_LAD23_UTLA23_UK_LU_v1", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD23_PCON23_LAD23_UTLA23_UK_LU_v1/FeatureServer"
     }, 
     {
       "name" : "WD23_UA23_SENER23_WA_LU_v1", 
@@ -17635,6 +17640,11 @@
       "name" : "Fire_and_Rescue_Authorities_December_2023_EW_BGC", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Fire_and_Rescue_Authorities_December_2023_EW_BGC/WFSServer"
+    }, 
+    {
+      "name" : "WD23_PCON23_LAD23_UTLA23_UK_LU_v1", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD23_PCON23_LAD23_UTLA23_UK_LU_v1/FeatureServer"
     }
   ]
 }
