@@ -17612,9 +17612,24 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Fire_and_Rescue_Authorities_December_2023_EW_BFC/FeatureServer"
     }, 
     {
+      "name" : "Fire_and_Rescue_Authorities_December_2023_EW_BUC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Fire_and_Rescue_Authorities_December_2023_EW_BUC/FeatureServer"
+    }, 
+    {
+      "name" : "Fire_and_Rescue_Authorities_December_2023_EW_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Fire_and_Rescue_Authorities_December_2023_EW_BGC/FeatureServer"
+    }, 
+    {
       "name" : "Fire_and_Rescue_Authorities_December_2023_EW_BFE", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Fire_and_Rescue_Authorities_December_2023_EW_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "Fire_and_Rescue_Authorities_December_2023_EW_BSC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Fire_and_Rescue_Authorities_December_2023_EW_BSC/FeatureServer"
     }, 
     {
       "name" : "Fire_and_Rescue_Authorities_December_2023_EW_BFE", 
@@ -17642,9 +17657,34 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Fire_and_Rescue_Authorities_December_2023_EW_BGC/WFSServer"
     }, 
     {
+      "name" : "Fire_and_Rescue_Authorities_December_2023_EW_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Fire_and_Rescue_Authorities_December_2023_EW_BGC/MapServer"
+    }, 
+    {
       "name" : "WD23_PCON23_LAD23_UTLA23_UK_LU_v1", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD23_PCON23_LAD23_UTLA23_UK_LU_v1/FeatureServer"
+    }, 
+    {
+      "name" : "Fire_and_Rescue_Authorities_December_2023_EW_BUC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Fire_and_Rescue_Authorities_December_2023_EW_BUC/WFSServer"
+    }, 
+    {
+      "name" : "Fire_and_Rescue_Authorities_December_2023_EW_BUC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Fire_and_Rescue_Authorities_December_2023_EW_BUC/MapServer"
+    }, 
+    {
+      "name" : "Fire_and_Rescue_Authorities_December_2023_EW_BSC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Fire_and_Rescue_Authorities_December_2023_EW_BSC/WFSServer"
+    }, 
+    {
+      "name" : "Fire_and_Rescue_Authorities_December_2023_EW_BSC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Fire_and_Rescue_Authorities_December_2023_EW_BSC/MapServer"
     }
   ]
 }
