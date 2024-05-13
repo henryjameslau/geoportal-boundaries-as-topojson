@@ -5217,11 +5217,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_2011_to_LSOA_2021_to_Local_Authority_District_2022_Lookup_for_England__2022/FeatureServer"
     }, 
     {
-      "name" : "LSOA_2021_to_Ward_to_Lower_Tier_Local_Authority_May_2022_Lookup_for_England_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_2021_to_Ward_to_Lower_Tier_Local_Authority_May_2022_Lookup_for_England_2022/FeatureServer"
-    }, 
-    {
       "name" : "LSOA_Dec_2001_Address_Weighted_Centroids", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_Dec_2001_Address_Weighted_Centroids/FeatureServer"
@@ -5772,11 +5767,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_2011_EW_NC_a8cc8c7309734d5bba946c74ca52fe25/FeatureServer"
     }, 
     {
-      "name" : "MSOA_2011_to_MSOA_2021_to_Local_Authority_District_2022_Lookup_for_England__2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_2011_to_MSOA_2021_to_Local_Authority_District_2022_Lookup_for_England__2022/FeatureServer"
-    }, 
-    {
       "name" : "MSOA_2021_EW_BFE_V7", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_2021_EW_BFE_V7/FeatureServer"
@@ -5905,11 +5895,6 @@
       "name" : "MSOA21_WD22_LAD22_EW_LU_v2", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA21_WD22_LAD22_EW_LU_v2/FeatureServer"
-    }, 
-    {
-      "name" : "MSOA21_WD22_LTLA22_EW_LU", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA21_WD22_LTLA22_EW_LU/FeatureServer"
     }, 
     {
       "name" : "MSOA21_WD23_LAD23_EW_LU", 
@@ -17685,6 +17670,11 @@
       "name" : "Fire_and_Rescue_Authorities_December_2023_EW_BSC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Fire_and_Rescue_Authorities_December_2023_EW_BSC/MapServer"
+    }, 
+    {
+      "name" : "MSOA11_MSOA21_LAD22_EW_LU_v2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA11_MSOA21_LAD22_EW_LU_v2/FeatureServer"
     }
   ]
 }
