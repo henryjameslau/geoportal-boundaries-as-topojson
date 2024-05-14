@@ -5217,6 +5217,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_2011_to_LSOA_2021_to_Local_Authority_District_2022_Lookup_for_England__2022/FeatureServer"
     }, 
     {
+      "name" : "LSOA_2021_to_Ward_to_Lower_Tier_Local_Authority_May_2022_Lookup_for_England_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_2021_to_Ward_to_Lower_Tier_Local_Authority_May_2022_Lookup_for_England_2022/FeatureServer"
+    }, 
+    {
       "name" : "LSOA_Dec_2001_Address_Weighted_Centroids", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_Dec_2001_Address_Weighted_Centroids/FeatureServer"
