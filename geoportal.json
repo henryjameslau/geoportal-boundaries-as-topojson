@@ -7397,11 +7397,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA21_SENC21_SENER21_WA_LU/FeatureServer"
     }, 
     {
-      "name" : "OA21_SENC22_SENER22_EW_LU_V3", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA21_SENC22_SENER22_EW_LU_V3/FeatureServer"
-    }, 
-    {
       "name" : "OA21_SICBL23_ICB23_NHSER23_EN_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA21_SICBL23_ICB23_NHSER23_EN_LU/FeatureServer"
