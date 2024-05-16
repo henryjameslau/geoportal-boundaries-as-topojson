@@ -8002,11 +8002,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PCON_2011_UK_BGC/FeatureServer"
     }, 
     {
-      "name" : "PCON_2024_UK_NC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PCON_2024_UK_NC/FeatureServer"
-    }, 
-    {
       "name" : "PCON_DEC_2022_UK_BFE_V2", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PCON_DEC_2022_UK_BFE_V2/FeatureServer"
@@ -17117,11 +17112,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LeicestershireOA/FeatureServer"
     }, 
     {
-      "name" : "PCON10_PCON25_UK_LU", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PCON10_PCON25_UK_LU/FeatureServer"
-    }, 
-    {
       "name" : "OA11_PCON25_EW_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA11_PCON25_EW_LU/FeatureServer"
@@ -17325,6 +17315,11 @@
       "name" : "Community_Safety_Partnerships_December_2023_Boundaries_EW_BSC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Community_Safety_Partnerships_December_2023_Boundaries_EW_BSC/MapServer"
+    }, 
+    {
+      "name" : "PCON10_PCON25_UK_LU_v2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PCON10_PCON25_UK_LU_v2/FeatureServer"
     }, 
     {
       "name" : "main_ONS_BUA_2024_EW", 
@@ -17672,9 +17667,24 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Fire_and_Rescue_Authorities_December_2023_EW_BSC/MapServer"
     }, 
     {
+      "name" : "PCON_2024_UK_NC_v2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PCON_2024_UK_NC_v2/FeatureServer"
+    }, 
+    {
       "name" : "MSOA11_MSOA21_LAD22_EW_LU_v2", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA11_MSOA21_LAD22_EW_LU_v2/FeatureServer"
+    }, 
+    {
+      "name" : "gb_public_transit_45", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/gb_public_transit_45/FeatureServer"
+    }, 
+    {
+      "name" : "france_public_transit_45", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/france_public_transit_45/FeatureServer"
     }
   ]
 }
