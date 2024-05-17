@@ -17122,31 +17122,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Lower_Tier_Local_Authority_to_Upper_Tier_Local_Authority_(December_2016)_Lookup_in_EW/FeatureServer"
     }, 
     {
-      "name" : "PCON_2025_UK_BFC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PCON_2025_UK_BFC/FeatureServer"
-    }, 
-    {
-      "name" : "PCON_2025_UK_BFE", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PCON_2025_UK_BFE/FeatureServer"
-    }, 
-    {
-      "name" : "PCON_2025_UK_BGC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PCON_2025_UK_BGC/FeatureServer"
-    }, 
-    {
-      "name" : "PCON_2025_UK_BSC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PCON_2025_UK_BSC/FeatureServer"
-    }, 
-    {
-      "name" : "PCON_2025_UK_BUC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PCON_2025_UK_BUC/FeatureServer"
-    }, 
-    {
       "name" : "Westminster_Parliamentary_Constituencies_Future_Boundaries_UK_BFC", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Westminster_Parliamentary_Constituencies_Future_Boundaries_UK_BFC/WFSServer"
@@ -17685,6 +17660,21 @@
       "name" : "france_public_transit_45", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/france_public_transit_45/FeatureServer"
+    }, 
+    {
+      "name" : "PCON_MAY_2024_UK_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PCON_MAY_2024_UK_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "Westminster_Parliamentary_Constituencies_May_2024_Boundaries_UK_BFE", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Westminster_Parliamentary_Constituencies_May_2024_Boundaries_UK_BFE/WFSServer"
+    }, 
+    {
+      "name" : "Westminster_Parliamentary_Constituencies_(May_2024)_Boundaries_UK_BFE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Westminster_Parliamentary_Constituencies_(May_2024)_Boundaries_UK_BFE/MapServer"
     }
   ]
 }
