@@ -17675,6 +17675,16 @@
       "name" : "Westminster_Parliamentary_Constituencies_(May_2024)_Boundaries_UK_BFE", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Westminster_Parliamentary_Constituencies_(May_2024)_Boundaries_UK_BFE/MapServer"
+    }, 
+    {
+      "name" : "WD_MAY_2024_UK_NC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD_MAY_2024_UK_NC/FeatureServer"
+    }, 
+    {
+      "name" : "WD24_LAD24_UK_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD24_LAD24_UK_LU/FeatureServer"
     }
   ]
 }
