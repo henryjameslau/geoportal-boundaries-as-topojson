@@ -7452,11 +7452,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ONSPD_Online_Latest_Centroids/FeatureServer"
     }, 
     {
-      "name" : "Output_Area__2011__to_Covid_Infection_Survey_Geography__2020__Lookup_in_the_United_Kindgom", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Area__2011__to_Covid_Infection_Survey_Geography__2020__Lookup_in_the_United_Kindgom/FeatureServer"
-    }, 
-    {
       "name" : "Output_Area_2011_EW_BFE_V2", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Area_2011_EW_BFE_V2/FeatureServer"
