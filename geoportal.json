@@ -17277,11 +17277,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Community_Safety_Partnerships_December_2023_Boundaries_EW_BSC/MapServer"
     }, 
     {
-      "name" : "PCON10_PCON25_UK_LU_v2", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PCON10_PCON25_UK_LU_v2/FeatureServer"
-    }, 
-    {
       "name" : "main_ONS_BUA_2024_EW", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/main_ONS_BUA_2024_EW/FeatureServer"
@@ -17670,6 +17665,11 @@
       "name" : "WD24_LAD24_UK_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD24_LAD24_UK_LU/FeatureServer"
+    }, 
+    {
+      "name" : "PCON10_PCON24_UK_LU_v2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PCON10_PCON24_UK_LU_v2/FeatureServer"
     }
   ]
 }
