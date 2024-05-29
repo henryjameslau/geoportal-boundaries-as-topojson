@@ -17502,16 +17502,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PAR23_WD23_LAD23_EW_LU_v1/FeatureServer"
     }, 
     {
-      "name" : "UK_Gridded_Square_200m", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/UK_Gridded_Square_200m/FeatureServer"
-    }, 
-    {
-      "name" : "France_Gridded_Square_200m", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/France_Gridded_Square_200m/FeatureServer"
-    }, 
-    {
       "name" : "WD23_SENC23_WA_LU_v1", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD23_SENC23_WA_LU_v1/FeatureServer"
