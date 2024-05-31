@@ -2857,16 +2857,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Integrated_Care_Boards_July_2022_EN_BFE_2022/FeatureServer"
     }, 
     {
-      "name" : "Integrated_Care_Systems_Dec_2019_in_England_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Integrated_Care_Systems_Dec_2019_in_England_2022/FeatureServer"
-    }, 
-    {
-      "name" : "Integrated_Care_Systems_Dec_2020_in_England_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Integrated_Care_Systems_Dec_2020_in_England_2022/FeatureServer"
-    }, 
-    {
       "name" : "Intermediate_Zones_Dec_2001_Names_and_Codes_in_Scotland_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Intermediate_Zones_Dec_2001_Names_and_Codes_in_Scotland_2022/FeatureServer"
@@ -2930,16 +2920,6 @@
       "name" : "International_Territorial_Level_3_January_2021_UK_BUC_V3_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/International_Territorial_Level_3_January_2021_UK_BUC_V3_2022/FeatureServer"
-    }, 
-    {
-      "name" : "IPN_GB_2019_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/IPN_GB_2019_2022/FeatureServer"
-    }, 
-    {
-      "name" : "IPN_GB_2020_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/IPN_GB_2020_2022/FeatureServer"
     }, 
     {
       "name" : "ITL1_JAN_2021_UK_NC_378fb0fd95ad4a219b01b1fb743d2305", 
@@ -9567,11 +9547,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Urban_Audit_CC_Dec_2016_UGCB_UK_2022/FeatureServer"
     }, 
     {
-      "name" : "Urban_Audit_Core_Cities_Dec_2016_Names_and_Codes_in_the_UK_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Urban_Audit_Core_Cities_Dec_2016_Names_and_Codes_in_the_UK_2022/FeatureServer"
-    }, 
-    {
       "name" : "Urban_Audit_FUA_Dec_2016_FCB_in_the_UK_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Urban_Audit_FUA_Dec_2016_FCB_in_the_UK_2022/FeatureServer"
@@ -9590,11 +9565,6 @@
       "name" : "Urban_Audit_FUA_Dec_2016_SGCB_in_the_UK_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Urban_Audit_FUA_Dec_2016_SGCB_in_the_UK_2022/FeatureServer"
-    }, 
-    {
-      "name" : "Urban_Audit_Functional_Urban_Areas_Dec_2016_Names_and_Codes_in_the_UK_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Urban_Audit_Functional_Urban_Areas_Dec_2016_Names_and_Codes_in_the_UK_2022/FeatureServer"
     }, 
     {
       "name" : "Urban_Audit_GC_Dec_2016_FCB_in_the_UK_2022", 
@@ -9620,11 +9590,6 @@
       "name" : "Urban_Audit_GC_Dec_2016_UGCB_in_the_UK_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Urban_Audit_GC_Dec_2016_UGCB_in_the_UK_2022/FeatureServer"
-    }, 
-    {
-      "name" : "Urban_Audit_Greater_Cities_Dec_2016_Names_and_Codes_in_the_UK_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Urban_Audit_Greater_Cities_Dec_2016_Names_and_Codes_in_the_UK_2022/FeatureServer"
     }, 
     {
       "name" : "Wales_Isochornes", 
@@ -12625,16 +12590,6 @@
       "name" : "IPN_GB_2018", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/IPN_GB_2018/MapServer"
-    }, 
-    {
-      "name" : "IPN_GB_2019", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/IPN_GB_2019/MapServer"
-    }, 
-    {
-      "name" : "IPN_GB_2020", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/IPN_GB_2020/MapServer"
     }, 
     {
       "name" : "LAC_(Dec_2018)_Boundaries_EN_BFE", 
@@ -16820,16 +16775,6 @@
       "name" : "Westminster_Parliamentary_Constituencies_(Dec_2021)_UK_BUC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Westminster_Parliamentary_Constituencies_(Dec_2021)_UK_BUC/MapServer"
-    }, 
-    {
-      "name" : "Westminster_Parliamentary_Constituencies_(Future)_Boundaries_EW_BFC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Westminster_Parliamentary_Constituencies_(Future)_Boundaries_EW_BFC/MapServer"
-    }, 
-    {
-      "name" : "Westminster_Parliamentary_Constituencies_(Future)_Boundaries_EW_BFE", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Westminster_Parliamentary_Constituencies_(Future)_Boundaries_EW_BFE/MapServer"
     }, 
     {
       "name" : "Westminster_Parliamentary_Constituencies_(Future)_Boundaries_EW_BGC", 
