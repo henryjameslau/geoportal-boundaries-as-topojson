@@ -17252,11 +17252,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD_MAY_2024_UK_NC/FeatureServer"
     }, 
     {
-      "name" : "WD24_LAD24_UK_LU", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD24_LAD24_UK_LU/FeatureServer"
-    }, 
-    {
       "name" : "PCON10_PCON24_UK_LU_v2", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PCON10_PCON24_UK_LU_v2/FeatureServer"
@@ -17385,6 +17380,11 @@
       "name" : "ONSPD_Online_Latest_Centroids", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ONSPD_Online_Latest_Centroids/WFSServer"
+    }, 
+    {
+      "name" : "WD24_LAD24_UK_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD24_LAD24_UK_LU/FeatureServer"
     }
   ]
 }
