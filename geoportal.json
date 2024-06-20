@@ -11977,31 +11977,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_(December_2016)_Boundaries_GB_BGC/MapServer"
     }, 
     {
-      "name" : "Countries_(December_2016)_FCB_in_Great_Britain", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_(December_2016)_FCB_in_Great_Britain/MapServer"
-    }, 
-    {
-      "name" : "Countries_(December_2016)_FEB_in_Great_Britain", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_(December_2016)_FEB_in_Great_Britain/MapServer"
-    }, 
-    {
-      "name" : "Countries_(December_2016)_GCB_in_Great_Britain", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_(December_2016)_GCB_in_Great_Britain/MapServer"
-    }, 
-    {
-      "name" : "Countries_(December_2016)_SGCB_in_Great_Britain", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_(December_2016)_SGCB_in_Great_Britain/MapServer"
-    }, 
-    {
-      "name" : "Countries_(December_2016)_UGCB_in_Great_Britain", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_(December_2016)_UGCB_in_Great_Britain/MapServer"
-    }, 
-    {
       "name" : "Countries_(December_2017)_FCB_in_Great_Britain", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_(December_2017)_FCB_in_Great_Britain/MapServer"
@@ -17215,6 +17190,51 @@
       "name" : "WPC__(Dec_2018)_GCB_UK", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WPC__(Dec_2018)_GCB_UK/MapServer"
+    }, 
+    {
+      "name" : "Wards_May_2024_Boundaries_UK_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_May_2024_Boundaries_UK_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "Wards_May_2024_Boundaries_UK_BSC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_May_2024_Boundaries_UK_BSC/FeatureServer"
+    }, 
+    {
+      "name" : "Wards_May_2024_Boundaries_UK_BFC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_May_2024_Boundaries_UK_BFC/WFSServer"
+    }, 
+    {
+      "name" : "Wards_May_2024_Boundaries_UK_BFE_", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_May_2024_Boundaries_UK_BFE_/FeatureServer"
+    }, 
+    {
+      "name" : "Wards_May_2024_Boundaries_UK_BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_May_2024_Boundaries_UK_BFC/MapServer"
+    }, 
+    {
+      "name" : "Wards_May_2024_Boundaries_UK_BFE", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_May_2024_Boundaries_UK_BFE/WFSServer"
+    }, 
+    {
+      "name" : "Wards_May_2024_Boundaries_UK_BFE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_May_2024_Boundaries_UK_BFE/MapServer"
+    }, 
+    {
+      "name" : "Wards_May_2024_Boundaries_UK_BSC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_May_2024_Boundaries_UK_BSC/WFSServer"
+    }, 
+    {
+      "name" : "Wards_May_2024_Boundaries_UK_BSC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_May_2024_Boundaries_UK_BSC/MapServer"
     }
   ]
 }
