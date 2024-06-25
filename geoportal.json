@@ -10452,11 +10452,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD23_UA23_SENER23_WA_LU_v1/FeatureServer"
     }, 
     {
-      "name" : "WD24_LAD24_UK_LU", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD24_LAD24_UK_LU/FeatureServer"
-    }, 
-    {
       "name" : "WD24_PCON24_LAD24_UTLA24_UK_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD24_PCON24_LAD24_UTLA24_UK_LU/FeatureServer"
@@ -17210,6 +17205,11 @@
       "name" : "Westminster_Parliamentary_Constituencies_July_2024_Boundaries_UK_BGC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Westminster_Parliamentary_Constituencies_July_2024_Boundaries_UK_BGC/MapServer"
+    }, 
+    {
+      "name" : "WD24_LAD24_UK_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD24_LAD24_UK_LU/FeatureServer"
     }
   ]
 }
