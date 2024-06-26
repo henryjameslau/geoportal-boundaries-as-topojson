@@ -17210,6 +17210,21 @@
       "name" : "WD24_LAD24_UK_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD24_LAD24_UK_LU/FeatureServer"
+    }, 
+    {
+      "name" : "OA21_WD24_LAD24_EW_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA21_WD24_LAD24_EW_LU/FeatureServer"
+    }, 
+    {
+      "name" : "LSOA21_WD24_LAD24_EW_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA21_WD24_LAD24_EW_LU/FeatureServer"
+    }, 
+    {
+      "name" : "MSOA21_WD24_LAD24_EW_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA21_WD24_LAD24_EW_LU/FeatureServer"
     }
   ]
 }
