@@ -5812,11 +5812,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Middle_Super_Output_Areas_DEC_2021_EW_PWC/FeatureServer"
     }, 
     {
-      "name" : "MLSOA_Dec_2021_PWC_in_England_and_Wales_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MLSOA_Dec_2021_PWC_in_England_and_Wales_2022/FeatureServer"
-    }, 
-    {
       "name" : "MOSA_2021_EW_BFC_V6", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MOSA_2021_EW_BFC_V6/FeatureServer"
@@ -14375,11 +14370,6 @@
       "name" : "Middle_layer_Super_Output_Areas_(December_2021)_EW_Population_Weighted_Centroids_(V2)", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Middle_layer_Super_Output_Areas_(December_2021)_EW_Population_Weighted_Centroids_(V2)/MapServer"
-    }, 
-    {
-      "name" : "MLSOA_(Dec_2021)_PWC_in_England_and_Wales", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MLSOA_(Dec_2021)_PWC_in_England_and_Wales/MapServer"
     }, 
     {
       "name" : "MOSA_2021_EW_BFC_V6", 
