@@ -16965,6 +16965,16 @@
       "name" : "MSOA21_WD24_LAD24_EW_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA21_WD24_LAD24_EW_LU/FeatureServer"
+    }, 
+    {
+      "name" : "Wards_May_2024_Boundaries_UK_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_May_2024_Boundaries_UK_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "Wards_May_2024_Boundaries_UK_BGC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_May_2024_Boundaries_UK_BGC/WFSServer"
     }
   ]
 }
