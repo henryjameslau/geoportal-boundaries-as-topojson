@@ -16975,6 +16975,46 @@
       "name" : "Wards_May_2024_Boundaries_UK_BGC", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_May_2024_Boundaries_UK_BGC/WFSServer"
+    }, 
+    {
+      "name" : "Wards_May_2024_Boundaries_UK_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_May_2024_Boundaries_UK_BGC/MapServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_May_2024_Boundaries_UK_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2024_Boundaries_UK_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_May_2024_Boundaries_UK_BFC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2024_Boundaries_UK_BFC/WFSServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_May_2024_Boundaries_UK_BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2024_Boundaries_UK_BFC/MapServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_May_2024_Boundaries_UK_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2024_Boundaries_UK_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_May_2024_Boundaries_UK_BFE", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2024_Boundaries_UK_BFE/WFSServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_May_2024_Boundaries_UK_BFE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2024_Boundaries_UK_BFE/MapServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_May_2024_Boundaries_UK_BGC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2024_Boundaries_UK_BGC/WFSServer"
     }
   ]
 }
