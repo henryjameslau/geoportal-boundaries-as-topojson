@@ -2782,6 +2782,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/herefordshire_lsoa_refactored/FeatureServer"
     }, 
     {
+      "name" : "Herefordshire_OA_Layer", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Herefordshire_OA_Layer/FeatureServer"
+    }, 
+    {
       "name" : "herefordshire_oa_refactored", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/herefordshire_oa_refactored/FeatureServer"
@@ -9032,6 +9037,16 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Statistical_ward_names_and_codes_UK_as_at_2005_c56516c8cc8445f192f2b2d8be33d7de/FeatureServer"
     }, 
     {
+      "name" : "Stoke_on_Trent_LSOA_Layer", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Stoke_on_Trent_LSOA_Layer/FeatureServer"
+    }, 
+    {
+      "name" : "Stoke_on_Trent_OA_Layer", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Stoke_on_Trent_OA_Layer/FeatureServer"
+    }, 
+    {
       "name" : "STP_Apr_2019_FCB_in_England_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/STP_Apr_2019_FCB_in_England_2022/FeatureServer"
@@ -10330,6 +10345,16 @@
       "name" : "Westminster_Parliamentary_Constituencies_July_2024_Boundaries_UK_BUC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Westminster_Parliamentary_Constituencies_July_2024_Boundaries_UK_BUC/FeatureServer"
+    }, 
+    {
+      "name" : "Worcestershire_LSOA_Layer", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Worcestershire_LSOA_Layer/FeatureServer"
+    }, 
+    {
+      "name" : "Worcestershire_OA_Layer", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Worcestershire_OA_Layer/FeatureServer"
     }, 
     {
       "name" : "Workplace_Zones_Dec_2011_FCB_in_England_and_Wales_2022", 
