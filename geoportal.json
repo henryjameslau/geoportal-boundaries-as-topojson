@@ -432,36 +432,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CED_MAY_2023_EN_NC/FeatureServer"
     }, 
     {
-      "name" : "CED17_CTY17_EN_LU_04609c83f80246aab55493eed0693960", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CED17_CTY17_EN_LU_04609c83f80246aab55493eed0693960/FeatureServer"
-    }, 
-    {
-      "name" : "CED18_CTY18_EN_LU_cba2430c610c42f19e110114c934995e", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CED18_CTY18_EN_LU_cba2430c610c42f19e110114c934995e/FeatureServer"
-    }, 
-    {
-      "name" : "CED19_CTY19_EN_LU_fc613bea77b84bc196b027aae239fc90", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CED19_CTY19_EN_LU_fc613bea77b84bc196b027aae239fc90/FeatureServer"
-    }, 
-    {
-      "name" : "CED20_CTY20_EN_LU_1156324f85b5476d9e54a0552f251e8f", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CED20_CTY20_EN_LU_1156324f85b5476d9e54a0552f251e8f/FeatureServer"
-    }, 
-    {
-      "name" : "CED22_CTY22_EN_LU", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CED22_CTY22_EN_LU/FeatureServer"
-    }, 
-    {
-      "name" : "CED23_CTY23_EN_LU", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CED23_CTY23_EN_LU/FeatureServer"
-    }, 
-    {
       "name" : "Census_Merged_Wards_Dec_2011_FEB_in_England_and_Wales_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Census_Merged_Wards_Dec_2011_FEB_in_England_and_Wales_2022/FeatureServer"
