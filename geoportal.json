@@ -13832,11 +13832,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/London_Assembly_Constituencies_(Dec_2018)_FCB_EN/MapServer"
     }, 
     {
-      "name" : "London_Assembly_Constituencies_(Dec_2018)_FEB_EN", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/London_Assembly_Constituencies_(Dec_2018)_FEB_EN/MapServer"
-    }, 
-    {
       "name" : "London_Assembly_Constituencies_(Dec_2018)_GCB_EN", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/London_Assembly_Constituencies_(Dec_2018)_GCB_EN/MapServer"
