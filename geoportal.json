@@ -17125,6 +17125,11 @@
       "name" : "Output_Area_(2011)_to_Ward_(2021)_to_LAD_(December_2021)_Best_Fit_Lookup_in_EW_(V2)", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Area_(2011)_to_Ward_(2021)_to_LAD_(December_2021)_Best_Fit_Lookup_in_EW_(V2)/FeatureServer"
+    }, 
+    {
+      "name" : "PAR_APR_2024_EW_NC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PAR_APR_2024_EW_NC/FeatureServer"
     }
   ]
 }
