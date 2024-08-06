@@ -5102,11 +5102,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/lsoa/FeatureServer"
     }, 
     {
-      "name" : "LSOA_(2011)_to_LSOA_(2021)_to_Local_Authority_District_(2022)_Lookup_for_England_and_Wales", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_(2011)_to_LSOA_(2021)_to_Local_Authority_District_(2022)_Lookup_for_England_and_Wales/FeatureServer"
-    }, 
-    {
       "name" : "LSOA__2001__names_and_codes_EW_as_at_02_04", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA__2001__names_and_codes_EW_as_at_02_04/FeatureServer"
@@ -17130,6 +17125,11 @@
       "name" : "PAR_APR_2024_EW_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PAR_APR_2024_EW_NC/FeatureServer"
+    }, 
+    {
+      "name" : "LSOA11_LSOA21_LAD22_EW_LU_v4", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA11_LSOA21_LAD22_EW_LU_v4/FeatureServer"
     }
   ]
 }
