@@ -17127,9 +17127,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PAR_APR_2024_EW_NC/FeatureServer"
     }, 
     {
-      "name" : "LSOA11_LSOA21_LAD22_EW_LU_v4", 
+      "name" : "LSOA11_LSOA21_LAD22_EW_LU_v5", 
       "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA11_LSOA21_LAD22_EW_LU_v4/FeatureServer"
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA11_LSOA21_LAD22_EW_LU_v5/FeatureServer"
     }
   ]
 }
