@@ -47,6 +47,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/BUA_2022_GB/FeatureServer"
     }, 
     {
+      "name" : "BUA_APR_2024_EW_NC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/BUA_APR_2024_EW_NC/FeatureServer"
+    }, 
+    {
       "name" : "BUA_DEC_2022_EW_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/BUA_DEC_2022_EW_NC/FeatureServer"
@@ -835,6 +840,31 @@
       "name" : "Combined_Authorities_March_2017_UGCB_in_England_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_March_2017_UGCB_in_England_2022/FeatureServer"
+    }, 
+    {
+      "name" : "Combined_Authorities_May_2023_Boundaries_EN_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_May_2023_Boundaries_EN_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "Combined_Authorities_May_2023_Boundaries_EN_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_May_2023_Boundaries_EN_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "Combined_Authorities_May_2023_Boundaries_EN_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_May_2023_Boundaries_EN_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "Combined_Authorities_May_2023_Boundaries_EN_BSC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_May_2023_Boundaries_EN_BSC/FeatureServer"
+    }, 
+    {
+      "name" : "Combined_Authorities_May_2023_Boundaries_EN_BUC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_May_2023_Boundaries_EN_BUC/FeatureServer"
     }, 
     {
       "name" : "Community_Safety_Partnerships_Dec_2016_Names_and_Codes_in_England_2022", 
@@ -2495,6 +2525,11 @@
       "name" : "Fire_and_Rescue_Authorities_Dec_2018_FEB_EW_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Fire_and_Rescue_Authorities_Dec_2018_FEB_EW_2022/FeatureServer"
+    }, 
+    {
+      "name" : "Fire_and_Rescue_Authorities_Dec_2018_GCB_EW_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Fire_and_Rescue_Authorities_Dec_2018_GCB_EW_2022/FeatureServer"
     }, 
     {
       "name" : "Fire_and_Rescue_Authorities_Dec_2018_Names_and_Codes_in_the_United_Kin_2022", 
@@ -4397,6 +4432,31 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2023_UK_BUC_V2/FeatureServer"
     }, 
     {
+      "name" : "Local_Authority_Districts_May_2024_Boundaries__UK_BSC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2024_Boundaries__UK_BSC/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_May_2024_Boundaries_UK_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2024_Boundaries_UK_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_May_2024_Boundaries_UK_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2024_Boundaries_UK_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_May_2024_Boundaries_UK_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2024_Boundaries_UK_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_May_2024_Boundaries_UK_BUC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2024_Boundaries_UK_BUC/FeatureServer"
+    }, 
+    {
       "name" : "Local_Enterprise_Partnership_Non_Overlapping_Parts_May_2021_EN_BFC_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Enterprise_Partnership_Non_Overlapping_Parts_May_2021_EN_BFC_2022/FeatureServer"
@@ -4997,6 +5057,26 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Lower_Layer_Super_Output_Areas_Dec_2011_Boundaries_Full_Extent_BFE_EW_V3_2022/FeatureServer"
     }, 
     {
+      "name" : "Lower_layer_Super_Output_Areas_December_2021_Boundaries_EW_BFC_V10", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Lower_layer_Super_Output_Areas_December_2021_Boundaries_EW_BFC_V10/FeatureServer"
+    }, 
+    {
+      "name" : "Lower_layer_Super_Output_Areas_December_2021_Boundaries_EW_BFE_V10", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Lower_layer_Super_Output_Areas_December_2021_Boundaries_EW_BFE_V10/FeatureServer"
+    }, 
+    {
+      "name" : "Lower_layer_Super_Output_Areas_December_2021_Boundaries_EW_BGC_V5", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Lower_layer_Super_Output_Areas_December_2021_Boundaries_EW_BGC_V5/FeatureServer"
+    }, 
+    {
+      "name" : "Lower_layer_Super_Output_Areas_December_2021_Boundaries_EW_BSC_V4", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Lower_layer_Super_Output_Areas_December_2021_Boundaries_EW_BSC_V4/FeatureServer"
+    }, 
+    {
       "name" : "Lower_Tier_Local_Authority_to_Upper_Tier_Local_Authority_(December_2016)_Lookup_in_EW", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Lower_Tier_Local_Authority_to_Upper_Tier_Local_Authority_(December_2016)_Lookup_in_EW/FeatureServer"
@@ -5357,6 +5437,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA11_LSOA21_LAD22_EW_LU_v3/FeatureServer"
     }, 
     {
+      "name" : "LSOA11_LSOA21_LAD22_EW_LU_v5", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA11_LSOA21_LAD22_EW_LU_v5/FeatureServer"
+    }, 
+    {
       "name" : "LSOA11_SICBL22_EN_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA11_SICBL22_EN_LU/FeatureServer"
@@ -5457,6 +5542,16 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA21_PCON25_LAD21_EW_LU/FeatureServer"
     }, 
     {
+      "name" : "LSOA21_SICBL23_ICB23_LAD23_EN_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA21_SICBL23_ICB23_LAD23_EN_LU/FeatureServer"
+    }, 
+    {
+      "name" : "LSOA21_SICBL24_ICB24_CAL24_LAD24_EN_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA21_SICBL24_ICB24_CAL24_LAD24_EN_LU/FeatureServer"
+    }, 
+    {
       "name" : "LSOA21_UTLA22_EW_LU_v2", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA21_UTLA22_EW_LU_v2/FeatureServer"
@@ -5475,6 +5570,11 @@
       "name" : "LSOA21_WD23_LAD23_EW_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA21_WD23_LAD23_EW_LU/FeatureServer"
+    }, 
+    {
+      "name" : "LSOA21_WD24_LAD24_EW_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA21_WD24_LAD24_EW_LU/FeatureServer"
     }, 
     {
       "name" : "LTLA17_UTLA17_EW_LU_45a46a5b8c3c47a6b84418d88aa1626c", 
@@ -5647,6 +5747,26 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Middle_Layer_Super_Output_Areas_Dec_2011_Boundaries_Full_Extent_BFE_EW_V3_2022/FeatureServer"
     }, 
     {
+      "name" : "Middle_layer_Super_Output_Areas_December_2021_Boundaries_EW_BFC_V7", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Middle_layer_Super_Output_Areas_December_2021_Boundaries_EW_BFC_V7/FeatureServer"
+    }, 
+    {
+      "name" : "Middle_layer_Super_Output_Areas_December_2021_Boundaries_EW_BFE_V8", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Middle_layer_Super_Output_Areas_December_2021_Boundaries_EW_BFE_V8/FeatureServer"
+    }, 
+    {
+      "name" : "Middle_layer_Super_Output_Areas_December_2021_Boundaries_EW_BGC_V3", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Middle_layer_Super_Output_Areas_December_2021_Boundaries_EW_BGC_V3/FeatureServer"
+    }, 
+    {
+      "name" : "Middle_layer_Super_Output_Areas_December_2021_Boundaries_EW_BSC_V3", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Middle_layer_Super_Output_Areas_December_2021_Boundaries_EW_BSC_V3/FeatureServer"
+    }, 
+    {
       "name" : "Middle_Super_Output_Areas_DEC_2021_EW_PWC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Middle_Super_Output_Areas_DEC_2021_EW_PWC/FeatureServer"
@@ -5795,6 +5915,11 @@
       "name" : "MSOA21_WD23_LAD23_EW_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA21_WD23_LAD23_EW_LU/FeatureServer"
+    }, 
+    {
+      "name" : "MSOA21_WD24_LAD24_EW_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA21_WD24_LAD24_EW_LU/FeatureServer"
     }, 
     {
       "name" : "NAER_Dec_2016_FCB_in_Wales_2022", 
@@ -6937,6 +7062,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NUTS315_NUTS318_UK_LU_7c6c05b7b6cd4fe9a4ab2158733563c6/FeatureServer"
     }, 
     {
+      "name" : "OA_(2021)_Best_Fit_Lookup_(2023)_EW_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA_(2021)_Best_Fit_Lookup_(2023)_EW_LU/FeatureServer"
+    }, 
+    {
       "name" : "OA_Dec_2001_Address_Weighted_Centroids", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA_Dec_2001_Address_Weighted_Centroids/FeatureServer"
@@ -7342,6 +7472,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA21_WD23_LAD23_EW_LU/FeatureServer"
     }, 
     {
+      "name" : "OA21_WD24_LAD24_EW_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA21_WD24_LAD24_EW_LU/FeatureServer"
+    }, 
+    {
       "name" : "OAC_2011_UK_NC_ef4e132bcfe8457aa344d59737e9bb31", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OAC_2011_UK_NC_ef4e132bcfe8457aa344d59737e9bb31/FeatureServer"
@@ -7385,6 +7520,11 @@
       "name" : "ONSPD_Online_Latest_Centroids", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ONSPD_Online_Latest_Centroids/FeatureServer"
+    }, 
+    {
+      "name" : "Output_Area_(2011)_to_Ward_(2021)_to_LAD_(December_2021)_Best_Fit_Lookup_in_EW_(V2)", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Area_(2011)_to_Ward_(2021)_to_LAD_(December_2021)_Best_Fit_Lookup_in_EW_(V2)/FeatureServer"
     }, 
     {
       "name" : "Output_Area_2011_EW_BFE_V2", 
@@ -7465,6 +7605,11 @@
       "name" : "Oxfordshire", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Oxfordshire/FeatureServer"
+    }, 
+    {
+      "name" : "PAR_APR_2024_EW_NC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PAR_APR_2024_EW_NC/FeatureServer"
     }, 
     {
       "name" : "PAR_DEC_2022_EW_NC", 
@@ -7855,6 +8000,26 @@
       "name" : "Parishes_May_2023_Boundaries_EW_BSC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_May_2023_Boundaries_EW_BSC/FeatureServer"
+    }, 
+    {
+      "name" : "Parishes_May_2024_Boundaries_EW_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_May_2024_Boundaries_EW_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "Parishes_May_2024_Boundaries_EW_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_May_2024_Boundaries_EW_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "Parishes_May_2024_Boundaries_EW_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_May_2024_Boundaries_EW_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "Parishes_May_2024_Boundaries_EW_BSC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_May_2024_Boundaries_EW_BSC/FeatureServer"
     }, 
     {
       "name" : "PARNCP_2011_EW_BGC", 
@@ -9927,6 +10092,26 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_December_2023_Boundaries_UK_BSC/FeatureServer"
     }, 
     {
+      "name" : "Wards_May_2024_Boundaries_UK_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_May_2024_Boundaries_UK_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "Wards_May_2024_Boundaries_UK_BFE_", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_May_2024_Boundaries_UK_BFE_/FeatureServer"
+    }, 
+    {
+      "name" : "Wards_May_2024_Boundaries_UK_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_May_2024_Boundaries_UK_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "Wards_May_2024_Boundaries_UK_BSC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_May_2024_Boundaries_UK_BSC/FeatureServer"
+    }, 
+    {
       "name" : "WD_2012_GB_BGC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD_2012_GB_BGC/FeatureServer"
@@ -10252,6 +10437,16 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD23_UA23_SENER23_WA_LU_v1/FeatureServer"
     }, 
     {
+      "name" : "WD24_LAD24_UK_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD24_LAD24_UK_LU/FeatureServer"
+    }, 
+    {
+      "name" : "WD24_PCON24_LAD24_UTLA24_UK_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD24_PCON24_LAD24_UTLA24_UK_LU/FeatureServer"
+    }, 
+    {
       "name" : "WD81_WD91_EW_LU_644a3989bd4042119678945ca1f2f2ec", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD81_WD91_EW_LU_644a3989bd4042119678945ca1f2f2ec/FeatureServer"
@@ -10380,6 +10575,11 @@
       "name" : "Westminster_Parliamentary_Constituencies_July_2024_Boundaries_UK_BFE", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Westminster_Parliamentary_Constituencies_July_2024_Boundaries_UK_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "Westminster_Parliamentary_Constituencies_July_2024_Boundaries_UK_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Westminster_Parliamentary_Constituencies_July_2024_Boundaries_UK_BGC/FeatureServer"
     }, 
     {
       "name" : "Westminster_Parliamentary_Constituencies_July_2024_Boundaries_UK_BSC", 
@@ -11037,6 +11237,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_(March_2017)_UGCB_in_England/MapServer"
     }, 
     {
+      "name" : "Combined_Authorities_(May_2024)_Boundaries_EN_BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_(May_2024)_Boundaries_EN_BFC/MapServer"
+    }, 
+    {
       "name" : "Combined_Authorities_December_2023_Boundaries_EN_BFC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_December_2023_Boundaries_EN_BFC/MapServer"
@@ -11060,6 +11265,26 @@
       "name" : "Combined_Authorities_December_2023_Boundaries_EN_BUC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_December_2023_Boundaries_EN_BUC/MapServer"
+    }, 
+    {
+      "name" : "Combined_Authorities_May_2024_Boundaries_EN_BFE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_May_2024_Boundaries_EN_BFE/MapServer"
+    }, 
+    {
+      "name" : "Combined_Authorities_May_2024_Boundaries_EN_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_May_2024_Boundaries_EN_BGC/MapServer"
+    }, 
+    {
+      "name" : "Combined_Authorities_May_2024_Boundaries_EN_BSC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_May_2024_Boundaries_EN_BSC/MapServer"
+    }, 
+    {
+      "name" : "Combined_Authorities_May_2024_Boundaries_EN_BUC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_May_2024_Boundaries_EN_BUC/MapServer"
     }, 
     {
       "name" : "Community_Safety_Partnerships_(Dec_2017)_EW_BFC", 
@@ -13352,6 +13577,31 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2023_UK_BUC_V2/MapServer"
     }, 
     {
+      "name" : "Local_Authority_Districts_May_2024_Boundaries__UK_BSC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2024_Boundaries__UK_BSC/MapServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_May_2024_Boundaries_UK_BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2024_Boundaries_UK_BFC/MapServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_May_2024_Boundaries_UK_BFE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2024_Boundaries_UK_BFE/MapServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_May_2024_Boundaries_UK_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2024_Boundaries_UK_BGC/MapServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_May_2024_Boundaries_UK_BUC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2024_Boundaries_UK_BUC/MapServer"
+    }, 
+    {
       "name" : "Local_Enterprise_Partnership_Non_Overlapping_Parts_(May_2021)_EN_BFC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Enterprise_Partnership_Non_Overlapping_Parts_(May_2021)_EN_BFC/MapServer"
@@ -13847,6 +14097,26 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Lower_Layer_Super_Output_Areas_(Dec_2011)_Boundaries_Full_Extent_(BFE)_EW_V3/MapServer"
     }, 
     {
+      "name" : "Lower_layer_Super_Output_Areas_December_2021_Boundaries_EW_BFC_V10", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Lower_layer_Super_Output_Areas_December_2021_Boundaries_EW_BFC_V10/MapServer"
+    }, 
+    {
+      "name" : "Lower_layer_Super_Output_Areas_December_2021_Boundaries_EW_BFE_V10", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Lower_layer_Super_Output_Areas_December_2021_Boundaries_EW_BFE_V10/MapServer"
+    }, 
+    {
+      "name" : "Lower_layer_Super_Output_Areas_December_2021_Boundaries_EW_BGC_V5", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Lower_layer_Super_Output_Areas_December_2021_Boundaries_EW_BGC_V5/MapServer"
+    }, 
+    {
+      "name" : "Lower_layer_Super_Output_Areas_December_2021_Boundaries_EW_BSC_V4", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Lower_layer_Super_Output_Areas_December_2021_Boundaries_EW_BSC_V4/MapServer"
+    }, 
+    {
       "name" : "LRF_(Dec_2015)_FCB_in_England_and_Wales", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LRF_(Dec_2015)_FCB_in_England_and_Wales/MapServer"
@@ -13980,6 +14250,26 @@
       "name" : "Middle_layer_Super_Output_Areas_(December_2021)_EW_Population_Weighted_Centroids_(V2)", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Middle_layer_Super_Output_Areas_(December_2021)_EW_Population_Weighted_Centroids_(V2)/MapServer"
+    }, 
+    {
+      "name" : "Middle_layer_Super_Output_Areas_December_2021_Boundaries_EW_BFC_V7", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Middle_layer_Super_Output_Areas_December_2021_Boundaries_EW_BFC_V7/MapServer"
+    }, 
+    {
+      "name" : "Middle_layer_Super_Output_Areas_December_2021_Boundaries_EW_BFE_V8", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Middle_layer_Super_Output_Areas_December_2021_Boundaries_EW_BFE_V8/MapServer"
+    }, 
+    {
+      "name" : "Middle_layer_Super_Output_Areas_December_2021_Boundaries_EW_BGC_V3", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Middle_layer_Super_Output_Areas_December_2021_Boundaries_EW_BGC_V3/MapServer"
+    }, 
+    {
+      "name" : "Middle_layer_Super_Output_Areas_December_2021_Boundaries_EW_BSC_V3", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Middle_layer_Super_Output_Areas_December_2021_Boundaries_EW_BSC_V3/MapServer"
     }, 
     {
       "name" : "MSOA_(Dec_2001)_Address_Weighted_Centroids", 
@@ -15145,6 +15435,26 @@
       "name" : "Parishes_May_2023_Boundaries_EW_BSC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_May_2023_Boundaries_EW_BSC/MapServer"
+    }, 
+    {
+      "name" : "Parishes_May_2024_Boundaries_EW_BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_May_2024_Boundaries_EW_BFC/MapServer"
+    }, 
+    {
+      "name" : "Parishes_May_2024_Boundaries_EW_BFE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_May_2024_Boundaries_EW_BFE/MapServer"
+    }, 
+    {
+      "name" : "Parishes_May_2024_Boundaries_EW_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_May_2024_Boundaries_EW_BGC/MapServer"
+    }, 
+    {
+      "name" : "Parishes_May_2024_Boundaries_EW_BSC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_May_2024_Boundaries_EW_BSC/MapServer"
     }, 
     {
       "name" : "PARNCP_(Dec_2015)_FCB_in_England_and_Wales_V2", 
@@ -16497,6 +16807,26 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_December_2023_Boundaries_UK_BSC/MapServer"
     }, 
     {
+      "name" : "Wards_May_2024_Boundaries_UK_BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_May_2024_Boundaries_UK_BFC/MapServer"
+    }, 
+    {
+      "name" : "Wards_May_2024_Boundaries_UK_BFE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_May_2024_Boundaries_UK_BFE/MapServer"
+    }, 
+    {
+      "name" : "Wards_May_2024_Boundaries_UK_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_May_2024_Boundaries_UK_BGC/MapServer"
+    }, 
+    {
+      "name" : "Wards_May_2024_Boundaries_UK_BSC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_May_2024_Boundaries_UK_BSC/MapServer"
+    }, 
+    {
       "name" : "WD_MAY_2023_UK_BFC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD_MAY_2023_UK_BFC/MapServer"
@@ -16585,6 +16915,11 @@
       "name" : "Westminster_Parliamentary_Constituencies_July_2024_Boundaries_UK_BFE", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Westminster_Parliamentary_Constituencies_July_2024_Boundaries_UK_BFE/MapServer"
+    }, 
+    {
+      "name" : "Westminster_Parliamentary_Constituencies_July_2024_Boundaries_UK_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Westminster_Parliamentary_Constituencies_July_2024_Boundaries_UK_BGC/MapServer"
     }, 
     {
       "name" : "Westminster_Parliamentary_Constituencies_July_2024_Boundaries_UK_BSC", 
@@ -16725,466 +17060,6 @@
       "name" : "WPC__(Dec_2018)_GCB_UK", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WPC__(Dec_2018)_GCB_UK/MapServer"
-    }, 
-    {
-      "name" : "Wards_May_2024_Boundaries_UK_BSC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_May_2024_Boundaries_UK_BSC/FeatureServer"
-    }, 
-    {
-      "name" : "Wards_May_2024_Boundaries_UK_BFE_", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_May_2024_Boundaries_UK_BFE_/FeatureServer"
-    }, 
-    {
-      "name" : "Wards_May_2024_Boundaries_UK_BFE", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_May_2024_Boundaries_UK_BFE/WFSServer"
-    }, 
-    {
-      "name" : "Wards_May_2024_Boundaries_UK_BFE", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_May_2024_Boundaries_UK_BFE/MapServer"
-    }, 
-    {
-      "name" : "Wards_May_2024_Boundaries_UK_BSC", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_May_2024_Boundaries_UK_BSC/WFSServer"
-    }, 
-    {
-      "name" : "Wards_May_2024_Boundaries_UK_BSC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_May_2024_Boundaries_UK_BSC/MapServer"
-    }, 
-    {
-      "name" : "Westminster_Parliamentary_Constituencies_July_2024_Boundaries_UK_BGC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Westminster_Parliamentary_Constituencies_July_2024_Boundaries_UK_BGC/FeatureServer"
-    }, 
-    {
-      "name" : "Westminster_Parliamentary_Constituencies_July_2024_Boundaries_UK_BGC", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Westminster_Parliamentary_Constituencies_July_2024_Boundaries_UK_BGC/WFSServer"
-    }, 
-    {
-      "name" : "Westminster_Parliamentary_Constituencies_July_2024_Boundaries_UK_BGC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Westminster_Parliamentary_Constituencies_July_2024_Boundaries_UK_BGC/MapServer"
-    }, 
-    {
-      "name" : "WD24_LAD24_UK_LU", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD24_LAD24_UK_LU/FeatureServer"
-    }, 
-    {
-      "name" : "OA21_WD24_LAD24_EW_LU", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA21_WD24_LAD24_EW_LU/FeatureServer"
-    }, 
-    {
-      "name" : "LSOA21_WD24_LAD24_EW_LU", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA21_WD24_LAD24_EW_LU/FeatureServer"
-    }, 
-    {
-      "name" : "MSOA21_WD24_LAD24_EW_LU", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA21_WD24_LAD24_EW_LU/FeatureServer"
-    }, 
-    {
-      "name" : "Wards_May_2024_Boundaries_UK_BGC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_May_2024_Boundaries_UK_BGC/FeatureServer"
-    }, 
-    {
-      "name" : "Wards_May_2024_Boundaries_UK_BGC", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_May_2024_Boundaries_UK_BGC/WFSServer"
-    }, 
-    {
-      "name" : "Wards_May_2024_Boundaries_UK_BGC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_May_2024_Boundaries_UK_BGC/MapServer"
-    }, 
-    {
-      "name" : "Local_Authority_Districts_May_2024_Boundaries_UK_BFE", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2024_Boundaries_UK_BFE/FeatureServer"
-    }, 
-    {
-      "name" : "Local_Authority_Districts_May_2024_Boundaries_UK_BFE", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2024_Boundaries_UK_BFE/WFSServer"
-    }, 
-    {
-      "name" : "Local_Authority_Districts_May_2024_Boundaries_UK_BFE", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2024_Boundaries_UK_BFE/MapServer"
-    }, 
-    {
-      "name" : "Local_Authority_Districts_May_2024_Boundaries_UK_BGC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2024_Boundaries_UK_BGC/FeatureServer"
-    }, 
-    {
-      "name" : "Local_Authority_Districts_May_2024_Boundaries_UK_BGC", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2024_Boundaries_UK_BGC/WFSServer"
-    }, 
-    {
-      "name" : "Local_Authority_Districts_May_2024_Boundaries_UK_BGC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2024_Boundaries_UK_BGC/MapServer"
-    }, 
-    {
-      "name" : "Local_Authority_Districts_May_2024_Boundaries__UK_BSC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2024_Boundaries__UK_BSC/FeatureServer"
-    }, 
-    {
-      "name" : "Local_Authority_Districts_May_2024_Boundaries__UK_BSC", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2024_Boundaries__UK_BSC/WFSServer"
-    }, 
-    {
-      "name" : "Local_Authority_Districts_May_2024_Boundaries__UK_BSC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2024_Boundaries__UK_BSC/MapServer"
-    }, 
-    {
-      "name" : "Local_Authority_Districts_May_2024_Boundaries_UK_BUC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2024_Boundaries_UK_BUC/FeatureServer"
-    }, 
-    {
-      "name" : "Local_Authority_Districts_May_2024_Boundaries_UK_BUC", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2024_Boundaries_UK_BUC/WFSServer"
-    }, 
-    {
-      "name" : "Local_Authority_Districts_May_2024_Boundaries_UK_BUC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2024_Boundaries_UK_BUC/MapServer"
-    }, 
-    {
-      "name" : "LSOA21_SICBL24_ICB24_CAL24_LAD24_EN_LU", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA21_SICBL24_ICB24_CAL24_LAD24_EN_LU/FeatureServer"
-    }, 
-    {
-      "name" : "Combined_Authorities_May_2023_Boundaries_EN_BFE", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_May_2023_Boundaries_EN_BFE/FeatureServer"
-    }, 
-    {
-      "name" : "Combined_Authorities_May_2023_Boundaries_EN_BGC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_May_2023_Boundaries_EN_BGC/FeatureServer"
-    }, 
-    {
-      "name" : "Combined_Authorities_May_2023_Boundaries_EN_BSC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_May_2023_Boundaries_EN_BSC/FeatureServer"
-    }, 
-    {
-      "name" : "Combined_Authorities_May_2023_Boundaries_EN_BUC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_May_2023_Boundaries_EN_BUC/FeatureServer"
-    }, 
-    {
-      "name" : "Combined_Authorities_May_2024_Boundaries_EN_BFE", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_May_2024_Boundaries_EN_BFE/WFSServer"
-    }, 
-    {
-      "name" : "LSOA21_SICBL23_ICB23_LAD23_EN_LU", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA21_SICBL23_ICB23_LAD23_EN_LU/FeatureServer"
-    }, 
-    {
-      "name" : "Combined_Authorities_May_2024_Boundaries_EN_BFE", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_May_2024_Boundaries_EN_BFE/MapServer"
-    }, 
-    {
-      "name" : "Combined_Authorities_May_2024_Boundaries_EN_BUC", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_May_2024_Boundaries_EN_BUC/WFSServer"
-    }, 
-    {
-      "name" : "Combined_Authorities_May_2024_Boundaries_EN_BUC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_May_2024_Boundaries_EN_BUC/MapServer"
-    }, 
-    {
-      "name" : "Combined_Authorities_May_2024_Boundaries_EN_BGC", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_May_2024_Boundaries_EN_BGC/WFSServer"
-    }, 
-    {
-      "name" : "Combined_Authorities_May_2024_Boundaries_EN_BGC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_May_2024_Boundaries_EN_BGC/MapServer"
-    }, 
-    {
-      "name" : "Combined_Authorities_May_2024_Boundaries_EN_BSC", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_May_2024_Boundaries_EN_BSC/WFSServer"
-    }, 
-    {
-      "name" : "Combined_Authorities_May_2024_Boundaries_EN_BSC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_May_2024_Boundaries_EN_BSC/MapServer"
-    }, 
-    {
-      "name" : "Lower_layer_Super_Output_Areas_December_2021_Boundaries_EW_BFC_V10", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Lower_layer_Super_Output_Areas_December_2021_Boundaries_EW_BFC_V10/FeatureServer"
-    }, 
-    {
-      "name" : "Lower_layer_Super_Output_Areas_December_2021_Boundaries_EW_BFC_V10", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Lower_layer_Super_Output_Areas_December_2021_Boundaries_EW_BFC_V10/WFSServer"
-    }, 
-    {
-      "name" : "Lower_layer_Super_Output_Areas_December_2021_Boundaries_EW_BFC_V10", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Lower_layer_Super_Output_Areas_December_2021_Boundaries_EW_BFC_V10/MapServer"
-    }, 
-    {
-      "name" : "Lower_layer_Super_Output_Areas_December_2021_Boundaries_EW_BFE_V10", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Lower_layer_Super_Output_Areas_December_2021_Boundaries_EW_BFE_V10/FeatureServer"
-    }, 
-    {
-      "name" : "Lower_layer_Super_Output_Areas_December_2021_Boundaries_EW_BFE_V10", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Lower_layer_Super_Output_Areas_December_2021_Boundaries_EW_BFE_V10/WFSServer"
-    }, 
-    {
-      "name" : "Lower_layer_Super_Output_Areas_December_2021_Boundaries_EW_BFE_V10", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Lower_layer_Super_Output_Areas_December_2021_Boundaries_EW_BFE_V10/MapServer"
-    }, 
-    {
-      "name" : "Lower_layer_Super_Output_Areas_December_2021_Boundaries_EW_BGC_V5", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Lower_layer_Super_Output_Areas_December_2021_Boundaries_EW_BGC_V5/FeatureServer"
-    }, 
-    {
-      "name" : "Lower_layer_Super_Output_Areas_December_2021_Boundaries_EW_BGC_V5", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Lower_layer_Super_Output_Areas_December_2021_Boundaries_EW_BGC_V5/WFSServer"
-    }, 
-    {
-      "name" : "Lower_layer_Super_Output_Areas_December_2021_Boundaries_EW_BGC_V5", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Lower_layer_Super_Output_Areas_December_2021_Boundaries_EW_BGC_V5/MapServer"
-    }, 
-    {
-      "name" : "Lower_layer_Super_Output_Areas_December_2021_Boundaries_EW_BSC_V4", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Lower_layer_Super_Output_Areas_December_2021_Boundaries_EW_BSC_V4/FeatureServer"
-    }, 
-    {
-      "name" : "Lower_layer_Super_Output_Areas_December_2021_Boundaries_EW_BSC_V4", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Lower_layer_Super_Output_Areas_December_2021_Boundaries_EW_BSC_V4/WFSServer"
-    }, 
-    {
-      "name" : "Lower_layer_Super_Output_Areas_December_2021_Boundaries_EW_BSC_V4", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Lower_layer_Super_Output_Areas_December_2021_Boundaries_EW_BSC_V4/MapServer"
-    }, 
-    {
-      "name" : "Middle_layer_Super_Output_Areas_December_2021_Boundaries_EW_BFC_V7", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Middle_layer_Super_Output_Areas_December_2021_Boundaries_EW_BFC_V7/FeatureServer"
-    }, 
-    {
-      "name" : "Middle_layer_Super_Output_Areas_December_2021_Boundaries_EW_BFC_V7", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Middle_layer_Super_Output_Areas_December_2021_Boundaries_EW_BFC_V7/WFSServer"
-    }, 
-    {
-      "name" : "Middle_layer_Super_Output_Areas_December_2021_Boundaries_EW_BFC_V7", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Middle_layer_Super_Output_Areas_December_2021_Boundaries_EW_BFC_V7/MapServer"
-    }, 
-    {
-      "name" : "Middle_layer_Super_Output_Areas_December_2021_Boundaries_EW_BFE_V8", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Middle_layer_Super_Output_Areas_December_2021_Boundaries_EW_BFE_V8/FeatureServer"
-    }, 
-    {
-      "name" : "Middle_layer_Super_Output_Areas_December_2021_Boundaries_EW_BFE_V8", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Middle_layer_Super_Output_Areas_December_2021_Boundaries_EW_BFE_V8/WFSServer"
-    }, 
-    {
-      "name" : "Middle_layer_Super_Output_Areas_December_2021_Boundaries_EW_BFE_V8", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Middle_layer_Super_Output_Areas_December_2021_Boundaries_EW_BFE_V8/MapServer"
-    }, 
-    {
-      "name" : "Middle_layer_Super_Output_Areas_December_2021_Boundaries_EW_BGC_V3", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Middle_layer_Super_Output_Areas_December_2021_Boundaries_EW_BGC_V3/FeatureServer"
-    }, 
-    {
-      "name" : "Middle_layer_Super_Output_Areas_December_2021_Boundaries_EW_BGC_V3", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Middle_layer_Super_Output_Areas_December_2021_Boundaries_EW_BGC_V3/WFSServer"
-    }, 
-    {
-      "name" : "Middle_layer_Super_Output_Areas_December_2021_Boundaries_EW_BGC_V3", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Middle_layer_Super_Output_Areas_December_2021_Boundaries_EW_BGC_V3/MapServer"
-    }, 
-    {
-      "name" : "Middle_layer_Super_Output_Areas_December_2021_Boundaries_EW_BSC_V3", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Middle_layer_Super_Output_Areas_December_2021_Boundaries_EW_BSC_V3/FeatureServer"
-    }, 
-    {
-      "name" : "Middle_layer_Super_Output_Areas_December_2021_Boundaries_EW_BSC_V3", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Middle_layer_Super_Output_Areas_December_2021_Boundaries_EW_BSC_V3/WFSServer"
-    }, 
-    {
-      "name" : "Middle_layer_Super_Output_Areas_December_2021_Boundaries_EW_BSC_V3", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Middle_layer_Super_Output_Areas_December_2021_Boundaries_EW_BSC_V3/MapServer"
-    }, 
-    {
-      "name" : "Wards_May_2024_Boundaries_UK_BFE", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_May_2024_Boundaries_UK_BFE/FeatureServer"
-    }, 
-    {
-      "name" : "Wards_May_2024_Boundaries_UK_BFC", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_May_2024_Boundaries_UK_BFC/WFSServer"
-    }, 
-    {
-      "name" : "Wards_May_2024_Boundaries_UK_BFC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_May_2024_Boundaries_UK_BFC/MapServer"
-    }, 
-    {
-      "name" : "Local_Authority_Districts_May_2024_Boundaries_UK_BFC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2024_Boundaries_UK_BFC/FeatureServer"
-    }, 
-    {
-      "name" : "Local_Authority_Districts_May_2024_Boundaries_UK_BFC", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2024_Boundaries_UK_BFC/WFSServer"
-    }, 
-    {
-      "name" : "Local_Authority_Districts_May_2024_Boundaries_UK_BFC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2024_Boundaries_UK_BFC/MapServer"
-    }, 
-    {
-      "name" : "Combined_Authorities_May_2023_Boundaries_EN_BFC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_May_2023_Boundaries_EN_BFC/FeatureServer"
-    }, 
-    {
-      "name" : "Combined_Authorities_May_2024_Boundaries_EN_BFC", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_May_2024_Boundaries_EN_BFC/WFSServer"
-    }, 
-    {
-      "name" : "Combined_Authorities_(May_2024)_Boundaries_EN_BFC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_(May_2024)_Boundaries_EN_BFC/MapServer"
-    }, 
-    {
-      "name" : "WD24_PCON24_LAD24_UTLA24_UK_LU", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD24_PCON24_LAD24_UTLA24_UK_LU/FeatureServer"
-    }, 
-    {
-      "name" : "BUA_APR_2024_EW_NC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/BUA_APR_2024_EW_NC/FeatureServer"
-    }, 
-    {
-      "name" : "Output_Area_(2011)_to_Ward_(2021)_to_LAD_(December_2021)_Best_Fit_Lookup_in_EW_(V2)", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Area_(2011)_to_Ward_(2021)_to_LAD_(December_2021)_Best_Fit_Lookup_in_EW_(V2)/FeatureServer"
-    }, 
-    {
-      "name" : "PAR_APR_2024_EW_NC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PAR_APR_2024_EW_NC/FeatureServer"
-    }, 
-    {
-      "name" : "LSOA11_LSOA21_LAD22_EW_LU_v5", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA11_LSOA21_LAD22_EW_LU_v5/FeatureServer"
-    }, 
-    {
-      "name" : "Parishes_May_2024_Boundaries_EW_BFC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_May_2024_Boundaries_EW_BFC/FeatureServer"
-    }, 
-    {
-      "name" : "Parishes_May_2024_Boundaries_EW_BFE", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_May_2024_Boundaries_EW_BFE/FeatureServer"
-    }, 
-    {
-      "name" : "Parishes_May_2024_Boundaries_EW_BGC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_May_2024_Boundaries_EW_BGC/FeatureServer"
-    }, 
-    {
-      "name" : "Parishes_May_2024_Boundaries_EW_BSC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_May_2024_Boundaries_EW_BSC/FeatureServer"
-    }, 
-    {
-      "name" : "Parishes_May_2024_Boundaries_EW_BSC", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_May_2024_Boundaries_EW_BSC/WFSServer"
-    }, 
-    {
-      "name" : "Parishes_May_2024_Boundaries_EW_BSC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_May_2024_Boundaries_EW_BSC/MapServer"
-    }, 
-    {
-      "name" : "Parishes_May_2024_Boundaries_EW_BGC", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_May_2024_Boundaries_EW_BGC/WFSServer"
-    }, 
-    {
-      "name" : "Parishes_May_2024_Boundaries_EW_BGC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_May_2024_Boundaries_EW_BGC/MapServer"
-    }, 
-    {
-      "name" : "Parishes_May_2024_Boundaries_EW_BFE", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_May_2024_Boundaries_EW_BFE/WFSServer"
-    }, 
-    {
-      "name" : "Parishes_May_2024_Boundaries_EW_BFE", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_May_2024_Boundaries_EW_BFE/MapServer"
-    }, 
-    {
-      "name" : "Parishes_May_2024_Boundaries_EW_BFC", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_May_2024_Boundaries_EW_BFC/WFSServer"
-    }, 
-    {
-      "name" : "Parishes_May_2024_Boundaries_EW_BFC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_May_2024_Boundaries_EW_BFC/MapServer"
     }
   ]
 }
