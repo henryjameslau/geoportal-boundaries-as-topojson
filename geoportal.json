@@ -7577,6 +7577,16 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_2021_PWC_V3/FeatureServer"
     }, 
     {
+      "name" : "Output_Areas_2022_Boundaries_SC_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_2022_Boundaries_SC_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "Output_Areas_2022_Boundaries_SC_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_2022_Boundaries_SC_BGC/FeatureServer"
+    }, 
+    {
       "name" : "Output_Areas_Dec_2001_Boundaries_EW_BFC_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_Dec_2001_Boundaries_EW_BFC_2022/FeatureServer"
@@ -17065,6 +17075,31 @@
       "name" : "WPC__(Dec_2018)_GCB_UK", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WPC__(Dec_2018)_GCB_UK/MapServer"
+    }, 
+    {
+      "name" : "Output_Areas_2022_Boundaries_SC_BFC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_2022_Boundaries_SC_BFC/WFSServer"
+    }, 
+    {
+      "name" : "Output_Areas_2022_Boundaries_SC_BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_2022_Boundaries_SC_BFC/MapServer"
+    }, 
+    {
+      "name" : "Output_Areas_2022_Boundaries_SC_BGC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_2022_Boundaries_SC_BGC/WFSServer"
+    }, 
+    {
+      "name" : "Output_Areas_2022_Boundaries_SC_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_2022_Boundaries_SC_BGC/MapServer"
+    }, 
+    {
+      "name" : "Output_Areas_2022_Boundaries_SC_BFE", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_2022_Boundaries_SC_BFE/WFSServer"
     }
   ]
 }
