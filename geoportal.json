@@ -6832,11 +6832,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NSGC_APR_2023_NC_V2/FeatureServer"
     }, 
     {
-      "name" : "NSPL_Online_Centroids", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NSPL_Online_Centroids/FeatureServer"
-    }, 
-    {
       "name" : "NUTS_Level_1_January_2015_FCB_in_England_and_Wales_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NUTS_Level_1_January_2015_FCB_in_England_and_Wales_2022/FeatureServer"
@@ -7515,16 +7510,6 @@
       "name" : "OAs_to_LSOAs_to_MSOAs_to_LEP_to_LAD_(May_2022)_in_England", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OAs_to_LSOAs_to_MSOAs_to_LEP_to_LAD_(May_2022)_in_England/FeatureServer"
-    }, 
-    {
-      "name" : "Online_ONS_Postcode_Directory_Live", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Online_ONS_Postcode_Directory_Live/FeatureServer"
-    }, 
-    {
-      "name" : "ONSPD_Online_Latest_Centroids", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ONSPD_Online_Latest_Centroids/FeatureServer"
     }, 
     {
       "name" : "Output_Area_(2011)_to_Ward_(2021)_to_LAD_(December_2021)_Best_Fit_Lookup_in_EW_(V2)", 
