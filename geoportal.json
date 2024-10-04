@@ -7052,11 +7052,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NUTS315_NUTS318_UK_LU_7c6c05b7b6cd4fe9a4ab2158733563c6/FeatureServer"
     }, 
     {
-      "name" : "OA_(2021)_Best_Fit_Lookup_(2023)_EW_LU", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA_(2021)_Best_Fit_Lookup_(2023)_EW_LU/FeatureServer"
-    }, 
-    {
       "name" : "OA_Dec_2001_Address_Weighted_Centroids", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA_Dec_2001_Address_Weighted_Centroids/FeatureServer"
@@ -17045,16 +17040,6 @@
       "name" : "ONSPD_Online_Latest_Centroids", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ONSPD_Online_Latest_Centroids/MapServer"
-    }, 
-    {
-      "name" : "ED_1971_EW", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ED_1971_EW/FeatureServer"
-    }, 
-    {
-      "name" : "ED_1981_EW", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ED_1981_EW/FeatureServer"
     }, 
     {
       "name" : "ED_1981_EW", 
