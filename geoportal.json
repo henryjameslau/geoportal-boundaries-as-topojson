@@ -17060,6 +17060,16 @@
       "name" : "ED_1971_EW", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ED_1971_EW/MapServer"
+    }, 
+    {
+      "name" : "ED_1971_EW_NC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ED_1971_EW_NC/FeatureServer"
+    }, 
+    {
+      "name" : "ED_1981_EW_NC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ED_1981_EW_NC/FeatureServer"
     }
   ]
 }
