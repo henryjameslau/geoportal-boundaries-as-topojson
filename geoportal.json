@@ -7407,6 +7407,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA21_BUA22_LAD22_RGN22_EW_LU/FeatureServer"
     }, 
     {
+      "name" : "OA21_BUA24_LAD24_RGN24_EW_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA21_BUA24_LAD24_RGN24_EW_LU/FeatureServer"
+    }, 
+    {
       "name" : "OA21_LAD22_LSOA21_MSOA21_LEP22_EN_LU_V2", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA21_LAD22_LSOA21_MSOA21_LEP22_EN_LU_V2/FeatureServer"
@@ -10390,6 +10395,11 @@
       "name" : "WD22_UA22_SENER22_WA_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD22_UA22_SENER22_WA_LU/FeatureServer"
+    }, 
+    {
+      "name" : "WD23_LAD23_CTY23_CED23_EN_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD23_LAD23_CTY23_CED23_EN_LU/FeatureServer"
     }, 
     {
       "name" : "WD23_LAD23_CTY23_OTH_UK_LU", 
@@ -17050,16 +17060,6 @@
       "name" : "WPC__(Dec_2018)_GCB_UK", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WPC__(Dec_2018)_GCB_UK/MapServer"
-    }, 
-    {
-      "name" : "OA21_BUA24_LAD24_RGN24_EW_LU", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA21_BUA24_LAD24_RGN24_EW_LU/FeatureServer"
-    }, 
-    {
-      "name" : "WD23_LAD23_CTY23_CED23_EN_LU", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD23_LAD23_CTY23_CED23_EN_LU/FeatureServer"
     }
   ]
 }
