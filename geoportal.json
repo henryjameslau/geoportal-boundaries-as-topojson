@@ -8097,11 +8097,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/pcon/FeatureServer"
     }, 
     {
-      "name" : "PCON_2024_UK_NC_v2", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PCON_2024_UK_NC_v2/FeatureServer"
-    }, 
-    {
       "name" : "PCON_DEC_2022_UK_BFE_V2", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PCON_DEC_2022_UK_BFE_V2/FeatureServer"
@@ -17060,6 +17055,11 @@
       "name" : "WPC__(Dec_2018)_GCB_UK", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WPC__(Dec_2018)_GCB_UK/MapServer"
+    }, 
+    {
+      "name" : "PCON_2024_UK_NC_v2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PCON_2024_UK_NC_v2/FeatureServer"
     }
   ]
 }
