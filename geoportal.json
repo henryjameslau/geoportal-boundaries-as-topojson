@@ -3822,11 +3822,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAU217_LAU117_NUTS318_NUTS218_NUTS118_UK_LUv3_3765f50a0acf4b2fb95a6cac180024ee/FeatureServer"
     }, 
     {
-      "name" : "LAU218_LAU118_NUTS318_NUTS218_NUTS118_UK_LU_467d0e2bf6ef4b0486411e190fa41310", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAU218_LAU118_NUTS318_NUTS218_NUTS118_UK_LU_467d0e2bf6ef4b0486411e190fa41310/FeatureServer"
-    }, 
-    {
       "name" : "LeicestershireLSOA", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LeicestershireLSOA/FeatureServer"
@@ -6830,11 +6825,6 @@
       "name" : "NSGC_APR_2023_NC_V2", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NSGC_APR_2023_NC_V2/FeatureServer"
-    }, 
-    {
-      "name" : "NSPL_Online_Centroids", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NSPL_Online_Centroids/FeatureServer"
     }, 
     {
       "name" : "NUTS_Level_1_January_2015_FCB_in_England_and_Wales_2022", 
@@ -17060,6 +17050,11 @@
       "name" : "PCON_2024_UK_NC_v2", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PCON_2024_UK_NC_v2/FeatureServer"
+    }, 
+    {
+      "name" : "NSPL_Online_Centroids", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NSPL_Online_Centroids/FeatureServer"
     }
   ]
 }
