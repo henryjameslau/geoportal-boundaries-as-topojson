@@ -7497,16 +7497,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OAs_to_LSOAs_to_MSOAs_to_LEP_to_LAD_(May_2022)_in_England/FeatureServer"
     }, 
     {
-      "name" : "Online_ONS_Postcode_Directory_Live", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Online_ONS_Postcode_Directory_Live/FeatureServer"
-    }, 
-    {
-      "name" : "ONSPD_Online_Latest_Centroids", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ONSPD_Online_Latest_Centroids/FeatureServer"
-    }, 
-    {
       "name" : "Output_Area_(2011)_to_Ward_(2021)_to_LAD_(December_2021)_Best_Fit_Lookup_in_EW_(V2)", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Area_(2011)_to_Ward_(2021)_to_LAD_(December_2021)_Best_Fit_Lookup_in_EW_(V2)/FeatureServer"
@@ -15037,11 +15027,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA_(Dec_2001)_Address_Weighted_Centroids/MapServer"
     }, 
     {
-      "name" : "ONSPD_Online_Latest_Centroids", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ONSPD_Online_Latest_Centroids/MapServer"
-    }, 
-    {
       "name" : "Output_Areas_(Dec_2001)_Boundaries_EW_BFC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_(Dec_2001)_Boundaries_EW_BFC/MapServer"
@@ -17035,6 +17020,11 @@
       "name" : "PCON_2024_UK_NC_v2", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PCON_2024_UK_NC_v2/FeatureServer"
+    }, 
+    {
+      "name" : "Online_ONS_Postcode_Directory_Live", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Online_ONS_Postcode_Directory_Live/FeatureServer"
     }
   ]
 }
