@@ -2,6 +2,21 @@
   "currentVersion" : 11.2, 
   "services" : [
     {
+      "name" : "ACTY_DEC_1921_EW_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ACTY_DEC_1921_EW_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "ADCTY_JUN_1921_EW_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ADCTY_JUN_1921_EW_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "ADCTYCB_JUN_1921_EW_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ADCTYCB_JUN_1921_EW_BGC/FeatureServer"
+    }, 
+    {
       "name" : "Age_16_24_TTWA", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Age_16_24_TTWA/FeatureServer"
@@ -2060,6 +2075,11 @@
       "name" : "CTY_APR_2023_EN_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CTY_APR_2023_EN_NC/FeatureServer"
+    }, 
+    {
+      "name" : "CTY_DEC_1921_EW_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CTY_DEC_1921_EW_BGC/FeatureServer"
     }, 
     {
       "name" : "CTY_DEC_2022_EN_NC", 
@@ -10732,6 +10752,21 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Yorkshire_and_the_Humber_Gen/FeatureServer"
     }, 
     {
+      "name" : "ADCTY_JUN_1921_EW_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ADCTY_JUN_1921_EW_BGC/MapServer"
+    }, 
+    {
+      "name" : "ADCTYCB_JUN_1921_EW_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ADCTYCB_JUN_1921_EW_BGC/MapServer"
+    }, 
+    {
+      "name" : "Ancient_Counties_December_1921_in_England_and_Wales_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Ancient_Counties_December_1921_in_England_and_Wales_BGC/MapServer"
+    }, 
+    {
       "name" : "Built_Up_Areas_(2024)_Boundaries_EW_BGG", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Built_Up_Areas_(2024)_Boundaries_EW_BGG/MapServer"
@@ -11855,6 +11890,11 @@
       "name" : "Counties_and_Unitary_Authorities_May_2023_UK_BUC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_and_Unitary_Authorities_May_2023_UK_BUC/MapServer"
+    }, 
+    {
+      "name" : "Counties_December_1921_in_England_and_Wales_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_December_1921_in_England_and_Wales_BGC/MapServer"
     }, 
     {
       "name" : "Counties_December_2023_Boundaries_EN_BFC", 
@@ -17025,6 +17065,11 @@
       "name" : "Online_ONS_Postcode_Directory_Live", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Online_ONS_Postcode_Directory_Live/FeatureServer"
+    }, 
+    {
+      "name" : "ONSPD_Online_Latest_Centroids", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ONSPD_Online_Latest_Centroids/FeatureServer"
     }
   ]
 }
