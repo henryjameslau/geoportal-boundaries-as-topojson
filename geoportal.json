@@ -17195,6 +17195,16 @@
       "name" : "ONSPD_LATEST_UK", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ONSPD_LATEST_UK/FeatureServer"
+    }, 
+    {
+      "name" : "Wards_December_2024_Boundaries_UK_BSC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_December_2024_Boundaries_UK_BSC/FeatureServer"
+    }, 
+    {
+      "name" : "Wards_December_2024_Boundaries_UK_BSC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_December_2024_Boundaries_UK_BSC/WFSServer"
     }
   ]
 }
