@@ -17667,9 +17667,189 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PAR24_WD24_LAD24_EW_LU/FeatureServer"
     }, 
     {
+      "name" : "ITL1_JAN_2025_UK_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ITL1_JAN_2025_UK_BFC/FeatureServer"
+    }, 
+    {
       "name" : "OA11_OA21_LAD22_EW_LU_Exact_fit_V3", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA11_OA21_LAD22_EW_LU_Exact_fit_V3/FeatureServer"
+    }, 
+    {
+      "name" : "ITL1_JAN_2025_UK_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ITL1_JAN_2025_UK_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "ITL1_JAN_2025_UK_BUC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ITL1_JAN_2025_UK_BUC/FeatureServer"
+    }, 
+    {
+      "name" : "ITL2_JAN_2025_UK_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ITL2_JAN_2025_UK_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "ITL2_JAN_2025_UK_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ITL2_JAN_2025_UK_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "ITL2_JAN_2025_UK_BUC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ITL2_JAN_2025_UK_BUC/FeatureServer"
+    }, 
+    {
+      "name" : "ITL3_JAN_2025_UK_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ITL3_JAN_2025_UK_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "ITL3_JAN_2025_UK_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ITL3_JAN_2025_UK_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "ITL3_JAN_2025_UK_BUC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ITL3_JAN_2025_UK_BUC/FeatureServer"
+    }, 
+    {
+      "name" : "LAU1_JAN_2025_UK_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAU1_JAN_2025_UK_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "LAU1_JAN_2025_UK_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAU1_JAN_2025_UK_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "LAU1_JAN_2025_UK_BUC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAU1_JAN_2025_UK_BUC/FeatureServer"
+    }, 
+    {
+      "name" : "ITL1_JAN_2025_UK_BFC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ITL1_JAN_2025_UK_BFC/WFSServer"
+    }, 
+    {
+      "name" : "ITL1_JAN_2025_UK_BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ITL1_JAN_2025_UK_BFC/MapServer"
+    }, 
+    {
+      "name" : "ITL1_JAN_2025_UK_BGC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ITL1_JAN_2025_UK_BGC/WFSServer"
+    }, 
+    {
+      "name" : "ITL1_JAN_2025_UK_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ITL1_JAN_2025_UK_BGC/MapServer"
+    }, 
+    {
+      "name" : "ITL1_JAN_2025_UK_BUC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ITL1_JAN_2025_UK_BUC/WFSServer"
+    }, 
+    {
+      "name" : "ITL1_JAN_2025_UK_BUC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ITL1_JAN_2025_UK_BUC/MapServer"
+    }, 
+    {
+      "name" : "ITL2_JAN_2025_UK_BFC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ITL2_JAN_2025_UK_BFC/WFSServer"
+    }, 
+    {
+      "name" : "ITL2_JAN_2025_UK_BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ITL2_JAN_2025_UK_BFC/MapServer"
+    }, 
+    {
+      "name" : "ITL2_JAN_2025_UK_BGC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ITL2_JAN_2025_UK_BGC/WFSServer"
+    }, 
+    {
+      "name" : "ITL2_JAN_2025_UK_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ITL2_JAN_2025_UK_BGC/MapServer"
+    }, 
+    {
+      "name" : "ITL2_JAN_2025_UK_BUC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ITL2_JAN_2025_UK_BUC/WFSServer"
+    }, 
+    {
+      "name" : "ITL2_JAN_2025_UK_BUC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ITL2_JAN_2025_UK_BUC/MapServer"
+    }, 
+    {
+      "name" : "ITL3_JAN_2025_UK_BFC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ITL3_JAN_2025_UK_BFC/WFSServer"
+    }, 
+    {
+      "name" : "ITL3_JAN_2025_UK_BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ITL3_JAN_2025_UK_BFC/MapServer"
+    }, 
+    {
+      "name" : "ITL3_JAN_2025_UK_BGC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ITL3_JAN_2025_UK_BGC/WFSServer"
+    }, 
+    {
+      "name" : "ITL3_JAN_2025_UK_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ITL3_JAN_2025_UK_BGC/MapServer"
+    }, 
+    {
+      "name" : "ITL3_JAN_2025_UK_BUC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ITL3_JAN_2025_UK_BUC/WFSServer"
+    }, 
+    {
+      "name" : "ITL3_JAN_2025_UK_BUC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ITL3_JAN_2025_UK_BUC/MapServer"
+    }, 
+    {
+      "name" : "LAU1_JAN_2025_UK_BFC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAU1_JAN_2025_UK_BFC/WFSServer"
+    }, 
+    {
+      "name" : "LAU1_JAN_2025_UK_BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAU1_JAN_2025_UK_BFC/MapServer"
+    }, 
+    {
+      "name" : "LAU1_JAN_2025_UK_BGC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAU1_JAN_2025_UK_BGC/WFSServer"
+    }, 
+    {
+      "name" : "LAU1_JAN_2025_UK_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAU1_JAN_2025_UK_BGC/MapServer"
+    }, 
+    {
+      "name" : "LAU1_JAN_2025_UK_BUC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAU1_JAN_2025_UK_BUC/WFSServer"
+    }, 
+    {
+      "name" : "LAU1_JAN_2025_UK_BUC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAU1_JAN_2025_UK_BUC/MapServer"
     }
   ]
 }
