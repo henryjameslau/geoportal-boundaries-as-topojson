@@ -2422,9 +2422,19 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/EastSussex_shape/FeatureServer"
     }, 
     {
+      "name" : "ED_1971_EW", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ED_1971_EW/FeatureServer"
+    }, 
+    {
       "name" : "ED_1971_EW_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ED_1971_EW_NC/FeatureServer"
+    }, 
+    {
+      "name" : "ED_1981_EW", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ED_1981_EW/FeatureServer"
     }, 
     {
       "name" : "ED_1981_EW_NC", 
@@ -17927,6 +17937,31 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_December_2024_Boundaries_EN_BGC/MapServer"
     }, 
     {
+      "name" : "Regions_December_2024_Boundaries_EN_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Regions_December_2024_Boundaries_EN_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "Regions_December_2024_Boundaries_EN_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Regions_December_2024_Boundaries_EN_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "Regions_December_2024_Boundaries_EN_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Regions_December_2024_Boundaries_EN_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "Regions_December_2024_Boundaries_EN_BSC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Regions_December_2024_Boundaries_EN_BSC/FeatureServer"
+    }, 
+    {
+      "name" : "Regions_December_2024_Boundaries_EN_BUC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Regions_December_2024_Boundaries_EN_BUC/FeatureServer"
+    }, 
+    {
       "name" : "Countries_December_2024_Boundaries_UK_BFC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2024_Boundaries_UK_BFC/FeatureServer"
@@ -17960,6 +17995,51 @@
       "name" : "Countries_December_2024_Boundaries_UK_BUC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2024_Boundaries_UK_BUC/MapServer"
+    }, 
+    {
+      "name" : "Countries_1971_Boundaries_EW", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_1971_Boundaries_EW/FeatureServer"
+    }, 
+    {
+      "name" : "Administrative_Counties_1971_Boundaries_EW", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Administrative_Counties_1971_Boundaries_EW/FeatureServer"
+    }, 
+    {
+      "name" : "Administrative_Districts_1971_Boundaries_EW", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Administrative_Districts_1971_Boundaries_EW/FeatureServer"
+    }, 
+    {
+      "name" : "Wards_1971_Boundaries_EW", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_1971_Boundaries_EW/FeatureServer"
+    }, 
+    {
+      "name" : "Census_Districts_1971_Boundaries_EW", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Census_Districts_1971_Boundaries_EW/FeatureServer"
+    }, 
+    {
+      "name" : "Countries_1981_Boundaries_EW", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_1981_Boundaries_EW/FeatureServer"
+    }, 
+    {
+      "name" : "Counties_1981_Boundaries_EW", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_1981_Boundaries_EW/FeatureServer"
+    }, 
+    {
+      "name" : "Districts_1981_Boundaries_EW", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Districts_1981_Boundaries_EW/FeatureServer"
+    }, 
+    {
+      "name" : "Wards_1981_Boundaries_EW", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_1981_Boundaries_EW/FeatureServer"
     }, 
     {
       "name" : "Countries_December_2024_Boundaries_UK_BSC", 
@@ -18000,6 +18080,146 @@
       "name" : "Countries_December_2024_Boundaries_UK_BFC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2024_Boundaries_UK_BFC/MapServer"
+    }, 
+    {
+      "name" : "Countries_1971_Boundaries_EW", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_1971_Boundaries_EW/WFSServer"
+    }, 
+    {
+      "name" : "Countries_1971_Boundaries_EW", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_1971_Boundaries_EW/MapServer"
+    }, 
+    {
+      "name" : "Administrative_Counties_1971_Boundaries_EW", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Administrative_Counties_1971_Boundaries_EW/WFSServer"
+    }, 
+    {
+      "name" : "Administrative_Counties_1971_Boundaries_EW", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Administrative_Counties_1971_Boundaries_EW/MapServer"
+    }, 
+    {
+      "name" : "Administrative_Districts_1971_Boundaries_EW", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Administrative_Districts_1971_Boundaries_EW/WFSServer"
+    }, 
+    {
+      "name" : "Administrative_Districts_1971_Boundaries_EW", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Administrative_Districts_1971_Boundaries_EW/MapServer"
+    }, 
+    {
+      "name" : "Wards_1971_Boundaries_EW", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_1971_Boundaries_EW/WFSServer"
+    }, 
+    {
+      "name" : "Wards_1971_Boundaries_EW", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_1971_Boundaries_EW/MapServer"
+    }, 
+    {
+      "name" : "Census_Districts_1971_Boundaries_EW", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Census_Districts_1971_Boundaries_EW/WFSServer"
+    }, 
+    {
+      "name" : "Census_Districts_1971_Boundaries_EW", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Census_Districts_1971_Boundaries_EW/MapServer"
+    }, 
+    {
+      "name" : "Regions_December_2024_Boundaries_EN_BUC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Regions_December_2024_Boundaries_EN_BUC/WFSServer"
+    }, 
+    {
+      "name" : "Regions_December_2024_Boundaries_EN_BUC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Regions_December_2024_Boundaries_EN_BUC/MapServer"
+    }, 
+    {
+      "name" : "Countries_1981_Boundaries_EW", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_1981_Boundaries_EW/WFSServer"
+    }, 
+    {
+      "name" : "Countries_1981_Boundaries_EW", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_1981_Boundaries_EW/MapServer"
+    }, 
+    {
+      "name" : "Regions_December_2024_Boundaries_EN_BSC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Regions_December_2024_Boundaries_EN_BSC/WFSServer"
+    }, 
+    {
+      "name" : "Regions_December_2024_Boundaries_EN_BSC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Regions_December_2024_Boundaries_EN_BSC/MapServer"
+    }, 
+    {
+      "name" : "Counties_1981_Boundaries_EW", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_1981_Boundaries_EW/WFSServer"
+    }, 
+    {
+      "name" : "Counties_1981_Boundaries_EW", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_1981_Boundaries_EW/MapServer"
+    }, 
+    {
+      "name" : "Regions_December_2024_Boundaries_EN_BGC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Regions_December_2024_Boundaries_EN_BGC/WFSServer"
+    }, 
+    {
+      "name" : "Regions_December_2024_Boundaries_EN_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Regions_December_2024_Boundaries_EN_BGC/MapServer"
+    }, 
+    {
+      "name" : "Regions_December_2024_Boundaries_EN_BFC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Regions_December_2024_Boundaries_EN_BFC/WFSServer"
+    }, 
+    {
+      "name" : "Regions_December_2024_Boundaries_EN_BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Regions_December_2024_Boundaries_EN_BFC/MapServer"
+    }, 
+    {
+      "name" : "Districts_1981_Boundaries_EW", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Districts_1981_Boundaries_EW/WFSServer"
+    }, 
+    {
+      "name" : "Districts_1981_Boundaries_EW", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Districts_1981_Boundaries_EW/MapServer"
+    }, 
+    {
+      "name" : "Wards_1981_Boundaries_EW", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_1981_Boundaries_EW/WFSServer"
+    }, 
+    {
+      "name" : "Wards_1981_Boundaries_EW", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_1981_Boundaries_EW/MapServer"
+    }, 
+    {
+      "name" : "Regions_December_2024_Boundaries_EN_BFE", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Regions_December_2024_Boundaries_EN_BFE/WFSServer"
+    }, 
+    {
+      "name" : "Regions_December_2024_Boundaries_EN_BFE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Regions_December_2024_Boundaries_EN_BFE/MapServer"
     }
   ]
 }
