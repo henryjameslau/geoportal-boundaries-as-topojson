@@ -5192,26 +5192,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Planning_Authorities_April_2022_UK_BUC_2022/FeatureServer"
     }, 
     {
-      "name" : "Local_Planning_Authorities_April_2023_Boundaries_UK_BFC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Planning_Authorities_April_2023_Boundaries_UK_BFC/FeatureServer"
-    }, 
-    {
-      "name" : "Local_Planning_Authorities_April_2023_Boundaries_UK_BFE", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Planning_Authorities_April_2023_Boundaries_UK_BFE/FeatureServer"
-    }, 
-    {
-      "name" : "Local_Planning_Authorities_April_2023_Boundaries_UK_BGC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Planning_Authorities_April_2023_Boundaries_UK_BGC/FeatureServer"
-    }, 
-    {
-      "name" : "Local_Planning_Authorities_April_2023_Boundaries_UK_BUC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Planning_Authorities_April_2023_Boundaries_UK_BUC/FeatureServer"
-    }, 
-    {
       "name" : "Local_Planning_Authorities_May_2021_UK_BFC_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Planning_Authorities_May_2021_UK_BFC_2022/FeatureServer"
