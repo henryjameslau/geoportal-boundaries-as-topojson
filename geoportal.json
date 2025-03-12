@@ -14972,6 +14972,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Lower_layer_Super_Output_Areas_December_2021_Boundaries_EW_BSC_V4/MapServer"
     }, 
     {
+      "name" : "LPA_APR_2023_UK_BFC_V2", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LPA_APR_2023_UK_BFC_V2/MapServer"
+    }, 
+    {
       "name" : "LRF_(Dec_2015)_FCB_in_England_and_Wales", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LRF_(Dec_2015)_FCB_in_England_and_Wales/MapServer"
@@ -17970,6 +17975,81 @@
       "name" : "WPC__(Dec_2018)_GCB_UK", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WPC__(Dec_2018)_GCB_UK/MapServer"
+    }, 
+    {
+      "name" : "LPA_APR_2023_UK_BFE_V2", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LPA_APR_2023_UK_BFE_V2/WFSServer"
+    }, 
+    {
+      "name" : "LPA_APR_2023_UK_BFE_V2", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LPA_APR_2023_UK_BFE_V2/MapServer"
+    }, 
+    {
+      "name" : "LPA_APR_2023_UK_BGC_V2", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LPA_APR_2023_UK_BGC_V2/WFSServer"
+    }, 
+    {
+      "name" : "LPA_APR_2023_UK_BGC_V2", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LPA_APR_2023_UK_BGC_V2/MapServer"
+    }, 
+    {
+      "name" : "LPA_APR_2023_UK_BUC_V2", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LPA_APR_2023_UK_BUC_V2/WFSServer"
+    }, 
+    {
+      "name" : "LPA_APR_2023_UK_BUC_V2", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LPA_APR_2023_UK_BUC_V2/MapServer"
+    }, 
+    {
+      "name" : "NHSPD_Online_Latest_Centroids", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSPD_Online_Latest_Centroids/FeatureServer"
+    }, 
+    {
+      "name" : "New_NSPL_Online_Latest_Centroids", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/New_NSPL_Online_Latest_Centroids/FeatureServer"
+    }, 
+    {
+      "name" : "ONSPD_Online_Latest_Centroids", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ONSPD_Online_Latest_Centroids/FeatureServer"
+    }, 
+    {
+      "name" : "NHSPD_Online_Latest_Centroids", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSPD_Online_Latest_Centroids/WFSServer"
+    }, 
+    {
+      "name" : "ONSPD_Online_Latest_Centroids", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ONSPD_Online_Latest_Centroids/WFSServer"
+    }, 
+    {
+      "name" : "ONSPD_Online_Latest_Centroids", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ONSPD_Online_Latest_Centroids/MapServer"
+    }, 
+    {
+      "name" : "NSPL_Online_Latest_Centroids", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NSPL_Online_Latest_Centroids/WFSServer"
+    }, 
+    {
+      "name" : "NSPL_Online_Latest_Centroids", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NSPL_Online_Latest_Centroids/MapServer"
+    }, 
+    {
+      "name" : "NHSPD_Online_Latest_Centroids", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSPD_Online_Latest_Centroids/MapServer"
     }
   ]
 }
