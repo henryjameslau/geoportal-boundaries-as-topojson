@@ -16062,11 +16062,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_(December_2019)_EW_BFE/MapServer"
     }, 
     {
-      "name" : "Parishes_(December_2019)_FCB_EW", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_(December_2019)_FCB_EW/MapServer"
-    }, 
-    {
       "name" : "Parishes_(December_2019)_GCB_EW", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_(December_2019)_GCB_EW/MapServer"
