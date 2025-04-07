@@ -6322,11 +6322,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA21_LAD23_EW_LU/FeatureServer"
     }, 
     {
-      "name" : "MSOA21_PCON25_LAD21_EW_LU", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA21_PCON25_LAD21_EW_LU/FeatureServer"
-    }, 
-    {
       "name" : "MSOA21_RUC21_EW_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA21_RUC21_EW_LU/FeatureServer"
@@ -18080,6 +18075,86 @@
       "name" : "MSOA11_MSOA21_LAD22_EW_LU_v2", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA11_MSOA21_LAD22_EW_LU_v2/FeatureServer"
+    }, 
+    {
+      "name" : "LAD_DEC_2021_EW_BFE_RUC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD_DEC_2021_EW_BFE_RUC/FeatureServer"
+    }, 
+    {
+      "name" : "LSOA_2021_EW_BFE_V10_RUC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_2021_EW_BFE_V10_RUC/FeatureServer"
+    }, 
+    {
+      "name" : "MSOA_2021_EW_BFE_V8_RUC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_2021_EW_BFE_V8_RUC/FeatureServer"
+    }, 
+    {
+      "name" : "OA_2021_EW_BFE_V9_RUC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA_2021_EW_BFE_V9_RUC/FeatureServer"
+    }, 
+    {
+      "name" : "LAD_DEC_2024_EW_BFE_RUC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD_DEC_2024_EW_BFE_RUC/FeatureServer"
+    }, 
+    {
+      "name" : "Output_Areas_December_2021_Boundaries_EW_BFE_V9_and_RUC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_December_2021_Boundaries_EW_BFE_V9_and_RUC/WFSServer"
+    }, 
+    {
+      "name" : "Output_Areas_(December_2021)_Boundaries_EW_BFE_(V9)_and_RUC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_(December_2021)_Boundaries_EW_BFE_(V9)_and_RUC/MapServer"
+    }, 
+    {
+      "name" : "Lower_layer_Super_Output_Areas_December_2021__Boundaries_EW_BFE_V10_and_RUC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Lower_layer_Super_Output_Areas_December_2021__Boundaries_EW_BFE_V10_and_RUC/WFSServer"
+    }, 
+    {
+      "name" : "Lower_layer_Super_Output_Areas_(December_2021)_Boundaries_EW_BFE_(V10)_and_RUC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Lower_layer_Super_Output_Areas_(December_2021)_Boundaries_EW_BFE_(V10)_and_RUC/MapServer"
+    }, 
+    {
+      "name" : "Middle_layer_Super_Output_Areas_December_2021_Boundaries_EW_BFE_V8_and_RUC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Middle_layer_Super_Output_Areas_December_2021_Boundaries_EW_BFE_V8_and_RUC/WFSServer"
+    }, 
+    {
+      "name" : "Middle_layer_Super_Output_Areas_(December_2021)_Boundaries_EW_BFE_(V8)_and_RUC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Middle_layer_Super_Output_Areas_(December_2021)_Boundaries_EW_BFE_(V8)_and_RUC/MapServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_December_2021_Boundaries_EW_BFE_and_RUC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_December_2021_Boundaries_EW_BFE_and_RUC/WFSServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_(December_2021)_Boundaries_EW_BFE_and_Rural_Urban_classification", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_(December_2021)_Boundaries_EW_BFE_and_Rural_Urban_classification/MapServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_December_2024_Boundaries_EW_BFE_and_RUC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_December_2024_Boundaries_EW_BFE_and_RUC/WFSServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_(December_2024)_Boundaries_EW_BFE_and_Rural_Urban_classification", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_(December_2024)_Boundaries_EW_BFE_and_Rural_Urban_classification/MapServer"
+    }, 
+    {
+      "name" : "MSOA21_PCON25_LAD21_EW_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA21_PCON25_LAD21_EW_LU/FeatureServer"
     }
   ]
 }
