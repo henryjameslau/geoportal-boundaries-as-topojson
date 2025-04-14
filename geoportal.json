@@ -472,26 +472,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CED_MAY_2023_EN_NC/FeatureServer"
     }, 
     {
-      "name" : "CED_MAY_2024_EN_BFC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CED_MAY_2024_EN_BFC/FeatureServer"
-    }, 
-    {
-      "name" : "CED_MAY_2024_EN_BFE", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CED_MAY_2024_EN_BFE/FeatureServer"
-    }, 
-    {
-      "name" : "CED_MAY_2024_EN_BGC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CED_MAY_2024_EN_BGC/FeatureServer"
-    }, 
-    {
-      "name" : "CED_MAY_2024_EN_BUC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CED_MAY_2024_EN_BUC/FeatureServer"
-    }, 
-    {
       "name" : "CED_MAY_2024_EN_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CED_MAY_2024_EN_NC/FeatureServer"
@@ -11607,26 +11587,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CCG_APR_2021_EN_BSC_100M/MapServer"
     }, 
     {
-      "name" : "CED_MAY_2024_EN_BFC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CED_MAY_2024_EN_BFC/MapServer"
-    }, 
-    {
-      "name" : "CED_MAY_2024_EN_BFE", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CED_MAY_2024_EN_BFE/MapServer"
-    }, 
-    {
-      "name" : "CED_MAY_2024_EN_BGC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CED_MAY_2024_EN_BGC/MapServer"
-    }, 
-    {
-      "name" : "CED_MAY_2024_EN_BUC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CED_MAY_2024_EN_BUC/MapServer"
-    }, 
-    {
       "name" : "Census_Districts_1971_Boundaries_EW", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Census_Districts_1971_Boundaries_EW/MapServer"
@@ -18160,6 +18120,66 @@
       "name" : "Local_Authority_Districts_(December_2024)_Boundaries_UK_BSC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_(December_2024)_Boundaries_UK_BSC/MapServer"
+    }, 
+    {
+      "name" : "CED_MAY_2024_EN_BFC_V3", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CED_MAY_2024_EN_BFC_V3/FeatureServer"
+    }, 
+    {
+      "name" : "CED_MAY_2024_EN_BFE_V3", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CED_MAY_2024_EN_BFE_V3/FeatureServer"
+    }, 
+    {
+      "name" : "CED_MAY_2024_EN_BGC_V3", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CED_MAY_2024_EN_BGC_V3/FeatureServer"
+    }, 
+    {
+      "name" : "CED_MAY_2024_EN_BUC_V3", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CED_MAY_2024_EN_BUC_V3/FeatureServer"
+    }, 
+    {
+      "name" : "CED_MAY_2024_EN_BFC_V3", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CED_MAY_2024_EN_BFC_V3/WFSServer"
+    }, 
+    {
+      "name" : "CED_MAY_2024_EN_BFC_V3", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CED_MAY_2024_EN_BFC_V3/MapServer"
+    }, 
+    {
+      "name" : "CED_MAY_2024_EN_BFE_V3", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CED_MAY_2024_EN_BFE_V3/WFSServer"
+    }, 
+    {
+      "name" : "CED_MAY_2024_EN_BFE_V3", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CED_MAY_2024_EN_BFE_V3/MapServer"
+    }, 
+    {
+      "name" : "CED_MAY_2024_EN_BGC_V3", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CED_MAY_2024_EN_BGC_V3/WFSServer"
+    }, 
+    {
+      "name" : "CED_MAY_2024_EN_BGC_V3", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CED_MAY_2024_EN_BGC_V3/MapServer"
+    }, 
+    {
+      "name" : "CED_MAY_2024_EN_BUC_V3", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CED_MAY_2024_EN_BUC_V3/WFSServer"
+    }, 
+    {
+      "name" : "CED_MAY_2024_EN_BUC_V3", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CED_MAY_2024_EN_BUC_V3/MapServer"
     }
   ]
 }
