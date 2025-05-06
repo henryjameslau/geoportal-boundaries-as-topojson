@@ -477,11 +477,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CED_MAY_2024_EN_BFC_V3/FeatureServer"
     }, 
     {
-      "name" : "CED_MAY_2024_EN_BFE_V3", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CED_MAY_2024_EN_BFE_V3/FeatureServer"
-    }, 
-    {
       "name" : "CED_MAY_2024_EN_BGC_V3", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CED_MAY_2024_EN_BGC_V3/FeatureServer"
@@ -6650,16 +6645,6 @@
       "name" : "National_Parks_December_2021_Boundaries_GB_BFC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/National_Parks_December_2021_Boundaries_GB_BFC/FeatureServer"
-    }, 
-    {
-      "name" : "National_Parks_December_2022_Boundaries_GB_BFC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/National_Parks_December_2022_Boundaries_GB_BFC/FeatureServer"
-    }, 
-    {
-      "name" : "National_Parks_December_2022_Boundaries_GB_BFE", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/National_Parks_December_2022_Boundaries_GB_BFE/FeatureServer"
     }, 
     {
       "name" : "National_Parks_December_2022_Boundaries_GB_BGC", 
