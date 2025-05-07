@@ -6022,11 +6022,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA21_WD23_LAD23_EW_LU/FeatureServer"
     }, 
     {
-      "name" : "LSOA21_WD24_LAD24_EW_LU", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA21_WD24_LAD24_EW_LU/FeatureServer"
-    }, 
-    {
       "name" : "LTLA17_UTLA17_EW_LU_45a46a5b8c3c47a6b84418d88aa1626c", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LTLA17_UTLA17_EW_LU_45a46a5b8c3c47a6b84418d88aa1626c/FeatureServer"
@@ -18130,6 +18125,11 @@
       "name" : "LAD24_LAD25_UK_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD24_LAD25_UK_LU/FeatureServer"
+    }, 
+    {
+      "name" : "LSOA21_WD24_LAD24_EW_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA21_WD24_LAD24_EW_LU/FeatureServer"
     }
   ]
 }
