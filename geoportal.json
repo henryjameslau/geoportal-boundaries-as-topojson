@@ -18130,6 +18130,16 @@
       "name" : "LSOA21_WD24_LAD24_EW_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA21_WD24_LAD24_EW_LU/FeatureServer"
+    }, 
+    {
+      "name" : "LAD25_RGN25_EN_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD25_RGN25_EN_LU/FeatureServer"
+    }, 
+    {
+      "name" : "LAD25_CTRY25_UK_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD25_CTRY25_UK_LU/FeatureServer"
     }
   ]
 }
