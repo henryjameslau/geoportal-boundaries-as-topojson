@@ -6847,11 +6847,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NCP24_LAD24_EN_LU/FeatureServer"
     }, 
     {
-      "name" : "New_NSPL_Online_Latest_Centroids", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/New_NSPL_Online_Latest_Centroids/FeatureServer"
-    }, 
-    {
       "name" : "NHS_Commissioning_Regions_April_2016_FCB_in_England_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHS_Commissioning_Regions_April_2016_FCB_in_England_2022/FeatureServer"
@@ -7180,11 +7175,6 @@
       "name" : "NHSER_DEC_2023_EN_BGC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSER_DEC_2023_EN_BGC/FeatureServer"
-    }, 
-    {
-      "name" : "NHSPD_Online_Latest_Centroids", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSPD_Online_Latest_Centroids/FeatureServer"
     }, 
     {
       "name" : "NHSRLO_Apr_2017_GCB_in_England_2022", 
@@ -15837,11 +15827,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSCR_(Apr_2016)_UGCB_in_England/MapServer"
     }, 
     {
-      "name" : "NHSPD_Online_Latest_Centroids", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSPD_Online_Latest_Centroids/MapServer"
-    }, 
-    {
       "name" : "NHSRLO_(Apr_2017)_GCB_in_England", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSRLO_(Apr_2017)_GCB_in_England/MapServer"
@@ -15855,11 +15840,6 @@
       "name" : "NHSRLO_(Apr_2017)_UGCB_in_England", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSRLO_(Apr_2017)_UGCB_in_England/MapServer"
-    }, 
-    {
-      "name" : "NSPL_Online_Latest_Centroids", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NSPL_Online_Latest_Centroids/MapServer"
     }, 
     {
       "name" : "NUTS_Level_1_(January_2015)_FCB_in_England_and_Wales", 
@@ -18150,6 +18130,21 @@
       "name" : "Postcode_to_OA_(2021)_to_LSOA_to_MSOA_to_LAD_to_CTYUA_to_RGN_to_CTRY_Best_Fit_Lookup_in_EW", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Postcode_to_OA_(2021)_to_LSOA_to_MSOA_to_LAD_to_CTYUA_to_RGN_to_CTRY_Best_Fit_Lookup_in_EW/FeatureServer"
+    }, 
+    {
+      "name" : "NHSPD_Online_Latest_Centroids", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSPD_Online_Latest_Centroids/FeatureServer"
+    }, 
+    {
+      "name" : "NHSPD_Online_Latest_Centroids", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSPD_Online_Latest_Centroids/WFSServer"
+    }, 
+    {
+      "name" : "NHSPD_Online_Latest_Centroids", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSPD_Online_Latest_Centroids/MapServer"
     }
   ]
 }
