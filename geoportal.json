@@ -18077,9 +18077,19 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD_MAY_2025_UK_NC/FeatureServer"
     }, 
     {
+      "name" : "WD25_LAD25_UK_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD25_LAD25_UK_LU/FeatureServer"
+    }, 
+    {
       "name" : "LAD25_CAUTH25_EN_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD25_CAUTH25_EN_LU/FeatureServer"
+    }, 
+    {
+      "name" : "LAD25_CTYUA25_UK_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD25_CTYUA25_UK_LU/FeatureServer"
     }, 
     {
       "name" : "LAD25_CTYUA25_EW_LU", 
