@@ -18175,6 +18175,26 @@
       "name" : "ONSPD_Online_Latest_Centroids", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ONSPD_Online_Latest_Centroids/MapServer"
+    }, 
+    {
+      "name" : "NPARK_DEC_2022_GB_BFC_V3", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NPARK_DEC_2022_GB_BFC_V3/FeatureServer"
+    }, 
+    {
+      "name" : "NPARK_DEC_2022_GB_BFE_V3", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NPARK_DEC_2022_GB_BFE_V3/FeatureServer"
+    }, 
+    {
+      "name" : "National_Parks_December_2022_Boundaries_GB_BFC_V3", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/National_Parks_December_2022_Boundaries_GB_BFC_V3/WFSServer"
+    }, 
+    {
+      "name" : "National_Parks_(December_2022)_Boundaries_GB_BFC_(V3)", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/National_Parks_(December_2022)_Boundaries_GB_BFC_(V3)/MapServer"
     }
   ]
 }
