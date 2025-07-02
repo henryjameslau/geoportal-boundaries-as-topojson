@@ -882,11 +882,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_March_2017_UGCB_in_England_2022/FeatureServer"
     }, 
     {
-      "name" : "Combined_Authorities_May_2023_Boundaries_EN_BFC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_May_2023_Boundaries_EN_BFC/FeatureServer"
-    }, 
-    {
       "name" : "Combined_Authorities_May_2023_Boundaries_EN_BFE", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_May_2023_Boundaries_EN_BFE/FeatureServer"
@@ -11910,11 +11905,6 @@
       "name" : "Combined_Authorities_(March_2017)_UGCB_in_England", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_(March_2017)_UGCB_in_England/MapServer"
-    }, 
-    {
-      "name" : "Combined_Authorities_(May_2024)_Boundaries_EN_BFC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_(May_2024)_Boundaries_EN_BFC/MapServer"
     }, 
     {
       "name" : "Combined_Authorities_December_2023_Boundaries_EN_BFC", 
