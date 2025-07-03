@@ -477,6 +477,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CED_MAY_2024_EN_BFC_V3/FeatureServer"
     }, 
     {
+      "name" : "CED_MAY_2024_EN_BFE_V3", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CED_MAY_2024_EN_BFE_V3/FeatureServer"
+    }, 
+    {
       "name" : "CED_MAY_2024_EN_BGC_V3", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CED_MAY_2024_EN_BGC_V3/FeatureServer"
@@ -4475,11 +4480,6 @@
       "name" : "LHB_2013_WA_BSC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LHB_2013_WA_BSC/FeatureServer"
-    }, 
-    {
-      "name" : "LHB_DEC_2023_WA_BGC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LHB_DEC_2023_WA_BGC/FeatureServer"
     }, 
     {
       "name" : "LHB_DEC_2023_WA_NC", 
@@ -15362,11 +15362,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/National_Parks_(December_2020)_Boundaries_GB_BUC/MapServer"
     }, 
     {
-      "name" : "National_Parks_(December_2022)_GB_BFC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/National_Parks_(December_2022)_GB_BFC/MapServer"
-    }, 
-    {
       "name" : "National_Parks_(December_2022)_GB_BFE", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/National_Parks_(December_2022)_GB_BFE/MapServer"
@@ -18390,6 +18385,11 @@
       "name" : "MSOA_(2011)_to_MSOA_(2021)_to_Local_Authority_District_(2022)_Lookup_for_England_and_Wales", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_(2011)_to_MSOA_(2021)_to_Local_Authority_District_(2022)_Lookup_for_England_and_Wales/FeatureServer"
+    }, 
+    {
+      "name" : "Combined_Authorities_May_2024_Boundaries_EN__BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_May_2024_Boundaries_EN__BFC/FeatureServer"
     }
   ]
 }
