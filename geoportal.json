@@ -167,6 +167,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CAL_and_NCV_Feb_2017_FCB_in_England_2022/FeatureServer"
     }, 
     {
+      "name" : "CAL_and_NCV_Feb_2017_FEB_in_England_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CAL_and_NCV_Feb_2017_FEB_in_England_2022/FeatureServer"
+    }, 
+    {
       "name" : "CAL_and_NCV_Feb_2017_GCB_in_England_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CAL_and_NCV_Feb_2017_GCB_in_England_2022/FeatureServer"
@@ -4727,11 +4732,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_December_2021_UK_BUC_2022/FeatureServer"
     }, 
     {
-      "name" : "Local_Authority_Districts_December_2022_Boundaries_UK_BUC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_December_2022_Boundaries_UK_BUC/FeatureServer"
-    }, 
-    {
       "name" : "Local_Authority_Districts_December_2022_UK_BFC_V2", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_December_2022_UK_BFC_V2/FeatureServer"
@@ -7162,11 +7162,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSER_APR_2024_EN_NC/FeatureServer"
     }, 
     {
-      "name" : "NHSER_DEC_2023_EN_BGC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSER_DEC_2023_EN_BGC/FeatureServer"
-    }, 
-    {
       "name" : "NHSRLO_Apr_2017_GCB_in_England_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSRLO_Apr_2017_GCB_in_England_2022/FeatureServer"
@@ -9445,11 +9440,6 @@
       "name" : "SCN_Dec_2016_SGCB_in_England_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SCN_Dec_2016_SGCB_in_England_2022/FeatureServer"
-    }, 
-    {
-      "name" : "SCN_Dec_2016_UGCB_in_England_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SCN_Dec_2016_UGCB_in_England_2022/FeatureServer"
     }, 
     {
       "name" : "Scottish_Parliamentary_Constituencies_Dec_2017_Names_and_Cod_2022", 
@@ -12290,11 +12280,6 @@
       "name" : "Counties_1981_Boundaries_EW", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_1981_Boundaries_EW/MapServer"
-    }, 
-    {
-      "name" : "Counties_and_Unitary_Authorities_(April_2019)_Boundaries_EW_BFC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_and_Unitary_Authorities_(April_2019)_Boundaries_EW_BFC/MapServer"
     }, 
     {
       "name" : "Counties_and_Unitary_Authorities_(April_2019)_FCB_EW", 
@@ -16227,11 +16212,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_and_Non_Civil_Parished_Areas_(Dec_2018)_FEB_EW/MapServer"
     }, 
     {
-      "name" : "Parishes_and_Non_Civil_Parished_Areas_(Dec_2019)_FCB_EW", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_and_Non_Civil_Parished_Areas_(Dec_2019)_FCB_EW/MapServer"
-    }, 
-    {
       "name" : "Parishes_and_Non_Civil_Parished_Areas_(Dec_2020)_EW_BFC_V2", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_and_Non_Civil_Parished_Areas_(Dec_2020)_EW_BFC_V2/MapServer"
@@ -16265,21 +16245,6 @@
       "name" : "Parishes_and_Non_Civil_Parished_Areas_(December2021)_EW_BFE", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_and_Non_Civil_Parished_Areas_(December2021)_EW_BFE/MapServer"
-    }, 
-    {
-      "name" : "Parishes_and_Non_Civil_Parished_Areas_(May_2018)_EW_BFC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_and_Non_Civil_Parished_Areas_(May_2018)_EW_BFC/MapServer"
-    }, 
-    {
-      "name" : "Parishes_and_Non_Civil_Parished_Areas_(May_2018)_EW_BFE", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_and_Non_Civil_Parished_Areas_(May_2018)_EW_BFE/MapServer"
-    }, 
-    {
-      "name" : "Parishes_and_Non_Civil_Parished_Areas_(May_2018)_EW_BGC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_and_Non_Civil_Parished_Areas_(May_2018)_EW_BGC/MapServer"
     }, 
     {
       "name" : "Parishes_and_Non_Civil_Parished_Areas_December_2022_EW_BFC_V3", 
@@ -16430,11 +16395,6 @@
       "name" : "PARNCP_(Dec_2018)_GCB_in_England_and_Wales", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PARNCP_(Dec_2018)_GCB_in_England_and_Wales/MapServer"
-    }, 
-    {
-      "name" : "PARNCP_(Dec_2019)_GCB_in_England_and_Wales", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PARNCP_(Dec_2019)_GCB_in_England_and_Wales/MapServer"
     }, 
     {
       "name" : "PCON_DEC_2022_UK_BFE_V2", 
@@ -17527,11 +17487,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_(December_2016)_FEB_in_Great_Britain/MapServer"
     }, 
     {
-      "name" : "Wards_(December_2016)_FEB_in_the_UK", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_(December_2016)_FEB_in_the_UK/MapServer"
-    }, 
-    {
       "name" : "Wards_(December_2016)_GCB_in_Great_Britain", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_(December_2016)_GCB_in_Great_Britain/MapServer"
@@ -17607,21 +17562,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_(December_2018)_SGCB_GB/MapServer"
     }, 
     {
-      "name" : "Wards_(December_2019)_Boundaries_UK_BFC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_(December_2019)_Boundaries_UK_BFC/MapServer"
-    }, 
-    {
-      "name" : "Wards_(December_2019)_Boundaries_UK_BFE", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_(December_2019)_Boundaries_UK_BFE/MapServer"
-    }, 
-    {
-      "name" : "Wards_(December_2019)_Boundaries_UK_BGC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_(December_2019)_Boundaries_UK_BGC/MapServer"
-    }, 
-    {
       "name" : "Wards_(December_2019)_FCB_EW", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_(December_2019)_FCB_EW/MapServer"
@@ -17670,11 +17610,6 @@
       "name" : "Wards_(December_2020)_UK_BFE_V2", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_(December_2020)_UK_BFE_V2/MapServer"
-    }, 
-    {
-      "name" : "Wards_(December_2020)_UK_BSC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_(December_2020)_UK_BSC/MapServer"
     }, 
     {
       "name" : "Wards_(December_2021)_GB_BFC", 
@@ -18387,9 +18322,19 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_(2011)_to_MSOA_(2021)_to_Local_Authority_District_(2022)_Lookup_for_England_and_Wales/FeatureServer"
     }, 
     {
-      "name" : "Combined_Authorities_May_2024_Boundaries_EN__BFC", 
+      "name" : "Combined_Authorities_May_2024_Boundaries_EN_BFC", 
       "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_May_2024_Boundaries_EN__BFC/FeatureServer"
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_May_2024_Boundaries_EN_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "Combined_Authorities_(May_2024)_Boundaries_EN_BFC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_(May_2024)_Boundaries_EN_BFC/WFSServer"
+    }, 
+    {
+      "name" : "Combined_Authorities_(May_2024)_Boundaries_EN_BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_(May_2024)_Boundaries_EN_BFC/MapServer"
     }
   ]
 }
