@@ -10622,16 +10622,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_December_2022_Boundaries_UK_BFE/FeatureServer"
     }, 
     {
-      "name" : "Wards_December_2022_Boundaries_UK_BGC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_December_2022_Boundaries_UK_BGC/FeatureServer"
-    }, 
-    {
-      "name" : "Wards_December_2022_Boundaries_UK_BSC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_December_2022_Boundaries_UK_BSC/FeatureServer"
-    }, 
-    {
       "name" : "Wards_December_2023_Boundaries_UK_BFC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_December_2023_Boundaries_UK_BFC/FeatureServer"
@@ -16800,11 +16790,6 @@
       "name" : "Regions_(December_2021)_EN_BUC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Regions_(December_2021)_EN_BUC/MapServer"
-    }, 
-    {
-      "name" : "Regions_(December_2022)_EN_BFC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Regions_(December_2022)_EN_BFC/MapServer"
     }, 
     {
       "name" : "Regions_(December_2022)_EN_BFE", 
