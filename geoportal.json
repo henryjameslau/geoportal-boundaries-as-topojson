@@ -17937,19 +17937,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WPC__(Dec_2018)_GCB_UK/MapServer"
     }, 
     {
-      "name" : "LAD_APR_2025_UK_NC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD_APR_2025_UK_NC/FeatureServer"
-    }, 
-    {
       "name" : "CAUTH_MAY_2025_EN_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CAUTH_MAY_2025_EN_NC/FeatureServer"
-    }, 
-    {
-      "name" : "PAR_APR_2025_EW_NC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PAR_APR_2025_EW_NC/FeatureServer"
     }, 
     {
       "name" : "WD_MAY_2025_UK_NC", 
@@ -17957,44 +17947,14 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD_MAY_2025_UK_NC/FeatureServer"
     }, 
     {
-      "name" : "WD25_LAD25_UK_LU", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD25_LAD25_UK_LU/FeatureServer"
-    }, 
-    {
       "name" : "LAD25_CAUTH25_EN_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD25_CAUTH25_EN_LU/FeatureServer"
     }, 
     {
-      "name" : "LAD25_CTYUA25_UK_LU", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD25_CTYUA25_UK_LU/FeatureServer"
-    }, 
-    {
-      "name" : "LAD25_CTYUA25_EW_LU", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD25_CTYUA25_EW_LU/FeatureServer"
-    }, 
-    {
-      "name" : "LAD24_LAD25_UK_LU", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD24_LAD25_UK_LU/FeatureServer"
-    }, 
-    {
       "name" : "LSOA21_WD24_LAD24_EW_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA21_WD24_LAD24_EW_LU/FeatureServer"
-    }, 
-    {
-      "name" : "LAD25_RGN25_EN_LU", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD25_RGN25_EN_LU/FeatureServer"
-    }, 
-    {
-      "name" : "LAD25_CTRY25_UK_LU", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD25_CTRY25_UK_LU/FeatureServer"
     }, 
     {
       "name" : "Output_Area_(2021)_to_County_and_Unitary_Authority_(December_2021)_Exact_Fit_Lookup_in_EW", 
@@ -18330,6 +18290,36 @@
       "name" : "Wards_(December_2022)_Boundaries_UK_BSC", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_(December_2022)_Boundaries_UK_BSC/WFSServer"
+    }, 
+    {
+      "name" : "LAD_APR_2025_UK_NC_v2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD_APR_2025_UK_NC_v2/FeatureServer"
+    }, 
+    {
+      "name" : "PAR_APR_2025_EW_NC_v2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PAR_APR_2025_EW_NC_v2/FeatureServer"
+    }, 
+    {
+      "name" : "LAD25_CTYUA25_EW_LU_v2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD25_CTYUA25_EW_LU_v2/FeatureServer"
+    }, 
+    {
+      "name" : "LAD25_CTYUA25_UK_LU_v2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD25_CTYUA25_UK_LU_v2/FeatureServer"
+    }, 
+    {
+      "name" : "LAD25_RGN25_EN_LU_v2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD25_RGN25_EN_LU_v2/FeatureServer"
+    }, 
+    {
+      "name" : "WD25_LAD25_UK_LU_v2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD25_LAD25_UK_LU_v2/FeatureServer"
     }
   ]
 }
