@@ -17847,21 +17847,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Postcode_to_OA_(2021)_to_LSOA_to_MSOA_to_LAD_to_CTYUA_to_RGN_to_CTRY_Best_Fit_Lookup_in_EW/FeatureServer"
     }, 
     {
-      "name" : "ONSPD_Online_Latest_Centroids", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ONSPD_Online_Latest_Centroids/FeatureServer"
-    }, 
-    {
-      "name" : "ONSPD_Online_Latest_Centroids", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ONSPD_Online_Latest_Centroids/WFSServer"
-    }, 
-    {
-      "name" : "ONSPD_Online_Latest_Centroids", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ONSPD_Online_Latest_Centroids/MapServer"
-    }, 
-    {
       "name" : "NPARK_DEC_2022_GB_BFC_V3", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NPARK_DEC_2022_GB_BFC_V3/FeatureServer"
@@ -18290,6 +18275,36 @@
       "name" : "NHSPD_Online_Latest_Centroids", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSPD_Online_Latest_Centroids/MapServer"
+    }, 
+    {
+      "name" : "NSPL_LATEST_UK", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NSPL_LATEST_UK/FeatureServer"
+    }, 
+    {
+      "name" : "NSPL_Online_Latest_Centroids", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NSPL_Online_Latest_Centroids/WFSServer"
+    }, 
+    {
+      "name" : "NSPL_Online_Latest_Centroids", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NSPL_Online_Latest_Centroids/MapServer"
+    }, 
+    {
+      "name" : "ONSPD_LATEST_UK", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ONSPD_LATEST_UK/FeatureServer"
+    }, 
+    {
+      "name" : "ONSPD_Online_latest_Postcode_Centroids_", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ONSPD_Online_latest_Postcode_Centroids_/WFSServer"
+    }, 
+    {
+      "name" : "ONSPD_Online_latest_Postcode_Centroids_", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ONSPD_Online_latest_Postcode_Centroids_/MapServer"
     }
   ]
 }
