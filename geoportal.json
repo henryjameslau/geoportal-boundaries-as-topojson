@@ -18335,6 +18335,21 @@
       "name" : "Standard_Area_Measurement_for_the_Westminster_Parliamentary_Constituency_(July_2024)_in_UK", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Standard_Area_Measurement_for_the_Westminster_Parliamentary_Constituency_(July_2024)_in_UK/FeatureServer"
+    }, 
+    {
+      "name" : "Standard_Area_Measurements_for_the_Parishes_and_NCP_(December_2022)_in_EW", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Standard_Area_Measurements_for_the_Parishes_and_NCP_(December_2022)_in_EW/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_(May_2025)_Boundaries_UK_BUC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_(May_2025)_Boundaries_UK_BUC/WFSServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_(May_2025)_Boundaries_UK_BUC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_(May_2025)_Boundaries_UK_BUC/MapServer"
     }
   ]
 }
