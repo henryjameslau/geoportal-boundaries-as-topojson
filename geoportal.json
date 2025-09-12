@@ -18342,14 +18342,39 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Standard_Area_Measurements_for_the_Parishes_and_NCP_(December_2022)_in_EW/FeatureServer"
     }, 
     {
+      "name" : "LAD_MAY_2025_UK_BUC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD_MAY_2025_UK_BUC/FeatureServer"
+    }, 
+    {
       "name" : "Local_Authority_Districts_(May_2025)_Boundaries_UK_BUC", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_(May_2025)_Boundaries_UK_BUC/WFSServer"
     }, 
     {
+      "name" : "Standard_Area_Measurements_for_the_Parishes_and_NCP_(December_2023)_in_England_and_Wales", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Standard_Area_Measurements_for_the_Parishes_and_NCP_(December_2023)_in_England_and_Wales/FeatureServer"
+    }, 
+    {
       "name" : "Local_Authority_Districts_(May_2025)_Boundaries_UK_BUC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_(May_2025)_Boundaries_UK_BUC/MapServer"
+    }, 
+    {
+      "name" : "CAUTH_MAY_2025_EN_BUC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CAUTH_MAY_2025_EN_BUC/FeatureServer"
+    }, 
+    {
+      "name" : "Combined_Authorities_(May_2025)_Boundaries_EN_BUC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_(May_2025)_Boundaries_EN_BUC/WFSServer"
+    }, 
+    {
+      "name" : "Combined_Authorities_(May_2025)_Boundaries_EN_BUC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_(May_2025)_Boundaries_EN_BUC/MapServer"
     }
   ]
 }
