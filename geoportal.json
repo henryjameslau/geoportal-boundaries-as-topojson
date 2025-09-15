@@ -18375,6 +18375,11 @@
       "name" : "Combined_Authorities_(May_2025)_Boundaries_EN_BUC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_(May_2025)_Boundaries_EN_BUC/MapServer"
+    }, 
+    {
+      "name" : "Standard_Area_Measurements_for_the_Parish_and_NCP_(December_2024)_in_England_and_Wales", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Standard_Area_Measurements_for_the_Parish_and_NCP_(December_2024)_in_England_and_Wales/FeatureServer"
     }
   ]
 }
