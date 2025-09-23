@@ -18390,6 +18390,31 @@
       "name" : "WD25_PCON24_LAD25_CTYUA25_UK_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD25_PCON24_LAD25_CTYUA25_UK_LU/FeatureServer"
+    }, 
+    {
+      "name" : "ONSPD_AUG_2025_UK", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ONSPD_AUG_2025_UK/FeatureServer"
+    }, 
+    {
+      "name" : "Standard_Area_Measurements_for_Local_Administrative_Units_(Level_1)_(January_2025)_in_UK", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Standard_Area_Measurements_for_Local_Administrative_Units_(Level_1)_(January_2025)_in_UK/FeatureServer"
+    }, 
+    {
+      "name" : "Standard_Area_Measurements_for_International_Territorial_Level_3_(January_2025)_in_the_UK", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Standard_Area_Measurements_for_International_Territorial_Level_3_(January_2025)_in_the_UK/FeatureServer"
+    }, 
+    {
+      "name" : "Standard_Area_Measurements_for_International_Territorial_Level_2_(January_2025)_in_the_UK", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Standard_Area_Measurements_for_International_Territorial_Level_2_(January_2025)_in_the_UK/FeatureServer"
+    }, 
+    {
+      "name" : "Standard_Area_Measurements_for_International_Territorial_Level_1_(January_2025)_in_the_UK", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Standard_Area_Measurements_for_International_Territorial_Level_1_(January_2025)_in_the_UK/FeatureServer"
     }
   ]
 }
