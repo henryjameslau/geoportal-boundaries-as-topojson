@@ -18397,6 +18397,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ONSPD_AUG_2025_UK/FeatureServer"
     }, 
     {
+      "name" : "250606_Westminster_Parlimentary_constituencies_2024_EW", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/250606_Westminster_Parlimentary_constituencies_2024_EW/FeatureServer"
+    }, 
+    {
       "name" : "Standard_Area_Measurements_for_Local_Administrative_Units_(Level_1)_(January_2025)_in_UK", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Standard_Area_Measurements_for_Local_Administrative_Units_(Level_1)_(January_2025)_in_UK/FeatureServer"
