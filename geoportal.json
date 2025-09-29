@@ -18425,6 +18425,16 @@
       "name" : "National_Parks_(December_2022)_Boundaries_GB_BGC_(V3)_", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/National_Parks_(December_2022)_Boundaries_GB_BGC_(V3)_/MapServer"
+    }, 
+    {
+      "name" : "ITL125_ITL225_ITL325_LAU125_LAD25_UK_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ITL125_ITL225_ITL325_LAU125_LAD25_UK_LU/FeatureServer"
+    }, 
+    {
+      "name" : "LAD25_LSIP25_EN_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD25_LSIP25_EN_LU/FeatureServer"
     }
   ]
 }
