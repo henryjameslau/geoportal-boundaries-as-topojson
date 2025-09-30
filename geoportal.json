@@ -18432,6 +18432,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ITL125_ITL225_ITL325_LAU125_LAD25_UK_LU/FeatureServer"
     }, 
     {
+      "name" : "LSIP_OCT_2025_EN_NC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSIP_OCT_2025_EN_NC/FeatureServer"
+    }, 
+    {
       "name" : "LAD25_LSIP25_EN_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD25_LSIP25_EN_LU/FeatureServer"
