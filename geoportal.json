@@ -18440,6 +18440,11 @@
       "name" : "LAD25_LSIP25_EN_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD25_LSIP25_EN_LU/FeatureServer"
+    }, 
+    {
+      "name" : "PCON_JULY_2024_EW_BUCwithRUC21data", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PCON_JULY_2024_EW_BUCwithRUC21data/FeatureServer"
     }
   ]
 }
