@@ -18232,11 +18232,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Enumeration_Districts_(1981)_EW_Population_Weighted_Centroids/WFSServer"
     }, 
     {
-      "name" : "LSOA21_WD24_LAD24_EW_LU", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA21_WD24_LAD24_EW_LU/FeatureServer"
-    }, 
-    {
       "name" : "LSOA21_WD23_LAD23_EW_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA21_WD23_LAD23_EW_LU/FeatureServer"
@@ -18445,6 +18440,11 @@
       "name" : "PCON_JULY_2024_EW_BUCwithRUC21data", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PCON_JULY_2024_EW_BUCwithRUC21data/FeatureServer"
+    }, 
+    {
+      "name" : "LSOA21_WD24_LAD24_EW_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA21_WD24_LAD24_EW_LU/FeatureServer"
     }
   ]
 }
