@@ -3167,11 +3167,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/International_Territorial_Level_2_January_2021_UK_BUC_V2_2022/FeatureServer"
     }, 
     {
-      "name" : "International_Territorial_Level_3_January_2021_UK_BFE_V3_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/International_Territorial_Level_3_January_2021_UK_BFE_V3_2022/FeatureServer"
-    }, 
-    {
       "name" : "International_Territorial_Level_3_January_2021_UK_BGC_V3_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/International_Territorial_Level_3_January_2021_UK_BGC_V3_2022/FeatureServer"
@@ -13497,11 +13492,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/International_Territorial_Level_2_(January_2021)_UK_BUC_V2/MapServer"
     }, 
     {
-      "name" : "International_Territorial_Level_3_(January_2021)_UK_BFE_V3", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/International_Territorial_Level_3_(January_2021)_UK_BFE_V3/MapServer"
-    }, 
-    {
       "name" : "International_Territorial_Level_3_(January_2021)_UK_BGC_V3", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/International_Territorial_Level_3_(January_2021)_UK_BGC_V3/MapServer"
@@ -18432,21 +18422,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/International_Territorial_Level_2_(January_2021)_Boundaries_UK_BFC_(V3)_/MapServer"
     }, 
     {
-      "name" : "ITL2_JAN_2021_UK_BFE_V3", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ITL2_JAN_2021_UK_BFE_V3/FeatureServer"
-    }, 
-    {
-      "name" : "ITL2_JAN_2021_UK_BFE_V3", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ITL2_JAN_2021_UK_BFE_V3/WFSServer"
-    }, 
-    {
-      "name" : "International_Territorial_Level_2_(January_2021)_Boundaries_UK_BFE_(V3)", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/International_Territorial_Level_2_(January_2021)_Boundaries_UK_BFE_(V3)/MapServer"
-    }, 
-    {
       "name" : "ITL3_JAN_2021_UK_BFC_V4", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ITL3_JAN_2021_UK_BFC_V4/FeatureServer"
@@ -18460,6 +18435,21 @@
       "name" : "International_Territorial_Level_3_(January_2021)_Boundaries_UK_BFC_(V4)_", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/International_Territorial_Level_3_(January_2021)_Boundaries_UK_BFC_(V4)_/MapServer"
+    }, 
+    {
+      "name" : "ITL3_JAN_2021_UK_BFE_V4", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ITL3_JAN_2021_UK_BFE_V4/FeatureServer"
+    }, 
+    {
+      "name" : "International_Territorial_Level_3_(January_2021)_Boundaries_UK_BFE_(V4)__", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/International_Territorial_Level_3_(January_2021)_Boundaries_UK_BFE_(V4)__/WFSServer"
+    }, 
+    {
+      "name" : "International_Territorial_Level_3_(January_2021)_Boundaries_UK_BFE_(V4)_", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/International_Territorial_Level_3_(January_2021)_Boundaries_UK_BFE_(V4)_/MapServer"
     }
   ]
 }
