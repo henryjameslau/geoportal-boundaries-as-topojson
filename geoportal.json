@@ -18290,6 +18290,76 @@
       "name" : "WPC__(Dec_2018)_GCB_UK", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WPC__(Dec_2018)_GCB_UK/MapServer"
+    }, 
+    {
+      "name" : "CED_MAY_2025_EN_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CED_MAY_2025_EN_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "CED_MAY_2025_EN_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CED_MAY_2025_EN_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "CED_MAY_2025_EN_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CED_MAY_2025_EN_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "CED_MAY_2025_EN_BSC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CED_MAY_2025_EN_BSC/FeatureServer"
+    }, 
+    {
+      "name" : "County_Electoral_Division_(May_2025)_Boundaries_EN_BFC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/County_Electoral_Division_(May_2025)_Boundaries_EN_BFC/WFSServer"
+    }, 
+    {
+      "name" : "County_Electoral_Division_(May_2025)_Boundaries_EN_BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/County_Electoral_Division_(May_2025)_Boundaries_EN_BFC/MapServer"
+    }, 
+    {
+      "name" : "CED_MAY_2025_EN_BFE", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CED_MAY_2025_EN_BFE/WFSServer"
+    }, 
+    {
+      "name" : "County_Electoral_Division_(May_2025)_Boundaries_EN_BFE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/County_Electoral_Division_(May_2025)_Boundaries_EN_BFE/MapServer"
+    }, 
+    {
+      "name" : "County_Electoral_Division_(May_2025)_Boundaries_EN_BGC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/County_Electoral_Division_(May_2025)_Boundaries_EN_BGC/WFSServer"
+    }, 
+    {
+      "name" : "County_Electoral_Division_(May_2025)_Boundaries_EN_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/County_Electoral_Division_(May_2025)_Boundaries_EN_BGC/MapServer"
+    }, 
+    {
+      "name" : "County_Electoral_Division_(May_2025)_Boundaries_EN_BUC_", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/County_Electoral_Division_(May_2025)_Boundaries_EN_BUC_/WFSServer"
+    }, 
+    {
+      "name" : "County_Electoral_Division_(May_2025)_Boundaries_EN_BUC_", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/County_Electoral_Division_(May_2025)_Boundaries_EN_BUC_/MapServer"
+    }, 
+    {
+      "name" : "WD25_LAD25_CTY25_CED25_EN_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD25_LAD25_CTY25_CED25_EN_LU/FeatureServer"
+    }, 
+    {
+      "name" : "CED_MAY_2025_EN_NC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CED_MAY_2025_EN_NC/FeatureServer"
     }
   ]
 }
