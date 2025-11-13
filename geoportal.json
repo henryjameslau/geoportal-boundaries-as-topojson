@@ -4627,11 +4627,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LHB_DEC_2023_WA_NC/FeatureServer"
     }, 
     {
-      "name" : "LLSOA_Dec_2021_PWC_for_England_and_Wales_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LLSOA_Dec_2021_PWC_for_England_and_Wales_2022/FeatureServer"
-    }, 
-    {
       "name" : "LMCTYUA", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LMCTYUA/FeatureServer"
@@ -14442,11 +14437,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPOP_(Dec_2014)_UGCB_in_England/MapServer"
     }, 
     {
-      "name" : "LLSOA_(Dec_2021)_PWC_for_England_and_Wales", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LLSOA_(Dec_2021)_PWC_for_England_and_Wales/MapServer"
-    }, 
-    {
       "name" : "Local_Authority_Districts_(April_2019)_UK_BFC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_(April_2019)_UK_BFC/MapServer"
@@ -18340,6 +18330,21 @@
       "name" : "WD25_PCON24_LAD25_CTYUA25_UK_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD25_PCON24_LAD25_CTYUA25_UK_LU/FeatureServer"
+    }, 
+    {
+      "name" : "LSOA_PopCentroids_EW_2021_V4", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_PopCentroids_EW_2021_V4/FeatureServer"
+    }, 
+    {
+      "name" : "Lower_Layer_Super_Output_Areas_(December_2021)_EW_Population_Weighted_Centroids", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Lower_Layer_Super_Output_Areas_(December_2021)_EW_Population_Weighted_Centroids/WFSServer"
+    }, 
+    {
+      "name" : "Lower_Layer_Super_Output_Areas_(December_2021)_EW_Population_Weighted_Centroids", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Lower_Layer_Super_Output_Areas_(December_2021)_EW_Population_Weighted_Centroids/MapServer"
     }
   ]
 }
