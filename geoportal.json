@@ -11327,11 +11327,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD25_LAD25_CTY25_CED25_EN_LU/FeatureServer"
     }, 
     {
-      "name" : "WD25_LAD25_CTYUA25_RGN25_CTRY25_UK_LU", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD25_LAD25_CTYUA25_RGN25_CTRY25_UK_LU/FeatureServer"
-    }, 
-    {
       "name" : "WD25_LAD25_UK_LU_v2", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD25_LAD25_UK_LU_v2/FeatureServer"
@@ -18345,6 +18340,11 @@
       "name" : "Lower_Layer_Super_Output_Areas_(December_2021)_EW_Population_Weighted_Centroids", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Lower_Layer_Super_Output_Areas_(December_2021)_EW_Population_Weighted_Centroids/MapServer"
+    }, 
+    {
+      "name" : "WD25_LAD25_CTYUA25_RGN25_CTRY25_UK_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD25_LAD25_CTYUA25_RGN25_CTRY25_UK_LU/FeatureServer"
     }
   ]
 }
