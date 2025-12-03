@@ -5762,11 +5762,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_2011_EW_NC_6fe4968cc083413988b2c5d643e1d248/FeatureServer"
     }, 
     {
-      "name" : "LSOA_2011_to_LSOA_2021_to_Local_Authority_District_2022_Lookup_for_England__2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_2011_to_LSOA_2021_to_Local_Authority_District_2022_Lookup_for_England__2022/FeatureServer"
-    }, 
-    {
       "name" : "LSOA_2021_EW_BFE_V10_RUC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_2021_EW_BFE_V10_RUC/FeatureServer"
@@ -18345,6 +18340,21 @@
       "name" : "WD25_LAD25_CTYUA25_RGN25_CTRY25_UK_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD25_LAD25_CTYUA25_RGN25_CTRY25_UK_LU/FeatureServer"
+    }, 
+    {
+      "name" : "LSOA11_LSOA21_LAD22_EW_LU_v2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA11_LSOA21_LAD22_EW_LU_v2/FeatureServer"
+    }, 
+    {
+      "name" : "RUC_Senedd_constituencies_2022_WA", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/RUC_Senedd_constituencies_2022_WA/FeatureServer"
+    }, 
+    {
+      "name" : "RUC_Upper_tier_LAs_2023_EW", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/RUC_Upper_tier_LAs_2023_EW/FeatureServer"
     }
   ]
 }
