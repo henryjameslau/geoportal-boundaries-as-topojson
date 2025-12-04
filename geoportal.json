@@ -10267,11 +10267,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Sustainability_and_Transformation_Partnerships_February_2017_Names_and_2022/FeatureServer"
     }, 
     {
-      "name" : "TCITY_2015_EW_BGG", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/TCITY_2015_EW_BGG/FeatureServer"
-    }, 
-    {
       "name" : "Travel_to_Work_Areas_Dec_2001_FCB_in_the_United_Kingdom_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Travel_to_Work_Areas_Dec_2001_FCB_in_the_United_Kingdom_2022/FeatureServer"
@@ -18355,6 +18350,11 @@
       "name" : "RUC_Upper_tier_LAs_2023_EW", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/RUC_Upper_tier_LAs_2023_EW/FeatureServer"
+    }, 
+    {
+      "name" : "ONSPD_NOV_2025_UK", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ONSPD_NOV_2025_UK/FeatureServer"
     }
   ]
 }
