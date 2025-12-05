@@ -5827,6 +5827,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/lsoa_london_refactored/FeatureServer"
     }, 
     {
+      "name" : "LSOA_PopCentroids_EW_2021_V4", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_PopCentroids_EW_2021_V4/FeatureServer"
+    }, 
+    {
       "name" : "LSOA01_BUASD11_BUA11_LAD11_RGN11_EW_LU_8ac85fc24ca643e093078965212b8f9c", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA01_BUASD11_BUA11_LAD11_RGN11_EW_LU_8ac85fc24ca643e093078965212b8f9c/FeatureServer"
@@ -6000,6 +6005,11 @@
       "name" : "LSOA11_LEP20_EN_LU_2bd363b66c994e11a0530b206b176e33", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA11_LEP20_EN_LU_2bd363b66c994e11a0530b206b176e33/FeatureServer"
+    }, 
+    {
+      "name" : "LSOA11_LSOA21_LAD22_EW_LU_v2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA11_LSOA21_LAD22_EW_LU_v2/FeatureServer"
     }, 
     {
       "name" : "LSOA11_LSOA21_LAD22_EW_LU_v5", 
@@ -8152,6 +8162,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ONSPD_LATEST_UK/FeatureServer"
     }, 
     {
+      "name" : "ONSPD_NOV_2025_UK", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ONSPD_NOV_2025_UK/FeatureServer"
+    }, 
+    {
       "name" : "Output_Area_(2011)_to_Ward_(2021)_to_LAD_(December_2021)_Best_Fit_Lookup_in_EW_(V2)", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Area_(2011)_to_Ward_(2021)_to_LAD_(December_2021)_Best_Fit_Lookup_in_EW_(V2)/FeatureServer"
@@ -9605,6 +9620,16 @@
       "name" : "RGN_DEC_2024_EN_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/RGN_DEC_2024_EN_NC/FeatureServer"
+    }, 
+    {
+      "name" : "RUC_Senedd_constituencies_2022_WA", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/RUC_Senedd_constituencies_2022_WA/FeatureServer"
+    }, 
+    {
+      "name" : "RUC_Upper_tier_LAs_2023_EW", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/RUC_Upper_tier_LAs_2023_EW/FeatureServer"
     }, 
     {
       "name" : "Rural Urban Classification (2011) of Lower Layer Super Output Areas in England and Wales_new", 
@@ -11317,9 +11342,19 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD25_LAD25_CTY25_CED25_EN_LU/FeatureServer"
     }, 
     {
+      "name" : "WD25_LAD25_CTYUA25_RGN25_CTRY25_UK_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD25_LAD25_CTYUA25_RGN25_CTRY25_UK_LU/FeatureServer"
+    }, 
+    {
       "name" : "WD25_LAD25_UK_LU_v2", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD25_LAD25_UK_LU_v2/FeatureServer"
+    }, 
+    {
+      "name" : "WD25_PCON24_LAD25_CTYUA25_UK_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD25_PCON24_LAD25_CTYUA25_UK_LU/FeatureServer"
     }, 
     {
       "name" : "WD81_WD91_EW_LU_644a3989bd4042119678945ca1f2f2ec", 
@@ -15262,6 +15297,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Lower_layer_Super_Output_Areas_(December_2021)_Boundaries_EW_BFE_(V10)_and_RUC/MapServer"
     }, 
     {
+      "name" : "Lower_Layer_Super_Output_Areas_(December_2021)_EW_Population_Weighted_Centroids", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Lower_Layer_Super_Output_Areas_(December_2021)_EW_Population_Weighted_Centroids/MapServer"
+    }, 
+    {
       "name" : "Lower_layer_Super_Output_Areas_December_2021_Boundaries_EW_BFC_V10", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Lower_layer_Super_Output_Areas_December_2021_Boundaries_EW_BFC_V10/MapServer"
@@ -18310,51 +18350,6 @@
       "name" : "WPC__(Dec_2018)_GCB_UK", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WPC__(Dec_2018)_GCB_UK/MapServer"
-    }, 
-    {
-      "name" : "WD25_PCON24_LAD25_CTYUA25_UK_LU", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD25_PCON24_LAD25_CTYUA25_UK_LU/FeatureServer"
-    }, 
-    {
-      "name" : "LSOA_PopCentroids_EW_2021_V4", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_PopCentroids_EW_2021_V4/FeatureServer"
-    }, 
-    {
-      "name" : "Lower_Layer_Super_Output_Areas_(December_2021)_EW_Population_Weighted_Centroids", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Lower_Layer_Super_Output_Areas_(December_2021)_EW_Population_Weighted_Centroids/WFSServer"
-    }, 
-    {
-      "name" : "Lower_Layer_Super_Output_Areas_(December_2021)_EW_Population_Weighted_Centroids", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Lower_Layer_Super_Output_Areas_(December_2021)_EW_Population_Weighted_Centroids/MapServer"
-    }, 
-    {
-      "name" : "WD25_LAD25_CTYUA25_RGN25_CTRY25_UK_LU", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD25_LAD25_CTYUA25_RGN25_CTRY25_UK_LU/FeatureServer"
-    }, 
-    {
-      "name" : "LSOA11_LSOA21_LAD22_EW_LU_v2", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA11_LSOA21_LAD22_EW_LU_v2/FeatureServer"
-    }, 
-    {
-      "name" : "RUC_Senedd_constituencies_2022_WA", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/RUC_Senedd_constituencies_2022_WA/FeatureServer"
-    }, 
-    {
-      "name" : "RUC_Upper_tier_LAs_2023_EW", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/RUC_Upper_tier_LAs_2023_EW/FeatureServer"
-    }, 
-    {
-      "name" : "ONSPD_NOV_2025_UK", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ONSPD_NOV_2025_UK/FeatureServer"
     }
   ]
 }
