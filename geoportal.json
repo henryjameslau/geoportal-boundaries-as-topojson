@@ -15657,11 +15657,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/National_Parks_December_2014_GB_BFE/MapServer"
     }, 
     {
-      "name" : "National_Parks_December_2022_Boundaries_GB_BFC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/National_Parks_December_2022_Boundaries_GB_BFC/MapServer"
-    }, 
-    {
       "name" : "NAWC_(Dec_2016)_FCB_in_Wales", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NAWC_(Dec_2016)_FCB_in_Wales/MapServer"
