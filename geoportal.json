@@ -6507,26 +6507,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA21_UTLA23_EW_LU/FeatureServer"
     }, 
     {
-      "name" : "MSOA21_WD22_LAD22_EW_LU_v2", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA21_WD22_LAD22_EW_LU_v2/FeatureServer"
-    }, 
-    {
-      "name" : "MSOA21_WD23_LAD23_EW_LU", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA21_WD23_LAD23_EW_LU/FeatureServer"
-    }, 
-    {
-      "name" : "MSOA21_WD24_LAD24_EW_LU", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA21_WD24_LAD24_EW_LU/FeatureServer"
-    }, 
-    {
-      "name" : "MSOA21_WD25_LAD25_EW_LU_v2", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA21_WD25_LAD25_EW_LU_v2/FeatureServer"
-    }, 
-    {
       "name" : "NAER_Dec_2016_FCB_in_Wales_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NAER_Dec_2016_FCB_in_Wales_2022/FeatureServer"
@@ -8032,11 +8012,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA21_NPARK24_EW_LU/FeatureServer"
     }, 
     {
-      "name" : "OA21_PARNCP24_LAD_CTYUA_RGN_CTRY_EW_LU", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA21_PARNCP24_LAD_CTYUA_RGN_CTRY_EW_LU/FeatureServer"
-    }, 
-    {
       "name" : "OA21_PCDS21_EW_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA21_PCDS21_EW_LU/FeatureServer"
@@ -8080,21 +8055,6 @@
       "name" : "OA21_WD22_LTLA22_UTLA22_RGN22_CTRY22_EW_LU_v2", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA21_WD22_LTLA22_UTLA22_RGN22_CTRY22_EW_LU_v2/FeatureServer"
-    }, 
-    {
-      "name" : "OA21_WD23_LAD23_EW_LU", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA21_WD23_LAD23_EW_LU/FeatureServer"
-    }, 
-    {
-      "name" : "OA21_WD24_LAD24_EW_LU", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA21_WD24_LAD24_EW_LU/FeatureServer"
-    }, 
-    {
-      "name" : "OA21_WD25_LAD25_EW_LU_v2", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA21_WD25_LAD25_EW_LU_v2/FeatureServer"
     }, 
     {
       "name" : "OAC_2011_UK_NC_ef4e132bcfe8457aa344d59737e9bb31", 
@@ -18380,6 +18340,11 @@
       "name" : "OA21_PARNCP24_LAD_CTYUA_RGN_CTRY_EW_LU_v2", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA21_PARNCP24_LAD_CTYUA_RGN_CTRY_EW_LU_v2/FeatureServer"
+    }, 
+    {
+      "name" : "OA21_PARNCP25_LAD_CTYUA_RGN_CTRY_EW_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA21_PARNCP25_LAD_CTYUA_RGN_CTRY_EW_LU/FeatureServer"
     }
   ]
 }
