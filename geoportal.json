@@ -4197,6 +4197,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD25_CAUTH25_EN_LU/FeatureServer"
     }, 
     {
+      "name" : "LAD25_CTRY25_UK_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD25_CTRY25_UK_LU/FeatureServer"
+    }, 
+    {
       "name" : "LAD25_CTYUA25_EW_LU_v2", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD25_CTYUA25_EW_LU_v2/FeatureServer"
