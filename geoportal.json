@@ -18542,6 +18542,186 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Cancer_Alliances_(April_2024)_Boundaries_EN_BUC/MapServer"
     }, 
     {
+      "name" : "LAD25_LPA25_UK_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD25_LPA25_UK_LU/FeatureServer"
+    }, 
+    {
+      "name" : "NCP25_LAD25_EN_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NCP25_LAD25_EN_LU/FeatureServer"
+    }, 
+    {
+      "name" : "PAR25_WD25_LAD25_EW_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PAR25_WD25_LAD25_EW_LU/FeatureServer"
+    }, 
+    {
+      "name" : "MSOA21_CTYUA25_EW_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA21_CTYUA25_EW_LU/FeatureServer"
+    }, 
+    {
+      "name" : "OA21_CTYUA25_EW_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA21_CTYUA25_EW_LU/FeatureServer"
+    }, 
+    {
+      "name" : "SPC25_SPR25_SC_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SPC25_SPR25_SC_LU/FeatureServer"
+    }, 
+    {
+      "name" : "WD25_UA25_SENC25_WA_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD25_UA25_SENC25_WA_LU/FeatureServer"
+    }, 
+    {
+      "name" : "WD25_UA25_SENER25_WA_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD25_UA25_SENER25_WA_LU/FeatureServer"
+    }, 
+    {
+      "name" : "LSOA21_SICBL25_ICB25_CAL25_LAD25_EN_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA21_SICBL25_ICB25_CAL25_LAD25_EN_LU/FeatureServer"
+    }, 
+    {
+      "name" : "UA25_LHB25_WA_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/UA25_LHB25_WA_LU/FeatureServer"
+    }, 
+    {
+      "name" : "LAD25_CSP25_PFA25_EW_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD25_CSP25_PFA25_EW_LU/FeatureServer"
+    }, 
+    {
+      "name" : "LAD25_FRA25_EW_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD25_FRA25_EW_LU/FeatureServer"
+    }, 
+    {
+      "name" : "LAD25_LRF25_EW_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD25_LRF25_EW_LU/FeatureServer"
+    }, 
+    {
+      "name" : "UA25_DCELL25_WA_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/UA25_DCELL25_WA_LU/FeatureServer"
+    }, 
+    {
+      "name" : "WD25_REGD25_LAD25_EW_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD25_REGD25_LAD25_EW_LU/FeatureServer"
+    }, 
+    {
+      "name" : "CTY_DEC_2025_EN_NC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CTY_DEC_2025_EN_NC/FeatureServer"
+    }, 
+    {
+      "name" : "CTYUA_APR_2025_UK_NC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CTYUA_APR_2025_UK_NC/FeatureServer"
+    }, 
+    {
+      "name" : "CTRY_DEC_2025_UK_NC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CTRY_DEC_2025_UK_NC/FeatureServer"
+    }, 
+    {
+      "name" : "LPA_MAY_2025_UK_NC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LPA_MAY_2025_UK_NC/FeatureServer"
+    }, 
+    {
+      "name" : "MCTY_DEC_2025_EN_NC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MCTY_DEC_2025_EN_NC/FeatureServer"
+    }, 
+    {
+      "name" : "NCP_DEC_2025_EN_NC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NCP_DEC_2025_EN_NC/FeatureServer"
+    }, 
+    {
+      "name" : "PAR_DEC_2025_EW_NC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PAR_DEC_2025_EW_NC/FeatureServer"
+    }, 
+    {
+      "name" : "RGN_DEC_2025_EN_NC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/RGN_DEC_2025_EN_NC/FeatureServer"
+    }, 
+    {
+      "name" : "LAC_DEC_2025_EN_NC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAC_DEC_2025_EN_NC/FeatureServer"
+    }, 
+    {
+      "name" : "SENC_DEC_2025_WA_NC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SENC_DEC_2025_WA_NC/FeatureServer"
+    }, 
+    {
+      "name" : "SENER_DEC_2025_WA_NC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SENER_DEC_2025_WA_NC/FeatureServer"
+    }, 
+    {
+      "name" : "SPC_DEC_2025_SC_NC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SPC_DEC_2025_SC_NC/FeatureServer"
+    }, 
+    {
+      "name" : "SPR_DEC_2025_SC_NC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SPR_DEC_2025_SC_NC/FeatureServer"
+    }, 
+    {
+      "name" : "PCON_DEC_2025_UK_NC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PCON_DEC_2025_UK_NC/FeatureServer"
+    }, 
+    {
+      "name" : "CSP_DEC_2025_EW_NC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CSP_DEC_2025_EW_NC/FeatureServer"
+    }, 
+    {
+      "name" : "LRF_DEC_2025_EW_NC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LRF_DEC_2025_EW_NC/FeatureServer"
+    }, 
+    {
+      "name" : "REGD_DEC_2025_EW_NC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/REGD_DEC_2025_EW_NC/FeatureServer"
+    }, 
+    {
+      "name" : "NPARK_DEC_2025_GB_NC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NPARK_DEC_2025_GB_NC/FeatureServer"
+    }, 
+    {
+      "name" : "FRA_DEC_2025_UK_NC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/FRA_DEC_2025_UK_NC/FeatureServer"
+    }, 
+    {
+      "name" : "PFA_DEC_2025_UK_NC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PFA_DEC_2025_UK_NC/FeatureServer"
+    }, 
+    {
+      "name" : "DCELLS_DEC_2025_WA_NC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/DCELLS_DEC_2025_WA_NC/FeatureServer"
+    }, 
+    {
       "name" : "Police_Force_Areas_Dec_2024_EW_BFE", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Police_Force_Areas_Dec_2024_EW_BFE/FeatureServer"
