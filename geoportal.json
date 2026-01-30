@@ -6187,11 +6187,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LTLA23_UTLA23_EW_LU/FeatureServer"
     }, 
     {
-      "name" : "main_ONS_BUA_2024_EW", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/main_ONS_BUA_2024_EW/FeatureServer"
-    }, 
-    {
       "name" : "Major_Towns_and_Cities_Dec_2015_Boundaries_V2_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Major_Towns_and_Cities_Dec_2015_Boundaries_V2_2022/FeatureServer"
@@ -11620,11 +11615,6 @@
       "name" : "Ancient_Counties_December_1921_in_England_and_Wales_BGC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Ancient_Counties_December_1921_in_England_and_Wales_BGC/MapServer"
-    }, 
-    {
-      "name" : "Built_Up_Areas_(2024)_Boundaries_EW_BGG", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Built_Up_Areas_(2024)_Boundaries_EW_BGG/MapServer"
     }, 
     {
       "name" : "Built-up_Area_Sub_Divisions_(Dec_2011)_Boundaries", 
@@ -18780,6 +18770,21 @@
       "name" : "Police_Force_Areas_(December_2024)_Boundaries_EW_BUC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Police_Force_Areas_(December_2024)_Boundaries_EW_BUC/MapServer"
+    }, 
+    {
+      "name" : "Built_Up_Areas_December_2024_Boundaries_EW_BGG__V2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Built_Up_Areas_December_2024_Boundaries_EW_BGG__V2/FeatureServer"
+    }, 
+    {
+      "name" : "Built_Up_Areas_(December_2024)_Boundaries_EW_BGG_(V2)", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Built_Up_Areas_(December_2024)_Boundaries_EW_BGG_(V2)/WFSServer"
+    }, 
+    {
+      "name" : "Built_Up_Areas_(December_2024)_Boundaries_EW_BGG_(V2)", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Built_Up_Areas_(December_2024)_Boundaries_EW_BGG_(V2)/MapServer"
     }
   ]
 }
