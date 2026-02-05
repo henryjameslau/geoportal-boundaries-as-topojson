@@ -4652,11 +4652,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPOP_Apr_2017_UGCB_in_England_2022/FeatureServer"
     }, 
     {
-      "name" : "LEPOP_Apr_2020_FCB_in_England_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPOP_Apr_2020_FCB_in_England_2022/FeatureServer"
-    }, 
-    {
       "name" : "LEPOP_Apr_2020_FEB_in_England_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPOP_Apr_2020_FEB_in_England_2022/FeatureServer"
@@ -6220,11 +6215,6 @@
       "name" : "LSOA21_SICBL23_ICB23_LAD23_EN_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA21_SICBL23_ICB23_LAD23_EN_LU/FeatureServer"
-    }, 
-    {
-      "name" : "LSOA21_SICBL24_ICB24_CAL24_LAD24_EN_LU", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA21_SICBL24_ICB24_CAL24_LAD24_EN_LU/FeatureServer"
     }, 
     {
       "name" : "LSOA21_SICBL25_ICB25_CAL25_LAD25_EN_LU", 
@@ -11250,11 +11240,6 @@
       "name" : "WD_MAY_2024_UK_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD_MAY_2024_UK_NC/FeatureServer"
-    }, 
-    {
-      "name" : "WD_MAY_2025_UK_BFC_V2", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD_MAY_2025_UK_BFC_V2/FeatureServer"
     }, 
     {
       "name" : "WD_MAY_2025_UK_BFE_V2", 
