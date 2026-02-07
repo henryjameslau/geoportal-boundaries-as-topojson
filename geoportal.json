@@ -6522,6 +6522,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_DEC_2021_EW_NC_v3/FeatureServer"
     }, 
     {
+      "name" : "MSOA_December_2021_EW_PWC_V2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_December_2021_EW_PWC_V2/FeatureServer"
+    }, 
+    {
       "name" : "MSOA01_MSOA11_LAD11_EW_LU_4d62b7319b914e52bb640ccd5d7977b6", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA01_MSOA11_LAD11_EW_LU_4d62b7319b914e52bb640ccd5d7977b6/FeatureServer"
@@ -7807,6 +7812,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA_DEC_2011_BGC_EW_joined/FeatureServer"
     }, 
     {
+      "name" : "OA_December_2021_EW_PWC_V4", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA_December_2021_EW_PWC_V4/FeatureServer"
+    }, 
+    {
       "name" : "OA_EW_BGC_with_RUCOA11", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA_EW_BGC_with_RUCOA11/FeatureServer"
@@ -8340,11 +8350,6 @@
       "name" : "Output_Areas_2021_EW_BGC_V2", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_2021_EW_BGC_V2/FeatureServer"
-    }, 
-    {
-      "name" : "Output_Areas_2021_PWC_V3", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_2021_PWC_V3/FeatureServer"
     }, 
     {
       "name" : "Output_Areas_Dec_2001_Boundaries_EW_BFC_2022", 
@@ -15757,6 +15762,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Middle_layer_Super_Output_Areas_(December_2021)_Boundaries_EW_BFE_(V8)_and_RUC/MapServer"
     }, 
     {
+      "name" : "Middle_layer_Super_Output_Areas_(December_2021)_EW_Population_Weighted_Centroids_(V2)_", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Middle_layer_Super_Output_Areas_(December_2021)_EW_Population_Weighted_Centroids_(V2)_/MapServer"
+    }, 
+    {
       "name" : "Middle_layer_Super_Output_Areas_December_2021_Boundaries_EW_BFC_V7", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Middle_layer_Super_Output_Areas_December_2021_Boundaries_EW_BFC_V7/MapServer"
@@ -16572,9 +16582,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_(December_2021)_Boundaries_EW_BFE_(V9)_and_RUC/MapServer"
     }, 
     {
-      "name" : "Output_Areas_(December_2021)_PWC_(V3)", 
+      "name" : "Output_Areas_(December_2021)_EW_Population_Weighted_Centroids_(V4)_", 
       "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_(December_2021)_PWC_(V3)/MapServer"
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Output_Areas_(December_2021)_EW_Population_Weighted_Centroids_(V4)_/MapServer"
     }, 
     {
       "name" : "Output_Areas_2021_EW_BFC_V8", 
