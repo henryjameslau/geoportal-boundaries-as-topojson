@@ -147,11 +147,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Built_up_Areas_Dec_2011_Boundaries_V2_2022/FeatureServer"
     }, 
     {
-      "name" : "CA_2011_SC_BGC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CA_2011_SC_BGC/FeatureServer"
-    }, 
-    {
       "name" : "CA_June_2016_SGCB_England_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CA_June_2016_SGCB_England_2022/FeatureServer"
