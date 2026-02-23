@@ -7417,11 +7417,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSER_APR_2024_EN_NC/FeatureServer"
     }, 
     {
-      "name" : "NHSPD_LATEST_UK", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSPD_LATEST_UK/FeatureServer"
-    }, 
-    {
       "name" : "NHSRLO_Apr_2017_GCB_in_England_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSRLO_Apr_2017_GCB_in_England_2022/FeatureServer"
@@ -16340,11 +16335,6 @@
       "name" : "NHSCR_(Apr_2016)_UGCB_in_England", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSCR_(Apr_2016)_UGCB_in_England/MapServer"
-    }, 
-    {
-      "name" : "NHSPD_Online_Latest_Centroids", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSPD_Online_Latest_Centroids/MapServer"
     }, 
     {
       "name" : "NHSRLO_(Apr_2017)_GCB_in_England", 
