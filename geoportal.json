@@ -1,5 +1,5 @@
 {
-  "currentVersion" : 11.5, 
+  "currentVersion" : 12, 
   "services" : [
     {
       "name" : "250606_Westminster_Parlimentary_constituencies_2024_EW", 
@@ -18640,11 +18640,6 @@
       "name" : "Built_Up_Areas_(December_2024)_Boundaries_EW_BGG_(V2)", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Built_Up_Areas_(December_2024)_Boundaries_EW_BGG_(V2)/MapServer"
-    }, 
-    {
-      "name" : "survey123_ee94e2df054243af866e7e56b3858fb9_form", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/survey123_ee94e2df054243af866e7e56b3858fb9_form/FeatureServer"
     }, 
     {
       "name" : "Online_ONS_Postcode_Directory_Live", 
