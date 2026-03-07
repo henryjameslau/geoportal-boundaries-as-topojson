@@ -18642,11 +18642,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Built_Up_Areas_(December_2024)_Boundaries_EW_BGG_(V2)/MapServer"
     }, 
     {
-      "name" : "Online_ONS_Postcode_Directory_Live", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Online_ONS_Postcode_Directory_Live/FeatureServer"
-    }, 
-    {
       "name" : "NHSPD_Latest_Centroids_UK", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSPD_Latest_Centroids_UK/FeatureServer"
@@ -18690,6 +18685,11 @@
       "name" : "ONSPD_Online_latest_Postcode_Centroids", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ONSPD_Online_latest_Postcode_Centroids/MapServer"
+    }, 
+    {
+      "name" : "Online_ONS_Postcode_Directory_Live", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Online_ONS_Postcode_Directory_Live/FeatureServer"
     }
   ]
 }
