@@ -857,11 +857,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_December_2020_EN_BUC_2022/FeatureServer"
     }, 
     {
-      "name" : "Combined_Authorities_December_2021_EN_BFC_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_December_2021_EN_BFC_2022/FeatureServer"
-    }, 
-    {
       "name" : "Combined_Authorities_December_2021_EN_BFE_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_December_2021_EN_BFE_2022/FeatureServer"
@@ -18640,21 +18635,6 @@
       "name" : "Built_Up_Areas_(December_2024)_Boundaries_EW_BGG_(V2)", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Built_Up_Areas_(December_2024)_Boundaries_EW_BGG_(V2)/MapServer"
-    }, 
-    {
-      "name" : "NHSPD_Latest_Centroids_UK", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSPD_Latest_Centroids_UK/FeatureServer"
-    }, 
-    {
-      "name" : "NHSPD_Online_Latest_Centroids", 
-      "type" : "WFSServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSPD_Online_Latest_Centroids/WFSServer"
-    }, 
-    {
-      "name" : "NHSPD_Online_Latest_Centroids", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSPD_Online_Latest_Centroids/MapServer"
     }, 
     {
       "name" : "NSPL_LATEST_UK", 
