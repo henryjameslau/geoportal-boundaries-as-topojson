@@ -5182,6 +5182,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Enterprise_Partnerships_Dec_2014_FEB_in_England_2022/FeatureServer"
     }, 
     {
+      "name" : "Local_Enterprise_Partnerships_Dec_2017_FCB_EN_V3_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Enterprise_Partnerships_Dec_2017_FCB_EN_V3_2022/FeatureServer"
+    }, 
+    {
       "name" : "Local_Enterprise_Partnerships_May_2021_EN_BFC_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Enterprise_Partnerships_May_2021_EN_BFC_2022/FeatureServer"
@@ -18680,6 +18685,11 @@
       "name" : "NSPL_Online_Latest_Centroids", 
       "type" : "WFSServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NSPL_Online_Latest_Centroids/WFSServer"
+    }, 
+    {
+      "name" : "NSPL_Online_Latest_Centroids", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NSPL_Online_Latest_Centroids/MapServer"
     }
   ]
 }
