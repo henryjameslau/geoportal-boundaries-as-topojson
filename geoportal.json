@@ -18750,6 +18750,16 @@
       "name" : "Local_Planning_Authorities_(January_2026)_Boundaries_UK_BUC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Planning_Authorities_(January_2026)_Boundaries_UK_BUC/MapServer"
+    }, 
+    {
+      "name" : "ONS_Postcode_Directory_(February_2026)_for_the_UK_(Hosted_Table)", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ONS_Postcode_Directory_(February_2026)_for_the_UK_(Hosted_Table)/FeatureServer"
+    }, 
+    {
+      "name" : "National_Statistics_Postcode_Lookup_(February_2026)_for_the_UK_(Hosted_Table)", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/National_Statistics_Postcode_Lookup_(February_2026)_for_the_UK_(Hosted_Table)/FeatureServer"
     }
   ]
 }
