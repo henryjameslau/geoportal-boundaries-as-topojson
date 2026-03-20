@@ -8662,11 +8662,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_December_2016_FCB_in_England_and_Wales_2022/FeatureServer"
     }, 
     {
-      "name" : "Parishes_December_2016_FEB_in_England_and_Wales_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_December_2016_FEB_in_England_and_Wales_2022/FeatureServer"
-    }, 
-    {
       "name" : "Parishes_December_2016_GCB_in_England_and_Wales_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_December_2016_GCB_in_England_and_Wales_2022/FeatureServer"
