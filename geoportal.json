@@ -18760,6 +18760,11 @@
       "name" : "National_Statistics_Postcode_Lookup_(February_2026)_for_the_UK_(Hosted_Table)", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/National_Statistics_Postcode_Lookup_(February_2026)_for_the_UK_(Hosted_Table)/FeatureServer"
+    }, 
+    {
+      "name" : "Corrections_to_214_Northern_Ireland_Postcodes_for_Parliamentary_Constituencies", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Corrections_to_214_Northern_Ireland_Postcodes_for_Parliamentary_Constituencies/FeatureServer"
     }
   ]
 }
