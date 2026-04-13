@@ -6152,6 +6152,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA11_UTLA19_EW_LU_6289c3ca752b47e6809aa381effa3502/FeatureServer"
     }, 
     {
+      "name" : "LSOA11_UTLA20_EW_LU_e1a63696ddc341638259c7378cd2ab23", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA11_UTLA20_EW_LU_e1a63696ddc341638259c7378cd2ab23/FeatureServer"
+    }, 
+    {
       "name" : "LSOA11_UTLA21_EW_LU_16dd2caef0d4425b94e72dc7e4add26f", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA11_UTLA21_EW_LU_16dd2caef0d4425b94e72dc7e4add26f/FeatureServer"
