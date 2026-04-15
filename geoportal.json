@@ -8412,6 +8412,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PAR_APR_2025_EW_NC_v2/FeatureServer"
     }, 
     {
+      "name" : "PAR_APR_2026_EW_NC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PAR_APR_2026_EW_NC/FeatureServer"
+    }, 
+    {
       "name" : "PAR_DEC_2022_EW_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PAR_DEC_2022_EW_NC/FeatureServer"
@@ -18705,6 +18710,31 @@
       "name" : "WPC__(Dec_2018)_GCB_UK", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WPC__(Dec_2018)_GCB_UK/MapServer"
+    }, 
+    {
+      "name" : "NCP_APR_2026_EN_NC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NCP_APR_2026_EN_NC/FeatureServer"
+    }, 
+    {
+      "name" : "SICBL_APR_2026_EN_NC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SICBL_APR_2026_EN_NC/FeatureServer"
+    }, 
+    {
+      "name" : "ICB_APR_2026_EN_NC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ICB_APR_2026_EN_NC/FeatureServer"
+    }, 
+    {
+      "name" : "SICBL26_ICB26_NHSER26_EN_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SICBL26_ICB26_NHSER26_EN_LU/FeatureServer"
+    }, 
+    {
+      "name" : "LSOA21_SICBL26_ICB26_NHSER26_LAD26", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA21_SICBL26_ICB26_NHSER26_LAD26/FeatureServer"
     }
   ]
 }
