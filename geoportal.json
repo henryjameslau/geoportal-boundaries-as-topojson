@@ -18735,6 +18735,21 @@
       "name" : "LSOA21_SICBL26_ICB26_NHSER26_LAD26", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA21_SICBL26_ICB26_NHSER26_LAD26/FeatureServer"
+    }, 
+    {
+      "name" : "Sub_Integrated_Care_Board_Locations_April_2026_Boundaries_EN_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Sub_Integrated_Care_Board_Locations_April_2026_Boundaries_EN_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "Sub_Integrated_Care_Board_Locations_(April_2026)_Boundaries_EN_BFE", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Sub_Integrated_Care_Board_Locations_(April_2026)_Boundaries_EN_BFE/WFSServer"
+    }, 
+    {
+      "name" : "Sub_Integrated_Care_Board_Locations_(April_2026)_Boundaries_EN_BFE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Sub_Integrated_Care_Board_Locations_(April_2026)_Boundaries_EN_BFE/MapServer"
     }
   ]
 }
