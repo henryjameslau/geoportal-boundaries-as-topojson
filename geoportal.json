@@ -18765,6 +18765,36 @@
       "name" : "Sub_Integrated_Care_Board_Locations_(April_2026)_Boundaries_EN_BFC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Sub_Integrated_Care_Board_Locations_(April_2026)_Boundaries_EN_BFC/MapServer"
+    }, 
+    {
+      "name" : "Sub_Integrated_Care_Board_Locations_April_2026_Boundaries_EN_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Sub_Integrated_Care_Board_Locations_April_2026_Boundaries_EN_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "Sub_Integrated_Care_Board_Locations_(April_2026)_Boundaries_EN_BGC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Sub_Integrated_Care_Board_Locations_(April_2026)_Boundaries_EN_BGC/WFSServer"
+    }, 
+    {
+      "name" : "Sub_Integrated_Care_Board_Locations_(April_2026)_Boundaries_EN_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Sub_Integrated_Care_Board_Locations_(April_2026)_Boundaries_EN_BGC/MapServer"
+    }, 
+    {
+      "name" : "Sub_Integrated_Care_Board_Locations_April_2026_Boundaries_EN_BSC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Sub_Integrated_Care_Board_Locations_April_2026_Boundaries_EN_BSC/FeatureServer"
+    }, 
+    {
+      "name" : "Sub_Integrated_Care_Board_Locations_(April_2026)_Boundaries_EN_BSC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Sub_Integrated_Care_Board_Locations_(April_2026)_Boundaries_EN_BSC/WFSServer"
+    }, 
+    {
+      "name" : "Sub_Integrated_Care_Board_Locations_(April_2026)_Boundaries_EN_BSC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Sub_Integrated_Care_Board_Locations_(April_2026)_Boundaries_EN_BSC/MapServer"
     }
   ]
 }
