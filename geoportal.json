@@ -18795,6 +18795,66 @@
       "name" : "Sub_Integrated_Care_Board_Locations_(April_2026)_Boundaries_EN_BSC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Sub_Integrated_Care_Board_Locations_(April_2026)_Boundaries_EN_BSC/MapServer"
+    }, 
+    {
+      "name" : "Integrated_Care_Boards_April_2026_Boundaries_EN_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Integrated_Care_Boards_April_2026_Boundaries_EN_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "Integrated_Care_Boards_April_2026_Boundaries_EN_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Integrated_Care_Boards_April_2026_Boundaries_EN_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "Integrated_Care_Boards_April_2026_Boundaries_EN_BSC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Integrated_Care_Boards_April_2026_Boundaries_EN_BSC/FeatureServer"
+    }, 
+    {
+      "name" : "Integrated_Care_Boards_(April_2026)_Boundaries_EN_BFE", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Integrated_Care_Boards_(April_2026)_Boundaries_EN_BFE/WFSServer"
+    }, 
+    {
+      "name" : "Integrated_Care_Boards_(April_2026)_Boundaries_EN_BFE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Integrated_Care_Boards_(April_2026)_Boundaries_EN_BFE/MapServer"
+    }, 
+    {
+      "name" : "Integrated_Care_Boards_April_2026_Boundaries_EN_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Integrated_Care_Boards_April_2026_Boundaries_EN_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "Integrated_Care_Boards_(April_2026)_Boundaries_EN_BFC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Integrated_Care_Boards_(April_2026)_Boundaries_EN_BFC/WFSServer"
+    }, 
+    {
+      "name" : "Integrated_Care_Boards_(April_2026)_Boundaries_EN_BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Integrated_Care_Boards_(April_2026)_Boundaries_EN_BFC/MapServer"
+    }, 
+    {
+      "name" : "Integrated_Care_Boards_April_(2026)_Boundaries_EN_BGC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Integrated_Care_Boards_April_(2026)_Boundaries_EN_BGC/WFSServer"
+    }, 
+    {
+      "name" : "Integrated_Care_Boards_April_(2026)_Boundaries_EN_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Integrated_Care_Boards_April_(2026)_Boundaries_EN_BGC/MapServer"
+    }, 
+    {
+      "name" : "Integrated_Care_Boards_April_(2026)_Boundaries_EN_BSC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Integrated_Care_Boards_April_(2026)_Boundaries_EN_BSC/WFSServer"
+    }, 
+    {
+      "name" : "Integrated_Care_Boards_April_(2026)_Boundaries_EN_BSC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Integrated_Care_Boards_April_(2026)_Boundaries_EN_BSC/MapServer"
     }
   ]
 }
