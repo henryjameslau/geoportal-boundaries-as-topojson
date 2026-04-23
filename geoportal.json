@@ -18855,6 +18855,81 @@
       "name" : "Integrated_Care_Boards_April_(2026)_Boundaries_EN_BSC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Integrated_Care_Boards_April_(2026)_Boundaries_EN_BSC/MapServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_DEC_2025_Boundaries_UK_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_DEC_2025_Boundaries_UK_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_(DEC_2025)_Boundaries_UK_BFE", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_(DEC_2025)_Boundaries_UK_BFE/WFSServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_(DEC_2025)_Boundaries_UK_BFE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_(DEC_2025)_Boundaries_UK_BFE/MapServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_DEC_2025_Boundaries_UK_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_DEC_2025_Boundaries_UK_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_DEC_2025_Boundaries_UK_BFC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_DEC_2025_Boundaries_UK_BFC/WFSServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_(DEC_2025)_Boundaries_UK_BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_(DEC_2025)_Boundaries_UK_BFC/MapServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_DEC_2025_Boundaries_UK_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_DEC_2025_Boundaries_UK_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_(DEC_2025)_Boundaries_UK_BGC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_(DEC_2025)_Boundaries_UK_BGC/WFSServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_(DEC_2025)_Boundaries_UK_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_(DEC_2025)_Boundaries_UK_BGC/MapServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_DEC_2025_Boundaries_UK_BSC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_DEC_2025_Boundaries_UK_BSC/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_(DEC_2025)_Boundaries_UK_BSC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_(DEC_2025)_Boundaries_UK_BSC/WFSServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_(DEC_2025)_Boundaries_UK_BSC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_(DEC_2025)_Boundaries_UK_BSC/MapServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_DEC_2025_Boundaries_UK_BUC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_DEC_2025_Boundaries_UK_BUC/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_(DEC_2025)_Boundaries_UK_BUC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_(DEC_2025)_Boundaries_UK_BUC/WFSServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_(DEC_2025)_Boundaries_UK_BUC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_(DEC_2025)_Boundaries_UK_BUC/MapServer"
     }
   ]
 }
