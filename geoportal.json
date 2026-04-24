@@ -18930,6 +18930,16 @@
       "name" : "Local_Authority_Districts_(DEC_2025)_Boundaries_UK_BUC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_(DEC_2025)_Boundaries_UK_BUC/MapServer"
+    }, 
+    {
+      "name" : "Combined_Authorities_December_2025_Boundaries_EN_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_December_2025_Boundaries_EN_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "Combined_Authorities_(December_2025)_Boundaries_EN_BFC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_(December_2025)_Boundaries_EN_BFC/WFSServer"
     }
   ]
 }
