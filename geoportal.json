@@ -232,6 +232,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Cancer_Alliances_April_2020_FEB_EN_2022/FeatureServer"
     }, 
     {
+      "name" : "Cancer_Alliances_April_2020_GCB_EN_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Cancer_Alliances_April_2020_GCB_EN_2022/FeatureServer"
+    }, 
+    {
       "name" : "Cancer_Alliances_April_2020_Names_and_Codes_in_England_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Cancer_Alliances_April_2020_Names_and_Codes_in_England_2022/FeatureServer"
@@ -490,6 +495,11 @@
       "name" : "CCG20_STP20_EN_LU_23f15570782b4e388a885fe8842d0858", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CCG20_STP20_EN_LU_23f15570782b4e388a885fe8842d0858/FeatureServer"
+    }, 
+    {
+      "name" : "CCG20_STP20_NHSER20_EN_LU_acd8286a0ce74bc8a5b1d66e7b90b425", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CCG20_STP20_NHSER20_EN_LU_acd8286a0ce74bc8a5b1d66e7b90b425/FeatureServer"
     }, 
     {
       "name" : "CCG21_STP21_CAL21_EN_LU_4d1428f28ddd4392bf86126a8023db8b", 
@@ -2150,6 +2160,11 @@
       "name" : "County_Electoral_Division_May_2020_Names_and_Codes_for_England_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/County_Electoral_Division_May_2020_Names_and_Codes_for_England_2022/FeatureServer"
+    }, 
+    {
+      "name" : "County_Electoral_Division_May_2023_Boundaries_EN_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/County_Electoral_Division_May_2023_Boundaries_EN_BFC/FeatureServer"
     }, 
     {
       "name" : "County_Electoral_Division_May_2023_Boundaries_EN_BFE", 
@@ -7710,6 +7725,11 @@
       "name" : "NUTS2_2015_GB_BSC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NUTS2_2015_GB_BSC/FeatureServer"
+    }, 
+    {
+      "name" : "NUTS2_Jan_2015_SGCB_in_England_and_Wales_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NUTS2_Jan_2015_SGCB_in_England_and_Wales_2022/FeatureServer"
     }, 
     {
       "name" : "NUTS2_Jan_2015_UGCB_in_England_and_Wales_2022", 
