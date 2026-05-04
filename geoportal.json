@@ -16842,11 +16842,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_and_Non_Civil_Parished_Areas_(Dec_2018)_FEB_EW/MapServer"
     }, 
     {
-      "name" : "Parishes_and_Non_Civil_Parished_Areas_(Dec_2020)_EW_BFC_V2", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_and_Non_Civil_Parished_Areas_(Dec_2020)_EW_BFC_V2/MapServer"
-    }, 
-    {
       "name" : "Parishes_and_Non_Civil_Parished_Areas_(Dec_2020)_EW_BFE_V2", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_and_Non_Civil_Parished_Areas_(Dec_2020)_EW_BFE_V2/MapServer"
