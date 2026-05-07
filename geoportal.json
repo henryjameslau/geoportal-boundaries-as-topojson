@@ -19080,6 +19080,186 @@
       "name" : "Regions_(December_2025)_Boundaries_EN_BUC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Regions_(December_2025)_Boundaries_EN_BUC/MapServer"
+    }, 
+    {
+      "name" : "SPC_MAY_2026_SC_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SPC_MAY_2026_SC_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "SPC_MAY_2026_SC_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SPC_MAY_2026_SC_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "SPC_MAY_2026_SC_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SPC_MAY_2026_SC_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "SPC_MAY_2026_SC_BSC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SPC_MAY_2026_SC_BSC/FeatureServer"
+    }, 
+    {
+      "name" : "Scottish_Parliamentary_Constituencies_(May_2026)_Boundaries_SC_BFC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Constituencies_(May_2026)_Boundaries_SC_BFC/WFSServer"
+    }, 
+    {
+      "name" : "Scottish_Parliamentary_Constituencies_(May_2026)_Boundaries_SC_BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Constituencies_(May_2026)_Boundaries_SC_BFC/MapServer"
+    }, 
+    {
+      "name" : "Scottish_Parliamentary_Constituencies_(May_2026)_Boundaries_SC_BFE", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Constituencies_(May_2026)_Boundaries_SC_BFE/WFSServer"
+    }, 
+    {
+      "name" : "Scottish_Parliamentary_Constituencies_(May_2026)_Boundaries_SC_BFE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Constituencies_(May_2026)_Boundaries_SC_BFE/MapServer"
+    }, 
+    {
+      "name" : "Scottish_Parliamentary_Constituencies_(May_2026)_Boundaries_SC_BGC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Constituencies_(May_2026)_Boundaries_SC_BGC/WFSServer"
+    }, 
+    {
+      "name" : "Scottish_Parliamentary_Constituencies_(May_2026)_Boundaries_SC_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Constituencies_(May_2026)_Boundaries_SC_BGC/MapServer"
+    }, 
+    {
+      "name" : "Scottish_Parliamentary_Constituencies_(May_2026)_Boundaries_SC_BSC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Constituencies_(May_2026)_Boundaries_SC_BSC/WFSServer"
+    }, 
+    {
+      "name" : "Scottish_Parliamentary_Constituencies_(May_2026)_Boundaries_SC_BSC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Constituencies_(May_2026)_Boundaries_SC_BSC/MapServer"
+    }, 
+    {
+      "name" : "SPR_MAY_2026_SC_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SPR_MAY_2026_SC_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "SPR_MAY_2026_SC_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SPR_MAY_2026_SC_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "SPR_MAY_2026_SC_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SPR_MAY_2026_SC_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "SPR_MAY_2026_SC_BSC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SPR_MAY_2026_SC_BSC/FeatureServer"
+    }, 
+    {
+      "name" : "Scottish_Parliamentary_Regions_(May_2026)_Boundaries_SC_BFC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Regions_(May_2026)_Boundaries_SC_BFC/WFSServer"
+    }, 
+    {
+      "name" : "Scottish_Parliamentary_Regions_(May_2026)_Boundaries_SC_BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Regions_(May_2026)_Boundaries_SC_BFC/MapServer"
+    }, 
+    {
+      "name" : "Scottish_Parliamentary_Regions_(May_2026)_Boundaries_SC_BFE", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Regions_(May_2026)_Boundaries_SC_BFE/WFSServer"
+    }, 
+    {
+      "name" : "Scottish_Parliamentary_Regions_(May_2026)_Boundaries_SC_BFE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Regions_(May_2026)_Boundaries_SC_BFE/MapServer"
+    }, 
+    {
+      "name" : "Scottish_Parliamentary_Regions_(May_2026)_Boundaries_SC_BGC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Regions_(May_2026)_Boundaries_SC_BGC/WFSServer"
+    }, 
+    {
+      "name" : "Scottish_Parliamentary_Regions_(May_2026)_Boundaries_SC_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Regions_(May_2026)_Boundaries_SC_BGC/MapServer"
+    }, 
+    {
+      "name" : "Scottish_Parliamentary_Regions_(May_2026)_Boundaries_SC_BSC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Regions_(May_2026)_Boundaries_SC_BSC/WFSServer"
+    }, 
+    {
+      "name" : "Scottish_Parliamentary_Regions_(May_2026)_Boundaries_SC_BSC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Scottish_Parliamentary_Regions_(May_2026)_Boundaries_SC_BSC/MapServer"
+    }, 
+    {
+      "name" : "SENC_MAY_2026_WA_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SENC_MAY_2026_WA_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "SENC_MAY_2026_WA_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SENC_MAY_2026_WA_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "SENC_MAY_2026_WA_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SENC_MAY_2026_WA_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "SENC_MAY_2026_WA_BSC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SENC_MAY_2026_WA_BSC/FeatureServer"
+    }, 
+    {
+      "name" : "Senedd_Cymru_Constituencies_(May_2026)_Boundaries_WA_BFC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Constituencies_(May_2026)_Boundaries_WA_BFC/WFSServer"
+    }, 
+    {
+      "name" : "Senedd_Cymru_Constituencies_(May_2026)_Boundaries_WA_BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Constituencies_(May_2026)_Boundaries_WA_BFC/MapServer"
+    }, 
+    {
+      "name" : "Senedd_Cymru_Constituencies_(May_2026)_Boundaries_WA_BFE", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Constituencies_(May_2026)_Boundaries_WA_BFE/WFSServer"
+    }, 
+    {
+      "name" : "Senedd_Cymru_Constituencies_(May_2026)_Boundaries_WA_BFE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Constituencies_(May_2026)_Boundaries_WA_BFE/MapServer"
+    }, 
+    {
+      "name" : "Senedd_Cymru_Constituencies_(May_2026)_Boundaries_WA_BGC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Constituencies_(May_2026)_Boundaries_WA_BGC/WFSServer"
+    }, 
+    {
+      "name" : "Senedd_Cymru_Constituencies_(May_2026)_Boundaries_WA_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Constituencies_(May_2026)_Boundaries_WA_BGC/MapServer"
+    }, 
+    {
+      "name" : "Senedd_Cymru_Constituencies_(May_2026)_Boundaries_WA_BSC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Constituencies_(May_2026)_Boundaries_WA_BSC/WFSServer"
+    }, 
+    {
+      "name" : "Senedd_Cymru_Constituencies_(May_2026)_Boundaries_WA_BSC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Constituencies_(May_2026)_Boundaries_WA_BSC/MapServer"
     }
   ]
 }
