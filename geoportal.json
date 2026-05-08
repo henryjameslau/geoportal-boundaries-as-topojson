@@ -19260,6 +19260,26 @@
       "name" : "Senedd_Cymru_Constituencies_(May_2026)_Boundaries_WA_BSC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Senedd_Cymru_Constituencies_(May_2026)_Boundaries_WA_BSC/MapServer"
+    }, 
+    {
+      "name" : "Counties_and_Unitary_Authorities_December_2025_Boundaries_UK_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_and_Unitary_Authorities_December_2025_Boundaries_UK_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "Counties_and_Unitary_Authorities_(December_2025)_Boundaries_UK_BFC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_and_Unitary_Authorities_(December_2025)_Boundaries_UK_BFC/WFSServer"
+    }, 
+    {
+      "name" : "Counties_and_Unitary_Authorities_(December_2025)_Boundaries_UK_BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_and_Unitary_Authorities_(December_2025)_Boundaries_UK_BFC/MapServer"
+    }, 
+    {
+      "name" : "Counties_and_Unitary_Authorities_December_2025_Boundaries_UK_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_and_Unitary_Authorities_December_2025_Boundaries_UK_BFE/FeatureServer"
     }
   ]
 }
