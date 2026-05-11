@@ -19082,6 +19082,46 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Regions_(December_2025)_Boundaries_EN_BUC/MapServer"
     }, 
     {
+      "name" : "CED_MAY_2026_EN_NC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CED_MAY_2026_EN_NC/FeatureServer"
+    }, 
+    {
+      "name" : "WD_MAY_2026_UK_NC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD_MAY_2026_UK_NC/FeatureServer"
+    }, 
+    {
+      "name" : "SENC_MAY_2026_WA_NC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SENC_MAY_2026_WA_NC/FeatureServer"
+    }, 
+    {
+      "name" : "SPC_MAY_2026_SC_NC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SPC_MAY_2026_SC_NC/FeatureServer"
+    }, 
+    {
+      "name" : "SPR_MAY_2026_SC_NC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SPR_MAY_2026_SC_NC/FeatureServer"
+    }, 
+    {
+      "name" : "WD26_LAD26_UK_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD26_LAD26_UK_LU/FeatureServer"
+    }, 
+    {
+      "name" : "PARNCP26_WD26_LAD26_EW_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PARNCP26_WD26_LAD26_EW_LU/FeatureServer"
+    }, 
+    {
+      "name" : "SPC26_SPR26_SC_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SPC26_SPR26_SC_LU/FeatureServer"
+    }, 
+    {
       "name" : "SPC_MAY_2026_SC_BFC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SPC_MAY_2026_SC_BFC/FeatureServer"
@@ -19280,6 +19320,16 @@
       "name" : "Counties_and_Unitary_Authorities_December_2025_Boundaries_UK_BFE", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_and_Unitary_Authorities_December_2025_Boundaries_UK_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "Counties_and_Unitary_Authorities_(December_2025)_Boundaries_UK_BFE", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_and_Unitary_Authorities_(December_2025)_Boundaries_UK_BFE/WFSServer"
+    }, 
+    {
+      "name" : "Counties_and_Unitary_Authorities_(December_2025)_Boundaries_UK_BFE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_and_Unitary_Authorities_(December_2025)_Boundaries_UK_BFE/MapServer"
     }
   ]
 }
