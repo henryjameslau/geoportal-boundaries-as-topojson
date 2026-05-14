@@ -6467,11 +6467,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/msoa/FeatureServer"
     }, 
     {
-      "name" : "MSOA_(2011)_to_MSOA_(2021)_to_Local_Authority_District_(2022)_Lookup_for_England_and_Wales", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_(2011)_to_MSOA_(2021)_to_Local_Authority_District_(2022)_Lookup_for_England_and_Wales/FeatureServer"
-    }, 
-    {
       "name" : "MSOA__2001__names_and_codes_EW_as_at_08_04", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA__2001__names_and_codes_EW_as_at_08_04/FeatureServer"
@@ -11892,11 +11887,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WPC_Dec_2019_Boundaries_UK_BFC_V2_2022/FeatureServer"
     }, 
     {
-      "name" : "WPC_Dec_2019_GCB_UK_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WPC_Dec_2019_GCB_UK_2022/FeatureServer"
-    }, 
-    {
       "name" : "WPC_Dec_2019_UGCB_UK_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WPC_Dec_2019_UGCB_UK_2022/FeatureServer"
@@ -12800,11 +12790,6 @@
       "name" : "Counties_(December_2017)_FEB_in_England", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_(December_2017)_FEB_in_England/MapServer"
-    }, 
-    {
-      "name" : "Counties_(December_2017)_GCB_in_England", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_(December_2017)_GCB_in_England/MapServer"
     }, 
     {
       "name" : "Counties_(December_2017)_SGCB_in_England", 
@@ -19415,6 +19400,51 @@
       "name" : "Countries_December_2025_Boundaries_UK_BGC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2025_Boundaries_UK_BGC/FeatureServer"
+    }, 
+    {
+      "name" : "Countries_(December_2025)_Boundaries_UK_BGC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_(December_2025)_Boundaries_UK_BGC/WFSServer"
+    }, 
+    {
+      "name" : "Countries_(December_2025)_Boundaries_UK_BGC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_(December_2025)_Boundaries_UK_BGC/MapServer"
+    }, 
+    {
+      "name" : "Countries_December_2025_Boundaries_UK_BSC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2025_Boundaries_UK_BSC/FeatureServer"
+    }, 
+    {
+      "name" : "Countries_(December_2025)_Boundaries_UK_BSC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_(December_2025)_Boundaries_UK_BSC/WFSServer"
+    }, 
+    {
+      "name" : "Countries_(December_2025)_Boundaries_UK_BSC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_(December_2025)_Boundaries_UK_BSC/MapServer"
+    }, 
+    {
+      "name" : "Countries_December_2025_Boundaries_UK_BUC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2025_Boundaries_UK_BUC/FeatureServer"
+    }, 
+    {
+      "name" : "Countries_(December_2025)_Boundaries_UK_BUC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_(December_2025)_Boundaries_UK_BUC/WFSServer"
+    }, 
+    {
+      "name" : "Countries_(December_2025)_Boundaries_UK_BUC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_(December_2025)_Boundaries_UK_BUC/MapServer"
+    }, 
+    {
+      "name" : "MSOA_(2011)_to_MSOA_(2021)_to_Local_Authority_District_(2022)_Lookup_for_EW_v2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_(2011)_to_MSOA_(2021)_to_Local_Authority_District_(2022)_Lookup_for_EW_v2/FeatureServer"
     }
   ]
 }
