@@ -11887,6 +11887,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WPC_Dec_2019_Boundaries_UK_BFC_V2_2022/FeatureServer"
     }, 
     {
+      "name" : "WPC_Dec_2019_GCB_UK_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WPC_Dec_2019_GCB_UK_2022/FeatureServer"
+    }, 
+    {
       "name" : "WPC_Dec_2019_UGCB_UK_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WPC_Dec_2019_UGCB_UK_2022/FeatureServer"
@@ -12790,6 +12795,11 @@
       "name" : "Counties_(December_2017)_FEB_in_England", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_(December_2017)_FEB_in_England/MapServer"
+    }, 
+    {
+      "name" : "Counties_(December_2017)_GCB_in_England", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_(December_2017)_GCB_in_England/MapServer"
     }, 
     {
       "name" : "Counties_(December_2017)_SGCB_in_England", 
