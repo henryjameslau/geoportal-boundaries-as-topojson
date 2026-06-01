@@ -15407,26 +15407,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Planning_Authorities_(April_2022)_UK_BUC/MapServer"
     }, 
     {
-      "name" : "Local_Planning_Authorities_(January_2026)_Boundaries_UK_BFC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Planning_Authorities_(January_2026)_Boundaries_UK_BFC/MapServer"
-    }, 
-    {
-      "name" : "Local_Planning_Authorities_(January_2026)_Boundaries_UK_BFE", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Planning_Authorities_(January_2026)_Boundaries_UK_BFE/MapServer"
-    }, 
-    {
-      "name" : "Local_Planning_Authorities_(January_2026)_Boundaries_UK_BGC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Planning_Authorities_(January_2026)_Boundaries_UK_BGC/MapServer"
-    }, 
-    {
-      "name" : "Local_Planning_Authorities_(January_2026)_Boundaries_UK_BUC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Planning_Authorities_(January_2026)_Boundaries_UK_BUC/MapServer"
-    }, 
-    {
       "name" : "Local_Planning_Authorities_(May_2021)_UK_BFC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Planning_Authorities_(May_2021)_UK_BFC/MapServer"
@@ -19455,6 +19435,16 @@
       "name" : "MSOA_(2011)_to_MSOA_(2021)_to_Local_Authority_District_(2022)_Lookup_for_EW_v2", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_(2011)_to_MSOA_(2021)_to_Local_Authority_District_(2022)_Lookup_for_EW_v2/FeatureServer"
+    }, 
+    {
+      "name" : "National_Statistics_Postcode_Lookup_(May_2026)_for_the_United_Kingdom", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/National_Statistics_Postcode_Lookup_(May_2026)_for_the_United_Kingdom/FeatureServer"
+    }, 
+    {
+      "name" : "ONS_Postcode_Directory_(May_2026)", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ONS_Postcode_Directory_(May_2026)/FeatureServer"
     }
   ]
 }
