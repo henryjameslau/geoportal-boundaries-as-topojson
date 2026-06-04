@@ -19440,11 +19440,6 @@
       "name" : "National_Statistics_Postcode_Lookup_(May_2026)_for_the_United_Kingdom", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/National_Statistics_Postcode_Lookup_(May_2026)_for_the_United_Kingdom/FeatureServer"
-    }, 
-    {
-      "name" : "ONS_Postcode_Directory_(May_2026)", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ONS_Postcode_Directory_(May_2026)/FeatureServer"
     }
   ]
 }
