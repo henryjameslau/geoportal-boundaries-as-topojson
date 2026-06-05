@@ -3162,11 +3162,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ICB_APR_2023_EN_NC/FeatureServer"
     }, 
     {
-      "name" : "ICB_DEC_2024_EN_NC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ICB_DEC_2024_EN_NC/FeatureServer"
-    }, 
-    {
       "name" : "ICB_JUL_2022_EN_BGC_V3", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ICB_JUL_2022_EN_BGC_V3/FeatureServer"
@@ -19440,6 +19435,11 @@
       "name" : "National_Statistics_Postcode_Lookup_(May_2026)_for_the_United_Kingdom", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/National_Statistics_Postcode_Lookup_(May_2026)_for_the_United_Kingdom/FeatureServer"
+    }, 
+    {
+      "name" : "ONS_Postcode_Directory_(May_2026)_for_the_United_Kingdom_(Hosted_Table)", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ONS_Postcode_Directory_(May_2026)_for_the_United_Kingdom_(Hosted_Table)/FeatureServer"
     }
   ]
 }
