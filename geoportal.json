@@ -8287,11 +8287,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OAs_to_LSOAs_to_MSOAs_to_LEP_to_LAD_(May_2022)_in_England/FeatureServer"
     }, 
     {
-      "name" : "Online_ONS_Postcode_Directory_Live", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Online_ONS_Postcode_Directory_Live/FeatureServer"
-    }, 
-    {
       "name" : "ONS_Postcode_Directory_(February_2026)_for_the_UK_(Hosted_Table)", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ONS_Postcode_Directory_(February_2026)_for_the_UK_(Hosted_Table)/FeatureServer"
@@ -19565,6 +19560,11 @@
       "name" : "Local_Resilience_Forums_(December_2024)_Boundaries_EW_BUC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Resilience_Forums_(December_2024)_Boundaries_EW_BUC/MapServer"
+    }, 
+    {
+      "name" : "Online_ONS_Postcode_Directory_Live", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Online_ONS_Postcode_Directory_Live/FeatureServer"
     }
   ]
 }
