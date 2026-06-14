@@ -10657,11 +10657,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/UA22_LHB22_WA_LU/FeatureServer"
     }, 
     {
-      "name" : "UA23_DCELL23_WA_LU", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/UA23_DCELL23_WA_LU/FeatureServer"
-    }, 
-    {
       "name" : "UA23_LHB23_WA_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/UA23_LHB23_WA_LU/FeatureServer"
