@@ -1852,11 +1852,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2016_Boundaries_GB_BFC_2022/FeatureServer"
     }, 
     {
-      "name" : "Countries_December_2016_Boundaries_GB_BFE_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2016_Boundaries_GB_BFE_2022/FeatureServer"
-    }, 
-    {
       "name" : "Countries_December_2016_Boundaries_GB_BGC_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2016_Boundaries_GB_BGC_2022/FeatureServer"
