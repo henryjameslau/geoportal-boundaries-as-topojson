@@ -2132,11 +2132,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_December_2024_Boundaries_UK_BUC/FeatureServer"
     }, 
     {
-      "name" : "Countries_POC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_POC/FeatureServer"
-    }, 
-    {
       "name" : "Country", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Country/FeatureServer"
