@@ -12252,6 +12252,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WPC_Dec_2020_UK_BFE_2022/FeatureServer"
     }, 
     {
+      "name" : "WPC_Dec_2020_UK_BGC_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WPC_Dec_2020_UK_BGC_2022/FeatureServer"
+    }, 
+    {
       "name" : "WPC_Dec_2020_UK_BUC_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WPC_Dec_2020_UK_BUC_2022/FeatureServer"
