@@ -19297,11 +19297,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WPC__(Dec_2018)_GCB_UK/MapServer"
     }, 
     {
-      "name" : "ONSCommunityatDEC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ONSCommunityatDEC/FeatureServer"
-    }, 
-    {
       "name" : "Zoom_Test", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Zoom_Test/FeatureServer"
