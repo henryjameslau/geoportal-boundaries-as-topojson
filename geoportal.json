@@ -19300,6 +19300,81 @@
       "name" : "Zoom_Test", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Zoom_Test/FeatureServer"
+    }, 
+    {
+      "name" : "ED_1991_EW", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ED_1991_EW/FeatureServer"
+    }, 
+    {
+      "name" : "WD_1991_EW", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD_1991_EW/FeatureServer"
+    }, 
+    {
+      "name" : "LAD_1991_EW", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD_1991_EW/FeatureServer"
+    }, 
+    {
+      "name" : "CTY_1991_EW", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CTY_1991_EW/FeatureServer"
+    }, 
+    {
+      "name" : "CTRY_1991_EW", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CTRY_1991_EW/FeatureServer"
+    }, 
+    {
+      "name" : "Enumeration_Districts_(1991)_Boundaries_EW", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Enumeration_Districts_(1991)_Boundaries_EW/WFSServer"
+    }, 
+    {
+      "name" : "Enumeration_Districts_(1991)_Boundaries_EW", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Enumeration_Districts_(1991)_Boundaries_EW/MapServer"
+    }, 
+    {
+      "name" : "Wards_(1991)_Boundaries_EW", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_(1991)_Boundaries_EW/WFSServer"
+    }, 
+    {
+      "name" : "Wards_(1991)_Boundaries_EW", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_(1991)_Boundaries_EW/MapServer"
+    }, 
+    {
+      "name" : "LAD_1991_EW", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD_1991_EW/WFSServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_(1991)_Boundaries_EW", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_(1991)_Boundaries_EW/MapServer"
+    }, 
+    {
+      "name" : "Counties_(1991)_Boundaries_EW", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_(1991)_Boundaries_EW/WFSServer"
+    }, 
+    {
+      "name" : "Counties_(1991)_Boundaries_EW", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Counties_(1991)_Boundaries_EW/MapServer"
+    }, 
+    {
+      "name" : "CTRY_1991_EW", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CTRY_1991_EW/WFSServer"
+    }, 
+    {
+      "name" : "Countries_(1991)_Boundaries_EW", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Countries_(1991)_Boundaries_EW/MapServer"
     }
   ]
 }
