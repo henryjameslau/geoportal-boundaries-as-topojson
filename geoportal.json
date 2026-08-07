@@ -327,6 +327,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Cancer_Alliances_July_2023_Boundaries_EN_BUC/FeatureServer"
     }, 
     {
+      "name" : "CAUTH_DEC_2020_EN_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CAUTH_DEC_2020_EN_BGC/FeatureServer"
+    }, 
+    {
       "name" : "CAUTH_DEC_2022_EN_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CAUTH_DEC_2022_EN_NC/FeatureServer"
@@ -2292,6 +2297,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/cpca_oa_refactored/FeatureServer"
     }, 
     {
+      "name" : "CSP_Dec_2016_FCB_in_England_and_Wales_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CSP_Dec_2016_FCB_in_England_and_Wales_2022/FeatureServer"
+    }, 
+    {
       "name" : "CSP_Dec_2016_FEB_in_England_and_Wales_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CSP_Dec_2016_FEB_in_England_and_Wales_2022/FeatureServer"
@@ -4082,6 +4092,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD18_SCN18_EN_LU_748f339e4f2d4efa97e090aa7f2e70b6/FeatureServer"
     }, 
     {
+      "name" : "LAD19_CAUTH19_EN_LU_731e5d9e5787404c97dd8d8fb0e23854", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD19_CAUTH19_EN_LU_731e5d9e5787404c97dd8d8fb0e23854/FeatureServer"
+    }, 
+    {
       "name" : "LAD19_CIS20_EN_LU_f408cfe25ebb4ac59e733aeb2fcb28a5", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD19_CIS20_EN_LU_f408cfe25ebb4ac59e733aeb2fcb28a5/FeatureServer"
@@ -4780,11 +4795,6 @@
       "name" : "LEPOP_Apr_2020_FCB_in_England_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPOP_Apr_2020_FCB_in_England_2022/FeatureServer"
-    }, 
-    {
-      "name" : "LEPOP_Apr_2020_FEB_in_England_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LEPOP_Apr_2020_FEB_in_England_2022/FeatureServer"
     }, 
     {
       "name" : "LEPOP_Apr_2020_GCB_in_England_2022", 
