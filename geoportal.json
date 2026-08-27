@@ -17647,11 +17647,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PHEREG_(Dec_2016)_UGCB_in_England/MapServer"
     }, 
     {
-      "name" : "pictureOfTheUnitedKingdom", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/pictureOfTheUnitedKingdom/MapServer"
-    }, 
-    {
       "name" : "Police_Force_Areas_(Dec_2016)_FCB_in_England_and_Wales", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Police_Force_Areas_(Dec_2016)_FCB_in_England_and_Wales/MapServer"
