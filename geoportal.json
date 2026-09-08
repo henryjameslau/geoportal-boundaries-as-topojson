@@ -19595,6 +19595,21 @@
       "name" : "County_Electoral_Division_(May_2026)_Boundaries_EN_BSC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/County_Electoral_Division_(May_2026)_Boundaries_EN_BSC/MapServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_May_2026_Boundaries_UK_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_May_2026_Boundaries_UK_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_(May_2026)_Boundaries_UK_BFE", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_(May_2026)_Boundaries_UK_BFE/WFSServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_(May_2026)_Boundaries_UK_BFE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_(May_2026)_Boundaries_UK_BFE/MapServer"
     }
   ]
 }
