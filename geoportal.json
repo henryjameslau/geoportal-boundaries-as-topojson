@@ -19637,6 +19637,16 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_(May_2026)_Boundaries_UK_BUC/MapServer"
     }, 
     {
+      "name" : "ONS_Postcode_Directory_(August_2026)_(Hosted_Table)", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ONS_Postcode_Directory_(August_2026)_(Hosted_Table)/FeatureServer"
+    }, 
+    {
+      "name" : "National_Statistics_Postcode_Lookup_(August_2026)_for_the_United_Kingdom_(Hosted_Table)", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/National_Statistics_Postcode_Lookup_(August_2026)_for_the_United_Kingdom_(Hosted_Table)/FeatureServer"
+    }, 
+    {
       "name" : "NSPL_Online_latest_Centroids", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NSPL_Online_latest_Centroids/FeatureServer"
@@ -19670,6 +19680,21 @@
       "name" : "NHSPD_Online_Latest_Centroids", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSPD_Online_Latest_Centroids/MapServer"
+    }, 
+    {
+      "name" : "ONSPD_Online_latest_Postcode_Centroids", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ONSPD_Online_latest_Postcode_Centroids/FeatureServer"
+    }, 
+    {
+      "name" : "ONSPD_Online_latest_Postcode_Centroids", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ONSPD_Online_latest_Postcode_Centroids/WFSServer"
+    }, 
+    {
+      "name" : "ONSPD_Online_latest_Postcode_Centroids", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/ONSPD_Online_latest_Postcode_Centroids/MapServer"
     }
   ]
 }
