@@ -5327,11 +5327,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Enterprise_Partnerships_April_2017_Ultra_Generalised_Boundaries_EN_2022/FeatureServer"
     }, 
     {
-      "name" : "Local_Enterprise_Partnerships_April_2020_FEB_EN_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Enterprise_Partnerships_April_2020_FEB_EN_2022/FeatureServer"
-    }, 
-    {
       "name" : "Local_Enterprise_Partnerships_April_2020_GCB_EN_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Enterprise_Partnerships_April_2020_GCB_EN_2022/FeatureServer"
@@ -12330,11 +12325,6 @@
       "name" : "Administrative_Districts_1971_Boundaries_EW", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Administrative_Districts_1971_Boundaries_EW/MapServer"
-    }, 
-    {
-      "name" : "Ancient_Counties_December_1921_in_England_and_Wales_BGC", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Ancient_Counties_December_1921_in_England_and_Wales_BGC/MapServer"
     }, 
     {
       "name" : "Built_Up_Areas_(December_2024)_Boundaries_EW_BGG_(V2)", 
