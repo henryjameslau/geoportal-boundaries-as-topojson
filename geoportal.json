@@ -19740,6 +19740,36 @@
       "name" : "National_Parks_December_(2022)_Boundaries_GB_BGC_(V4)", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/National_Parks_December_(2022)_Boundaries_GB_BGC_(V4)/MapServer"
+    }, 
+    {
+      "name" : "250611_ITL2_2025_EW", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/250611_ITL2_2025_EW/FeatureServer"
+    }, 
+    {
+      "name" : "250611_Fire_and_Rescue_Areas_EW", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/250611_Fire_and_Rescue_Areas_EW/FeatureServer"
+    }, 
+    {
+      "name" : "250611_ITL3_2025_EW", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/250611_ITL3_2025_EW/FeatureServer"
+    }, 
+    {
+      "name" : "260611_Integrated_Care_Boards_2026_EW", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/260611_Integrated_Care_Boards_2026_EW/FeatureServer"
+    }, 
+    {
+      "name" : "260611_Police_Force_Areas_2025_EW", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/260611_Police_Force_Areas_2025_EW/FeatureServer"
+    }, 
+    {
+      "name" : "250914_Senedd_constituencies_2026_WA", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/250914_Senedd_constituencies_2026_WA/FeatureServer"
     }
   ]
 }
