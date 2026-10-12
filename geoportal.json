@@ -19770,6 +19770,21 @@
       "name" : "250914_Senedd_constituencies_2026_WA", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/250914_Senedd_constituencies_2026_WA/FeatureServer"
+    }, 
+    {
+      "name" : "OA21_WD26_LAD26_EW_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA21_WD26_LAD26_EW_LU/FeatureServer"
+    }, 
+    {
+      "name" : "MSOA21_WD26_LAD26_EW_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA21_WD26_LAD26_EW_LU/FeatureServer"
+    }, 
+    {
+      "name" : "LSOA21_WD26_LAD26_EW_LU", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA21_WD26_LAD26_EW_LU/FeatureServer"
     }
   ]
 }
