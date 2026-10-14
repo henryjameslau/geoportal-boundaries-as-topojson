@@ -19785,6 +19785,56 @@
       "name" : "LSOA21_WD26_LAD26_EW_LU", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA21_WD26_LAD26_EW_LU/FeatureServer"
+    }, 
+    {
+      "name" : "LPA_JAN_2026_UK_BFC_V2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LPA_JAN_2026_UK_BFC_V2/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Planning_Authorities_(January_2026)_Boundaries_UK_BFC_(V2)", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Planning_Authorities_(January_2026)_Boundaries_UK_BFC_(V2)/WFSServer"
+    }, 
+    {
+      "name" : "Local_Planning_Authorities_(January_2026)_Boundaries_UK_BFC_(V2)", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Planning_Authorities_(January_2026)_Boundaries_UK_BFC_(V2)/MapServer"
+    }, 
+    {
+      "name" : "LPA_JAN_2026_UK_BFE_V2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LPA_JAN_2026_UK_BFE_V2/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Planning_Authorities_(January_2026)_Boundaries_UK_BFE_(V2)", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Planning_Authorities_(January_2026)_Boundaries_UK_BFE_(V2)/WFSServer"
+    }, 
+    {
+      "name" : "Local_Planning_Authorities_(January_2026)_Boundaries_UK_BFE_(V2)", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Planning_Authorities_(January_2026)_Boundaries_UK_BFE_(V2)/MapServer"
+    }, 
+    {
+      "name" : "LPA_JAN_2026_UK_BGC_V2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LPA_JAN_2026_UK_BGC_V2/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Planning_Authorities_(January_2026)_Boundaries_UK_BGC_(V2)", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Planning_Authorities_(January_2026)_Boundaries_UK_BGC_(V2)/WFSServer"
+    }, 
+    {
+      "name" : "Local_Planning_Authorities_(January_2026)_Boundaries_UK_BGC_(V2)", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Planning_Authorities_(January_2026)_Boundaries_UK_BGC_(V2)/MapServer"
+    }, 
+    {
+      "name" : "LPA_JAN_2026_UK_BUC_V2", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LPA_JAN_2026_UK_BUC_V2/FeatureServer"
     }
   ]
 }
