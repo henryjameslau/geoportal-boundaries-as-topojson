@@ -19835,6 +19835,16 @@
       "name" : "LPA_JAN_2026_UK_BUC_V2", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LPA_JAN_2026_UK_BUC_V2/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Planning_Authorities_(January_2026)_Boundaries_UK_BUC_(V2)", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Planning_Authorities_(January_2026)_Boundaries_UK_BUC_(V2)/WFSServer"
+    }, 
+    {
+      "name" : "Local_Planning_Authorities_(January_2026)_Boundaries_UK_BUC_(V2)", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Planning_Authorities_(January_2026)_Boundaries_UK_BUC_(V2)/MapServer"
     }
   ]
 }
