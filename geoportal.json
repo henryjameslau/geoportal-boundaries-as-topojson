@@ -562,11 +562,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CED_MAY_2025_EN_BFE/FeatureServer"
     }, 
     {
-      "name" : "CED_MAY_2025_EN_BGC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CED_MAY_2025_EN_BGC/FeatureServer"
-    }, 
-    {
       "name" : "CED_MAY_2025_EN_BSC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CED_MAY_2025_EN_BSC/FeatureServer"
@@ -3445,11 +3440,6 @@
       "name" : "International_Territorial_Level_3_January_2021_UK_BUC_V3_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/International_Territorial_Level_3_January_2021_UK_BUC_V3_2022/FeatureServer"
-    }, 
-    {
-      "name" : "IPN_GB_2020_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/IPN_GB_2020_2022/FeatureServer"
     }, 
     {
       "name" : "ITL1_JAN_2021_UK_NC_378fb0fd95ad4a219b01b1fb743d2305", 
