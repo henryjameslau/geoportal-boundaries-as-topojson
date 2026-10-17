@@ -562,6 +562,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CED_MAY_2025_EN_BFE/FeatureServer"
     }, 
     {
+      "name" : "CED_MAY_2025_EN_BGC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CED_MAY_2025_EN_BGC/FeatureServer"
+    }, 
+    {
       "name" : "CED_MAY_2025_EN_BSC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CED_MAY_2025_EN_BSC/FeatureServer"
