@@ -8812,6 +8812,11 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PAR17_WD17_LAD17_EW_LU_6a4a6a93be1a4d149a84893226110c5c/FeatureServer"
     }, 
     {
+      "name" : "PAR18_WD18_LAD18_EW_LUv1_2dfec0839408441a855b8a8448fedebd", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PAR18_WD18_LAD18_EW_LUv1_2dfec0839408441a855b8a8448fedebd/FeatureServer"
+    }, 
+    {
       "name" : "PAR19_WD19_LAD19_EW_LU_caeb0db084574edd9ef32a421ce6212d", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PAR19_WD19_LAD19_EW_LU_caeb0db084574edd9ef32a421ce6212d/FeatureServer"
@@ -11590,6 +11595,11 @@
       "name" : "Wards_December_2019_GCB_EW_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_December_2019_GCB_EW_2022/FeatureServer"
+    }, 
+    {
+      "name" : "Wards_December_2019_GCB_GB_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_December_2019_GCB_GB_2022/FeatureServer"
     }, 
     {
       "name" : "Wards_December_2020_UK_BFC_2022", 
