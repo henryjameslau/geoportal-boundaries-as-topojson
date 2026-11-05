@@ -19682,9 +19682,9 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WPC__(Dec_2018)_GCB_UK/MapServer"
     }, 
     {
-      "name" : "PARNCP26_WD26_LAD26_EW_LU", 
+      "name" : "PAR26_WD26_LAD26_EW_LU", 
       "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PARNCP26_WD26_LAD26_EW_LU/FeatureServer"
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PAR26_WD26_LAD26_EW_LU/FeatureServer"
     }
   ]
 }
