@@ -647,11 +647,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CED_MAY_2026_EN_BSC/FeatureServer"
     }, 
     {
-      "name" : "CED_MAY_2026_EN_NC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/CED_MAY_2026_EN_NC/FeatureServer"
-    }, 
-    {
       "name" : "Census_Districts_1971_Boundaries_EW", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Census_Districts_1971_Boundaries_EW/FeatureServer"
@@ -860,11 +855,6 @@
       "name" : "Combined_Authorities_Dec_2016_Names_and_Codes_in_England_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_Dec_2016_Names_and_Codes_in_England_2022/FeatureServer"
-    }, 
-    {
-      "name" : "Combined_Authorities_Dec_2018_Names_and_Codes_in_England_v2_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Combined_Authorities_Dec_2018_Names_and_Codes_in_England_v2_2022/FeatureServer"
     }, 
     {
       "name" : "Combined_Authorities_Dec_2019_Names_and_Codes_in_England_2022", 
@@ -2752,11 +2742,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Department_for_Children_Education_Lifelong_Learning_and_Skills_Dec_201_2022/FeatureServer"
     }, 
     {
-      "name" : "Department_for_Children_Education_Lifelong_Learning_and_Skills_Dec_2017__2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Department_for_Children_Education_Lifelong_Learning_and_Skills_Dec_2017__2022/FeatureServer"
-    }, 
-    {
       "name" : "Department_for_Children_Education_Lifelong_Learning_and_Skills_Dec_2019__2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Department_for_Children_Education_Lifelong_Learning_and_Skills_Dec_2019__2022/FeatureServer"
@@ -3890,11 +3875,6 @@
       "name" : "LAD_Dec_2021_GB_BFC_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD_Dec_2021_GB_BFC_2022/FeatureServer"
-    }, 
-    {
-      "name" : "LAD_DEC_2022_UK_NC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD_DEC_2022_UK_NC/FeatureServer"
     }, 
     {
       "name" : "LAD_DEC_2024_EW_BFE_RUC", 
@@ -7047,11 +7027,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/National_Assembly_for_Wales_Electoral_Regions_Dec_2017_Names_2022/FeatureServer"
     }, 
     {
-      "name" : "National_Assembly_for_Wales_Electoral_Regions_Dec_2018_Names_2022", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/National_Assembly_for_Wales_Electoral_Regions_Dec_2018_Names_2022/FeatureServer"
-    }, 
-    {
       "name" : "National_Assembly_for_Wales_Electoral_Regions_Dec_2019_Names_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/National_Assembly_for_Wales_Electoral_Regions_Dec_2019_Names_2022/FeatureServer"
@@ -7777,11 +7752,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSER_APR_2024_EN_NC/FeatureServer"
     }, 
     {
-      "name" : "NHSPD_Online_Latest_Centroids", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSPD_Online_Latest_Centroids/FeatureServer"
-    }, 
-    {
       "name" : "NHSRLO_Apr_2017_GCB_in_England_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NHSRLO_Apr_2017_GCB_in_England_2022/FeatureServer"
@@ -8210,11 +8180,6 @@
       "name" : "OA01_BUASD11_BUA11_LAD11_RGN11_EW_LU_676cc8263c234846985de6a5a1ab967a", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA01_BUASD11_BUA11_LAD11_RGN11_EW_LU_676cc8263c234846985de6a5a1ab967a/FeatureServer"
-    }, 
-    {
-      "name" : "OA01_LSOA01_MSOA01_EW_LU_b75358eac2274f4fb012dcd32d13f5cf", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA01_LSOA01_MSOA01_EW_LU_b75358eac2274f4fb012dcd32d13f5cf/FeatureServer"
     }, 
     {
       "name" : "OA01_OA11_LAD11_EW_LU_4ba063a6b6ce40ab8faf4d6453662a08", 
@@ -10402,11 +10367,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SENC_DEC_2023_WA_NC/FeatureServer"
     }, 
     {
-      "name" : "SENC_DEC_2024_WA_NC", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SENC_DEC_2024_WA_NC/FeatureServer"
-    }, 
-    {
       "name" : "SENC_DEC_2025_WA_NC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/SENC_DEC_2025_WA_NC/FeatureServer"
@@ -10805,11 +10765,6 @@
       "name" : "Standard_Area_Measurements_for_the_Parishes_and_NCP_(December_2022)_in_EW", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Standard_Area_Measurements_for_the_Parishes_and_NCP_(December_2022)_in_EW/FeatureServer"
-    }, 
-    {
-      "name" : "Standard_Area_Measurements_for_the_Parishes_and_NCP_(December_2023)_in_England_and_Wales", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Standard_Area_Measurements_for_the_Parishes_and_NCP_(December_2023)_in_England_and_Wales/FeatureServer"
     }, 
     {
       "name" : "Standard_Area_Measurements_for_the_Regions_(December_2024)_in_England", 
@@ -11927,11 +11882,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD17_REGD17_LAD17_EW_LU_07348a6910564cce95ac0dda6ef90f71/FeatureServer"
     }, 
     {
-      "name" : "WD17_UA17_NAWER17_WA_LU_ca466b7d683a4a079dea94bb32d02e1c", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD17_UA17_NAWER17_WA_LU_ca466b7d683a4a079dea94bb32d02e1c/FeatureServer"
-    }, 
-    {
       "name" : "WD18_LAD18_CTY18_CED18_EN_LU_1c2c18372dff40e1939748c8fd402bb1", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD18_LAD18_CTY18_CED18_EN_LU_1c2c18372dff40e1939748c8fd402bb1/FeatureServer"
@@ -12210,11 +12160,6 @@
       "name" : "WD81_WD91_EW_LU_644a3989bd4042119678945ca1f2f2ec", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD81_WD91_EW_LU_644a3989bd4042119678945ca1f2f2ec/FeatureServer"
-    }, 
-    {
-      "name" : "WDCAS_JAN_2003_UK_NC_a5519664f7e24513b61650eedba081f0", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WDCAS_JAN_2003_UK_NC_a5519664f7e24513b61650eedba081f0/FeatureServer"
     }, 
     {
       "name" : "WDSTB_JAN_2003_EW_NC_4c603d65fe68485aa6d5344f55e17147", 
