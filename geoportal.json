@@ -2717,36 +2717,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/DCELLS_DEC_2025_WA_NC/FeatureServer"
     }, 
     {
-      "name" : "deaths2010_CustomGeography", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/deaths2010_CustomGeography/FeatureServer"
-    }, 
-    {
-      "name" : "deaths2011_CustomGeography", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/deaths2011_CustomGeography/FeatureServer"
-    }, 
-    {
-      "name" : "deaths2012_CustomGeography", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/deaths2012_CustomGeography/FeatureServer"
-    }, 
-    {
-      "name" : "deaths2013_CustomGeography", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/deaths2013_CustomGeography/FeatureServer"
-    }, 
-    {
-      "name" : "deaths2014_CustomGeography", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/deaths2014_CustomGeography/FeatureServer"
-    }, 
-    {
-      "name" : "deaths2015_CustomGeography", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/deaths2015_CustomGeography/FeatureServer"
-    }, 
-    {
       "name" : "Department_for_Children_Education_Lifelong_Learning_and_Skills_Dec_201_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Department_for_Children_Education_Lifelong_Learning_and_Skills_Dec_201_2022/FeatureServer"
@@ -2985,6 +2955,11 @@
       "name" : "Fire_and_Rescue_Authorities_Dec_2017_EW_BUC_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Fire_and_Rescue_Authorities_Dec_2017_EW_BUC_2022/FeatureServer"
+    }, 
+    {
+      "name" : "Fire_and_Rescue_Authorities_Dec_2017_Names_and_Codes_in_the_United_Kin_2022", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Fire_and_Rescue_Authorities_Dec_2017_Names_and_Codes_in_the_United_Kin_2022/FeatureServer"
     }, 
     {
       "name" : "Fire_and_Rescue_Authorities_Dec_2018_FCB_EW_2022", 
@@ -19300,6 +19275,46 @@
       "name" : "WD_DEC_2026_UK_BFC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/WD_DEC_2026_UK_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "Wards_(December_2026)_Boundaries_UK_BFC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_(December_2026)_Boundaries_UK_BFC/WFSServer"
+    }, 
+    {
+      "name" : "Wards_(December_2026)_Boundaries_UK_BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Wards_(December_2026)_Boundaries_UK_BFC/MapServer"
+    }, 
+    {
+      "name" : "LAD_DEC_2026_UK_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD_DEC_2026_UK_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_(December_2026)_Boundaries_UK_BFE", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_(December_2026)_Boundaries_UK_BFE/WFSServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_(December_2026)_Boundaries_UK_BFE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_(December_2026)_Boundaries_UK_BFE/MapServer"
+    }, 
+    {
+      "name" : "LAD_DEC_2026_UK_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LAD_DEC_2026_UK_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_(December_2026)_Boundaries_UK_BFC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_(December_2026)_Boundaries_UK_BFC/WFSServer"
+    }, 
+    {
+      "name" : "Local_Authority_Districts_(December_2026)_Boundaries_UK_BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_(December_2026)_Boundaries_UK_BFC/MapServer"
     }
   ]
 }
