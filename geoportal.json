@@ -3122,11 +3122,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Fire_and_Rescue_Authorities_May_2021_EW_BUC_2022/FeatureServer"
     }, 
     {
-      "name" : "For_Web_Map", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/For_Web_Map/FeatureServer"
-    }, 
-    {
       "name" : "FRA_Dec_2016_FCB_in_England_and_Wales_2022", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/FRA_Dec_2016_FCB_in_England_and_Wales_2022/FeatureServer"
@@ -3230,41 +3225,6 @@
       "name" : "Hampshire", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Hampshire/FeatureServer"
-    }, 
-    {
-      "name" : "Hampshire_0_to_14_LAD_Classification_for_Graph", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Hampshire_0_to_14_LAD_Classification_for_Graph/FeatureServer"
-    }, 
-    {
-      "name" : "Hampshire_15_to_64_LAD_Classification_for_Graph", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Hampshire_15_to_64_LAD_Classification_for_Graph/FeatureServer"
-    }, 
-    {
-      "name" : "Hampshire_65_and_over_LAD_Classification_for_Graph", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Hampshire_65_and_over_LAD_Classification_for_Graph/FeatureServer"
-    }, 
-    {
-      "name" : "Hampshire_Data_LAD_Classification_for_Graph", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Hampshire_Data_LAD_Classification_for_Graph/FeatureServer"
-    }, 
-    {
-      "name" : "Hampshire_Population_Data_by_LAD_Classification", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Hampshire_Population_Data_by_LAD_Classification/FeatureServer"
-    }, 
-    {
-      "name" : "Hampshire_Total_Population", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Hampshire_Total_Population/FeatureServer"
-    }, 
-    {
-      "name" : "Hampshire_Total_Population_LAD_Classification_for_Graph", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Hampshire_Total_Population_LAD_Classification_for_Graph/FeatureServer"
     }, 
     {
       "name" : "Health_and_Social_Care_Board_Dec_2010_Names_and_Codes_in_Northern_Irel_2022", 
@@ -11040,11 +11000,6 @@
       "name" : "Upper_Tier_Local_Authorities_December_2022_Boundaries_UK_BUC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Upper_Tier_Local_Authorities_December_2022_Boundaries_UK_BUC/FeatureServer"
-    }, 
-    {
-      "name" : "UPRN_Map", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/UPRN_Map/FeatureServer"
     }, 
     {
       "name" : "Urban_Area_Sub_Divisions_December_2001_EW_BGE", 
