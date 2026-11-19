@@ -19270,6 +19270,36 @@
       "name" : "Local_Authority_Districts_(December_2026)_Boundaries_UK_BFC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Local_Authority_Districts_(December_2026)_Boundaries_UK_BFC/MapServer"
+    }, 
+    {
+      "name" : "PARNCP_DEC_2026_EW_BFC", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PARNCP_DEC_2026_EW_BFC/FeatureServer"
+    }, 
+    {
+      "name" : "Parishes_and_Non-Civil_Parished_Areas_(December_2026)_Boundaries_EW_BFC", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_and_Non-Civil_Parished_Areas_(December_2026)_Boundaries_EW_BFC/WFSServer"
+    }, 
+    {
+      "name" : "Parishes_and_Non-Civil_Parished_Areas_(December_2026)_Boundaries_EW_BFC", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_and_Non-Civil_Parished_Areas_(December_2026)_Boundaries_EW_BFC/MapServer"
+    }, 
+    {
+      "name" : "PARNCP_DEC_2026_EW_BFE", 
+      "type" : "FeatureServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/PARNCP_DEC_2026_EW_BFE/FeatureServer"
+    }, 
+    {
+      "name" : "Parishes_and_Non-Civil_Parished_Areas_(December__2026)_Boundaries_EW_BFE", 
+      "type" : "WFSServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_and_Non-Civil_Parished_Areas_(December__2026)_Boundaries_EW_BFE/WFSServer"
+    }, 
+    {
+      "name" : "Parishes_and_Non-Civil_Parished_Areas_(December_2026)_Boundaries_EW_BFE", 
+      "type" : "MapServer", 
+      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Parishes_and_Non-Civil_Parished_Areas_(December_2026)_Boundaries_EW_BFE/MapServer"
     }
   ]
 }
