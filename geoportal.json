@@ -6057,11 +6057,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_2021_to_Ward_to_Lower_Tier_Local_Authority_May_2022_Lookup_for_England_2022/FeatureServer"
     }, 
     {
-      "name" : "LSOA_Dec_2001_Address_Weighted_Centroids", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_Dec_2001_Address_Weighted_Centroids/FeatureServer"
-    }, 
-    {
       "name" : "LSOA_DEC_2021_EW_NC_v3", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_DEC_2021_EW_NC_v3/FeatureServer"
@@ -6620,11 +6615,6 @@
       "name" : "MSOA_2021_EW_BSC_V3_RUC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_2021_EW_BSC_V3_RUC/FeatureServer"
-    }, 
-    {
-      "name" : "MSOA_Dec_2001_Address_Weighted_Centroids", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_Dec_2001_Address_Weighted_Centroids/FeatureServer"
     }, 
     {
       "name" : "MSOA_DEC_2021_EW_NC_v3", 
@@ -7945,11 +7935,6 @@
       "name" : "OA_2021_EW_BGC_V2_RUC", 
       "type" : "FeatureServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA_2021_EW_BGC_V2_RUC/FeatureServer"
-    }, 
-    {
-      "name" : "OA_Dec_2001_Address_Weighted_Centroids", 
-      "type" : "FeatureServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA_Dec_2001_Address_Weighted_Centroids/FeatureServer"
     }, 
     {
       "name" : "OA_DEC_2011_BGC_EW_joined", 
@@ -16212,11 +16197,6 @@
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LRF_(Dec_2016)_UGCB_in_England_and_Wales/MapServer"
     }, 
     {
-      "name" : "LSOA_(Dec_2001)_Address_Weighted_Centroids", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/LSOA_(Dec_2001)_Address_Weighted_Centroids/MapServer"
-    }, 
-    {
       "name" : "Major_Towns_and_Cities_(Dec_2015)_Boundaries_V2", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Major_Towns_and_Cities_(Dec_2015)_Boundaries_V2/MapServer"
@@ -16245,11 +16225,6 @@
       "name" : "Middle_layer_Super_Output_Areas_(December_2021)_Boundaries_EW_BFE_(V8)_and_RUC", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/Middle_layer_Super_Output_Areas_(December_2021)_Boundaries_EW_BFE_(V8)_and_RUC/MapServer"
-    }, 
-    {
-      "name" : "MSOA_(Dec_2001)_Address_Weighted_Centroids", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/MSOA_(Dec_2001)_Address_Weighted_Centroids/MapServer"
     }, 
     {
       "name" : "NAER_(Dec_2016)_FCB_in_Wales", 
@@ -16980,11 +16955,6 @@
       "name" : "NUTS3_(Jan_2018)_UGCB_in_the_UK", 
       "type" : "MapServer", 
       "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/NUTS3_(Jan_2018)_UGCB_in_the_UK/MapServer"
-    }, 
-    {
-      "name" : "OA_(Dec_2001)_Address_Weighted_Centroids", 
-      "type" : "MapServer", 
-      "url" : "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services/OA_(Dec_2001)_Address_Weighted_Centroids/MapServer"
     }, 
     {
       "name" : "ONSPD_Online_latest_Postcode_Centroids", 
