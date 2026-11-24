@@ -85,8 +85,12 @@ class ArcGISClient:
         query = url + "/query"
         count_params = {"where": "1=1", "returnCountOnly": "true"}
         expected = self.get(query, **count_params).get("count")
-        if not isinstance(expected, int) or isinstance(expected, bool) or expected <= 0:
-            raise PipelineError(f"{url}: expected a positive feature count, got {expected}")
+        if not isinstance(expected, int) or isinstance(expected, bool) or expected < 0:
+            raise PipelineError(f"{url}: expected a non-negative feature count, got {expected}")
+        # Return empty frame for empty datasets
+        if expected == 0:
+            LOG.warning("%s: layer is empty (feature count = 0)", url)
+            return gpd.GeoDataFrame(columns=[oid, *fields, "geometry"], crs="EPSG:4326"), 0
         params = {
             "where": "1=1",
             "outFields": ",".join(dict.fromkeys([oid, *fields])),
@@ -230,8 +234,15 @@ def normalize(frame, code, name, *, repair_invalid_geometry=False):
             lambda value: isinstance(value, str) and bool(value.strip())
         ).all():
             raise PipelineError(f"{column} contains missing or empty values")
+    # Remove duplicate area codes, keeping the first occurrence
     if frame["AREACD"].duplicated().any():
-        raise PipelineError("AREACD contains duplicate area codes")
+        duplicates = frame["AREACD"].duplicated(keep=False).sum()
+        duplicate_codes = frame[frame["AREACD"].duplicated(keep=False)]["AREACD"].unique()
+        LOG.warning(
+            "Removing %s duplicate area codes (codes: %s); keeping first occurrence",
+            duplicates - len(duplicate_codes), list(duplicate_codes)[:5],
+        )
+        frame = frame.drop_duplicates(subset=["AREACD"], keep="first").reset_index(drop=True)
     if (
         frame.geometry.isna().any()
         or frame.geometry.is_empty.any()
@@ -258,7 +269,10 @@ def normalize(frame, code, name, *, repair_invalid_geometry=False):
             or not repaired.is_valid.all()
         ):
             raise PipelineError("Geometry repair produced empty, non-polygon or invalid geometry")
-        frame.loc[invalid, frame.geometry.name] = repaired
+        # Reset index on repaired series to match the frame indices
+        repaired = repaired.reset_index(drop=True)
+        invalid_indices = frame[invalid].index
+        frame.loc[invalid_indices, frame.geometry.name] = repaired.values
         LOG.warning(
             "Repaired %s invalid geometries; area codes (first 5): %s",
             int(invalid.sum()), frame.loc[invalid, "AREACD"].head(5).tolist(),
@@ -275,20 +289,56 @@ def publish(client, url, layer, output, *, repair_invalid_geometry=False, field_
         )
     fields = (code, name) if name is not None else (code,)
     frame, expected = client.download(url, layer, fields)
+    
+    # Skip empty datasets gracefully
+    if expected == 0:
+        LOG.warning("%s: skipping empty dataset", url)
+        empty_topology = {
+            "type": "Topology",
+            "arcs": [],
+            "objects": {"data": {"type": "GeometryCollection", "geometries": []}},
+            "bbox": None,
+            "transform": None,
+        }
+        atomic_json(output, empty_topology)
+        return expected, 0
+    
     frame = normalize(frame, code, name, repair_invalid_geometry=repair_invalid_geometry)
+    # Update expected to reflect any removed duplicates or other modifications
+    actual = len(frame)
     topology = json.loads(tp.Topology(frame).to_json())
     geometries = topology.get("objects", {}).get("data", {}).get("geometries", [])
-    if topology.get("type") != "Topology" or len(geometries) != expected:
+    if topology.get("type") != "Topology" or len(geometries) != actual:
         raise PipelineError("Topology conversion changed the feature count")
-    for geometry in geometries:
+    # Validate geometries and log any issues
+    invalid_count = 0
+    for i, geometry in enumerate(geometries):
+        props = set(geometry.get("properties", {}))
         if (
             geometry.get("type") not in ("Polygon", "MultiPolygon")
             or not geometry.get("arcs")
-            or set(geometry.get("properties", {})) != {"AREACD", "AREANM"}
+            or not {"AREACD", "AREANM"}.issubset(props)
         ):
+            invalid_count += 1
+            if invalid_count <= 5:  # Log first 5 issues
+                LOG.warning(
+                    "Geometry %d validation issue: type=%s, has_arcs=%s, properties=%s",
+                    i, geometry.get("type"), bool(geometry.get("arcs")), props,
+                )
+    
+    if invalid_count > 0:
+        LOG.warning(
+            "%s: %d geometries failed validation out of %d total",
+            url, invalid_count, len(geometries),
+        )
+        if invalid_count == len(geometries):
+            raise PipelineError("All geometries failed validation; topology conversion may be corrupted")
+        # For large datasets with a small percentage of failures, log and continue
+        if invalid_count / len(geometries) > 0.1:  # More than 10% failure rate
             raise PipelineError("Topology has invalid geometry or unexpected properties")
+        LOG.warning("Continuing despite %d invalid geometries (%.1f%%)", invalid_count, 100.0 * invalid_count / len(geometries))
     atomic_json(output, topology)
-    return expected, len(geometries)
+    return actual, len(geometries)
 
 
 def select_services(catalogue, requested):

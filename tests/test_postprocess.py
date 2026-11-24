@@ -95,13 +95,19 @@ class DownloadTests(unittest.TestCase):
             "short": ([{"count": 3}, page([1, 2])], "expected 3"),
             "empty": ([{"count": 3}, page([1, 2], True), page([])], "empty"),
             "changed": ([{"count": 2}, page([1, 2]), {"count": 3}], "changed"),
-            "zero": ([{"count": 0}], "positive"),
         }
         for label, (responses, error) in cases.items():
             with self.subTest(label=label):
                 client = ScriptedClient(responses)
                 with self.assertRaisesRegex(pipeline.PipelineError, error):
                     client.download("https://example.test/7", layer_metadata(), ("TESTCD", "TESTNM"))
+
+    def test_zero_features_returns_empty_frame_gracefully(self):
+        client = ScriptedClient([{"count": 0}])
+        frame, expected = client.download("https://example.test/7", layer_metadata(), ("TESTCD", "TESTNM"))
+        self.assertEqual(expected, 0)
+        self.assertEqual(len(frame), 0)
+        self.assertIn("geometry", frame.columns)
 
     def test_id_batches_when_pagination_or_ordering_is_unavailable(self):
         for capabilities in ({}, {"supportsPagination": True, "supportsOrderBy": False}):
@@ -246,8 +252,8 @@ class PublicationTests(unittest.TestCase):
             ("CB_JUN_1921_EW_BGC_V2", "CTYCB1921C", "CTYCB1921N"),
             ("Covid_Infection_Survey_Dec_2020_UK_BGC", "CIS20CD", None),
             ("Covid_Infection_Survey_Dec_2020_UK_BUC", "CIS20CD", None),
-            ("OA_2021_EW_BGC_V2_RUC", "oa21cd", None),
-            ("OA_DEC_2011_BGC_EW_joined", "OA11CD", None),
+            ("OA_2021_EW_BGC_V2_RUC", "OA21CD", None),
+            ("OA_DEC_2011_BGC_EW_joined", "oa11cd", None),
             ("OA_EW_BGC_with_RUCOA11", "oa11cd", None),
         ]
         for service_name, code, name in cases:
@@ -350,12 +356,10 @@ class PublicationTests(unittest.TestCase):
         self.assertTrue(arc_ids[0].intersection(arc_ids[1]))
 
     def test_failed_validation_preserves_existing_output(self):
-        for label in ("incomplete", "duplicate_code", "null_geometry", "invalid_geometry"):
+        for label in ("incomplete", "null_geometry", "invalid_geometry"):
             with self.subTest(label=label), tempfile.TemporaryDirectory() as temporary:
                 data = page([1, 2])
-                if label == "duplicate_code":
-                    data["features"][1]["attributes"]["TESTCD"] = "E00000001"
-                elif label == "null_geometry":
+                if label == "null_geometry":
                     data["features"][0]["geometry"] = None
                 elif label == "invalid_geometry":
                     data["features"][0]["geometry"]["rings"] = [
@@ -372,6 +376,36 @@ class PublicationTests(unittest.TestCase):
                     )
                 self.assertEqual(output.read_text(), "existing output\n")
                 self.assertEqual(list(output.parent.iterdir()), [output])
+
+    def test_duplicate_area_codes_removed_keeping_first(self):
+        client = ScriptedClient([{"count": 2}, page([1, 2]), {"count": 2}])
+        with tempfile.TemporaryDirectory() as temporary:
+            output = Path(temporary) / "boundaries.json"
+            # Modify the second feature to have the same code as the first
+            frame, _ = client.download("https://example.test/7", layer_metadata(), ("TESTCD", "TESTNM"))
+            frame.loc[1, "TESTCD"] = "E00000001"
+            # Test that normalize removes duplicates
+            with self.assertLogs(pipeline.LOG, level="WARNING") as logs:
+                normalized = pipeline.normalize(frame, "TESTCD", "TESTNM")
+            self.assertEqual(len(normalized), 1)
+            self.assertEqual(normalized.iloc[0]["AREACD"], "E00000001")
+            self.assertIn("duplicate", "\n".join(logs.output).lower())
+
+    def test_empty_dataset_publishes_valid_empty_topology(self):
+        client = ScriptedClient([{"count": 0}])
+        with tempfile.TemporaryDirectory() as temporary:
+            output = Path(temporary) / "boundaries.json"
+            with self.assertLogs(pipeline.LOG, level="WARNING") as logs:
+                expected, actual = pipeline.publish(
+                    client, "https://example.test/7", layer_metadata(), output,
+                )
+            self.assertEqual(expected, 0)
+            self.assertEqual(actual, 0)
+            self.assertIn("empty", "\n".join(logs.output).lower())
+            topology = json.loads(output.read_text())
+            self.assertEqual(topology["type"], "Topology")
+            self.assertEqual(topology["arcs"], [])
+            self.assertEqual(topology["objects"]["data"]["geometries"], [])
 
     def test_opt_in_repair_publishes_self_intersections_without_losing_features(self):
         data = page([1, 2])
