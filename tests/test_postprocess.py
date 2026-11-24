@@ -225,8 +225,109 @@ class DiscoveryTests(unittest.TestCase):
         with self.assertRaisesRegex(pipeline.PipelineError, "Ambiguous"):
             pipeline.area_fields(metadata)
 
+    def test_explicit_fields_resolve_case_insensitively_and_reject_schema_changes(self):
+        metadata = layer_metadata()
+        self.assertEqual(
+            pipeline.area_fields(metadata, override=("testcd", "testnm")),
+            ("TESTCD", "TESTNM"),
+        )
+        for override in (("MISSINGCD", None), ("TESTCD", "MISSINGNM")):
+            with self.subTest(override=override):
+                with self.assertRaisesRegex(pipeline.PipelineError, "missing or ambiguous"):
+                    pipeline.area_fields(metadata, override=override)
+        metadata["fields"].append({"name": "testcd"})
+        with self.assertRaisesRegex(pipeline.PipelineError, "missing or ambiguous"):
+            pipeline.area_fields(metadata, override=("TESTCD", None))
+
 
 class PublicationTests(unittest.TestCase):
+    def test_service_overrides_publish_truncated_fields_and_code_only_schemas(self):
+        cases = [
+            ("CB_JUN_1921_EW_BGC_V2", "CTYCB1921C", "CTYCB1921N"),
+            ("Covid_Infection_Survey_Dec_2020_UK_BGC", "CIS20CD", None),
+            ("Covid_Infection_Survey_Dec_2020_UK_BUC", "CIS20CD", None),
+            ("OA_2021_EW_BGC_V2_RUC", "oa21cd", None),
+            ("OA_DEC_2011_BGC_EW_joined", "OA11CD", None),
+            ("OA_EW_BGC_with_RUCOA11", "oa11cd", None),
+        ]
+        for service_name, code, name in cases:
+            with self.subTest(service=service_name), tempfile.TemporaryDirectory() as temporary:
+                root = Path(temporary)
+                metadata = layer_metadata(id=0, displayField=code)
+                metadata["fields"] = [
+                    {"name": "FID", "type": "esriFieldTypeOID"},
+                    {"name": code, "type": "esriFieldTypeString"},
+                ]
+                if name is not None:
+                    metadata["fields"].append({"name": name, "type": "esriFieldTypeString"})
+                elif service_name.startswith("OA"):
+                    metadata["fields"].extend([
+                        {"name": field, "type": "esriFieldTypeString"}
+                        for field in ("LSOA21CD", "LSOA21NM", "RUC21CD", "RUC21NM")
+                    ])
+                data = page([1, 2])
+                data["fields"] = metadata["fields"]
+                for feature in data["features"]:
+                    attributes = feature["attributes"]
+                    code_value = attributes.pop("TESTCD")
+                    name_value = attributes.pop("TESTNM")
+                    attributes[code] = code_value
+                    if name is not None:
+                        attributes[name] = name_value
+                    elif service_name.startswith("OA"):
+                        attributes.update(
+                            LSOA21CD="E01000001", LSOA21NM="Parent area",
+                            RUC21CD="1", RUC21NM="Urban classification",
+                        )
+                client = ScriptedClient([
+                    {"layers": [{"id": 0}]}, metadata,
+                    {"count": 2}, data, {"count": 2},
+                ])
+                service = {"name": service_name, "url": "https://example.test/service"}
+                with self.assertLogs(pipeline.LOG, level="WARNING") as logs:
+                    status = pipeline.refresh(
+                        client, [service], root / "outputs", root / "manifest.json",
+                    )
+                self.assertEqual(status, 0, "\n".join(logs.output))
+                topology = json.loads((root / "outputs" / f"{service_name}.json").read_text())
+                self.assertEqual(
+                    [g["properties"] for g in topology["objects"]["data"]["geometries"]],
+                    [
+                        {"AREACD": f"E{oid:08}", "AREANM": f"Area {oid}" if name else f"E{oid:08}"}
+                        for oid in (1, 2)
+                    ],
+                )
+                queries = [params for _, params in client.calls if "outFields" in params]
+                self.assertEqual(queries[0]["outFields"], f"FID,{code}" + (f",{name}" if name else ""))
+                manifest = json.loads((root / "manifest.json").read_text())
+                record = manifest["datasets"][f"{service_name}.json"]
+                self.assertEqual(record["field_override"]["name_from_code"], name is None)
+                self.assertEqual(record["expected_count"], record["actual_count"])
+
+    def test_field_overrides_do_not_apply_to_other_services_or_layers(self):
+        for service_name, layer_id in (
+            ("UNKNOWN_BGC", 0),
+            ("Covid_Infection_Survey_Dec_2020_UK_BGC", 7),
+        ):
+            with self.subTest(service=service_name, layer=layer_id), tempfile.TemporaryDirectory() as temporary:
+                root = Path(temporary)
+                output = root / "outputs"
+                output.mkdir()
+                old = output / f"{service_name}.json"
+                old.write_text("previous topology\n")
+                metadata = layer_metadata(id=layer_id)
+                metadata["fields"] = [
+                    {"name": "FID", "type": "esriFieldTypeOID"}, {"name": "CIS20CD"},
+                ]
+                client = ScriptedClient([{"layers": [{"id": layer_id}]}, metadata])
+                service = {"name": service_name, "url": "https://example.test/service"}
+                with self.assertLogs(pipeline.LOG, level="ERROR"):
+                    status = pipeline.refresh(client, [service], output, root / "manifest.json")
+                self.assertEqual(status, 1)
+                self.assertEqual(old.read_text(), "previous topology\n")
+                manifest = json.loads((root / "manifest.json").read_text())
+                self.assertIsNone(manifest["datasets"][old.name]["field_override"])
+
     def test_complete_topology_retains_only_area_properties_and_shared_boundaries(self):
         client = ScriptedClient([{"count": 2}, page([1, 2]), {"count": 2}])
         with tempfile.TemporaryDirectory() as temporary:
@@ -271,6 +372,57 @@ class PublicationTests(unittest.TestCase):
                     )
                 self.assertEqual(output.read_text(), "existing output\n")
                 self.assertEqual(list(output.parent.iterdir()), [output])
+
+    def test_opt_in_repair_publishes_self_intersections_without_losing_features(self):
+        data = page([1, 2])
+        data["features"][0]["geometry"]["rings"] = [
+            [[1, 0], [2, 1], [1, 1], [2, 0], [1, 0]]
+        ]
+        with tempfile.TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            client = ScriptedClient([
+                {"layers": [{"id": 7}]}, layer_metadata(),
+                {"count": 2}, data, {"count": 2},
+            ])
+            service = {"name": "TEST_BGC", "url": "https://example.test/service"}
+            with self.assertLogs(pipeline.LOG, level="WARNING") as logs:
+                status = pipeline.refresh(
+                    client, [service], root / "outputs", root / "manifest.json",
+                    repair_invalid_geometry=True,
+                )
+            self.assertEqual(status, 0)
+            self.assertIn("Repaired 1 invalid geometries", logs.output[0])
+            self.assertIn("E00000001", logs.output[0])
+            topology = json.loads((root / "outputs" / "TEST_BGC.json").read_text())
+            geometries = topology["objects"]["data"]["geometries"]
+            self.assertEqual(len(geometries), 2)
+            self.assertTrue(all(g["type"] in ("Polygon", "MultiPolygon") for g in geometries))
+            self.assertEqual(
+                [g["properties"]["AREACD"] for g in geometries],
+                ["E00000001", "E00000002"],
+            )
+            manifest = json.loads((root / "manifest.json").read_text())
+            record = manifest["datasets"]["TEST_BGC.json"]
+            self.assertEqual(record["status"], "success")
+            self.assertEqual(record["expected_count"], record["actual_count"])
+            self.assertTrue(record["repair_invalid_geometry"])
+
+    def test_repair_rejects_collapsed_or_missing_geometry_and_preserves_output(self):
+        for label in ("collapsed", "null"):
+            with self.subTest(label=label), tempfile.TemporaryDirectory() as temporary:
+                data = page([1])
+                data["features"][0]["geometry"] = None if label == "null" else {
+                    "rings": [[[1, 0], [2, 0], [3, 0], [1, 0]]]
+                }
+                output = Path(temporary) / "boundaries.json"
+                output.write_text("existing output\n")
+                client = ScriptedClient([{"count": 1}, data, {"count": 1}])
+                with self.assertRaises(pipeline.PipelineError):
+                    pipeline.publish(
+                        client, "https://example.test/7", layer_metadata(), output,
+                        repair_invalid_geometry=True,
+                    )
+                self.assertEqual(output.read_text(), "existing output\n")
 
     def test_atomic_write_failure_preserves_existing_output_and_cleans_temporary_file(self):
         with tempfile.TemporaryDirectory() as temporary:
@@ -346,6 +498,20 @@ class PublicationTests(unittest.TestCase):
             ):
                 self.assertEqual(pipeline.main([str(catalogue)]), 1)
                 client.return_value.close.assert_called_once()
+
+    def test_main_passes_explicit_geometry_repair_option_to_refresh(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            catalogue = Path(temporary) / "catalogue.json"
+            catalogue.write_text(json.dumps({"services": [{
+                "name": "TEST_BGC", "type": "FeatureServer", "url": "https://example.test",
+            }]}))
+            with patch.object(pipeline, "ArcGISClient"), patch.object(
+                pipeline, "refresh", return_value=0
+            ) as refresh:
+                self.assertEqual(
+                    pipeline.main([str(catalogue), "--repair-invalid-geometry"]), 0,
+                )
+                self.assertTrue(refresh.call_args.kwargs["repair_invalid_geometry"])
 
 
 if __name__ == "__main__":

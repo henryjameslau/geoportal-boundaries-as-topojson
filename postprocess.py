@@ -12,6 +12,7 @@ import geopandas as gpd
 from pyogrio.errors import DataLayerError, DataSourceError
 import requests
 from requests.adapters import HTTPAdapter
+from shapely.errors import GEOSException
 import topojson as tp
 from urllib3.util.retry import Retry
 
@@ -20,6 +21,15 @@ CATALOGUE_URL = (
     "https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services"
 )
 LOG = logging.getLogger(__name__)
+
+SERVICE_FIELD_OVERRIDES = {
+    "CB_JUN_1921_EW_BGC_V2": {0: ("CTYCB1921C", "CTYCB1921N")},
+    "Covid_Infection_Survey_Dec_2020_UK_BGC": {0: ("CIS20CD", None)},
+    "Covid_Infection_Survey_Dec_2020_UK_BUC": {0: ("CIS20CD", None)},
+    "OA_2021_EW_BGC_V2_RUC": {0: ("OA21CD", None)},
+    "OA_DEC_2011_BGC_EW_joined": {0: ("oa11cd", None)},
+    "OA_EW_BGC_with_RUCOA11": {0: ("oa11cd", None)},
+}
 
 
 class PipelineError(ValueError):
@@ -179,8 +189,18 @@ def object_id_field(layer):
     return candidates[0]
 
 
-def area_fields(layer):
+def area_fields(layer, *, override=None):
     fields = [field["name"] for field in layer.get("fields", [])]
+    if override is not None:
+        code, name = override
+
+        def resolve(field):
+            matches = [value for value in fields if value.casefold() == field.casefold()]
+            if len(matches) != 1:
+                raise PipelineError(f"Configured area field {field!r} is missing or ambiguous")
+            return matches[0]
+
+        return resolve(code), resolve(name) if name is not None else None
     codes = [field for field in fields if re.search(r"CD$", field, re.IGNORECASE)]
     names = [field for field in fields if re.search(r"NM$", field, re.IGNORECASE)]
     if len(codes) > 1 or len(names) > 1:
@@ -198,10 +218,13 @@ def area_fields(layer):
     return codes[0], names[0]
 
 
-def normalize(frame, code, name):
-    frame = frame[[code, name, frame.geometry.name]].rename(
-        columns={code: "AREACD", name: "AREANM"}
-    )
+def normalize(frame, code, name, *, repair_invalid_geometry=False):
+    columns = {code: "AREACD"}
+    if name is not None:
+        columns[name] = "AREANM"
+    frame = frame[[*columns, frame.geometry.name]].rename(columns=columns)
+    if name is None:
+        frame["AREANM"] = frame["AREACD"]
     for column in ("AREACD", "AREANM"):
         if not frame[column].map(
             lambda value: isinstance(value, str) and bool(value.strip())
@@ -213,16 +236,46 @@ def normalize(frame, code, name):
         frame.geometry.isna().any()
         or frame.geometry.is_empty.any()
         or not frame.geom_type.isin(["Polygon", "MultiPolygon"]).all()
-        or not frame.geometry.is_valid.all()
     ):
-        raise PipelineError("Dataset contains missing, empty, non-polygon or invalid geometry")
+        raise PipelineError("Dataset contains missing, empty or non-polygon geometry")
+    invalid = ~frame.geometry.is_valid
+    if invalid.any():
+        if not repair_invalid_geometry:
+            raise PipelineError(
+                f"Dataset contains {int(invalid.sum())} invalid geometries; "
+                "use --repair-invalid-geometry to attempt polygon repair"
+            )
+        try:
+            repaired = frame.loc[invalid].geometry.make_valid(
+                method="structure", keep_collapsed=False
+            )
+        except GEOSException as error:
+            raise PipelineError(f"Cannot repair invalid geometry: {error}") from error
+        if (
+            repaired.isna().any()
+            or repaired.is_empty.any()
+            or not repaired.geom_type.isin(["Polygon", "MultiPolygon"]).all()
+            or not repaired.is_valid.all()
+        ):
+            raise PipelineError("Geometry repair produced empty, non-polygon or invalid geometry")
+        frame.loc[invalid, frame.geometry.name] = repaired
+        LOG.warning(
+            "Repaired %s invalid geometries; area codes (first 5): %s",
+            int(invalid.sum()), frame.loc[invalid, "AREACD"].head(5).tolist(),
+        )
     return frame
 
 
-def publish(client, url, layer, output):
-    code, name = area_fields(layer)
-    frame, expected = client.download(url, layer, (code, name))
-    frame = normalize(frame, code, name)
+def publish(client, url, layer, output, *, repair_invalid_geometry=False, field_override=None):
+    code, name = area_fields(layer, override=field_override)
+    if field_override is not None:
+        LOG.warning(
+            "%s: using field override: code=%s, name=%s",
+            url, code, name if name is not None else f"{code} (code used as label)",
+        )
+    fields = (code, name) if name is not None else (code,)
+    frame, expected = client.download(url, layer, fields)
+    frame = normalize(frame, code, name, repair_invalid_geometry=repair_invalid_geometry)
     topology = json.loads(tp.Topology(frame).to_json())
     geometries = topology.get("objects", {}).get("data", {}).get("geometries", [])
     if topology.get("type") != "Topology" or len(geometries) != expected:
@@ -289,7 +342,7 @@ def timestamp():
     return datetime.now(timezone.utc).isoformat()
 
 
-def refresh(client, services, output_dir, manifest_path):
+def refresh(client, services, output_dir, manifest_path, *, repair_invalid_geometry=False):
     manifest_path = Path(manifest_path)
     manifest = json.loads(manifest_path.read_text()) if manifest_path.exists() else {"datasets": {}}
     datasets = manifest["datasets"]
@@ -301,6 +354,7 @@ def refresh(client, services, output_dir, manifest_path):
     manifest.update({
         "started_at": timestamp(), "finished_at": None,
         "failed_datasets_or_services": None, "services": {},
+        "repair_invalid_geometry": repair_invalid_geometry,
     })
     atomic_json(manifest_path, manifest)
     failures = 0
@@ -325,14 +379,25 @@ def refresh(client, services, output_dir, manifest_path):
             filename = f"{name}.json" if len(layers) == 1 else f"{name}__layer-{layer['id']}.json"
             output = output_dir / filename
             record = datasets.setdefault(filename, {"last_success": None})
+            field_override = SERVICE_FIELD_OVERRIDES.get(name, {}).get(layer["id"])
             record.update(
                 output=str(output), source_url=url, status="refreshing",
                 last_attempt=timestamp(), expected_count=None, actual_count=None,
+                repair_invalid_geometry=repair_invalid_geometry,
+                field_override=None if field_override is None else {
+                    "code_field": field_override[0],
+                    "name_field": field_override[1],
+                    "name_from_code": field_override[1] is None,
+                },
             )
             record.pop("error", None)
             atomic_json(manifest_path, manifest)
             try:
-                expected, actual = publish(client, url, layer, output)
+                expected, actual = publish(
+                    client, url, layer, output,
+                    repair_invalid_geometry=repair_invalid_geometry,
+                    field_override=field_override,
+                )
             except (PipelineError, requests.RequestException, OSError) as error:
                 LOG.exception("Cannot refresh %s", filename)
                 record.update(status="failed", error=str(error))
@@ -358,6 +423,10 @@ def main(argv=None):
     parser = argparse.ArgumentParser(description="Publish complete ONS boundary TopoJSON files.")
     parser.add_argument("catalogue", nargs="?", type=Path, default=Path("geoportal.json"))
     parser.add_argument("--fetch-catalogue", action="store_true")
+    parser.add_argument(
+        "--repair-invalid-geometry", action="store_true",
+        help="Repair invalid polygons; reject empty or non-polygon repair results",
+    )
     parser.add_argument("--service", action="append", default=[], help="Exact service name; repeatable")
     parser.add_argument("--output-dir", type=Path, default=Path("outputs"))
     parser.add_argument("--manifest", type=Path, default=Path("refresh-manifest.json"))
@@ -372,7 +441,10 @@ def main(argv=None):
         services = select_services(catalogue, args.service)
         if args.fetch_catalogue:
             atomic_json(args.catalogue, catalogue)
-        return refresh(client, services, args.output_dir, args.manifest)
+        return refresh(
+            client, services, args.output_dir, args.manifest,
+            repair_invalid_geometry=args.repair_invalid_geometry,
+        )
     finally:
         client.close()
 

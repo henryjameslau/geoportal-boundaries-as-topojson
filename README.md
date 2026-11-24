@@ -51,8 +51,23 @@ as ONS replaces datasets; use a name from the current catalogue.
   exist (for example, joined classification fields), the layer's declared
   `displayField` must uniquely identify the intended pair.
   Welsh-name and unrelated fields are excluded. Ambiguous schemas, empty datasets,
-  missing names/codes, duplicate area codes and invalid or missing polygon
-  geometry are rejected rather than silently altered.
+  missing names/codes, duplicate area codes and missing polygon geometry are
+  rejected rather than silently altered.
+- Six known schemas have explicit layer-0 overrides in
+  `SERVICE_FIELD_OVERRIDES` in `postprocess.py`. Historical county boroughs
+  (`CB_JUN_1921_EW_BGC_V2`) use `CTYCB1921C`/`CTYCB1921N`. The two December 2020
+  Covid survey services use `CIS20CD`; `OA_2021_EW_BGC_V2_RUC` uses `OA21CD`;
+  `OA_DEC_2011_BGC_EW_joined` and `OA_EW_BGC_with_RUCOA11` use `oa11cd`.
+  These five code-only services explicitly use their code as `AREANM`, never an
+  LSOA or classification name. Overrides are logged and recorded in the manifest;
+  configured fields must exist unambiguously, ignoring case. Other services and
+  layers retain automatic detection with no code-as-label fallback.
+- Invalid polygons are rejected by default. `--repair-invalid-geometry` opts into
+  Shapely's structure-based repair, preserving each feature and its properties.
+  Repairs are logged with affected area codes and are accepted only if every
+  result is a valid, non-empty Polygon or MultiPolygon. Collapsed geometries are
+  rejected, not dropped. Repair can change boundary shapes; the manifest records
+  whether repair was enabled for each attempted dataset.
 - Conversion must retain the feature count and expected output properties.
   Validated outputs replace existing files atomically. Failed datasets keep their
   previous files, other services continue, and the command exits non-zero.
@@ -83,8 +98,12 @@ regenerate the lock file with [uv](https://docs.astral.sh/uv/):
 uv pip compile --python-version 3.12 --universal requirements.in --output-file requirements.txt
 ```
 
-Successful dataset updates and the manifest are committed even if another dataset
-fails, and the workflow then reports failure. Repository Actions settings must
+The workflow enables `--repair-invalid-geometry` to handle self-intersections in
+ONS source polygons. Successful dataset updates and the manifest are committed
+even if another dataset fails, and the workflow then reports failure with the
+dataset errors in its job summary. Missing or ambiguous area fields, duplicate
+codes, empty layers and unsuccessful geometry repairs remain failures rather
+than being silently skipped. Repository Actions settings must
 allow the workflow to push to the branch; branch protection may require a separate
 publication arrangement.
 

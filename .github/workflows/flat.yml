@@ -50,7 +50,7 @@ jobs:
       - name: Refresh and validate boundaries
         id: refresh
         continue-on-error: true
-        run: python postprocess.py --fetch-catalogue
+        run: python postprocess.py --fetch-catalogue --repair-invalid-geometry
       - name: Commit validated outputs and refresh status
         run: |
           git add -- geoportal.json outputs
@@ -66,4 +66,25 @@ jobs:
           fi
       - name: Report refresh failures
         if: steps.refresh.outcome == 'failure'
-        run: exit 1
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          from pathlib import Path
+
+          path = Path("refresh-manifest.json")
+          lines = ["## Boundary refresh failed", ""]
+          if path.exists():
+              manifest = json.loads(path.read_text())
+              for section in ("services", "datasets"):
+                  for name, record in manifest.get(section, {}).items():
+                      if record.get("status") == "failed" and record.get("error"):
+                          lines.append(f"- {name}: {record['error']}")
+          lines.extend(["", "See **Refresh and validate boundaries** for full diagnostics.",
+                        "Failed datasets retain their previous outputs."])
+          summary = "\n".join(lines) + "\n"
+          print(summary)
+          with open(os.environ["GITHUB_STEP_SUMMARY"], "a") as handle:
+              handle.write(summary)
+          PY
+          exit 1
