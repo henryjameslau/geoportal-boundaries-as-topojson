@@ -1,0 +1,5 @@
+geopandas==1.2.0
+pyogrio==0.13.0
+topojson==2.2
+requests==2.34.2
+urllib3==2.8.0

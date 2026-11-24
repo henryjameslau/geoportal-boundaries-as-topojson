@@ -1,29 +1,69 @@
-name: Flat
+name: Refresh boundaries
 
 on:
   push:
     branches:
       - main
+    paths:
+      - postprocess.py
+      - requirements.txt
+      - requirements.in
+      - tests/**
+      - .github/workflows/flat.yml
+  pull_request:
   workflow_dispatch:
   schedule:
     - cron: '6 12 * * *'
 
+permissions:
+  contents: read
+
+concurrency:
+  group: boundaries-${{ github.ref }}
+  cancel-in-progress: false
+
 jobs:
-  scheduled:
+  test:
     runs-on: ubuntu-latest
     steps:
-      # This step installs Deno, which is a new Javascript runtime that improves on Node. Can be used for an optional postprocessing step
-      - name: Setup deno
-        uses: denoland/setup-deno@main
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7.1.0
         with:
-          deno-version: v1.x
-      # Check out the repository so it can read the files inside of it and do other operations
-      - name: Check out repo
-        uses: actions/checkout@v2
-      # The Flat Action step. We fetch the data in the http_url and save it as downloaded_filename
-      - name: Fetch data
-        uses: githubocto/flat@v2
+          python-version: '3.12'
+          cache: pip
+      - run: python -m pip install -r requirements.txt
+      - run: python -m unittest discover -s tests -v
+
+  refresh:
+    if: github.event_name != 'pull_request'
+    needs: test
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7.1.0
         with:
-          http_url: https://services1.arcgis.com/ESMARspQHYMw9BZ9/ArcGIS/rest/services?f=pjson
-          downloaded_filename: geoportal.json
-          postprocess: ./postprocess.ts
+          python-version: '3.12'
+          cache: pip
+      - run: python -m pip install -r requirements.txt
+      - name: Refresh and validate boundaries
+        id: refresh
+        continue-on-error: true
+        run: python postprocess.py --fetch-catalogue
+      - name: Commit validated outputs and refresh status
+        run: |
+          git add -- geoportal.json outputs
+          if [ -f refresh-manifest.json ]; then
+            git add -- refresh-manifest.json
+          fi
+          if ! git diff --cached --quiet; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git commit -m "Refresh boundary datasets" \
+              -m "Co-authored-by: Copilot <223556219+Copilot@users.noreply.github.com>"
+            git push
+          fi
+      - name: Report refresh failures
+        if: steps.refresh.outcome == 'failure'
+        run: exit 1
